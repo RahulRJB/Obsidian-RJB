@@ -1,3 +1,9 @@
 {
-  "accentColor": "#8a5cf6"
+  "accentColor": "#8a5cf6",
+  "cssTheme": "Things",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "theme": "obsidian"
 }
