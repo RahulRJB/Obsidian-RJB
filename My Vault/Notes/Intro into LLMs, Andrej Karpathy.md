@@ -2,13 +2,15 @@
 17-05-24
 
 
-Tags: [[LLMs]]
-
-
-
 # References: 
 
 https://www.youtube.com/watch?v=zjkBMFhNj_g&t=1553s
+
+
+
+
+
+Tags: [[LLMs]]
 
 
 

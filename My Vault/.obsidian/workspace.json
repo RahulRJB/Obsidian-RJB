@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/hello.md",
+                "file": "Notes/Intro into LLMs, Andrej Karpathy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/hello.md",
+                "file": "Notes/Intro into LLMs, Andrej Karpathy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/hello.md",
+                "file": "Notes/Intro into LLMs, Andrej Karpathy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/hello.md"
+                "file": "Notes/Intro into LLMs, Andrej Karpathy.md"
               }
             }
           },
@@ -185,6 +185,7 @@
   },
   "active": "ac63f42ff0eaa6ec",
   "lastOpenFiles": [
+    "Notes/hello.md",
     "Notes/Intro into LLMs, Andrej Karpathy.md",
     "Notes/Model IO.md",
     "Tracker/22-05-24.md",
@@ -196,7 +197,6 @@
     "Notes/LLM.md",
     "Notes/lznoun.md",
     "Notes/Untitled 1.md",
-    "Notes/hello.md",
     "Untitled.canvas",
     "Attachments/Recording 20240522161012.webm",
     "Tracker",
