@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=zjkBMFhNj_g&t=1553s
 
 
 
-Tags: [[LLMs]]
+Tags: [[Tags/LLMs]]
 
 
 
@@ -21,7 +21,7 @@ LLM is essentially 2 files, parameters file having all the parameters, eg. 70b p
 
 
 
-## [[LLM Training]]
+## [[Tags/LLM Training]]
 
 - Training a LLM can be basically thought of compressing large chunk of internet into kind of a zip file. So these parameters can be thought of as a zip file of the internet. But unlike a zip file, this is a lossy compression. We're just kind of getting a Gestalt of the text that we trained on we don't have an identical copy of it in these parameters. We can show mathematically that there's a very close relationship between prediction and compression because if we can predict the next word very accurately we can use that to compress the dataset.
 ![[Pasted image 20240517122419.png]]
@@ -53,7 +53,7 @@ The pre-training stage is about a large quantity of text but potentially low qua
 
 
 
-## [[LLM Evaluation]]
+## [[Tags/LLM Evaluation]]
 
 - LLM Scaling laws: Performance based on 2 params, N and D. So algorithmic progress is not necessary, it's a very nice bonus, but we can still sort of get more powerful models for free! So scaling kind of offers one guaranteed path to success
 ![[Pasted image 20240516173755.png]]
@@ -62,7 +62,7 @@ The pre-training stage is about a large quantity of text but potentially low qua
 
 
 
-## [[LLM Tools]]
+## [[Tags/LLM Tools]]
 
 - Many a times, based on a lot of the data that has been collected and used to teach LLMs like ChatGPT in the fine-tuning stage, these models know not to always answer the queries directly as a LLM but to instead use tools that would help it perform the tasks better.
 
@@ -87,7 +87,8 @@ The pre-training stage is about a large quantity of text but potentially low qua
 - Chatgpt can not only see images or generate them, it can also hear and speak. This allows speech to speech communication and we can speak and interact with the LLM hands free.
 
 
-## [[LLM FUTURE]]
+## [[Tags/LLM FUTURE]]
+
 
 
 1. System1 vs System2: 
@@ -104,7 +105,7 @@ The pre-training stage is about a large quantity of text but potentially low qua
 - What would by the equivalent for step2 in LLMs? What can be the reward function in this generalised case? Natural language is a lot more nuanced and difficult to evaluate objectively if one response better than other! In narrow domain specific LLMs it may still be possible to create self improving LLMs. Right now only imitating humans, using human labelling in fine-tuning, and human created data for training.
 
 
-## [[LLM OS]]
+## [[Tags/LLM OS]]
 
 Andrej's take on LLMs: We should not think of LLMs as a chatbot or a word generator. We should  think about it as the kernel process of an emerging OS and basically this process is coordinating a lot of resources be it memory or computational tools for problem solving. 
 ![[Pasted image 20240517110029.png]]
@@ -113,7 +114,7 @@ Andrej's take on LLMs: We should not think of LLMs as a chatbot or a word genera
 
 
 
-## [[LLM security]]
+## [[Tags/LLM security]]
 
 
 -  Doing roleplay. 

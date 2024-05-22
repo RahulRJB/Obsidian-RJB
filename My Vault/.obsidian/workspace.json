@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Intro into LLMs, Andrej Karpathy.md",
+                "file": "Tags/LLMs.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Intro into LLMs, Andrej Karpathy.md",
+                "file": "Tags/LLMs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Intro into LLMs, Andrej Karpathy.md",
+                "file": "Tags/LLMs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Intro into LLMs, Andrej Karpathy.md"
+                "file": "Tags/LLMs.md"
               }
             }
           },
@@ -185,14 +185,22 @@
   },
   "active": "ac63f42ff0eaa6ec",
   "lastOpenFiles": [
+    "Tags/LLM Evaluation.md",
     "Notes/hello.md",
+    "Notes/Untitled.md",
+    "Tags/LLM security.md",
     "Notes/Intro into LLMs, Andrej Karpathy.md",
+    "Tags/LLM OS.md",
+    "Tags/LLM FUTURE.md",
+    "Tags/LLM Tools.md",
+    "Tags/LLMs.md",
+    "Tags/LLM Training.md",
+    "Tags",
     "Notes/Model IO.md",
     "Tracker/22-05-24.md",
     "Templates/Template 1.md",
     "Notes/LLM Basics.md",
     "Attachments/Pasted image 20240517113106.png",
-    "Notes/Untitled.md",
     "Notes/Untitled 2.md",
     "Notes/LLM.md",
     "Notes/lznoun.md",

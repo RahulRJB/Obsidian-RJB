@@ -33,14 +33,6 @@
       "key": "P"
     }
   ],
-  "file-recovery:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "F11"
-    }
-  ],
   "graph:open-local": [
     {
       "modifiers": [
@@ -56,14 +48,6 @@
         "Ctrl"
       ],
       "key": "PageDown"
-    }
-  ],
-  "workspace:previous-tab": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "PageUp"
     }
   ],
   "outline:open-for-current": [
@@ -97,6 +81,23 @@
         "Mod"
       ],
       "key": "F9"
+    }
+  ],
+  "file-recovery:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageUp"
     }
   ]
 }

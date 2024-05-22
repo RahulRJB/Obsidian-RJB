@@ -1,9 +1,10 @@
 {
   "accentColor": "#8a5cf6",
-  "cssTheme": "Things",
+  "cssTheme": "Atom",
   "baseFontSize": 18,
   "baseFontSizeAction": true,
   "showViewHeader": true,
   "nativeMenus": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "American Typewriter,Bodoni 72 Oldstyle,Century Gothic"
 }
