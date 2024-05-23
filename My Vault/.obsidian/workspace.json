@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/SHAP.md",
+                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/SHAP.md",
+                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/SHAP.md",
+                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/SHAP.md"
+                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "761fd349fa70f838",
   "lastOpenFiles": [
+    "Notes/SHAP.md",
     "Attachments/Pasted image 20240523201112.png",
     "Attachments/Pasted image 20240523200910.png",
     "Attachments/Pasted image 20240523200131.png",
@@ -189,8 +190,6 @@
     "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
     "Notes/Intro into LLMs, Andrej Karpathy.md",
     "Notes/RLHF.md",
-    "Notes/SHAP.md",
-    "Attachments/Pasted image 20240523190701.png",
     "Templates/Template 1.md",
     "Tags/LLMs.md",
     "Tags/LLM Evaluation.md",

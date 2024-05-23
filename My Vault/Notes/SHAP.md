@@ -44,8 +44,6 @@ https://www.youtube.com/watch?v=VB9uV-x0gtg&t=31s
 
 
 
-
-
 ## Code:
 
 - ![[Attachments/Pasted image 20240523195042.png]]
