@@ -2,7 +2,7 @@
 # {{Title}}
 
 
-{{date}}
+DATE:  {{date}}
 
 
 Tags:

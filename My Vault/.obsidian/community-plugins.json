@@ -2,11 +2,10 @@
   "table-editor-obsidian",
   "editing-toolbar",
   "obsidian-git",
-  "calendar",
-  "obsidian-day-planner",
   "obsidian-linter",
   "obsidian-tasks-plugin",
   "obsidian-outliner",
   "obsidian-kanban",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "calendar"
 ]

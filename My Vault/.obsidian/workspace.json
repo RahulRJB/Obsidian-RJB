@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "112b2503383e42a1",
+        "id": "6ce05b4cd0372e66",
         "type": "tabs",
         "children": [
           {
-            "id": "ac63f42ff0eaa6ec",
+            "id": "761fd349fa70f838",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tags/LLMs.md",
+                "file": "Notes/SHAP.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd273a604944abb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Template 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags/LLMs.md",
+                "file": "Notes/SHAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tags/LLMs.md",
+                "file": "Notes/SHAP.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tags/LLMs.md"
+                "file": "Notes/SHAP.md"
               }
             }
           },
@@ -143,23 +156,15 @@
             }
           },
           {
-            "id": "982d3ff15c0c64aa",
+            "id": "f3744790d4a47ed6",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "1fb7082f61922550",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,26 +184,29 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Timeline": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ac63f42ff0eaa6ec",
+  "active": "761fd349fa70f838",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240523172618.png",
+    "Attachments/Pasted image 20240523172551.png",
+    "Attachments/Pasted image 20240523171919.png",
+    "Templates/Template 1.md",
+    "Notes/SHAP.md",
+    "Notes/Hacker.md",
+    "Tags/LLMs.md",
     "Tags/LLM Evaluation.md",
     "Notes/hello.md",
-    "Notes/Untitled.md",
     "Tags/LLM security.md",
     "Notes/Intro into LLMs, Andrej Karpathy.md",
     "Tags/LLM OS.md",
     "Tags/LLM FUTURE.md",
     "Tags/LLM Tools.md",
-    "Tags/LLMs.md",
     "Tags/LLM Training.md",
     "Tags",
     "Notes/Model IO.md",
     "Tracker/22-05-24.md",
-    "Templates/Template 1.md",
     "Notes/LLM Basics.md",
     "Attachments/Pasted image 20240517113106.png",
     "Notes/Untitled 2.md",
@@ -218,8 +226,6 @@
     "Attachments/Pasted image 20240517135855.png",
     "Attachments/Pasted image 20240517135724.png",
     "Attachments/Pasted image 20240517133550.png",
-    "Attachments/Pasted image 20240517132113.png",
-    "Attachments/Pasted image 20240517122419.png",
     "Untitled 1.canvas",
     "create a link.md",
     "2024-05-16.md",

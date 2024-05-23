@@ -1,10 +1,10 @@
 {
   "accentColor": "#8a5cf6",
-  "cssTheme": "Atom",
+  "cssTheme": "Everforest",
   "baseFontSize": 18,
   "baseFontSizeAction": true,
   "showViewHeader": true,
   "nativeMenus": false,
   "theme": "obsidian",
-  "interfaceFontFamily": "American Typewriter,Bodoni 72 Oldstyle,Century Gothic"
+  "interfaceFontFamily": ""
 }
