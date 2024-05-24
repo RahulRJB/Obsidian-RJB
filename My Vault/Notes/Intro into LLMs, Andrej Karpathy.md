@@ -4,9 +4,7 @@
 
 # References: 
 
-https://www.youtube.com/watch?v=zjkBMFhNj_g&t=1553s
-
-
+[[1hr Talk] Intro to Large Language Models (youtube.com)](https://www.youtube.com/watch?v=zjkBMFhNj_g&t=1556s)
 
 
 

@@ -6,9 +6,9 @@ DATE:  23-05-24
 
 Tags:
 
-# References: 
-https://www.youtube.com/watch?v=VB9uV-x0gtg&t=31s
+# References:   
 
+[Shapley Additive Explanations (SHAP) (youtube.com)](https://www.youtube.com/watch?v=VB9uV-x0gtg&t=481s)
 
 
 ## Intro:
