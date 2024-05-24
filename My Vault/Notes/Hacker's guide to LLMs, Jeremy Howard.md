@@ -37,7 +37,7 @@ Tags: [[Tags/LLMs|LLMs]]
   Step 2 of LM, fine tuning of a particular kind called instruction tuning. The idea is that the task we want most of the time to achieve is solve problems, answer questions and so in the instruction tuning phase we use datasets specifically to train the model on these things, i.e. alignment. 
   Fine-tuning and pre-training are kind of the same thing but this is more targeted now, not just to be able to fill in the missing parts of any document from the internet but to fill in the words necessary to answer questions, to do useful things
 
-- [[RLHF]]![[Attachments/Pasted image 20240524132402.png]]
+- [[RLHF]]:![[Attachments/Pasted image 20240524132402.png]]
   Step 3, classifier fine tuning, nowadays there's generally various approaches such as RLHF and others which are basically giving humans or sometimes more advanced models multiple answers to a question. But this step is not always necessary!
 
 
