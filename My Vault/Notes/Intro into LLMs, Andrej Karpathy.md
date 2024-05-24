@@ -12,7 +12,7 @@ Tags: [[Tags/LLMs]]
 
 
 
-## LLM Basics
+## [[Tags/LLM Basics]]
 
 LLM is essentially 2 files, parameters file having all the parameters, eg. 70b params 2byte each giving you 140GB file, and a .c file. We can take these 2 files and take a computer and this is a fully self-contained package, everything that's necessary, we don't need any connectivity to the internet. So take these two files you compile the C code to get a binary that can be pointed at the parameters and then start talking to this language model.
 ![[Pasted image 20240517122325.png]] ^00a1ba

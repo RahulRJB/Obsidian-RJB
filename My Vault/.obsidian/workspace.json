@@ -15,39 +15,12 @@
               "state": {
                 "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7335598d476f3b69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/GIT.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02ea16ba9759d7a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
-                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c7c09c75a428bb68",
@@ -201,14 +175,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "02ea16ba9759d7a3",
+  "active": "761fd349fa70f838",
   "lastOpenFiles": [
-    "Notes/GIT.md",
-    "Notes/CONDA.md",
-    "Notes/Environment packaging.md",
-    "Notes/venv.md",
+    "Attachments/Pasted image 20240524111829.png",
+    "Notes/nat.dev.md",
     "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
+    "Notes/OpenAI.md",
+    "Tags/LLM Basics.md",
     "Notes/Intro into LLMs, Andrej Karpathy.md",
+    "Notes/GIT.md",
+    "Notes/Environment packaging.md",
+    "Tags/CONDA.md",
+    "Tags/venv.md",
     "Notes/SHAP.md",
     "Attachments/Pasted image 20240523201112.png",
     "Attachments/Pasted image 20240523200910.png",
@@ -233,19 +211,15 @@
     "Tags",
     "Notes/Model IO.md",
     "Tracker/22-05-24.md",
-    "Notes/LLM Basics.md",
     "Notes/Untitled 2.md",
     "Notes/LLM.md",
     "Notes/lznoun.md",
-    "Notes/Untitled 1.md",
     "Untitled.canvas",
     "Attachments/Recording 20240522161012.webm",
     "Tracker",
-    "2024-05-22.md",
     "Attachments",
     "Templates",
     "Untitled 1.canvas",
-    "create a link.md",
     "Notes/Langchain",
     "Notes"
   ]
