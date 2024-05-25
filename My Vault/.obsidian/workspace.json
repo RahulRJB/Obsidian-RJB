@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "c7c09c75a428bb68",
@@ -177,7 +176,11 @@
   },
   "active": "761fd349fa70f838",
   "lastOpenFiles": [
+    "Notes/Hallucinations.md",
+    "Notes/Intro into LLMs, Andrej Karpathy.md",
+    "Notes/hallucination.md",
     "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
+    "Notes/nat.dev.md",
     "Notes/ChatGPT.md",
     "Notes/GPT-4.md",
     "Notes/Bard.md",
@@ -186,13 +189,11 @@
     "Attachments/Pasted image 20240524132402.png",
     "Notes/Instruction Tuning.md",
     "Tags/LLM Training.md",
-    "Notes/Intro into LLMs, Andrej Karpathy.md",
     "Tags/LLM Basics.md",
     "Notes/ULMfit.md",
     "Notes/Tokenization.md",
     "Attachments/Pasted image 20240524125722.png",
     "Attachments/Pasted image 20240524111829.png",
-    "Notes/nat.dev.md",
     "Notes/OpenAI.md",
     "Notes/GIT.md",
     "Notes/Environment packaging.md",
@@ -211,8 +212,6 @@
     "Notes/hello.md",
     "Tags/LLM security.md",
     "Tags/LLM OS.md",
-    "Tags/LLM FUTURE.md",
-    "Tags/LLM Tools.md",
     "Tags",
     "Untitled.canvas",
     "Attachments/Recording 20240522161012.webm",

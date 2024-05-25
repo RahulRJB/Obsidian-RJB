@@ -29,7 +29,7 @@ LLM is essentially 2 files, parameters file having all the parameters, eg. 70b p
 
 - Model inference is a very simple process. We basically generate what comes next, we sample from the model the next word, and we continue feeding it back in and get the next word and continue feeding that back in so we can iterate this process and in this way the network then dreams internet documents. The LLM dreams text from the data distribution that it was trained on.
 
-- It does not always provide correct info, it [[hallucination]], eg. ISBN number in the Amazon product dream, the number does not exist, but the model knows that what comes after ISB and colon is some kind of a number of roughly this length.
+- It does not always provide correct info, it [[Notes/Hallucinations|Hallucinations]], eg. ISBN number in the Amazon product dream, the number does not exist, but the model knows that what comes after ISB and colon is some kind of a number of roughly this length.
 
 - Usually the network has knowledge about a topic, it's not going to exactly parrot the documents that it sees in the training set, as it's some kind of a lossy compression of the internet, it remembers the gestalt of the knowledge and it just kind of goes and it creates the form, fills it with some of its knowledge and you're never 100% sure if what it comes up with is hallucination or a correct answer. Some of the stuff is memorized and some of it is not memorized and you don't exactly know which is which. But the most part this is just kind of like hallucinating or like dreaming internet text from its data distribution.
 ![[Pasted image 20240517132113.png]]
