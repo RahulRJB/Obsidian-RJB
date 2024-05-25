@@ -25,7 +25,7 @@ Tags: [[Tags/LLMs|LLMs]]
 
 ## [[Tags/LLM Training|LLM Training]]:
 
-- Basic idea of LLMs like chatGPT, gpt4, Bard Etc come from a paper from 2017 having algorithm called [[ULMfit]]. ![[Attachments/Pasted image 20240524125722.png]]
+- Basic idea of LLMs like [[ChatGPT]], [[GPT-4]], [[Bard]] Etc come from a paper from 2017 having algorithm called [[ULMfit]]. ![[Attachments/Pasted image 20240524125722.png]]
 	- 3 step process. 
 	- Step 1, LM  pre-training, i.e. predict the next word of a sentence. To do this we  train this LM on Wikipedia. We took a neural network and using stochastic gradient descent or SGD you can teach it to do almost anything if you give it examples and so I gave it lots of examples of sentences from Wikipedia to guess what the next word is and if it guesses it right it would be rewarded and if it gets something else it would be penalized and effectively basically it's trying to maximize those rewards. it's trying to find a set of weights for this function that makes it more likely that it would predict right.
 	- Doing this Neural network is gonna have to learn a lot of stuff about the world to do a really good job of predicting the next word. The key idea here for me is that this is a form of compression and the idea of the relationship between compression and intelligence. Basic idea is that yeah if you can guess what words are coming up next then effectively you're compressing all that information down into a neural network.
