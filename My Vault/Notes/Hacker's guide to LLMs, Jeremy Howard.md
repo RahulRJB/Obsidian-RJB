@@ -42,7 +42,7 @@ Companion notebook:  [llm_hackersguide_JH/lm-hackers.ipynb at main · RahulRJB/l
   Step 3, classifier fine tuning, nowadays there's generally various approaches such as RLHF and others which are basically giving humans or sometimes more advanced models multiple answers to a question. But this step is not always necessary!
 
 
-## Placeholder:
+## Caveats:
 
 - Important to understand that LLMs, in pre-training, are not trained to give factually correct answers, just trained to give the most likely next words, using documents from internet that may or may not have correct information.
 - In instruction tuning or RLHF as well, human labellers chose answers that looked confident, made users happy, and they were not trained enough to recognise wrong answers.
@@ -55,8 +55,14 @@ Companion notebook:  [llm_hackersguide_JH/lm-hackers.ipynb at main · RahulRJB/l
 
 - [Bad pattern recognition](https://chatgpt.com/share/3051f878-2817-4291-a66f-192ce7b0cb34?oai-dm=1) : Once LLMs([[Notes/GPT-4|GPT-4]]) get it wrong(primed to give the wrong answers because of the documents available on the internet), it tends to be more and more wrong(very difficult to turn it around). Because usually in the internet, if there is something stupid, it is followed by even more stupid! Again can be solved by priming with custom instructions in the beginning.
 
+- Language models excel where it doesn't have to think too far outside the box. It's great for creativity tasks but for like reasoning and logic tasks that are outside the box.
 
 
+## [[OpenAI API]]:
 
-
-
+- ![[Attachments/Pasted image 20240526024308.png]]
+- ![[Attachments/Pasted image 20240526024800.png]]
+- ![[Attachments/Pasted image 20240526025337.png]]We can invent a conversation in which the language model said something different because this is actually how a multi-stage conversation works. There's no state right, there's nothing stored on the server you're passing back the entire conversation again and telling it what it told you.
+- ![[Attachments/Pasted image 20240526025731.png]]
+- Rate limit function:![[Attachments/Pasted image 20240526025945.png]]
+- One of the kwargs of ChatCompletion is **functions**. It tells OpenAI about tools that you have. ![[Attachments/Pasted image 20240526030255.png]]We can pass custom functions, but it has to be passed in json format.![[Attachments/Pasted image 20240526030710.png]]![[Attachments/Pasted image 20240526031233.png]]  
