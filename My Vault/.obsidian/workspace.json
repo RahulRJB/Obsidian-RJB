@@ -11,12 +11,18 @@
             "id": "761fd349fa70f838",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Notes/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               }
             }
           }
@@ -86,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
+                "file": "Notes/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
+                "file": "Notes/Untitled Kanban.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md"
+                "file": "Notes/Untitled Kanban.md"
               }
             }
           },
@@ -176,7 +182,11 @@
   },
   "active": "761fd349fa70f838",
   "lastOpenFiles": [
+    "Notes/ULMfit.md",
+    "Notes/Untitled Kanban.md",
     "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
+    "Notes/Environment packaging.md",
+    "Notes/Hallucinations.md",
     "Attachments/Pasted image 20240526031233.png",
     "Attachments/Pasted image 20240526030710.png",
     "Attachments/Pasted image 20240526030255.png",
@@ -186,7 +196,6 @@
     "Attachments/Pasted image 20240526024800.png",
     "Notes/OpenAI API.md",
     "Attachments/Pasted image 20240526024308.png",
-    "Notes/Hallucinations.md",
     "Notes/Intro into LLMs, Andrej Karpathy.md",
     "Notes/hallucination.md",
     "Notes/nat.dev.md",
@@ -199,11 +208,9 @@
     "Notes/Instruction Tuning.md",
     "Tags/LLM Training.md",
     "Tags/LLM Basics.md",
-    "Notes/ULMfit.md",
     "Notes/Tokenization.md",
     "Notes/OpenAI.md",
     "Notes/GIT.md",
-    "Notes/Environment packaging.md",
     "Tags/CONDA.md",
     "Tags/venv.md",
     "Notes/SHAP.md",
