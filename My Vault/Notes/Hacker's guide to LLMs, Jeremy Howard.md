@@ -65,4 +65,9 @@ Companion notebook:  [llm_hackersguide_JH/lm-hackers.ipynb at main · RahulRJB/l
 - ![[Attachments/Pasted image 20240526025337.png]]We can invent a conversation in which the language model said something different because this is actually how a multi-stage conversation works. There's no state right, there's nothing stored on the server you're passing back the entire conversation again and telling it what it told you.
 - ![[Attachments/Pasted image 20240526025731.png]]
 - Rate limit function:![[Attachments/Pasted image 20240526025945.png]]
-- One of the kwargs of ChatCompletion that can be passed is **functions**. It tells OpenAI about tools(functions) that you have. ![[Attachments/Pasted image 20240526030255.png]]We can pass custom functions, but it has to be passed in custom JSON schema. `schema()` function is written below to get the custom json. This is very different from traditional programming because here GPT-4 actually looks at the docstring of the function to understand what to do.![[Attachments/Pasted image 20240526030710.png]]![[Attachments/Pasted image 20240526031233.png]]  
+- One of the kwargs of ChatCompletion that can be passed is **functions**. It tells OpenAI about tools(functions) that you have. ![[Attachments/Pasted image 20240526030255.png]]
+- We can pass custom functions, but it has to be passed in custom JSON schema. `schema()` function is written below to get the custom json. 
+  This is very different from traditional programming because here GPT-4 actually looks at the docstring of the function to understand what to do.
+  Also it only ends up using our function if it really feels the need to do so.![[Attachments/Pasted image 20240526030710.png]]![[Attachments/Pasted image 20240526031233.png]]
+- Now the same concept can be used to create a much more powerful function:![[Attachments/Pasted image 20240528152715.png]]![[Attachments/Pasted image 20240528152801.png]]![[Attachments/Pasted image 20240528152847.png]]
+- 

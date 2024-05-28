@@ -11,18 +11,12 @@
             "id": "761fd349fa70f838",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Notes/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -92,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Untitled Kanban.md",
+                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Untitled Kanban.md",
+                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Untitled Kanban.md"
+                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md"
               }
             }
           },
@@ -182,8 +176,11 @@
   },
   "active": "761fd349fa70f838",
   "lastOpenFiles": [
-    "Notes/ULMfit.md",
+    "Attachments/Pasted image 20240528152847.png",
+    "Attachments/Pasted image 20240528152801.png",
+    "Attachments/Pasted image 20240528152715.png",
     "Notes/Untitled Kanban.md",
+    "Notes/ULMfit.md",
     "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
     "Notes/Environment packaging.md",
     "Notes/Hallucinations.md",
@@ -203,8 +200,6 @@
     "Notes/GPT-4.md",
     "Notes/Bard.md",
     "Notes/RLHF.md",
-    "Attachments/Pasted image 20240524132242.png",
-    "Attachments/Pasted image 20240524132402.png",
     "Notes/Instruction Tuning.md",
     "Tags/LLM Training.md",
     "Tags/LLM Basics.md",
@@ -217,7 +212,6 @@
     "Templates/Template 1.md",
     "Tags/LLMs.md",
     "Tags/LLM Evaluation.md",
-    "Notes/hello.md",
     "Tags",
     "Untitled.canvas",
     "Attachments/Recording 20240522161012.webm",
