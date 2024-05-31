@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Instruction Tuning.md",
+                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Instruction Tuning.md",
+                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Instruction Tuning.md",
+                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Instruction Tuning.md"
+                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md"
               }
             }
           },
@@ -176,10 +176,14 @@
   },
   "active": "761fd349fa70f838",
   "lastOpenFiles": [
+    "Notes/OpenAI API.md",
+    "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
+    "Attachments/Pasted image 20240531161533.png",
+    "Attachments/Pasted image 20240531161437.png",
+    "Notes/Instruction Tuning.md",
     "Notes/Bard.md",
     "Notes/ChatGPT.md",
     "Notes/Environment packaging.md",
-    "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
     "Untitled.canvas",
     "Attachments/Pasted image 20240528152847.png",
     "Attachments/Pasted image 20240528152801.png",
@@ -192,15 +196,11 @@
     "Attachments/Pasted image 20240526030255.png",
     "Attachments/Pasted image 20240526025945.png",
     "Attachments/Pasted image 20240526025731.png",
-    "Attachments/Pasted image 20240526025337.png",
-    "Attachments/Pasted image 20240526024800.png",
-    "Notes/OpenAI API.md",
     "Notes/Intro into LLMs, Andrej Karpathy.md",
     "Notes/hallucination.md",
     "Notes/nat.dev.md",
     "Notes/GPT-4.md",
     "Notes/RLHF.md",
-    "Notes/Instruction Tuning.md",
     "Tags/LLM Training.md",
     "Tags/LLM Basics.md",
     "Notes/Tokenization.md",

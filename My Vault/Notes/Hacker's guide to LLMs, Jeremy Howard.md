@@ -69,5 +69,9 @@ Companion notebook:  [llm_hackersguide_JH/lm-hackers.ipynb at main · RahulRJB/l
 - We can pass custom functions, but it has to be passed in custom JSON schema. `schema()` function is written below to get the custom json. 
   This is very different from traditional programming because here GPT-4 actually looks at the docstring of the function to understand what to do.
   Also it only ends up using our function if it really feels the need to do so.![[Attachments/Pasted image 20240526030710.png]]![[Attachments/Pasted image 20240526031233.png]]
-- Now the same concept can be used to create a much more powerful function:![[Attachments/Pasted image 20240528152715.png]]![[Attachments/Pasted image 20240528152801.png]]![[Attachments/Pasted image 20240528152847.png]]
-- 
+- Now the same concept can be used to create a much more powerful function:![[Attachments/Pasted image 20240528152715.png]]![[Attachments/Pasted image 20240528152801.png]]![[Attachments/Pasted image 20240528152847.png]]Getting the same result now but in chat format:![[Attachments/Pasted image 20240531161437.png]]
+- Now if the custom function is irrelevant, it is just ignored:![[Attachments/Pasted image 20240531161533.png]]
+- We can have multiple such functions(tools) made available for things GPT-4 is not familiar with, It will try to solve whatever it can on its own, but for other things, it will use these tools.
+## place:
+
+
