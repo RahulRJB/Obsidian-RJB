@@ -11,9 +11,17 @@
             "id": "761fd349fa70f838",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "c35e04f05b8b2e9e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
+                "file": "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,27 +180,34 @@
   },
   "active": "761fd349fa70f838",
   "lastOpenFiles": [
-    "Notes/OpenAI API.md",
+    "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md",
+    "Notes/Intro into LLMs, Andrej Karpathy.md",
     "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
-    "Attachments/Pasted image 20240531161533.png",
-    "Attachments/Pasted image 20240531161437.png",
+    "Attachments/Pasted image 20240601040123.png",
+    "Attachments/Pasted image 20240601040044.png",
+    "Tags/cuda.md",
+    "Notes/llama.cpp.md",
+    "Notes/Finetuning.md",
+    "Attachments/Pasted image 20240601035140.png",
+    "Attachments/Pasted image 20240601034722.png",
+    "Attachments/Pasted image 20240601034620.png",
+    "Attachments/Pasted image 20240601034508.png",
+    "Attachments/Pasted image 20240601033736.png",
+    "Attachments/Pasted image 20240601033510.png",
+    "Attachments/Pasted image 20240601033037.png",
+    "Attachments/Pasted image 20240601031331.png",
+    "Notes/Sentence Transformer.md",
+    "Tags/autoregressive.md",
+    "Notes/HuggingFace API.md",
+    "Notes/OpenAI API.md",
     "Notes/Instruction Tuning.md",
     "Notes/Bard.md",
     "Notes/ChatGPT.md",
     "Notes/Environment packaging.md",
     "Untitled.canvas",
-    "Attachments/Pasted image 20240528152847.png",
-    "Attachments/Pasted image 20240528152801.png",
-    "Attachments/Pasted image 20240528152715.png",
     "Notes/Untitled Kanban.md",
-    "Notes/ULMfit.md",
+    "Tags/ULMfit.md",
     "Notes/Hallucinations.md",
-    "Attachments/Pasted image 20240526031233.png",
-    "Attachments/Pasted image 20240526030710.png",
-    "Attachments/Pasted image 20240526030255.png",
-    "Attachments/Pasted image 20240526025945.png",
-    "Attachments/Pasted image 20240526025731.png",
-    "Notes/Intro into LLMs, Andrej Karpathy.md",
     "Notes/hallucination.md",
     "Notes/nat.dev.md",
     "Notes/GPT-4.md",
@@ -206,12 +217,6 @@
     "Notes/Tokenization.md",
     "Notes/OpenAI.md",
     "Notes/GIT.md",
-    "Tags/CONDA.md",
-    "Tags/venv.md",
-    "Notes/SHAP.md",
-    "Templates/Template 1.md",
-    "Tags/LLMs.md",
-    "Tags/LLM Evaluation.md",
     "Tags",
     "Attachments/Recording 20240522161012.webm",
     "Tracker",

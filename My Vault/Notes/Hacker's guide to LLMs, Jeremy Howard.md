@@ -26,7 +26,7 @@ Companion notebook:  [llm_hackersguide_JH/lm-hackers.ipynb at main · RahulRJB/l
 
 ## [[Tags/LLM Training|LLM Training]]:
 
-- Basic idea of LLMs like [[ChatGPT]], [[GPT-4]], [[Bard]] Etc come from a paper from 2017 having algorithm called [[ULMfit]]. ![[Attachments/Pasted image 20240524125722.png]]
+- Basic idea of LLMs like [[ChatGPT]], [[GPT-4]], [[Bard]] Etc come from a paper from 2017 having algorithm called [[Tags/ULMfit]]. ![[Attachments/Pasted image 20240524125722.png]]
 	- 3 step process. 
 	- Step 1, LM  pre-training, i.e. predict the next word of a sentence. To do this we  train this LM on Wikipedia. We took a neural network and using stochastic gradient descent or SGD you can teach it to do almost anything if you give it examples and so I gave it lots of examples of sentences from Wikipedia to guess what the next word is and if it guesses it right it would be rewarded and if it gets something else it would be penalized and effectively basically it's trying to maximize those rewards. it's trying to find a set of weights for this function that makes it more likely that it would predict right.
 	- Doing this Neural network is gonna have to learn a lot of stuff about the world to do a really good job of predicting the next word. The key idea here for me is that this is a form of compression and the idea of the relationship between compression and intelligence. Basic idea is that yeah if you can guess what words are coming up next then effectively you're compressing all that information down into a neural network.
@@ -72,8 +72,37 @@ Companion notebook:  [llm_hackersguide_JH/lm-hackers.ipynb at main · RahulRJB/l
 - Now the same concept can be used to create a much more powerful function:![[Attachments/Pasted image 20240528152715.png]]![[Attachments/Pasted image 20240528152801.png]]![[Attachments/Pasted image 20240528152847.png]]Getting the same result now but in chat format:![[Attachments/Pasted image 20240531161437.png]]
 - Now if the custom function is irrelevant, it is just ignored:![[Attachments/Pasted image 20240531161533.png]]
 - We can have multiple such functions(tools) made available for things GPT-4 is not familiar with, It will try to solve whatever it can on its own, but for other things, it will use these tools.
-## place:
+## [[HuggingFace API]]:
+
+- Using HF open source models ![[Attachments/Pasted image 20240601022808.png]].generate() will [[Tags/autoregressive]]ly call the model, i.e. generate new token and again and again passing its previous result back as the next input.![[Attachments/Pasted image 20240601023804.png]]
+- Using bfloat16 floating point format reduces the computation time by a lot!![[Attachments/Pasted image 20240601024152.png]]
+- Using a different kind of discretization(quantised) called GPTQ, where a model is carefully optimized to work with 4 or 8 bits or other lower precision data. This is done by a person known as The Bloke, is fantastic at taking popular models running that optimization process and then uploading the results back to hugging face.![[Attachments/Pasted image 20240601024409.png]]
+- Fictionizing this:![[Attachments/Pasted image 20240601024948.png]]
+- StabilityAI has a series called StableBeluga based on llama2, but these have been instruction tuned, they might even have been RLHFed.
+  During the instruction tuning process, instructions that are passed in actually are always in a particular format which needs to be followed while quering that model. This format also  changes quite a bit from from finetune to finetune. We have to go to the web page for the model to find out what the prompt format is.
+  Creating mk_prompt() function go generate the custom prompt:![[Attachments/Pasted image 20240601025810.png]]
+- Llama2 13B finetuned on OpenOrca and Platypus datasets and then quantised:![[Attachments/Pasted image 20240601030025.png]]
+
+
+## [[Notes/RLHF|RLHF]]:
+
+- We take the question we've been asked and then we try and search for documents that may help us answer that question so obviously we would expect for example Wikipedia to be useful and then what we do is we say okay with that information let's now see if we can tell the language model about what we found and then have it answer the question.
+- ![[Attachments/Pasted image 20240601030543.png]]![[Attachments/Pasted image 20240601030726.png]]
+- But how do we know to pass in the Jeremy Howard Wikipedia page?? Well the way we know which Wikipedia page to pass is we can use another model to tell us which web page or which document is the most useful for answering a question. To do so we can use something called [[Sentence Transformer]] and we can use a special kind of model that specifically designed to take a document and turn it into a bunch of activations where two documents that are similar will have similar activations.![[Attachments/Pasted image 20240601031251.png]]![[Attachments/Pasted image 20240601031331.png]]
+- So if we have a few hundred documents available to give back to the model as context to help it answer a question, we could just check for similarity to get the most applicable document to use to help answer the question.
+- When we've got thousands or millions of documents you can use something called a vector database, where basically as a one-off thing we can go through and you encode all of the documents.
+- One problem to this is if you think about how that embedding thing worked (finding similarity), you can't really use like the normal kind of follow-up, there's no context here being sent to the embedding model so it's actually going to have no idea I'm talking about.
 
 
 
+## [[Finetuning]]:
 
+- know_sql database: It's got examples of a schema for a table in a database, a question and then the answer is the correct SQL to solve that question using that database schema.![[Attachments/Pasted image 20240601033037.png]]![[Attachments/Pasted image 20240601033510.png]]
+- Axolotl: Opensource piece of software, can just pip install it, can automate finetuning.
+  For the SQL dataset finetuning, made a .yaml, changed the path to the dataset and everything else pretty much I left the same and then I just ran the command to finetuning, passing in that .yaml. Took about an hour on the GPU to finetune and at the end of the hour.![[Attachments/Pasted image 20240601034508.png]]
+- ![[Attachments/Pasted image 20240601034620.png]]![[Attachments/Pasted image 20240601035140.png]]![[Attachments/Pasted image 20240601034722.png]]
+
+
+## [[llama.cpp]]:
+
+- **llama.cpp** runs on lots of different things including [[Tags/cuda]]. It uses a different format called .gguf. We can use it from python even if it was a CPP thing using python wrapper. We can download from hugging face, gguf file, there's lots of different ones they're all documented as to what's what you can pick how big a file you want you can download it.![[Attachments/Pasted image 20240601040044.png]]![[Attachments/Pasted image 20240601040123.png]]
