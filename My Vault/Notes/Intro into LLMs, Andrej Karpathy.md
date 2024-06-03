@@ -8,7 +8,7 @@
 
 
 
-Tags: [[Tags/LLMs]]
+Tags: [[Tags/LLMs]], [[Tags/Andrej Karpathy|Andrej Karpathy]]
 
 
 

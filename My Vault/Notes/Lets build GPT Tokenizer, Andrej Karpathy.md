@@ -5,7 +5,8 @@
 DATE:  01-06-24
 
 
-Tags: [[Tags/LLMs|LLMs]]
+Tags: [[Tags/LLMs|LLMs]], [[Tags/Andrej Karpathy]]
+
 
 # References: 
 [Let's build the GPT Tokenizer (youtube.com)](https://www.youtube.com/watch?v=zduSFxRajkE&t=41s)

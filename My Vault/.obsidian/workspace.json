@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "761fd349fa70f838",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c35e04f05b8b2e9e",
+            "id": "534632a9fb6e251a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md",
+                "file": "Notes/Lets build GPT, from scratch, in code, spelled out,.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Lets build GPT, from scratch, in code, spelled out,.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Lets build GPT, from scratch, in code, spelled out,.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Lets build GPT, from scratch, in code, spelled out,.md"
+              }
             }
           },
           {
@@ -178,11 +174,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "761fd349fa70f838",
+  "active": "534632a9fb6e251a",
   "lastOpenFiles": [
+    "Notes/GIT.md",
+    "Tags/CONDA.md",
+    "Notes/Lets build GPT, from scratch, in code, spelled out,.md",
+    "Notes/SHAP.md",
     "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md",
-    "Notes/Intro into LLMs, Andrej Karpathy.md",
+    "Tags/Andrej Karpathy.md",
+    "Tags/LLMs.md",
     "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
+    "Notes/Intro into LLMs, Andrej Karpathy.md",
+    "Tags/Jeremy Howard.md",
     "Attachments/Pasted image 20240601040123.png",
     "Attachments/Pasted image 20240601040044.png",
     "Tags/cuda.md",
@@ -201,8 +204,8 @@
     "Notes/HuggingFace API.md",
     "Notes/OpenAI API.md",
     "Notes/Instruction Tuning.md",
-    "Notes/Bard.md",
-    "Notes/ChatGPT.md",
+    "Tags/Bard.md",
+    "Tags/ChatGPT.md",
     "Notes/Environment packaging.md",
     "Untitled.canvas",
     "Notes/Untitled Kanban.md",
@@ -210,13 +213,6 @@
     "Notes/Hallucinations.md",
     "Notes/hallucination.md",
     "Notes/nat.dev.md",
-    "Notes/GPT-4.md",
-    "Notes/RLHF.md",
-    "Tags/LLM Training.md",
-    "Tags/LLM Basics.md",
-    "Notes/Tokenization.md",
-    "Notes/OpenAI.md",
-    "Notes/GIT.md",
     "Tags",
     "Attachments/Recording 20240522161012.webm",
     "Tracker",
