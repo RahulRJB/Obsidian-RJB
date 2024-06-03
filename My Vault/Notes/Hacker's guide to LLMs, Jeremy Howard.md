@@ -17,7 +17,7 @@ Companion notebook:  [llm_hackersguide_JH/lm-hackers.ipynb at main · RahulRJB/l
 
 ## [[Tags/LLM Basics|LLM Basics]]:
 
-- **[[nat.dev]]**: This site lets us play with a variety of language models , eg. 'text-davinci-003' from [[OpenAI]]
+- **[[Tags/nat.dev]]**: This site lets us play with a variety of language models , eg. 'text-davinci-003' from [[OpenAI]]
 - An LLM, at each point predicts the probability of a variety of possible next words and depending on how it is set up, it either picks the most likely word(token) every time or if we change settings like P values, temperatures, it changes what comes up next, giving us a diff result.
 - LLM does not always predicts words, it actually predicts tokens, sub-words or pieces of a word
 - [[Tokenization]]: 
