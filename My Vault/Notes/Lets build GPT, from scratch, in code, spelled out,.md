@@ -18,9 +18,7 @@ Tags: [[Tags/LLMs|LLMs]],  [[Tags/Andrej Karpathy|Andrej Karpathy]]
 
 
 
-
-
-
+[[Notes/Tokenization|Tokenization]]:  Develop some strategy to tokenize the input text. It means to convert the raw text as a string to some sequence of integers, according to some vocabulary of possible elements.
 
 
 
