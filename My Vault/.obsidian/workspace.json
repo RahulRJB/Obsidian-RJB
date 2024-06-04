@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
+                "file": "Notes/Lets build GPT, from scratch, in code, spelled out, Andrej Karpathy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4aef369f9ea00a1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Transformers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
+                "file": "Notes/Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
+                "file": "Notes/Transformers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md"
+                "file": "Notes/Transformers.md"
               }
             }
           },
@@ -174,17 +188,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "534632a9fb6e251a",
+  "active": "4aef369f9ea00a1a",
   "lastOpenFiles": [
+    "Notes/RNN.md",
+    "Notes/Transformers.md",
+    "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
+    "Notes/Lets build GPT, from scratch, in code, spelled out, Andrej Karpathy.md",
+    "Notes/Sentence Transformer.md",
+    "Tags/Andrej Karpathy.md",
+    "Tags/Bard.md",
+    "Tags/autoregressive.md",
     "Notes/Intro into LLMs, Andrej Karpathy.md",
     "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md",
-    "Notes/Lets build GPT, from scratch, in code, spelled out,.md",
     "Notes/Instruction Tuning.md",
-    "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
     "Notes/GIT.md",
     "Tags/CONDA.md",
     "Notes/SHAP.md",
-    "Tags/Andrej Karpathy.md",
     "Tags/LLMs.md",
     "Tags/Jeremy Howard.md",
     "Attachments/Pasted image 20240601040123.png",
@@ -200,19 +219,14 @@
     "Attachments/Pasted image 20240601033510.png",
     "Attachments/Pasted image 20240601033037.png",
     "Attachments/Pasted image 20240601031331.png",
-    "Notes/Sentence Transformer.md",
-    "Tags/autoregressive.md",
     "Notes/HuggingFace API.md",
     "Notes/OpenAI API.md",
-    "Tags/Bard.md",
     "Tags/ChatGPT.md",
     "Notes/Environment packaging.md",
     "Untitled.canvas",
     "Notes/Untitled Kanban.md",
     "Tags/ULMfit.md",
     "Notes/Hallucinations.md",
-    "Notes/hallucination.md",
-    "Tags/nat.dev.md",
     "Tags",
     "Attachments/Recording 20240522161012.webm",
     "Tracker",

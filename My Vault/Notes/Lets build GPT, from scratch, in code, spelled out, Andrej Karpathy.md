@@ -1,5 +1,5 @@
 
-# Lets build GPT, from scratch, in code, spelled out,
+# Lets build GPT, from scratch, in code, spelled out, Andrej Karpathy
 
 
 DATE:  03-06-24
