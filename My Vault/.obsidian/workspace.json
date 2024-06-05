@@ -32,22 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6ea7683110498bff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/tmux.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/tmux.md",
+                "file": "Notes/Multi-Head Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/tmux.md",
+                "file": "Notes/Multi-Head Attention.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/tmux.md"
+                "file": "Notes/Multi-Head Attention.md"
               }
             }
           },
@@ -201,10 +188,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "6ea7683110498bff",
+  "active": "4aef369f9ea00a1a",
   "lastOpenFiles": [
-    "Notes/Multi-Head Attention.md",
     "Notes/tmux.md",
+    "Notes/Multi-Head Attention.md",
     "Notes/Linux.md",
     "Attachments/Pasted image 20240605140155.png",
     "Attachments/Pasted image 20240605135554.png",
