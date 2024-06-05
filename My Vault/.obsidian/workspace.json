@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ea7683110498bff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/tmux.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Multi-Head Attention.md",
+                "file": "Notes/tmux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Multi-Head Attention.md",
+                "file": "Notes/tmux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Multi-Head Attention.md"
+                "file": "Notes/tmux.md"
               }
             }
           },
@@ -188,8 +201,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4aef369f9ea00a1a",
+  "active": "6ea7683110498bff",
   "lastOpenFiles": [
+    "Notes/tmux.md",
+    "Notes/Linux.md",
+    "Notes/Multi-Head Attention.md",
     "Attachments/Pasted image 20240605140155.png",
     "Attachments/Pasted image 20240605135554.png",
     "Attachments/Pasted image 20240605135312.png",
@@ -197,7 +213,6 @@
     "Attachments/Pasted image 20240605132948.png",
     "Attachments/Pasted image 20240605132326.png",
     "Notes/Word Embeddings.md",
-    "Notes/Multi-Head Attention.md",
     "Attachments/Pasted image 20240605125758.png",
     "Notes/Transformers.md",
     "Notes/Encoder.md",
@@ -209,7 +224,6 @@
     "Notes/Batch Normalization.md",
     "Attachments/Pasted image 20240605040748.png",
     "Attachments/Pasted image 20240605040109.png",
-    "Attachments/Pasted image 20240605034949.png",
     "Notes/Softmax.md",
     "Notes/Cross Attention.md",
     "Notes/Cress Attention.md",
@@ -225,7 +239,6 @@
     "Tags/Bard.md",
     "Tags/autoregressive.md",
     "Notes/Intro into LLMs, Andrej Karpathy.md",
-    "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md",
     "Untitled.canvas",
     "Tags",
     "Attachments/Recording 20240522161012.webm",
