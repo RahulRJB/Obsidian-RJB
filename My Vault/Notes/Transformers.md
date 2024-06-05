@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=TQQlZhbC5ps&t=11s
 ## [[Notes/Transformers|Transformers]]:
 
 - Employs an encoder-decoder architecture much like RNNs.
-- Used for sequence-to-sequence modelling. like Translation
+- Used for sequence-to-sequence modelling. like Translation  
 ### [[Encoder]] Block:
 
 - But here, input sequence can be passed in parallel. Consider translating a sentence from English to French, with an RNN encoder we pass an input English sentence one word after the other, the current words hidden state has dependencies in the previous words hidden state. The [[Notes/Word Embeddings|word embeddings]] are generated one time step at a time. 

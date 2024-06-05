@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Transformers.md",
+                "file": "Notes/Multi-Head Attention.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Transformers.md",
+                "file": "Notes/Multi-Head Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Transformers.md",
+                "file": "Notes/Multi-Head Attention.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Transformers.md"
+                "file": "Notes/Multi-Head Attention.md"
               }
             }
           },
@@ -190,9 +190,9 @@
   },
   "active": "4aef369f9ea00a1a",
   "lastOpenFiles": [
+    "Notes/Transformers.md",
     "Notes/Tokenization.md",
     "Notes/Multi-Head Attention.md",
-    "Notes/Transformers.md",
     "Notes/Layer Normalization.md",
     "Attachments/Pasted image 20240605042241.png",
     "Notes/Batch Normalization.md",
