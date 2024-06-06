@@ -11,6 +11,9 @@ Tags:
 
 [Multi Head Attention in Transformer Neural Networks with Code! (youtube.com)](https://www.youtube.com/watch?v=HQn1QKQYXVg&t=193s)
 
+Code:  https://github.com/ajhalthor/Transformer-Neural-Network/blob/main/Mutlihead_Attention.ipynb
+
+
 
 # Content:
 
@@ -29,6 +32,9 @@ Tags:
 - Now, in each attention head, we're going to generate an Attention Matrix, which is of Sequence x Sequence dimension. If sequence is of 4 words, it's a 4x4 matrix. Each of the rows in the matrix, add up to 1 because it's a probability distribution.
 - 8 such attention matrices as we have 8 attention heads in this multi-head attention system.
 - This is then going to generate other output vectors that are then concatenated in order to generate a final vector that actually has very good contextual awareness, making the input word vector more contextually aware.
+- 
+![[Attachments/Recording 20240606032013.webm]]
+
 
 # CODE:
 
@@ -65,15 +71,34 @@ We're scaling here( dividing sqrt(d_k)) in order to make sure that the variance 
 much smaller so that these values just don't go out of control especially since this is a trainable machine learning model.
 
 
+**Masking in Decoder**: 
+Done to ensure that the decoder does not cheat. During the encoding phase we actually have all words which are passed in parallel simultaneously so we can generate vectors by taking the context of words that come before it as well as words that come after.  In the decoder however we generate words one at a time so when generating context we only want to look at words that come before it because we don't even have the words that come after it.
+
+![[Attachments/Pasted image 20240606025025.png]]
+
+Taking a mask of -inf because we're going to be doing a softmax operation, where 0 will become 1 and -inf will become 0. Ensures that you cannot cheat and look forward. It is done along the last dimension, i,e which represents the attention of 1 word  with respect to all the other words in the sequence.
+
+![[Attachments/Pasted image 20240606025819.png]]
+![[Attachments/Pasted image 20240606025837.png]]
 
 
+![[Attachments/Pasted image 20240606030821.png]]
+
+We now take the Value vector, V, which is what is actually being offered, and matmul with the attention matrix calculated. This generates new value vectors which are much more context aware than the original value vectors in the original input vectors. 
+
+So we'll end up with for every batch, for every head, for every word in the sequence, we'll have a 64 dimensional Vector!
+
+The entire Attention function:![[Attachments/Pasted image 20240606031319.png]]
 
 
+![[Attachments/Pasted image 20240606032329.png]]
+
+Now we combine or concatenate all those heads together to get back 512 dimensional vectors  which is exactly the input dimension.
+
+In order for heads to communicate with each other, the information that they've learned, we pass it through a linear layer which is just a feed forward layer of 512x512 and this doesn't change the dimension.
+So this output Vector is much more context aware than the input Vector!
 
 
-
-
-
-
-
-
+**Full Attention class**:
+![[Attachments/Pasted image 20240606033144.png]]
+![[Attachments/Pasted image 20240606033156.png]]

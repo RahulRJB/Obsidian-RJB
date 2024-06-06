@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Lets build GPT, from scratch, in code, spelled out, Andrej Karpathy.md",
+                "file": "Notes/Positional Encoding.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "4aef369f9ea00a1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Multi-Head Attention.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Multi-Head Attention.md",
+                "file": "Notes/Positional Encoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Multi-Head Attention.md",
+                "file": "Notes/Positional Encoding.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Multi-Head Attention.md"
+                "file": "Notes/Positional Encoding.md"
               }
             }
           },
@@ -188,35 +174,42 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4aef369f9ea00a1a",
+  "active": "534632a9fb6e251a",
   "lastOpenFiles": [
-    "Notes/tmux.md",
+    "Notes/Transformers.md",
+    "Notes/Decoder.md",
     "Notes/Multi-Head Attention.md",
+    "Attachments/Pasted image 20240606033156.png",
+    "Attachments/Pasted image 20240606033144.png",
+    "Attachments/Pasted image 20240606032329.png",
+    "Attachments/Recording 20240606032013.webm",
+    "Notes/Positional Encoding.md",
+    "Notes/Lets build GPT, from scratch, in code, spelled out, Andrej Karpathy.md",
+    "Attachments/Recording 20240606031527.webm",
+    "Attachments/Recording 20240606031545.webm",
+    "Attachments/Recording 20240606031524.webm",
+    "Attachments/Recording 20240606031518.webm",
+    "Attachments/Recording 20240606031540.webm",
+    "Attachments/Recording 20240606031534.webm",
+    "Attachments/Pasted image 20240606031319.png",
+    "Attachments/Pasted image 20240606030821.png",
+    "Attachments/Pasted image 20240606025837.png",
+    "Attachments/Pasted image 20240606025819.png",
+    "Attachments/Pasted image 20240606025355.png",
+    "Attachments/Pasted image 20240606025025.png",
+    "Notes/tmux.md",
     "Notes/Linux.md",
     "Attachments/Pasted image 20240605140155.png",
-    "Attachments/Pasted image 20240605135554.png",
-    "Attachments/Pasted image 20240605135312.png",
-    "Attachments/Pasted image 20240605134459.png",
-    "Attachments/Pasted image 20240605132948.png",
-    "Attachments/Pasted image 20240605132326.png",
     "Notes/Word Embeddings.md",
-    "Attachments/Pasted image 20240605125758.png",
-    "Notes/Transformers.md",
     "Notes/Encoder.md",
     "Notes/QUOTES OF THE DAY.md",
-    "Notes/Lets build GPT, from scratch, in code, spelled out, Andrej Karpathy.md",
     "Notes/Tokenization.md",
     "Notes/Layer Normalization.md",
-    "Attachments/Pasted image 20240605042241.png",
     "Notes/Batch Normalization.md",
-    "Attachments/Pasted image 20240605040748.png",
-    "Attachments/Pasted image 20240605040109.png",
     "Notes/Softmax.md",
     "Notes/Cross Attention.md",
     "Notes/Cress Attention.md",
     "Notes/Self Attention.md",
-    "Notes/Decoder.md",
-    "Notes/Positional Encoding.md",
     "Notes/Attention.md",
     "Notes/LSTM.md",
     "Notes/RNN.md",
@@ -225,15 +218,10 @@
     "Tags/Andrej Karpathy.md",
     "Tags/Bard.md",
     "Tags/autoregressive.md",
-    "Notes/Intro into LLMs, Andrej Karpathy.md",
     "Untitled.canvas",
     "Tags",
     "Attachments/Recording 20240522161012.webm",
     "Tracker",
-    "Attachments",
-    "Templates",
-    "Untitled 1.canvas",
-    "Notes/Langchain",
-    "Notes"
+    "Untitled 1.canvas"
   ]
 }
