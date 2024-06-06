@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "c7c09c75a428bb68",
@@ -176,6 +177,10 @@
   },
   "active": "534632a9fb6e251a",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240606194822.png",
+    "Attachments/Pasted image 20240606190105.png",
+    "Attachments/Pasted image 20240606185401.png",
+    "Attachments/Pasted image 20240606182933.png",
     "Attachments/Pasted image 20240606152312.png",
     "Attachments/Pasted image 20240606152247.png",
     "Notes/Attention.md",
@@ -190,10 +195,6 @@
     "Attachments/Pasted image 20240606133736.png",
     "Attachments/Pasted image 20240606133612.png",
     "Attachments/Pasted image 20240606133318.png",
-    "Attachments/Pasted image 20240606133248.png",
-    "Attachments/Pasted image 20240606133227.png",
-    "Attachments/Pasted image 20240606133154.png",
-    "Attachments/Pasted image 20240606133126.png",
     "Notes/Normalization.md",
     "Notes/Residual connections.md",
     "Notes/Encoder.md",
