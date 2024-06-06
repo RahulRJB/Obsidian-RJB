@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Positional Encoding.md",
+                "file": "Notes/Self Attention.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "positio",
+                "query": "attent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Positional Encoding.md",
+                "file": "Notes/Self Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Positional Encoding.md",
+                "file": "Notes/Self Attention.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Positional Encoding.md"
+                "file": "Notes/Self Attention.md"
               }
             }
           },
@@ -176,14 +176,31 @@
   },
   "active": "534632a9fb6e251a",
   "lastOpenFiles": [
+    "Notes/Attention.md",
+    "Notes/Self Attention.md",
+    "Notes/Cross Attention.md",
+    "Notes/Proxy.md",
+    "Templates/Template 1.md",
+    "Notes/Networking.md",
+    "Notes/Layer Normalization.md",
+    "Attachments/Pasted image 20240606133934.png",
+    "Attachments/Pasted image 20240606133902.png",
+    "Attachments/Pasted image 20240606133736.png",
+    "Attachments/Pasted image 20240606133612.png",
+    "Attachments/Pasted image 20240606133318.png",
+    "Attachments/Pasted image 20240606133248.png",
+    "Attachments/Pasted image 20240606133227.png",
+    "Attachments/Pasted image 20240606133154.png",
+    "Attachments/Pasted image 20240606133126.png",
+    "Attachments/Pasted image 20240606133112.png",
+    "Notes/Normalization.md",
+    "Notes/Residual connections.md",
+    "Notes/Encoder.md",
+    "Notes/Positional Encoding.md",
+    "Notes/Multi-Head Attention.md",
     "Notes/Transformers.md",
     "Notes/Decoder.md",
-    "Notes/Multi-Head Attention.md",
-    "Attachments/Pasted image 20240606033156.png",
-    "Attachments/Pasted image 20240606033144.png",
-    "Attachments/Pasted image 20240606032329.png",
     "Attachments/Recording 20240606032013.webm",
-    "Notes/Positional Encoding.md",
     "Notes/Lets build GPT, from scratch, in code, spelled out, Andrej Karpathy.md",
     "Attachments/Recording 20240606031527.webm",
     "Attachments/Recording 20240606031545.webm",
@@ -191,33 +208,17 @@
     "Attachments/Recording 20240606031518.webm",
     "Attachments/Recording 20240606031540.webm",
     "Attachments/Recording 20240606031534.webm",
-    "Attachments/Pasted image 20240606031319.png",
-    "Attachments/Pasted image 20240606030821.png",
-    "Attachments/Pasted image 20240606025837.png",
-    "Attachments/Pasted image 20240606025819.png",
-    "Attachments/Pasted image 20240606025355.png",
-    "Attachments/Pasted image 20240606025025.png",
     "Notes/tmux.md",
     "Notes/Linux.md",
-    "Attachments/Pasted image 20240605140155.png",
     "Notes/Word Embeddings.md",
-    "Notes/Encoder.md",
     "Notes/QUOTES OF THE DAY.md",
     "Notes/Tokenization.md",
-    "Notes/Layer Normalization.md",
     "Notes/Batch Normalization.md",
     "Notes/Softmax.md",
-    "Notes/Cross Attention.md",
     "Notes/Cress Attention.md",
-    "Notes/Self Attention.md",
-    "Notes/Attention.md",
     "Notes/LSTM.md",
     "Notes/RNN.md",
     "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
-    "Notes/Sentence Transformer.md",
-    "Tags/Andrej Karpathy.md",
-    "Tags/Bard.md",
-    "Tags/autoregressive.md",
     "Untitled.canvas",
     "Tags",
     "Attachments/Recording 20240522161012.webm",
