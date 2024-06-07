@@ -38,8 +38,9 @@ https://www.youtube.com/watch?v=PSs6nxngL6k&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-
 
 - **One of the implementations:**
 - ![[Attachments/Pasted image 20240606194822.png]]
-- We want a similarity score between the lstm outputs, from the first step in the encoder and the lstm outputs from the first step in the decoder. We also want to calculate a similarity score between the lstm outputs from the second step in the encoder and the lstm outputs from the first step in the decoder. We do this using dot product.
+- We want a similarity score between the lstm outputs, from the first step in the encoder, "Let's" and the lstm outputs from the first step in the decoder, "eos" token. We also want to calculate a similarity score between the lstm outputs from the second step in the encoder, "go" and the lstm outputs from the first step in the decoder, "eos" token. We do this using dot product.
 
+- ![[Attachments/Pasted image 20240607131309.png]]
 - In this example, nd since the score for go is higher we
 
 want the encoding for go to have more
