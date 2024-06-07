@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "c7c09c75a428bb68",
@@ -174,7 +175,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "534632a9fb6e251a",
+  "active": "86b01602b1c1be4d",
   "lastOpenFiles": [
     "Notes/QUOTES OF THE DAY.md",
     "Notes/Multi-Head Attention.md",

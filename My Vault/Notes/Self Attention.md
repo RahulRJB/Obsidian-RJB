@@ -35,52 +35,12 @@ https://www.youtube.com/watch?v=PSs6nxngL6k&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-
 
 - **Attention** main idea is to add a bunch of New Paths from the encoder to the each step of the decoder, 1 per input value,  so that each step of the decoder can directly access input values.
 - There are many implementations of encoder-decoder model with attention, but this main idea remains the same and is consistent among all of them!
+
+- **One of the implementations:**
 - ![[Attachments/Pasted image 20240606194822.png]]
-- in other words we want a similarity
+- We want a similarity score between the lstm outputs, from the first step in the encoder and the lstm outputs from the first step in the decoder. We also want to calculate a similarity score between the lstm outputs from the second step in the encoder and the lstm outputs from the first step in the decoder. We do this using dot product.
 
-score between the lstm outputs the
-
-short-term memories or hidden States
-
-from the first step in the encoder and
-
-the lstm outputs from the first step in
-
-the decoder
-
-and we also want to calculate a
-
-similarity score between the lstm
-
-outputs from the second step in the
-
-encoder and the lstm outputs from the
-
-first step in the decoder
-
-there are a lot of ways to calculate the
-
-similarity of words or more precisely
-
-sequences of numbers that represent
-
-words
-
-and different attention algorithms use
-
-different ways to compare these
-
-sequences
-
-however one simple way to determine the
-
-similarity of two sequences of numbers
-
-that represent words is with the cosine
-
-similarity
-
-- nd since the score for go is higher we
+- In this example, nd since the score for go is higher we
 
 want the encoding for go to have more
 
