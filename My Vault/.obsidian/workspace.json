@@ -11,8 +11,13 @@
             "id": "534632a9fb6e251a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Self Attention.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "c7c09c75a428bb68",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Self Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Self Attention.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Self Attention.md"
+              }
             }
           },
           {
@@ -168,6 +176,9 @@
   },
   "active": "534632a9fb6e251a",
   "lastOpenFiles": [
+    "Notes/QUOTES OF THE DAY.md",
+    "Notes/Multi-Head Attention.md",
+    "Notes/GPT-4.md",
     "Notes/Self Attention.md",
     "Attachments/Pasted image 20240606194822.png",
     "Attachments/Pasted image 20240606190105.png",
@@ -189,7 +200,6 @@
     "Notes/Residual connections.md",
     "Notes/Encoder.md",
     "Notes/Positional Encoding.md",
-    "Notes/Multi-Head Attention.md",
     "Notes/Transformers.md",
     "Notes/Decoder.md",
     "Attachments/Recording 20240606032013.webm",
@@ -203,7 +213,6 @@
     "Notes/tmux.md",
     "Notes/Linux.md",
     "Notes/Word Embeddings.md",
-    "Notes/QUOTES OF THE DAY.md",
     "Notes/Tokenization.md",
     "Notes/Batch Normalization.md",
     "Notes/Softmax.md",
