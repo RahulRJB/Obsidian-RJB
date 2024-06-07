@@ -26,6 +26,7 @@ https://www.youtube.com/watch?v=TQQlZhbC5ps&t=11s
 - Disadvantages![[Attachments/Pasted image 20240605015506.png]]
 
 
+
 ## [[LSTM]]:
 
 - Introduced a long short term memory cell in place of dumb neurons. This cell has a branch that allows passed information to skip a lot of the processing of the current cell and move on to the next. This allows the memory to be retained for longer sequences.![[Attachments/Pasted image 20240605015710.png]]
@@ -33,6 +34,7 @@ https://www.youtube.com/watch?v=TQQlZhbC5ps&t=11s
 	-  It is able to deal with longer sequences well only if the order is in hundreds of words instead of a thousand words. 
 	- Normal RNNs are slow but LSTMs are even slower, they are more complex.
 	- These RNNs and LSTM networks, input data needs to be passed sequentially or serially one after the other. We need inputs of the previous state to make any operations on the current state. Such sequential flow does not make use of today's GPUs very well which are designed for parallel computation.
+
 
 
 
@@ -69,4 +71,9 @@ https://www.youtube.com/watch?v=TQQlZhbC5ps&t=11s
 	- **Linear Layer**: Another feed forward connected layer used to expand the dimensions into the number of words in the French language.
 	- **[[Softmax]] layer**: Transforms it into a probability distribution which is now human interpretable and the final word is the word corresponding to the highest probability. This is how decoder predicts the next word and we execute this over multiple time steps until the end of sentence token is generated.![[Attachments/Pasted image 20240605034704.png]]
 
+
+
+
+
+## Placeholder:
 
