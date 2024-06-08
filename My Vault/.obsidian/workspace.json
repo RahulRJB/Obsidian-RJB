@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Self Attention.md",
+                "file": "Notes/Transformers.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "b35aa0d3e29db014",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.2"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Self Attention.md",
+                "file": "Notes/Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Self Attention.md",
+                "file": "Notes/Transformers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Self Attention.md"
+                "file": "Notes/Transformers.md"
               }
             }
           },
@@ -185,21 +174,22 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b35aa0d3e29db014",
+  "active": "d1af645c64a14b32",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240608121044.png",
+    "Notes/Decoder.md",
+    "Notes/Encoder.md",
+    "Notes/Self Attention.md",
     "Attachments/Pasted image 20240608114530.png",
     "Notes/Transformers.md",
     "Notes/GPT.md",
     "Notes/GPT-4.md",
     "Notes/auto-regressive.md",
-    "Notes/Decoder.md",
     "Attachments/Pasted image 20240608035407.png",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
     "Attachments/Pasted image 20240608034514.png",
     "Attachments/Pasted image 20240608033720.png",
-    "Notes/Self Attention.md",
-    "Notes/Encoder.md",
     "Attachments/Recording 20240608031932.webm",
     "Attachments/Recording 20240608031602.webm",
     "Attachments/Recording 20240608030942.webm",
@@ -212,7 +202,6 @@
     "Attachments/Pasted image 20240606190105.png",
     "Attachments/Pasted image 20240606194822.png",
     "Attachments/Pasted image 20240607131309.png",
-    "Attachments/Pasted image 20240607135812.png",
     "Notes/Softmax.md",
     "Notes/QUOTES OF THE DAY.md",
     "Notes/Multi-Head Attention.md",

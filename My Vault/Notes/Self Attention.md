@@ -5,7 +5,7 @@
 DATE:  06-06-24
 
 
-Tags:  
+Tags:  [[Notes/Transformers|Transformers]]
 
 
 # References:
@@ -77,8 +77,8 @@ https://www.youtube.com/watch?v=wjZofJX0v4M&t=102s
 
 - **Transformers were designed for parallel computing**: Transformer can do all of the computation for each word in the input at the same time. For example we can calculate the word embeddings on different processors at the same time and then add the positional encoding at the same time and then calculate the queries keys and values at the same time and once that is done we can calculate the self-attention values at the same time and lastly we can calculate the residual connections at the same time. Doing all of the computations at the same time rather than doing them sequentially for each word means we can process a lot of words relatively quickly on a chip with a lot of computing cores like a GPU or multiple chips in the cloud.
 
-- This process repeats. Go back and forth between Attention layer and feed-forward block, until finally, the hope id that the essential meaning of the sequence
-- ![[Attachments/Pasted image 20240608114530.png]]
+- This process repeats. Go back and forth between Attention layer and feed-forward block, until finally, the hope is that the essential meaning of the sequence has gotten baked into the last vector in the sequence.![[Attachments/Pasted image 20240608114530.png]]
+- 
 
 
 

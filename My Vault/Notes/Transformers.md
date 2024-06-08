@@ -77,5 +77,7 @@ https://www.youtube.com/watch?v=wjZofJX0v4M&t=102s
 
 
 
-## Placeholder:
+## Parameters:
 
+
+![[Attachments/Pasted image 20240608121044.png]]
