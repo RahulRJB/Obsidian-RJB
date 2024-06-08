@@ -13,14 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/GPT.md",
+                "file": "Notes/Self Attention.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "b35aa0d3e29db014",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/GPT.md",
+                "file": "Notes/Self Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/GPT.md",
+                "file": "Notes/Self Attention.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/GPT.md"
+                "file": "Notes/Self Attention.md"
               }
             }
           },
@@ -174,10 +185,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d1af645c64a14b32",
+  "active": "b35aa0d3e29db014",
   "lastOpenFiles": [
-    "Notes/GPT-4.md",
+    "Attachments/Pasted image 20240608114530.png",
+    "Notes/Transformers.md",
     "Notes/GPT.md",
+    "Notes/GPT-4.md",
     "Notes/auto-regressive.md",
     "Notes/Decoder.md",
     "Attachments/Pasted image 20240608035407.png",
@@ -200,7 +213,6 @@
     "Attachments/Pasted image 20240606194822.png",
     "Attachments/Pasted image 20240607131309.png",
     "Attachments/Pasted image 20240607135812.png",
-    "Notes/Transformers.md",
     "Notes/Softmax.md",
     "Notes/QUOTES OF THE DAY.md",
     "Notes/Multi-Head Attention.md",
@@ -221,7 +233,6 @@
     "Notes/Linux.md",
     "Notes/Word Embeddings.md",
     "Notes/Tokenization.md",
-    "Notes/Batch Normalization.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

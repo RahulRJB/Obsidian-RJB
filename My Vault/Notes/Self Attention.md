@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=PSs6nxngL6k&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-
 
 [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!! (youtube.com)](https://www.youtube.com/watch?v=zxQyTK8quyY&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1&index=20&t=6s)
 
+https://www.youtube.com/watch?v=wjZofJX0v4M&t=102s
+
 
 
 # Content:
@@ -60,6 +62,7 @@ https://www.youtube.com/watch?v=PSs6nxngL6k&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-
 ### **Attention in Transformer**:
 
 - Self Attention works by seeing how similar each word is to all of the words in the sentence including itself. In Transformer done using the formula: `Q.Kt`. Once the similarities are calculated, it is used to determine how the transformer encodes each word. Words more similar to a particular word has more impact in its encoding than a word that may be less similar to it. 
+- Basically the word embeddings, talk to each other and pass information back and forth to update their meaning by getting context from other vectors.
 - 
 
 ![[Attachments/Recording 20240608031932.webm]]
@@ -73,6 +76,9 @@ https://www.youtube.com/watch?v=PSs6nxngL6k&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-
 - We reuse the same sets of weights for calculating self-attention Query, Keys and Values for each input word. This means that no matter how many words are input into the Transformer we just reuse the same sets of weights for self-attention queries keys and values.
 
 - **Transformers were designed for parallel computing**: Transformer can do all of the computation for each word in the input at the same time. For example we can calculate the word embeddings on different processors at the same time and then add the positional encoding at the same time and then calculate the queries keys and values at the same time and once that is done we can calculate the self-attention values at the same time and lastly we can calculate the residual connections at the same time. Doing all of the computations at the same time rather than doing them sequentially for each word means we can process a lot of words relatively quickly on a chip with a lot of computing cores like a GPU or multiple chips in the cloud.
+
+- This process repeats. Go back and forth between Attention layer and feed-forward block, until finally, the hope id that the essential meaning of the sequence
+- ![[Attachments/Pasted image 20240608114530.png]]
 
 
 
