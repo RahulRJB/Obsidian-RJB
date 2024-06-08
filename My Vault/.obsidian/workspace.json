@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "534632a9fb6e251a",
+            "id": "d1af645c64a14b32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Self Attention.md",
+                "file": "Notes/GPT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "attent",
+                "query": "tmux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Self Attention.md",
+                "file": "Notes/GPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Self Attention.md",
+                "file": "Notes/GPT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Self Attention.md"
+                "file": "Notes/GPT.md"
               }
             }
           },
@@ -174,8 +174,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "534632a9fb6e251a",
+  "active": "d1af645c64a14b32",
   "lastOpenFiles": [
+    "Notes/GPT-4.md",
+    "Notes/GPT.md",
+    "Notes/auto-regressive.md",
+    "Notes/Decoder.md",
+    "Attachments/Pasted image 20240608035407.png",
+    "Attachments/Recording 20240608035307.webm",
+    "Attachments/Recording 20240608035015.webm",
+    "Attachments/Pasted image 20240608034514.png",
+    "Attachments/Pasted image 20240608033720.png",
+    "Notes/Self Attention.md",
+    "Notes/Encoder.md",
+    "Attachments/Recording 20240608031932.webm",
+    "Attachments/Recording 20240608031602.webm",
+    "Attachments/Recording 20240608030942.webm",
+    "Attachments/Pasted image 20240608030011.png",
+    "Notes/SSH.md",
+    "Notes/tmux.md",
     "Notes/Positional Encoding.md",
     "Attachments/Pasted image 20240607144500.png",
     "Attachments/Pasted image 20240607144432.png",
@@ -183,16 +200,10 @@
     "Attachments/Pasted image 20240606194822.png",
     "Attachments/Pasted image 20240607131309.png",
     "Attachments/Pasted image 20240607135812.png",
-    "Attachments/Pasted image 20240607135912.png",
-    "Attachments/Pasted image 20240607144135.png",
-    "Attachments/Pasted image 20240607144326.png",
     "Notes/Transformers.md",
-    "Notes/Self Attention.md",
     "Notes/Softmax.md",
-    "Attachments/Pasted image 20240607130948.png",
     "Notes/QUOTES OF THE DAY.md",
     "Notes/Multi-Head Attention.md",
-    "Notes/GPT-4.md",
     "Notes/Attention.md",
     "Notes/Cross Attention.md",
     "Notes/Proxy.md",
@@ -201,27 +212,17 @@
     "Notes/Layer Normalization.md",
     "Notes/Normalization.md",
     "Notes/Residual connections.md",
-    "Notes/Encoder.md",
-    "Notes/Decoder.md",
     "Attachments/Recording 20240606032013.webm",
     "Notes/Lets build GPT, from scratch, in code, spelled out, Andrej Karpathy.md",
     "Attachments/Recording 20240606031527.webm",
     "Attachments/Recording 20240606031545.webm",
     "Attachments/Recording 20240606031524.webm",
     "Attachments/Recording 20240606031518.webm",
-    "Attachments/Recording 20240606031540.webm",
-    "Attachments/Recording 20240606031534.webm",
-    "Notes/tmux.md",
     "Notes/Linux.md",
     "Notes/Word Embeddings.md",
     "Notes/Tokenization.md",
     "Notes/Batch Normalization.md",
-    "Notes/Cress Attention.md",
-    "Notes/LSTM.md",
     "Untitled.canvas",
-    "Tags",
-    "Attachments/Recording 20240522161012.webm",
-    "Tracker",
     "Untitled 1.canvas"
   ]
 }
