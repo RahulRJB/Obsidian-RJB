@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Transformers.md",
+                "file": "Notes/Softmax.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "bb441cf5f595f5c5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Transformers.md",
+                "file": "Notes/Softmax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Transformers.md",
+                "file": "Notes/Softmax.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Transformers.md"
+                "file": "Notes/Softmax.md"
               }
             }
           },
@@ -185,14 +174,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bb441cf5f595f5c5",
+  "active": "d1af645c64a14b32",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240610172250.png",
+    "Attachments/Pasted image 20240610171713.png",
+    "Notes/Temperature.md",
+    "Notes/Softmax.md",
+    "Attachments/Pasted image 20240610170800.png",
+    "Notes/Self Attention.md",
+    "Notes/Context size.md",
+    "Notes/Encoder.md",
+    "Notes/Transformers.md",
     "Attachments/Pasted image 20240608121044.png",
     "Notes/Decoder.md",
-    "Notes/Encoder.md",
-    "Notes/Self Attention.md",
     "Attachments/Pasted image 20240608114530.png",
-    "Notes/Transformers.md",
     "Notes/GPT.md",
     "Notes/GPT-4.md",
     "Notes/auto-regressive.md",
@@ -210,10 +205,6 @@
     "Notes/Positional Encoding.md",
     "Attachments/Pasted image 20240607144500.png",
     "Attachments/Pasted image 20240607144432.png",
-    "Attachments/Pasted image 20240606190105.png",
-    "Attachments/Pasted image 20240606194822.png",
-    "Attachments/Pasted image 20240607131309.png",
-    "Notes/Softmax.md",
     "Notes/QUOTES OF THE DAY.md",
     "Notes/Multi-Head Attention.md",
     "Notes/Attention.md",
@@ -231,8 +222,6 @@
     "Attachments/Recording 20240606031524.webm",
     "Attachments/Recording 20240606031518.webm",
     "Notes/Linux.md",
-    "Notes/Word Embeddings.md",
-    "Notes/Tokenization.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

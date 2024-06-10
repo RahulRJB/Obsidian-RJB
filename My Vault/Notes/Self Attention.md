@@ -78,7 +78,8 @@ https://www.youtube.com/watch?v=wjZofJX0v4M&t=102s
 - **Transformers were designed for parallel computing**: Transformer can do all of the computation for each word in the input at the same time. For example we can calculate the word embeddings on different processors at the same time and then add the positional encoding at the same time and then calculate the queries keys and values at the same time and once that is done we can calculate the self-attention values at the same time and lastly we can calculate the residual connections at the same time. Doing all of the computations at the same time rather than doing them sequentially for each word means we can process a lot of words relatively quickly on a chip with a lot of computing cores like a GPU or multiple chips in the cloud.
 
 - This process repeats. Go back and forth between Attention layer and feed-forward block, until finally, the hope is that the essential meaning of the sequence has gotten baked into the last vector in the sequence.![[Attachments/Pasted image 20240608114530.png]]
-- 
+- Goal of Attention: To start of with, a set of vectors based on input text, these vectors are just plucked out of the embedding space, they encompass the meaning of the word but have no contextual information based on the sequence it is part of, i.e encodes the meaning of the word, without any input from the surrounding. the goal of the attention network it flows through, is to capture a richer and more specific meaning based on context.
+- [[Context size]]:Network can only process a fixed num of vectors at a time, ie. GPT-3 has a context size of 2048. This limits how much text the transformer can incorporate while predicting the next word. 
 
 
 
