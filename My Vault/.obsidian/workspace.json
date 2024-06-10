@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb441cf5f595f5c5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +185,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d1af645c64a14b32",
+  "active": "bb441cf5f595f5c5",
   "lastOpenFiles": [
     "Attachments/Pasted image 20240608121044.png",
     "Notes/Decoder.md",
