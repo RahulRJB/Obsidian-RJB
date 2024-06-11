@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1af645c64a14b32",
+            "id": "07a0e1c88934cf9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Self Attention.md",
+                "file": "Notes/RAG.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "right": {
     "id": "c7c09c75a428bb68",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Self Attention.md",
+                "file": "Notes/RAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Self Attention.md",
+                "file": "Notes/RAG.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Self Attention.md"
+                "file": "Notes/RAG.md"
               }
             }
           },
@@ -174,8 +175,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d1af645c64a14b32",
+  "active": "07a0e1c88934cf9b",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240611204222.png",
+    "Attachments/Pasted image 20240611204040.png",
+    "Attachments/Pasted image 20240611203823.png",
+    "Attachments/Pasted image 20240611202913.png",
+    "Notes/Self Attention.md",
+    "Notes/RAG.md",
     "Attachments/Pasted image 20240611014033.png",
     "Attachments/Pasted image 20240611014010.png",
     "Notes/Encoder.md",
@@ -184,7 +191,6 @@
     "Attachments/Pasted image 20240610171713.png",
     "Notes/Temperature.md",
     "Attachments/Pasted image 20240610170800.png",
-    "Notes/Self Attention.md",
     "Notes/Context size.md",
     "Notes/Transformers.md",
     "Attachments/Pasted image 20240608121044.png",
@@ -193,15 +199,11 @@
     "Notes/GPT.md",
     "Notes/GPT-4.md",
     "Notes/auto-regressive.md",
-    "Attachments/Pasted image 20240608035407.png",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
-    "Attachments/Pasted image 20240608034514.png",
-    "Attachments/Pasted image 20240608033720.png",
     "Attachments/Recording 20240608031932.webm",
     "Attachments/Recording 20240608031602.webm",
     "Attachments/Recording 20240608030942.webm",
-    "Attachments/Pasted image 20240608030011.png",
     "Notes/SSH.md",
     "Notes/tmux.md",
     "Notes/Positional Encoding.md",
@@ -221,7 +223,6 @@
     "Attachments/Recording 20240606031545.webm",
     "Attachments/Recording 20240606031524.webm",
     "Attachments/Recording 20240606031518.webm",
-    "Notes/Linux.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

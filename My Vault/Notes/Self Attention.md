@@ -35,6 +35,7 @@ https://www.youtube.com/watch?v=eMlx5fFNoYc&t=1284s
 - An encoder-decoder model can be as simple as an embedding layer attached to a single LSTM memory unit, but if we want a slightly more fancy encoder we can add additional lstm cells. We initialize the LSTM memories the cell and hidden states with 0s. After we pass in the word embeddings in sequential manner to the LSTM layer, it creates a context vector that we use to initialize a separate set of LSTM cells in the decoder side. So all of the input is jammed into the context vector.![[Attachments/Pasted image 20240606190105.png]]
 
 
+
 ## Attention mechanism:
 
 - Self Attention works by seeing how similar each word is to all of the words in the sentence including itself.
