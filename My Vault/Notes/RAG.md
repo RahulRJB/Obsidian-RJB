@@ -39,3 +39,16 @@ https://github.com/RahulRJB/RAG-from-scratch
 
 - ![[Attachments/Pasted image 20240612021701.png]]
 - ![[Attachments/Pasted image 20240612021759.png]]
+
+
+
+## Generation:
+
+- We use prompts to connect to LLMs using the Chat models![[Attachments/Pasted image 20240612025209.png]]
+- ![[Attachments/Pasted image 20240612030513.png]]![[Attachments/Pasted image 20240612030547.png]]
+
+## Query Transformation:
+
+- Goal of query translation is really to take an input user question and to translate in some way in order to improve retrieval.  Intuition is that it is possible that the way a question is initially worded, once embedded it is not well aligned or in close proximity in this High dimensional embedding space to a document that we want to retrieve, that's actually related. So the thinking is that by kind of rewriting it in a few different ways you actually increase the likelihood of actually retrieving the document that you really want.![[Attachments/Pasted image 20240612030638.png]]
+- ![[Attachments/Pasted image 20240612030851.png]]
+- ![[Attachments/Pasted image 20240612031406.png]]
