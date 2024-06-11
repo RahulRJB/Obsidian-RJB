@@ -16,6 +16,8 @@ https://www.youtube.com/watch?v=PSs6nxngL6k&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-
 
 https://www.youtube.com/watch?v=wjZofJX0v4M&t=102s
 
+https://www.youtube.com/watch?v=eMlx5fFNoYc&t=1284s
+
 
 
 # Content:
@@ -79,6 +81,7 @@ https://www.youtube.com/watch?v=wjZofJX0v4M&t=102s
 
 - This process repeats. Go back and forth between Attention layer and feed-forward block, until finally, the hope is that the essential meaning of the sequence has gotten baked into the last vector in the sequence.![[Attachments/Pasted image 20240608114530.png]]
 - Goal of Attention: To start of with, a set of vectors based on input text, these vectors are just plucked out of the embedding space, they encompass the meaning of the word but have no contextual information based on the sequence it is part of, i.e encodes the meaning of the word, without any input from the surrounding. the goal of the attention network it flows through, is to capture a richer and more specific meaning based on context.
+- There can be multiple distinct directions in the embedding space encoding the multiple distinct meanings of the a particular word, a well-trained attention block calculates what you need to add to the generic embedding to move it to one of these specific directions, as a function of the context.![[Attachments/Pasted image 20240611014033.png]]
 - [[Context size]]:Network can only process a fixed num of vectors at a time, ie. GPT-3 has a context size of 2048. This limits how much text the transformer can incorporate while predicting the next word. 
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Softmax.md",
+                "file": "Notes/Self Attention.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Softmax.md",
+                "file": "Notes/Self Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Softmax.md",
+                "file": "Notes/Self Attention.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Softmax.md"
+                "file": "Notes/Self Attention.md"
               }
             }
           },
@@ -176,14 +176,16 @@
   },
   "active": "d1af645c64a14b32",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240611014033.png",
+    "Attachments/Pasted image 20240611014010.png",
+    "Notes/Encoder.md",
+    "Notes/Softmax.md",
     "Attachments/Pasted image 20240610172250.png",
     "Attachments/Pasted image 20240610171713.png",
     "Notes/Temperature.md",
-    "Notes/Softmax.md",
     "Attachments/Pasted image 20240610170800.png",
     "Notes/Self Attention.md",
     "Notes/Context size.md",
-    "Notes/Encoder.md",
     "Notes/Transformers.md",
     "Attachments/Pasted image 20240608121044.png",
     "Notes/Decoder.md",
@@ -203,8 +205,6 @@
     "Notes/SSH.md",
     "Notes/tmux.md",
     "Notes/Positional Encoding.md",
-    "Attachments/Pasted image 20240607144500.png",
-    "Attachments/Pasted image 20240607144432.png",
     "Notes/QUOTES OF THE DAY.md",
     "Notes/Multi-Head Attention.md",
     "Notes/Attention.md",
