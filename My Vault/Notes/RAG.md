@@ -31,8 +31,6 @@ https://github.com/RahulRJB/RAG-from-scratch
 - The way to establish that relationship or relevance or similarity is typically done using some kind of numerical representation of documents, vector representation, and the reason is that it's very easy to compare vectors relative to free form text.![[Attachments/Pasted image 20240612010007.png]]
 - Over the years many methods have been developed to take text documents and compress them down into a numerical representation that then can be very easily searched.![[Attachments/Pasted image 20240612011240.png]]
 - We take documents, split them because embedding models actually have limited context windows, maybe on the order of maybe 512 tokens up to 8,000 tokens. So documents are split and each document is compressed into a vector and that Vector captures a semantic meaning of the document itself. These vectors are indexed. Questions can be embedded in the exactly same way and then numerical comparison is done to fish out relevant documents.![[Attachments/Pasted image 20240612011739.png]]
--  
-
 
 
 ## Retrieval:
