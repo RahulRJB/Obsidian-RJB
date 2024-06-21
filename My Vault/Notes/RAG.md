@@ -56,7 +56,6 @@ https://github.com/RahulRJB/RAG-from-scratch
 	- ![[Attachments/Pasted image 20240622014234.png]]![[Attachments/Pasted image 20240622014251.png]]![[Attachments/Pasted image 20240622014448.png]]
 
 
-
 - ### RAG_Fusion:
 	
 	- We apply a ranking step to our retrieved documents which we call reciprocal rank Fusion. That's really the only difference. The input stage of taking a question breaking it out into a few kind of differently worded questions remains the same.
@@ -71,4 +70,36 @@ https://github.com/RahulRJB/RAG-from-scratch
 	- ![[Attachments/Pasted image 20240622021145.png]]![[Attachments/Pasted image 20240622021457.png]]![[Attachments/Pasted image 20240622021831.png]]
 
 
+- ### Step-back Question:
 
+	- In this method, we use more abstract questions. 
+	- To do this, we do few-shot prompting:
+	- ![[Attachments/Pasted image 20240622030236.png]]![[Attachments/Pasted image 20240622030415.png]]![[Attachments/Pasted image 20240622030656.png]]
+
+
+- ### HyDE:
+
+	- Questions and documents are very different text objects. Documents can be very large chunks taken from dense publications or other sources whereas questions are short, potentially ill worded from users. The intuition behind HyDE is take questions and map them into document space using a hypothetical document or by generating a hypothetical document. The intuition is that these hypothetical document is closer to a desired document you actually want to retrieve in this high dimensional embedding space than the sparse raw input question itself. So a means for better retrieval.![[Attachments/Pasted image 20240622031306.png]]
+	- ![[Attachments/Pasted image 20240622031711.png]]![[Attachments/Pasted image 20240622031801.png]]![[Attachments/Pasted image 20240622031844.png]]
+
+
+## Routing:
+
+- Routing is the next step. Basically routing the query to the right source and in many cases that could be a different database. we can have a vector store, a relational DB and a graph DB, what we do with routing is we simply route the question based upon the context of the question to the relevant data source.
+- **Logical Routing**: We basically give an llm knowledge of the various data sources that we have at our disposal and we let the llm kind of Reason about which one to apply the question to. ![[Attachments/Pasted image 20240622032737.png]]
+- ![[Attachments/Pasted image 20240622033234.png]]![[Attachments/Pasted image 20240622033522.png]]![[Attachments/Pasted image 20240622033618.png]]![[Attachments/Pasted image 20240622033828.png]]
+- **Semantic routing**: We may have different prompts to the LLMs based on the need and the query. To select the appropriate prompt, we take the question we embed it. Then we embed prompts. we then compute the similarity between our question and those prompts and then we choose a prompt based upon the similarity.![[Attachments/Pasted image 20240622032932.png]]
+- ![[Attachments/Pasted image 20240622034139.png]]![[Attachments/Pasted image 20240622034449.png]]
+
+
+## Query Construction:
+
+- It is basically taking natural language and converting it into particular domain specific language.
+- Suppose in the vector store we have video transcripts  for Langchain. We ask a question to find me videos on Langchain published after 2024. The process of query structuring basically converts this natural language question into a structured query that can be applied to the metadata filters on your vectorstore. Most Vector stores will have some kind of meditative filters that can do kind of structured querying on top of the chunks that are indexed. So this type of query will retrieve all chunks that talk about the topic Langchain uh published after the date 2024.![[Attachments/Pasted image 20240622035007.png]]
+- Done using Function calling. Can use OpenAI or other providers. At a high level we take the metadata fields that are present in our Vectorstore and provide them to the model as kind of information and the model then can take those and produce queries that adhere to the schema provided um and then we can parse those out to a structured object like a pydantic object which again which can then be used in search.
+- ![[Attachments/Pasted image 20240622040031.png]]![[Attachments/Pasted image 20240622040253.png]]![[Attachments/Pasted image 20240622040328.png]]![[Attachments/Pasted image 20240622040356.png]]
+
+
+## Indexing:
+
+- 
