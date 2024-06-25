@@ -104,23 +104,6 @@ https://github.com/RahulRJB/RAG-from-scratch
 
 ## [[Indexing]]:
 
-- taking a document splitting it in some
-
-way but then using an llm to produce
-
-what they call a proposition which you
-
-can think of as like kind of a
-
-distillation of that split so it's kind
-
-of like using an llm to modify that
-
-split in some way to distill it or make
-
-it like a crisper uh like summary so to
-
-speak that's better optimized for
-
-retrieval![[Attachments/Pasted image 20240625221613.png]]![[Attachments/Pasted image 20240625222108.png]]
+- Proposition Indexing: Taking a document, using an llm to produce a proposition, which is kind of a distillation of that document. This makes it like a crisper, like summary so that's better optimized for retrieval, so might contain a bunch of keywords from the document or like the big ideas. Now we independently store the raw document in a docstore and after retrieving the summary in the vector store, you return the full document for the llm to perform generation. This is a nice trick because at generation time now with long-context LLMs, which can handle that entire document you don't need to worry about splitting it or anything you just simply use the summary to create a really nice representation for fishing out that full doc use that full doc in generation![[Attachments/Pasted image 20240625221613.png]]![[Attachments/Pasted image 20240625222108.png]]
+- 
 - 
