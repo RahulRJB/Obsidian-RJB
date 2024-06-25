@@ -25,7 +25,9 @@ https://github.com/RahulRJB/RAG-from-scratch
 - In a [[RAG]] system, documents are indexed such that they can be retrieved based upon some heuristics relative to an input, like a question. These relevant documents can be passed to an llm and the llm can produce answers that are grounded in that retrieved information. That's kind of the centerpiece or central idea behind RAG and why it's really powerful technology because it's really uniting the the knowledge and processing capacity of llms with large scale private external data source for which most of the important data in the world still lives![[Attachments/Pasted image 20240611204222.png]]
 - ![[Attachments/Pasted image 20240612005113.png]]
 
-## [[Indexing]]:
+
+## Basics:
+### [[Indexing]]:
 
 - External documents are put into something called Retriever. The goal of this retriever is, given an input question, I want to fish out documents that are related to my question in some way. 
 - The way to establish that relationship or relevance or similarity is typically done using some kind of numerical representation of documents, vector representation, and the reason is that it's very easy to compare vectors relative to free form text.![[Attachments/Pasted image 20240612010007.png]]
@@ -33,14 +35,14 @@ https://github.com/RahulRJB/RAG-from-scratch
 - We take documents, split them because embedding models actually have limited context windows, maybe on the order of maybe 512 tokens up to 8,000 tokens. So documents are split and each document is compressed into a vector and that Vector captures a semantic meaning of the document itself. These vectors are indexed. Questions can be embedded in the exactly same way and then numerical comparison is done to fish out relevant documents.![[Attachments/Pasted image 20240612011739.png]]
 
 
-## [[Retrieval]]:
+### [[Retrieval]]:
 
 - ![[Attachments/Pasted image 20240612021701.png]]
 - ![[Attachments/Pasted image 20240612021759.png]]
 
 
 
-## [[Generation]]:
+### [[Generation]]:
 
 - We use prompts to connect to LLMs using the Chat models![[Attachments/Pasted image 20240612025209.png]]
 - ![[Attachments/Pasted image 20240612030513.png]]The question gets passed to the dictionary and it automatically triggers the retriever which retrieves the relevant documents and fills it as the "context" for the LLM to answer correctly![[Attachments/Pasted image 20240612030547.png]]
@@ -100,6 +102,25 @@ https://github.com/RahulRJB/RAG-from-scratch
 - ![[Attachments/Pasted image 20240622040031.png]]![[Attachments/Pasted image 20240622040253.png]]![[Attachments/Pasted image 20240622040328.png]]![[Attachments/Pasted image 20240622040356.png]]
 
 
-## Indexing:
+## [[Indexing]]:
 
+- taking a document splitting it in some
+
+way but then using an llm to produce
+
+what they call a proposition which you
+
+can think of as like kind of a
+
+distillation of that split so it's kind
+
+of like using an llm to modify that
+
+split in some way to distill it or make
+
+it like a crisper uh like summary so to
+
+speak that's better optimized for
+
+retrieval![[Attachments/Pasted image 20240625221613.png]]![[Attachments/Pasted image 20240625222108.png]]
 - 
