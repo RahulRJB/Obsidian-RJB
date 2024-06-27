@@ -124,3 +124,8 @@ https://github.com/RahulRJB/RAG-from-scratch
 - Check CRAG implementation of ActiveRAG  from the video.
 
 
+## AdaptiveRAG:
+
+- ![[Attachments/Pasted image 20240627142901.png]]
+Check video for more. Not required that much.
+
