@@ -104,6 +104,23 @@ https://github.com/RahulRJB/RAG-from-scratch
 
 ## [[Indexing]]:
 
-- Proposition Indexing: Taking a document, using an llm to produce a proposition, which is kind of a distillation of that document. This makes it like a crisper, like summary so that's better optimized for retrieval, so might contain a bunch of keywords from the document or like the big ideas. Now we independently store the raw document in a docstore and after retrieving the summary in the vector store, you return the full document for the llm to perform generation. This is a nice trick because at generation time now with long-context LLMs, which can handle that entire document you don't need to worry about splitting it or anything you just simply use the summary to create a really nice representation for fishing out that full doc use that full doc in generation![[Attachments/Pasted image 20240625221613.png]]![[Attachments/Pasted image 20240625222108.png]]
+![[Attachments/Pasted image 20240627022034.png]]
+#### Proposition Indexing: 
+- Taking a document, using an llm to produce a proposition, which is kind of a distillation of that document. This makes it like a crisper, like summary so that's better optimized for retrieval, so might contain a bunch of keywords from the document or like the big ideas. Now we independently store the raw document in a docstore and after retrieving the summary in the vector store, you return the full document for the llm to perform generation. This is a nice trick because at generation time now with long-context LLMs, which can handle that entire document you don't need to worry about splitting it or anything you just simply use the summary to create a really nice representation for fishing out that full doc use that full doc in generation![[Attachments/Pasted image 20240625221613.png]]![[Attachments/Pasted image 20240625222108.png]]
 - ![[Attachments/Pasted image 20240626132255.png]]Adding summary to vectorstore and full docs to docstore![[Attachments/Pasted image 20240626135950.png]]![[Attachments/Pasted image 20240626140323.png]]
-- 
+#### RAPTOR:
+- Intuition is that some questions require consolidation across kind broad array of documents or many chunks within a document and you can call these high level questions. So there's kind of this challenge in retrieval that typically we do like KNN retrieval to fish out some number of chunks but what if you have a question that requires information across like 10-12 different chunks? These very high level question that could benefit from retrieval across many diff clusters of document.![[Attachments/Pasted image 20240627022135.png]]
+- Applying this to a large set of langchain documents:![[Attachments/Pasted image 20240627023416.png]]![[Attachments/Pasted image 20240627023442.png]]![[Attachments/Pasted image 20240627023534.png]]![[Attachments/Pasted image 20240627023633.png]]![[Attachments/Pasted image 20240627023700.png]]
+- Full code @   https://github.com/langchain-ai/langchain/blob/master/cookbook/RAPTOR.ipynb
+- ![[Attachments/Pasted image 20240627023854.png]]![[Attachments/Pasted image 20240627023911.png]]![[Attachments/Pasted image 20240627023938.png]]
+#### ColBERT: 
+- A very diff approach to calculating doc similarity.
+- Main idea is instead of just taking a document and compressing it down to a single vector, we take the document, break it up into individual tokens, basically tokenize it and you produce basically an embedding vector for every token and there's some kind of positional encoding that occurs when you do this process. Now you do the same thing for your question as well. Then for every token in the question you're Computin g the similarity across all the tokens in the document and you're finding the max,  storing that and you're doing that process for all the tokens in the question. Final score is the sum of the max similarities. Strong performance, but latency is the question.![[Attachments/Pasted image 20240627024250.png]]
+- ![[Attachments/Pasted image 20240627024925.png]]![[Attachments/Pasted image 20240627025012.png]]![[Attachments/Pasted image 20240627025126.png]]
+
+## Active RAG:
+
+- ![[Attachments/Pasted image 20240627025658.png]]![[Attachments/Pasted image 20240627025739.png]]![[Attachments/Pasted image 20240627025844.png]]
+- Check CRAG implementation of ActiveRAG  from the video.
+
+
