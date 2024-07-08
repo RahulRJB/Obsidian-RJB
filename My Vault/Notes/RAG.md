@@ -122,10 +122,15 @@ https://github.com/RahulRJB/RAG-from-scratch
 
 - ![[Attachments/Pasted image 20240627025658.png]]![[Attachments/Pasted image 20240627025739.png]]![[Attachments/Pasted image 20240627025844.png]]
 - Check CRAG implementation of ActiveRAG  from the video.
+- ![[Attachments/Pasted image 20240627161927.png]]
 
 
 ## AdaptiveRAG:
 
 - ![[Attachments/Pasted image 20240627142901.png]]
 Check video for more. Not required that much.
+
+## Why RAG still required when we have LLMs now with massive context windows?
+
+video check:  [2:12:02](https://www.youtube.com/watch?v=sVcwVQRHIc8&list=WL&index=51&t=7922s)
 

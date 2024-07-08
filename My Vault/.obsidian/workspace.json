@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca7bf8fb8c73adf4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,8 +185,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "07a0e1c88934cf9b",
+  "active": "ca7bf8fb8c73adf4",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240627161927.png",
     "Attachments/Pasted image 20240627142901.png",
     "Attachments/Pasted image 20240627025844.png",
     "Attachments/Pasted image 20240627025739.png",
@@ -186,7 +198,6 @@
     "Attachments/Pasted image 20240627024250.png",
     "Attachments/Pasted image 20240627023938.png",
     "Attachments/Pasted image 20240627023911.png",
-    "Attachments/Pasted image 20240627023854.png",
     "Notes/Indexing.md",
     "Notes/RAG.md",
     "Notes/Retrieval.md",
