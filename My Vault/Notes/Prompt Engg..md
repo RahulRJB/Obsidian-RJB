@@ -25,6 +25,10 @@ Tags: [[Tags/LLMs|LLMs]]
 
 - Elements:
   ![[Attachments/Pasted image 20240709230128.png]]
+- ![[Attachments/Pasted image 20240710001954.png]]
+- ![[Attachments/Pasted image 20240710002546.png]]![[Attachments/Pasted image 20240710002609.png]]
+- ![[Attachments/Pasted image 20240710002706.png]]
+- ![[Attachments/Pasted image 20240710003130.png]]
 - 
 
 
