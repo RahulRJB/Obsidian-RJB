@@ -1,13 +1,4 @@
 {
-  "insert-template": [
-    {
-      "modifiers": [
-        "Mod",
-        "Meta"
-      ],
-      "key": "T"
-    }
-  ],
   "audio-recorder:start": [
     {
       "modifiers": [
@@ -98,6 +89,15 @@
         "Ctrl"
       ],
       "key": "PageUp"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
     }
   ]
 }
