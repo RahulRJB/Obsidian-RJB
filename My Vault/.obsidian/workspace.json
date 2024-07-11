@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07a0e1c88934cf9b",
+            "id": "8c00f18d79f0274b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba4a16ef35f2e5e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/BM25.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9757efca55553fc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Tf-IDf.md",
+                "file": "Notes/RAG.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tmux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/BM25.md",
+                "file": "Notes/RAG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/BM25.md",
+                "file": "Notes/RAG.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/BM25.md"
+                "file": "Notes/RAG.md"
               }
             }
           },
@@ -201,23 +174,25 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ba4a16ef35f2e5e2",
+  "active": "8c00f18d79f0274b",
   "lastOpenFiles": [
-    "Notes/Tf-IDf.md",
+    "Attachments/Pasted image 20240711120304.png",
+    "Attachments/Pasted image 20240711120126.png",
+    "Notes/Hybrid Search.md",
+    "Attachments/Pasted image 20240711115110.png",
+    "Attachments/Pasted image 20240711114910.png",
+    "Attachments/Pasted image 20240711114218.png",
     "Notes/BM25.md",
-    "Attachments/Pasted image 20240710133751.png",
-    "Attachments/Pasted image 20240710133202.png",
     "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
+    "Notes/Tf-IDf.md",
+    "Attachments/Pasted image 20240711111243.png",
+    "Attachments/Pasted image 20240711111146.png",
+    "Attachments/Pasted image 20240711111132.png",
+    "Attachments/Pasted image 20240711110635.png",
+    "Attachments/Pasted image 20240711105535.png",
+    "Attachments/Pasted image 20240710133751.png",
     "Notes/Prompt Engg..md",
     "Notes/GIT.md",
-    "Attachments/Pasted image 20240710003130.png",
-    "Attachments/Pasted image 20240710002706.png",
-    "Attachments/Pasted image 20240710002609.png",
-    "Attachments/Pasted image 20240710002546.png",
-    "Attachments/Pasted image 20240710001954.png",
-    "Attachments/Pasted image 20240709230128.png",
-    "Attachments/Pasted image 20240709005452.png",
-    "Attachments/Pasted image 20240709004542.png",
     "Templates/Template 1.md",
     "Notes/RAG.md",
     "Notes/Indexing.md",
@@ -242,7 +217,6 @@
     "Attachments/Recording 20240608030942.webm",
     "Notes/SSH.md",
     "Notes/tmux.md",
-    "Notes/Positional Encoding.md",
     "Attachments/Recording 20240606032013.webm",
     "Attachments/Recording 20240606031527.webm",
     "Attachments/Recording 20240606031545.webm",

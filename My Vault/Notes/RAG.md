@@ -54,15 +54,18 @@ https://github.com/RahulRJB/RAG-from-scratch
 
 
 - ### Multi-Query Approach:
-	-  Taking a question and breaking it down into a few differently worded questions from different perspectives. Intuition is that it is possible that the way a question is initially worded, once embedded it is not well aligned or in close proximity in this High dimensional embedding space to a document that we want to retrieve. So the thinking is that by kind of rewriting it in a few different ways you actually increase the likelihood of actually retrieving the document that you really want.![[Attachments/Pasted image 20240612031406.png]]
+	- Taking a question and breaking it down into a few differently worded questions from different perspectives. Intuition is that it is possible that the way a question is initially worded, once embedded it is not well aligned or in close proximity in this High dimensional embedding space to a document that we want to retrieve. So the thinking is that by kind of rewriting it in a few different ways you actually increase the likelihood of actually retrieving the document that you really want.![[Attachments/Pasted image 20240612031406.png]]
 	- ![[Attachments/Pasted image 20240622014234.png]]![[Attachments/Pasted image 20240622014251.png]]![[Attachments/Pasted image 20240622014448.png]]
 
 
 - ### RAG_Fusion:
 	
+	- RAG fusion aspires to bridge the gap between what uses explicitly asked and what they intend to ask.
 	- We apply a ranking step to our retrieved documents which we call reciprocal rank Fusion. That's really the only difference. The input stage of taking a question breaking it out into a few kind of differently worded questions remains the same.
 	- ![[Attachments/Pasted image 20240622015308.png]]![[Attachments/Pasted image 20240622015413.png]]![[Attachments/Pasted image 20240622015707.png]]
 	- This is convenient particularly when we're operating across different vector stores or we want to do retrieval across a large number of differently worded questions. It is also helpful in cases if we wanted to only take the top 3 documents or something. It can be really nice to build that consolidated ranking across all these independent retrievals then pass that to the LLM for the final generation.
+	- https://www.youtube.com/watch?v=GchC5WxeXGc&list=PL8motc6AQftn-X1HkaGG9KjmKtWImCKJS&index=12
+		- ![[Attachments/Pasted image 20240711120126.png]]![[Attachments/Pasted image 20240711120304.png]]
 
 
 - ### Decomposition:
