@@ -66,6 +66,7 @@ https://github.com/RahulRJB/RAG-from-scratch
 	- This is convenient particularly when we're operating across different vector stores or we want to do retrieval across a large number of differently worded questions. It is also helpful in cases if we wanted to only take the top 3 documents or something. It can be really nice to build that consolidated ranking across all these independent retrievals then pass that to the LLM for the final generation.
 	- https://www.youtube.com/watch?v=GchC5WxeXGc&list=PL8motc6AQftn-X1HkaGG9KjmKtWImCKJS&index=12
 		- ![[Attachments/Pasted image 20240711120126.png]]![[Attachments/Pasted image 20240711120304.png]]
+		- https://colab.research.google.com/drive/1rTO2qtBFw4voPr3yyvs9uNsIaGT7da0y?usp=sharing
 
 
 - ### Decomposition:
