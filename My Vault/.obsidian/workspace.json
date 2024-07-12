@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/RAG.md",
+                "file": "Notes/Model IO.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc7ef8ff8827d694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Vector Databases.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/RAG.md",
+                "file": "Notes/Vector Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/RAG.md",
+                "file": "Notes/Vector Databases.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/RAG.md"
+                "file": "Notes/Vector Databases.md"
               }
             }
           },
@@ -174,8 +188,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8c00f18d79f0274b",
+  "active": "cc7ef8ff8827d694",
   "lastOpenFiles": [
+    "Notes/Model IO.md",
+    "Notes/Vector Databases.md",
+    "Notes/RAG.md",
     "Attachments/Pasted image 20240711120304.png",
     "Attachments/Pasted image 20240711120126.png",
     "Notes/Hybrid Search.md",
@@ -190,15 +207,12 @@
     "Attachments/Pasted image 20240711111132.png",
     "Attachments/Pasted image 20240711110635.png",
     "Attachments/Pasted image 20240711105535.png",
-    "Attachments/Pasted image 20240710133751.png",
     "Notes/Prompt Engg..md",
     "Notes/GIT.md",
     "Templates/Template 1.md",
-    "Notes/RAG.md",
     "Notes/Indexing.md",
     "Notes/Retrieval.md",
     "Notes/Generation.md",
-    "Notes/Model IO.md",
     "Notes/Multi-Head Attention.md",
     "Notes/Self Attention.md",
     "Notes/Encoder.md",
