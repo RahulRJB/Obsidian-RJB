@@ -30,7 +30,7 @@ There are different ways of storing vectors in the vector database for efficient
 Different similarity techniques:
 - cosine
 - Euclidean
-- dot prod 
+- dot prod
 
 
 
