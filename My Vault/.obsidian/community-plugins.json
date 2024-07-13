@@ -1,11 +1,12 @@
 [
-  "table-editor-obsidian",
   "editing-toolbar",
   "obsidian-git",
   "obsidian-linter",
-  "obsidian-tasks-plugin",
   "obsidian-outliner",
   "obsidian-kanban",
+  "calendar",
+  "obsidian-day-planner",
   "obsidian-mind-map",
-  "calendar"
+  "obsidian-tasks-plugin",
+  "dataview"
 ]

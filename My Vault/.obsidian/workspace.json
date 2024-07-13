@@ -4,41 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5d317545dd952457",
+        "id": "91e219131ac0abbf",
         "type": "tabs",
         "children": [
           {
-            "id": "f58343e777b97aca",
+            "id": "4366724ecf2c9185",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/RAG Chatbot.md",
+                "file": "Notes/MLOps AWS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "953325bb1b2b3f7e",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Notes/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/RAG Chatbot.md",
+                "file": "Notes/MLOps AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/RAG Chatbot.md",
+                "file": "Notes/MLOps AWS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/RAG Chatbot.md"
+                "file": "Notes/MLOps AWS.md"
               }
             }
           },
@@ -175,13 +157,22 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "e4f6b248289256eb",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,30 +187,39 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "fea200db63515223",
+  "active": "4366724ecf2c9185",
   "lastOpenFiles": [
-    "Notes/⏫.md",
-    "Notes/Untitled Kanban.md",
-    "Notes/Projects.md",
-    "Notes/RAG Chatbot.md",
-    "Attachments/Pasted image 20240712135615.png",
-    "Notes/Chatbot.md",
-    "Attachments/Pasted image 20240712134828.png",
-    "Attachments/Pasted image 20240712120817.png",
-    "Attachments/Pasted image 20240712120742.png",
-    "Attachments/Pasted image 20240712120344.png",
-    "Attachments/Pasted image 20240712120256.png",
-    "Notes/Vector Databases.md",
+    "Attachments/Pasted image 20240713162008.png",
+    "Attachments/Pasted image 20240713155355.png",
+    "Attachments/Pasted image 20240713154549.png",
+    "Notes/AWS.md",
+    "Notes/MLOps AWS.md",
+    "Attachments/Pasted image 20240516232315.png",
+    "Attachments/Pasted image 20240516232328.png",
+    "Attachments/Pasted image 20240516232401.png",
+    "Attachments/Pasted image 20240516232442.png",
+    "Attachments/Pasted image 20240516232713.png",
     "Notes/Model IO.md",
+    "Attachments/Pasted image 20240516173755.png",
+    "Tracker/Planner.md",
+    "Attachments/Pasted image 20240423172721.png",
+    "Attachments/Pasted image 20240425052745.png",
+    "Tracker/Projects.md",
+    "Notes/RAG Chatbot.md",
+    "Tracker/09-07-24.md",
+    "Tracker/13-07-24.md",
+    "Tracker/12-07-24.md",
+    "Tracker/22-05-24.md",
+    "Tracker/10-07-24.md",
+    "Notes/⏫.md",
+    "Notes/Chatbot.md",
+    "Notes/Vector Databases.md",
     "Notes/RAG.md",
-    "Attachments/Pasted image 20240711120304.png",
-    "Attachments/Pasted image 20240711120126.png",
     "Notes/Hybrid Search.md",
-    "Attachments/Pasted image 20240711115110.png",
-    "Attachments/Pasted image 20240711114910.png",
     "Notes/BM25.md",
     "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
     "Notes/Tf-IDf.md",
@@ -229,14 +229,6 @@
     "Notes/Indexing.md",
     "Notes/Retrieval.md",
     "Notes/Generation.md",
-    "Notes/Multi-Head Attention.md",
-    "Notes/Self Attention.md",
-    "Notes/Encoder.md",
-    "Notes/Softmax.md",
-    "Notes/Temperature.md",
-    "Notes/Context size.md",
-    "Notes/Transformers.md",
-    "Notes/Decoder.md",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
     "Attachments/Recording 20240608031932.webm",
