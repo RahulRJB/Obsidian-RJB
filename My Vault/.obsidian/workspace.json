@@ -19,8 +19,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "953325bb1b2b3f7e",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Notes/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,14 +167,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "fea200db63515223",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,11 +199,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f58343e777b97aca",
+  "active": "fea200db63515223",
   "lastOpenFiles": [
+    "Notes/⏫.md",
+    "Notes/Untitled Kanban.md",
+    "Notes/Projects.md",
+    "Notes/RAG Chatbot.md",
     "Attachments/Pasted image 20240712135615.png",
     "Notes/Chatbot.md",
-    "Notes/RAG Chatbot.md",
     "Attachments/Pasted image 20240712134828.png",
     "Attachments/Pasted image 20240712120817.png",
     "Attachments/Pasted image 20240712120742.png",
@@ -192,7 +220,6 @@
     "Notes/Hybrid Search.md",
     "Attachments/Pasted image 20240711115110.png",
     "Attachments/Pasted image 20240711114910.png",
-    "Attachments/Pasted image 20240711114218.png",
     "Notes/BM25.md",
     "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
     "Notes/Tf-IDf.md",
@@ -210,8 +237,6 @@
     "Notes/Context size.md",
     "Notes/Transformers.md",
     "Notes/Decoder.md",
-    "Notes/GPT.md",
-    "Notes/GPT-4.md",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
     "Attachments/Recording 20240608031932.webm",
