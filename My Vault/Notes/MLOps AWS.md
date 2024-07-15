@@ -10,7 +10,7 @@ Tags:  [[Notes/MLOps AWS|MLOps AWS]] [[AWS]]
 
 # References:  
 https://youtube.com/watch?v=UnAN35gu3Rw
-
+https://www.youtube.com/watch?v=T9llSCYJXxc&t=1s
 
 
 
@@ -25,7 +25,7 @@ https://youtube.com/watch?v=UnAN35gu3Rw
 	- Data scientist might have forgotten to turn on auto-scaling for the SageMaker endpoint, so it cannot adjust capacity according to the number of requests coming in. 
 	- There's no feedback loop. If the quality of the model deteriorates, you would only find out through complaints from disgruntled users.
 
-### MLOps with AWS:
+### MLOps tools with AWS :
 - ![[Attachments/Pasted image 20240714201110.png]]
 #### SMALL SETUP
 
@@ -63,3 +63,10 @@ https://youtube.com/watch?v=UnAN35gu3Rw
 - Finally, I'll bring back model monitor to generate reports on drift and trigger re-training if necessary. 
 - SageMaker feature store, which sits in the artefact account because features are artifacts which can be reused. Data scientists will normally perform feature engineering before training a model, and it has a large impact on model performance. In large companies, there's a good chance that data scientists will be working on separate use cases which rely on the same dataset. A feature store allows data scientists to take advantage of features created by others. It reduces their workload and also ensures consistency in the features that are created from a dataset. 
 - SageMaker Clarify can be used by data scientists in the development phase to identify bias in datasets and to generate  explainability reports for models, similar to model monitor, Clarify can also be used to generate baseline bias and explainability reports, which can then be compared to the behaviour of the model in the endpoint. If Clarify finds that bias is increasing or the explainability results are changing, it can trigger a re-training of the model.
+
+
+### EDA with AWS:
+
+- Can be done using **SageMaker Data Wrangler**, notebooks, or processing jobs:![[Attachments/Pasted image 20240715134456.png]]
+- Notebooks:![[Attachments/Pasted image 20240715134648.png]]
+- Processing Jobs:![[Attachments/Pasted image 20240715134735.png]]
