@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0efaaa7277c1fac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/MLOps course- UDEMY.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/MLOps AWS.md",
+                "file": "Notes/MLOps course- UDEMY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/MLOps AWS.md",
+                "file": "Notes/MLOps course- UDEMY.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/MLOps AWS.md"
+                "file": "Notes/MLOps course- UDEMY.md"
               }
             }
           },
@@ -190,11 +204,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4366724ecf2c9185",
+  "active": "0efaaa7277c1fac2",
   "lastOpenFiles": [
+    "Notes/MLOps AWS.md",
+    "Notes/MLOps course- UDEMY.md",
+    "Notes/MLOps course",
     "Attachments/Pasted image 20240717115645.png",
     "Attachments/Pasted image 20240717111529.png",
-    "Notes/MLOps AWS.md",
     "Attachments/Pasted image 20240715134735.png",
     "Attachments/Pasted image 20240715134648.png",
     "Attachments/Pasted image 20240715134456.png",
@@ -203,7 +219,6 @@
     "Attachments/Pasted image 20240714221047.png",
     "Attachments/Pasted image 20240714220758.png",
     "Attachments/Pasted image 20240714220518.png",
-    "Attachments/Pasted image 20240714215745.png",
     "Notes/CodeCommit.md",
     "Notes/AWS.md",
     "Notes/Model IO.md",
@@ -237,7 +252,6 @@
     "Attachments/Recording 20240606031527.webm",
     "Attachments/Recording 20240606031545.webm",
     "Attachments/Recording 20240606031524.webm",
-    "Attachments/Recording 20240606031518.webm",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
