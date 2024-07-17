@@ -14,7 +14,9 @@ Tags: [[Notes/MLOps AWS|MLOps AWS]] [[Notes/AWS|AWS]]
 
 # Content:
 
-
+### Intro:
+- ![[Attachments/Pasted image 20240717131811.png]]
+- ![[Attachments/Pasted image 20240717131910.png]]
 
 
 
