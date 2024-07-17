@@ -10,7 +10,9 @@ Tags:  [[Notes/MLOps AWS|MLOps AWS]] [[AWS]]
 
 # References:  
 https://youtube.com/watch?v=UnAN35gu3Rw
-https://www.youtube.com/watch?v=T9llSCYJXxc&t=1s
+https://www.youtube.com/watch?v=T9llSCYJXxc&t=1s   [code](https://github.com/aws-samples/amazon-sagemaker-from-idea-to-production)
+
+
 
 
 
@@ -65,9 +67,11 @@ https://www.youtube.com/watch?v=T9llSCYJXxc&t=1s
 - SageMaker Clarify can be used by data scientists in the development phase to identify bias in datasets and to generate  explainability reports for models, similar to model monitor, Clarify can also be used to generate baseline bias and explainability reports, which can then be compared to the behaviour of the model in the endpoint. If Clarify finds that bias is increasing or the explainability results are changing, it can trigger a re-training of the model.
 
 
-### EDA with AWS:
+### EDA with AWS:  
+https://www.youtube.com/watch?v=T9llSCYJXxc&t=1s   [code](https://github.com/aws-samples/amazon-sagemaker-from-idea-to-production)
+
 
 - Can be done using **SageMaker Data Wrangler**, notebooks, or processing jobs:![[Attachments/Pasted image 20240715134456.png]]
 - Notebooks:![[Attachments/Pasted image 20240715134648.png]]
 - Processing Jobs:![[Attachments/Pasted image 20240715134735.png]]
-- 
+- SageMaker pipelines:![[Attachments/Pasted image 20240717115645.png]]
