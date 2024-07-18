@@ -21,5 +21,8 @@ Tags: [[Notes/MLOps AWS|MLOps AWS]] [[Notes/AWS|AWS]]
 - ![[Attachments/Pasted image 20240718115124.png]]
 - ![[Attachments/Pasted image 20240718115245.png]]
 - ![[Attachments/Pasted image 20240718115822.png]]
+### AWS Code Commit:
+
+- ![[Attachments/Pasted image 20240718140112.png]]
 
 
