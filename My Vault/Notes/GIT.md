@@ -77,3 +77,5 @@ The choice between merge and rebase depends on your workflow and preferences. He
 - **Use rebase:**
     - For personal development or cleanup before sharing your work.
     - When you want a clean and linear Git history for your branch.
+
+
