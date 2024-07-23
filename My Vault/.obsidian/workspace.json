@@ -32,6 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "415eb111d47f0b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/Projects.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -205,16 +218,17 @@
   },
   "active": "34cd999b91237ddd",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240723115040.png",
+    "Tracker/Projects.md",
+    "Notes/MLOps course- UDEMY.md",
+    "Tracker/23-07-24.md",
     "Notes/GIT.md",
     "Notes/MLOps AWS.md",
     "Tracker/Planner.md",
-    "Tracker/Projects.md",
-    "Tracker/23-07-24.md",
     "Tracker/24-07-24.md",
     "Tracker/09-07-24.md",
     "Tracker/13-07-24.md",
     "Tracker/12-07-24.md",
-    "Notes/MLOps course- UDEMY.md",
     "Notes/Linux.md",
     "Notes/YAML.md",
     "Attachments/Pasted image 20240718140112.png",
@@ -241,7 +255,6 @@
     "Notes/Vector Databases.md",
     "Notes/RAG.md",
     "Notes/Hybrid Search.md",
-    "Notes/BM25.md",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
     "Attachments/Recording 20240608031932.webm",
