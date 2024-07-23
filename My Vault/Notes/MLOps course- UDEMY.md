@@ -62,4 +62,34 @@ Tags: [[Notes/MLOps AWS|MLOps AWS]] [[Notes/AWS|AWS]]
 - Rules>Create Rule>Rule with event pattern or Schedule>Select the source> Select the target event.
 ### AWS Code Deploy:
 
-- 
+- Fully managed service
+- Coordinates the application deployment and updates it across the entire fleet of AWS EC2 instances of any size.
+- Help us to automate the software deployments where the applications can be running on EC2 instances or it can be running on AWS Fargate, which is a serverless architecture, AWS Lambda or on-premise servers. Supports server as well as the serverless, including the container deployments.
+- No downtime- Can specify how does the deployment of an application should look like.
+- Auto scaling.
+- Rollback support.
+- CodeDeploy, uses appspec.yml file.
+	- ![[Attachments/Pasted image 20240724015409.png]]
+	- ![[Attachments/Pasted image 20240724015733.png]]
+	- ![[Attachments/Pasted image 20240724020012.png]]
+	- ![[Attachments/Pasted image 20240724020239.png]]
+	- ![[Attachments/Pasted image 20240724020252.png]]
+	- Contains the commands to execute at each phase of deployment. Any application deployment, it's not just switch off and switch on, it contains various phases. You have to control the traffic, ensure that you stop the application, bring up the new application, stop the connection to the database, once your application is updated, then you have to do the reconnection to those application, perform some testing. All those complex activities we will be specifying inside this application configuration file.
+	- 2 types of deployment: 
+		- In-Place: Updating the version of the application on the existing EC2 instances. Has Downtime present. Preferred in Dev and Staging, cheaper
+		- Blue Green: gradually replace the existing instance with instances running new version. No downtime. Preferred in prod.
+	- Specify to which server that I want to place with the help of the deployment group, i.e which set of EC2 instances that I want to push my latest code to.
+- Deployment via CodeDeploy 5 step process:
+	- 1. Create an EC2 instances with Iam roles attached to it. Now this role should have the permission to read an S3 bucket. Because we have to read the source code from the S3 bucket.
+	- 2. To deploy application, first create an application in the code deploy.
+	- 3. Push the code revision to my S3 bucket, which is an version managed S3 bucket.
+	- 4. Specify the deployment group. Decides which instances to deploy and how to deploy and which version to deploy.
+	- 5. Deploy the application into an EC2 instances.
+	- ![[Attachments/Pasted image 20240724011936.png]]
+	- Individual  EC2 instances have code deploy agent. Whenever any new request comes in for this code deploy service, this request will be passed to the code deploy agent, if we have pushed the new version code to my repository, could be an S3 bucket. Then this code deploy agent is going to initiate a request to that s3 bucket. So as a result of this, once the request is received, the code deploy agent running inside this EC2 instance will pick the latest version of the code from this S3 bucket. In order to do this, that's the reason we need to assign an Iam role for this  EC2 instance.![[Attachments/Pasted image 20240724012454.png]]
+	- ![[Attachments/Pasted image 20240724012909.png]]
+	- https://github.com/manifoldailearning/mlops-with-aws-datascientists/blob/main/Section-9-CodeDeploy/CODEDEPLOY.md
+
+### AWS Code Pipeline:
+
+- ![[Attachments/Pasted image 20240724021218.png]]![[Attachments/Pasted image 20240724021309.png]]![[Attachments/Pasted image 20240724021419.png]]
