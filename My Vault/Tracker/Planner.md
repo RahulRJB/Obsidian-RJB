@@ -6,14 +6,15 @@ kanban-plugin: board
 
 ## TO study
 
-- [ ] MLOps
+- [ ] Revision of Projects
+- [x] MLOps ✅ 2024-07-24
+- [ ] Basics algos
 - [ ] Langchain
-- [ ] Opensearch
+- [x] Opensearch ✅ 2024-07-24
 - [ ] Prompt engineering
 - [ ] RLHF
 - [ ] LORA
 - [ ] Karpathy videos
-- [ ] Basics algos
 - [ ] Stacking, blending, AK
 - [ ] WOE
 - [ ] Factor analysis code and intuition

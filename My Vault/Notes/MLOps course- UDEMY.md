@@ -93,3 +93,8 @@ Tags: [[Notes/MLOps AWS|MLOps AWS]] [[Notes/AWS|AWS]]
 ### AWS Code Pipeline:
 
 - ![[Attachments/Pasted image 20240724021218.png]]![[Attachments/Pasted image 20240724021309.png]]![[Attachments/Pasted image 20240724021419.png]]
+
+### Sagemaker:
+
+- ![[Attachments/Pasted image 20240724123723.png]]
+- Data Wrangler for Feature Engg.

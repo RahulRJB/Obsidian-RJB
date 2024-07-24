@@ -7,9 +7,12 @@ Type of search in retrieval:
 - KNN
 Hybrid search experimentation
 Uses AWS secret manager, AWS codebuild
+experiments with cross encoder, sentence transformer
 ## Aegon:
 
-Test cases in Codebuild, like data validation
+- Used Data Wrangler, Feature Engg.
+- Test cases in Codebuild, like data validation
+- 
 ## GenAI LAB:
 
 
