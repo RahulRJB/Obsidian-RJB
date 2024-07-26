@@ -10,6 +10,7 @@ Tags: [[Tags/LLMs|LLMs]]
 # References: 
 [Prompt Engineering Tutorial – Master ChatGPT and LLM Responses (youtube.com)](https://www.youtube.com/watch?v=_ZvnD73m40o&t=47s)
 [Prompt Engineering 101 - Crash Course & Tips (youtube.com)](https://www.youtube.com/watch?v=aOm75o2Z5-o&t=11s)
+https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 
 
 

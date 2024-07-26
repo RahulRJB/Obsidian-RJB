@@ -75,9 +75,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "239b826f31570ec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Prompt Engg..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -143,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/MLOps course- UDEMY.md",
+                "file": "Notes/Prompt Engg..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/MLOps course- UDEMY.md",
+                "file": "Notes/Prompt Engg..md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/MLOps course- UDEMY.md"
+                "file": "Notes/Prompt Engg..md"
               }
             }
           },
@@ -247,14 +260,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "34cd999b91237ddd",
+  "active": "239b826f31570ec2",
   "lastOpenFiles": [
+    "Tracker/Planner.md",
+    "Notes/MLOps course- UDEMY.md",
     "Tracker/Projects.md",
     "Tracker/24-07-24.md",
     "Attachments/Pasted image 20240724125727.png",
-    "Notes/MLOps course- UDEMY.md",
     "Attachments/Pasted image 20240724123723.png",
-    "Tracker/Planner.md",
     "Tracker/25-07-24.md",
     "Tracker/26-07-24.md",
     "Tracker/27-07-24.md",
