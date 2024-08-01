@@ -36,8 +36,9 @@ https://gemini.google.com/app/690123ddb68853de
 
 
 
-### Create a new branch:
+### Branching:
 
+- `git checkout <branch-name>`        Change branch
 - `git checkout -b <new-branch-name> <existing-branch-name>`
 
 
