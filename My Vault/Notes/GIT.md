@@ -24,28 +24,16 @@ https://gemini.google.com/app/690123ddb68853de
 - If there are no conflicts (changes made to the same file in both local and remote repositories), the `git pull` command merges the changes seamlessly.
 - If conflicts arise, Git will halt the merge process and highlight the conflicting sections in the affected files. You'll need to resolve these conflicts manually before continuing.
 
+### Merge conflicts:
 
-### git clone:
-
-- Used to **download a complete copy** of an existing remote repository for the first time. It creates a new directory on your local machine containing all the files and version history of the remote repository.
-- Typically used at the beginning of your involvement with a project to get a local working copy.
-- Imagine `git clone` as **downloading a zip file** of a project from the internet.
-- Think of `git pull` as **updating an existing project** on your computer with the latest changes from a central server.
-- Basic syntax:  `git clone <repository-URL>`
-- **Cloning a specific branch:** `git clone -b <branch-name> <repository-URL>`
-
-
-
-### Branching:
-
-- `git checkout <branch-name>`        Change branch
-- `git checkout -b <new-branch-name> <existing-branch-name>`
-
-
-
-### git  push:
-
-- `git push <remote-name> <local-branch-name>:<remote-branch-name>`
+- https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts?hl=en-US
+- ![[Attachments/Pasted image 20240801230326.png]]
+- Git commands that can help resolve merge conflicts:
+	- `git status` : The status command is in frequent use when a working with Git and during a merge it will help identify conflicted files.
+	- `git log --merge`: Passing the `--merge` argument to the `git log` command will produce a log with a list of commits that conflict between the merging branches.
+	- `git diff` :  `diff` helps find differences between states of a repository/files. This is useful in predicting and preventing merge conflicts.  
+	- `git merge --abort` :  Executing `git merge` with the `--abort` option will exit from the merge process and return the branch to the state before the merge began.
+	- `git reset` :  Can be used during a merge conflict to reset conflicted files to a know good state.
 
 
 ### git  merge vs git rebase:
@@ -78,5 +66,28 @@ The choice between merge and rebase depends on your workflow and preferences. He
 - **Use rebase:**
     - For personal development or cleanup before sharing your work.
     - When you want a clean and linear Git history for your branch.
+
+### git clone:
+
+- Used to **download a complete copy** of an existing remote repository for the first time. It creates a new directory on your local machine containing all the files and version history of the remote repository.
+- Typically used at the beginning of your involvement with a project to get a local working copy.
+- Imagine `git clone` as **downloading a zip file** of a project from the internet.
+- Think of `git pull` as **updating an existing project** on your computer with the latest changes from a central server.
+- Basic syntax:  `git clone <repository-URL>`
+- **Cloning a specific branch:** `git clone -b <branch-name> <repository-URL>`
+
+
+
+### Branching:
+
+- `git checkout <branch-name>`        Change branch
+- `git checkout -b <new-branch-name> <existing-branch-name>`
+
+
+
+### git  push:
+
+- `git push <remote-name> <local-branch-name>:<remote-branch-name>`
+
 
 

@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "239b826f31570ec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Prompt Engg..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "47849182b86f2b7d",
             "type": "leaf",
             "state": {
@@ -77,25 +90,15 @@
             }
           },
           {
-            "id": "239b826f31570ec2",
+            "id": "74409d86e3ca96bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Prompt Engg..md",
+                "file": "Notes/GIT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "17a62b011d0e5688",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
               }
             }
           }
@@ -166,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Prompt Engg..md",
+                "file": "Notes/GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Prompt Engg..md",
+                "file": "Notes/GIT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Prompt Engg..md"
+                "file": "Notes/GIT.md"
               }
             }
           },
@@ -270,8 +273,16 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "17a62b011d0e5688",
+  "active": "74409d86e3ca96bc",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240801230326.png",
+    "Tracker/Planner.md",
+    "Notes/GIT.md",
+    "Tracker/Projects.md",
+    "Tracker/24-07-24.md",
+    "Notes/MLOps AWS.md",
+    "Notes/Prompt Engg..md",
+    "Notes/MLOps course- UDEMY.md",
     "Attachments/Pasted image 20240727194418.png",
     "Attachments/Pasted image 20240726235137.png",
     "Attachments/Pasted image 20240726234834.png",
@@ -282,17 +293,10 @@
     "Attachments/Pasted image 20240726232259.png",
     "Attachments/Pasted image 20240726231815.png",
     "Attachments/Pasted image 20240726231108.png",
-    "Tracker/Planner.md",
-    "Notes/MLOps course- UDEMY.md",
-    "Tracker/Projects.md",
-    "Tracker/24-07-24.md",
-    "Attachments/Pasted image 20240724125727.png",
     "Tracker/25-07-24.md",
     "Tracker/26-07-24.md",
     "Tracker/27-07-24.md",
     "Tracker/23-07-24.md",
-    "Notes/MLOps AWS.md",
-    "Notes/GIT.md",
     "Tracker/09-07-24.md",
     "Tracker/13-07-24.md",
     "Tracker/12-07-24.md",
@@ -308,7 +312,6 @@
     "Tracker/22-05-24.md",
     "Tracker/10-07-24.md",
     "Notes/⏫.md",
-    "Notes/Chatbot.md",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
     "Attachments/Recording 20240608031932.webm",
