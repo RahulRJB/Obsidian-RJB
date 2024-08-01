@@ -88,9 +88,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17a62b011d0e5688",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -260,7 +270,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "239b826f31570ec2",
+  "active": "17a62b011d0e5688",
   "lastOpenFiles": [
     "Attachments/Pasted image 20240727194418.png",
     "Attachments/Pasted image 20240726235137.png",
