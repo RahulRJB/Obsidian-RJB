@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/GIT.md",
+                "file": "Notes/GPT-4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/GIT.md",
+                "file": "Notes/GPT-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/GIT.md",
+                "file": "Notes/GPT-4.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/GIT.md"
+                "file": "Notes/GPT-4.md"
               }
             }
           },
@@ -275,9 +275,10 @@
   },
   "active": "74409d86e3ca96bc",
   "lastOpenFiles": [
+    "Notes/GPT.md",
+    "Notes/GIT.md",
     "Attachments/Pasted image 20240801230326.png",
     "Tracker/Planner.md",
-    "Notes/GIT.md",
     "Tracker/Projects.md",
     "Tracker/24-07-24.md",
     "Notes/MLOps AWS.md",
@@ -292,7 +293,6 @@
     "Attachments/Pasted image 20240726232527.png",
     "Attachments/Pasted image 20240726232259.png",
     "Attachments/Pasted image 20240726231815.png",
-    "Attachments/Pasted image 20240726231108.png",
     "Tracker/25-07-24.md",
     "Tracker/26-07-24.md",
     "Tracker/27-07-24.md",
