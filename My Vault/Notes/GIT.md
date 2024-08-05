@@ -87,7 +87,13 @@ The choice between merge and rebase depends on your workflow and preferences. He
 
 ### git  push:
 
-- `git push <remote-name> <local-branch-name>:<remote-branch-name>`
+- `git push <remote-name> <local-branch-name>:<remote-branch-name>` -  pushing to a specific remote branch
+- `git push -u <remote-name> <remote-branch-name>` - setting the default upstream remote branch for the current local branch.
+- 
+
+### git log:
+- gives info about the various commits history.
+
 
 
 

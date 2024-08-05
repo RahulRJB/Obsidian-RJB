@@ -34,19 +34,6 @@
             }
           },
           {
-            "id": "239b826f31570ec2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Prompt Engg..md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "47849182b86f2b7d",
             "type": "leaf",
             "state": {
@@ -90,12 +77,12 @@
             }
           },
           {
-            "id": "74409d86e3ca96bc",
+            "id": "97d6239fb6684745",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/GPT-4.md",
+                "file": "Notes/GIT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -169,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/GPT-4.md",
+                "file": "Notes/GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/GPT-4.md",
+                "file": "Notes/GIT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/GPT-4.md"
+                "file": "Notes/GIT.md"
               }
             }
           },
@@ -273,17 +260,18 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "74409d86e3ca96bc",
+  "active": "97d6239fb6684745",
   "lastOpenFiles": [
+    "Tracker/Planner.md",
+    "Notes/GPT-4.md",
+    "Notes/MLOps course- UDEMY.md",
+    "Notes/Prompt Engg..md",
+    "Tracker/24-07-24.md",
     "Notes/GPT.md",
     "Notes/GIT.md",
     "Attachments/Pasted image 20240801230326.png",
-    "Tracker/Planner.md",
     "Tracker/Projects.md",
-    "Tracker/24-07-24.md",
     "Notes/MLOps AWS.md",
-    "Notes/Prompt Engg..md",
-    "Notes/MLOps course- UDEMY.md",
     "Attachments/Pasted image 20240727194418.png",
     "Attachments/Pasted image 20240726235137.png",
     "Attachments/Pasted image 20240726234834.png",
@@ -311,7 +299,6 @@
     "Notes/RAG Chatbot.md",
     "Tracker/22-05-24.md",
     "Tracker/10-07-24.md",
-    "Notes/⏫.md",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
     "Attachments/Recording 20240608031932.webm",
