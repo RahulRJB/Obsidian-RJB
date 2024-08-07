@@ -1,6 +1,6 @@
 
 
-## Santander:
+## Santander(Nov23-Oct24):
 
 Type of search in retrieval:
 - HNSV
@@ -8,23 +8,27 @@ Type of search in retrieval:
 Hybrid search experimentation
 Uses AWS secret manager, AWS codebuild
 experiments with cross encoder, sentence transformer
-## Aegon:
+## Aegon(May23-Oct23):
 
-- Used Data Wrangler, Feature Engg.
+- Lots of different table normalised and kept in s3 buckets.
+- Used Data Wrangler for Feature Engg. to join all the diff table that were normalised and kept in s3 buckets.
 - Test cases in Codebuild, like data validation
-- 
-## GenAI LAB:
+- Did univariate/bivariate analysis
+## GenAI LAB(Feb23-April23):
 
 
-## ING Australia:
+## ING Australia(Aug22-Jan22):
+
+- Understand ROC-AUC, AUC relation with F1 and skewed data
+- performed Blending/stacking
+- LightGBM/XgBoost
+- Did univariate/bivariate analysis
+
+## UWME(Nov21-Feb22):
 
 
 
-## UWME:
-
-
-
-## CAR Damage:
+## CAR Damage(Mar22- July22):
 
 
 ## Synth Data:

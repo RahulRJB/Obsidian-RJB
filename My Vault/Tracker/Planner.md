@@ -6,12 +6,14 @@ kanban-plugin: board
 
 ## TO study
 
+- [ ] Docker
+- [ ] SQL questions
 - [ ] Revision of Projects
-- [x] MLOps ✅ 2024-07-24
 - [ ] Basics algos
+- [x] MLOps ✅ 2024-07-24
 - [ ] Langchain
 - [x] Opensearch ✅ 2024-07-24
-- [ ] Prompt engineering
+- [x] Prompt engineering ✅ 2024-08-07
 - [ ] RLHF
 - [ ] LORA
 - [ ] Karpathy videos

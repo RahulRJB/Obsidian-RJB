@@ -97,4 +97,5 @@ Tags: [[Notes/MLOps AWS|MLOps AWS]] [[Notes/AWS|AWS]]
 ### Sagemaker:
 
 - ![[Attachments/Pasted image 20240724123723.png]]
-- Data Wrangler for Feature Engg.
+- #### Data Wrangler used for Feature Engg. and visual way to join tables
+- 
