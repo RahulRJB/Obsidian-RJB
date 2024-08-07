@@ -14,6 +14,7 @@ experiments with cross encoder, sentence transformer
 - Used Data Wrangler for Feature Engg. to join all the diff table that were normalised and kept in s3 buckets.
 - Test cases in Codebuild, like data validation
 - Did univariate/bivariate analysis
+- VIF for multi collinearity(1.4 threshold)
 ## GenAI LAB(Feb23-April23):
 
 
@@ -23,6 +24,7 @@ experiments with cross encoder, sentence transformer
 - performed Blending/stacking
 - LightGBM/XgBoost
 - Did univariate/bivariate analysis
+- VIF for multi collinearity(1.4 threshold)
 
 ## UWME(Nov21-Feb22):
 

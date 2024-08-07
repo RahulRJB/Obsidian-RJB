@@ -76,8 +76,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracker/Projects.md",
+                "file": "Notes/MLOps course- UDEMY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tracker/Projects.md",
+                "file": "Notes/MLOps course- UDEMY.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tracker/Projects.md"
+                "file": "Notes/MLOps course- UDEMY.md"
               }
             }
           },
@@ -238,11 +237,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "415eb111d47f0b84",
+  "active": "736543a9a4ce82c3",
   "lastOpenFiles": [
     "Tracker/Projects.md",
-    "Tracker/Planner.md",
     "Notes/MLOps course- UDEMY.md",
+    "Tracker/Planner.md",
     "Tracker/07-08-24.md",
     "Tracker/08-08-24.md",
     "Notes/GIT.md",

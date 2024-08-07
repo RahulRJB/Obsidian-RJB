@@ -97,5 +97,13 @@ Tags: [[Notes/MLOps AWS|MLOps AWS]] [[Notes/AWS|AWS]]
 ### Sagemaker:
 
 - ![[Attachments/Pasted image 20240724123723.png]]
-- #### Data Wrangler used for Feature Engg. and visual way to join tables
-- 
+- #### Data Wrangler:
+	- Used for Feature Engg. 
+	- Visual way, gives in a graph format
+	- We used it to Join tables
+	- Can be used to perform Analysis on data, univariate, bivariate etc. Like Histogram, Bias report, Table summary(mean, median, count etc), Target leakage, custom plots, etc.
+	- Data transformation, balance imbalance data(SMOTE, random oversample, random undersmaple), drop col, handling outliers(remove, clipping), scaling num features, etc
+	- Custom Transform using python/pyspark scripts
+	- Encoding cat features(ordinal, one-hot)
+	- Now this transformed data can be saved back to S3.
+	- We can create processing jobs to automate this entire data pre-processing/transformation
