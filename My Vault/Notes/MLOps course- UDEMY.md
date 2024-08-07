@@ -97,7 +97,8 @@ Tags: [[Notes/MLOps AWS|MLOps AWS]] [[Notes/AWS|AWS]]
 ### Sagemaker:
 
 - ![[Attachments/Pasted image 20240724123723.png]]
-- #### Data Wrangler:
+### Sagemaker Feature Engg.(Preprocessing):
+- #### Data Wrangler for Preprocessing:
 	- Used for Feature Engg. 
 	- Visual way, gives in a graph format
 	- We used it to Join tables
@@ -106,4 +107,34 @@ Tags: [[Notes/MLOps AWS|MLOps AWS]] [[Notes/AWS|AWS]]
 	- Custom Transform using python/pyspark scripts
 	- Encoding cat features(ordinal, one-hot)
 	- Now this transformed data can be saved back to S3.
-	- We can create processing jobs to automate this entire data pre-processing/transformation
+	- We can create processing jobs in data wrangler to automate this entire data pre-processing/transformation. We can specify the instance type to run the processing on etc.
+	- After creating the jobs, it can be found in Sagemaker>Processing Job tab. The jobs are run using docker containers image.
+- #### Notebook Preprocessing(Sagemaker commands):
+	- ![[Attachments/Pasted image 20240807125050.png]]
+	- ![[Attachments/Pasted image 20240807125135.png]]
+	- ![[Attachments/Pasted image 20240807125003.png]]
+- #### Sagemaker Preprocessing:
+	- ![[Attachments/Pasted image 20240807125513.png]]
+	- **The runner file, sands make-step, sands run step are custom processing jobs only.**
+	- 2 imp contracts we have to follow, input and the output should be mentioned in two different directories.
+		- opt/ml/processing/input - input data
+		- opt/ml/processing/output - output data
+	- Sagemaker processing will automatically load the input data from my S3 and uploads the transformed data back into my S3 bucket, especially after the job is completed.  Used to process terabytes of data in a sagemaker managed cluster, which is separate from the instance which is currently running the notebook server.
+	- In typical workflow, the notebooks are generally used for prototyping purpose, and this is generally run on relatively inexpensive and less powerful systems. Now whenever we are performing the processing, training and model hosting at that time we'll be interested in hosting on more powerful sagemaker managed instances.
+	- Code:
+		- ![[Attachments/Pasted image 20240807131022.png]]Uploading data to s3 bucket first
+		- ![[Attachments/Pasted image 20240807131117.png]]
+		- ![[Attachments/Pasted image 20240807131231.png]]![[Attachments/Pasted image 20240807131433.png]]
+		- ![[Attachments/Pasted image 20240807131707.png]]https://github.com/manifoldailearning/mlops-with-aws-datascientists/blob/main/Section-13-Feature-Engineering/feature-engg-script.py The actual preprocessing script that is run using the sagemaker processing job.
+		- The processing jobs, can be found in Sagemaker>Processing Job tab.
+### Sagemaker Feature Store:
+
+- Central place to store all the generated features, for everyones use.
+- We pick up the raw data and apply the feature processing technique. We transform such raw data into a meaningful feature for better modelling. Feature store is then used to store, discover and share the features for machine learning. So we will use that transform data, post it into a feature store so that we can store it in a much efficient way.
+- ![[Attachments/Pasted image 20240807133524.png]]
+- ![[Attachments/Pasted image 20240807133815.png]]
+- ![[Attachments/Pasted image 20240807133836.png]]
+- ![[Attachments/Pasted image 20240807133922.png]]
+- ![[Attachments/Pasted image 20240807134016.png]]![[Attachments/Pasted image 20240807134051.png]]![[Attachments/Pasted image 20240807134141.png]]
+- ![[Attachments/Pasted image 20240807134156.png]]
+- 
