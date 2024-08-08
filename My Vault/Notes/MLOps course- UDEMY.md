@@ -137,4 +137,20 @@ Tags: [[Notes/MLOps AWS|MLOps AWS]] [[Notes/AWS|AWS]]
 - ![[Attachments/Pasted image 20240807133922.png]]
 - ![[Attachments/Pasted image 20240807134016.png]]![[Attachments/Pasted image 20240807134051.png]]![[Attachments/Pasted image 20240807134141.png]]
 - ![[Attachments/Pasted image 20240807134156.png]]
-- 
+- #### Hands on- Creating Feature Group:
+	- ![[Attachments/Pasted image 20240808012959.png]]
+	- ![[Attachments/Pasted image 20240808013458.png]]![[Attachments/Pasted image 20240808013832.png]]![[Attachments/Pasted image 20240808014038.png]]![[Attachments/Pasted image 20240808014248.png]]![[Attachments/Pasted image 20240808014333.png]]![[Attachments/Pasted image 20240808014640.png]]![[Attachments/Pasted image 20240808014707.png]]
+- #### Ingest data to feature group:
+	- ![[Attachments/Pasted image 20240808015136.png]]![[Attachments/Pasted image 20240808015319.png]]![[Attachments/Pasted image 20240808015415.png]] 
+
+### Training, Tuning & Deploying the Model:
+- ![[Attachments/Pasted image 20240808020322.png]]![[Attachments/Pasted image 20240808020431.png]]Creating and fitting a model using training job
+- ![[Attachments/Pasted image 20240808020806.png]]Deploying model
+- ![[Attachments/Pasted image 20240808021014.png]]Evaluation
+- #### Creating Endpoint and endpoint  config:
+	- ![[Attachments/Pasted image 20240808021312.png]]![[Attachments/Pasted image 20240808021437.png]]![[Attachments/Pasted image 20240808021654.png]]Creating endpoint config and endpoint![[Attachments/Pasted image 20240808021857.png]]Checing and describing endpoint![[Attachments/Pasted image 20240808021938.png]]Invoking the endpoint i.e. inference
+	- ![[Attachments/Pasted image 20240808022026.png]]Deleting everything in the end
+- #### Hyperparameter tuning:
+	- ![[Attachments/Pasted image 20240808022354.png]]![[Attachments/Pasted image 20240808022516.png]]
+
+### Custom Models::
