@@ -156,4 +156,11 @@ Tags: [[Notes/MLOps AWS|MLOps AWS]] [[Notes/AWS|AWS]]
 ### Custom Models::
 
 - SageMaker Python SDK: With the help of this sagemaker python SDK, we can transfer the training script into sagemaker training instance and train the model. Inside the training instance, the Sagemaker's native TensorFlow, Pytorch etc support helps us to train and to instantiate the specific environment variables. So inside my training instance I can execute my training script. So overall, we will make use of the Sagemaker Python SDK to launch a training job using this Python script.
-- ![[Attachments/Pasted image 20240810092317.png]]
+- With Tensorflow:
+	- ![[Attachments/Pasted image 20240810092317.png]]
+	- ![[Attachments/Pasted image 20240810130710.png]]![[Attachments/Pasted image 20240810131025.png]]Imported the sagemaker.tensorflow. Sagemaker estimator and it handles the locating my script container and is responsible for uploading the script into an S3 location and creating a sagemaker training job.
+	- ![[Attachments/Pasted image 20240810131111.png]]![[Attachments/Pasted image 20240810131233.png]]![[Attachments/Pasted image 20240810131329.png]]
+- Using Pytorch:
+	- ![[Attachments/Pasted image 20240810131530.png]] ![[Attachments/Pasted image 20240810132058.png]]
+	- ![[Attachments/Pasted image 20240810132131.png]]![[Attachments/Pasted image 20240810132149.png]]![[Attachments/Pasted image 20240810132157.png]]![[Attachments/Pasted image 20240810132226.png]]
+- 
