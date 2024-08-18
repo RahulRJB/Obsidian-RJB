@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/Projects.md",
+                "file": "Tracker/Projects Details.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,27 +52,15 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Tracker/Planner.md",
+                "file": "Tracker/Lists.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
                     false,
+                    false,
                     false
                   ]
                 }
-              }
-            }
-          },
-          {
-            "id": "34cd999b91237ddd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/08-08-24.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
               }
             }
           }
@@ -219,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,6 +228,18 @@
   },
   "active": "736543a9a4ce82c3",
   "lastOpenFiles": [
+    "Tracker/Projects Details.md",
+    "Tracker/Lists.md",
+    "Notes/GIT.md",
+    "Tracker/GOALS 2024.md",
+    "Tracker/Marriage Plan.md",
+    "Tracker/Dreams.md",
+    "Tracker/18-08-24.md",
+    "Tracker/07-08-24.md",
+    "Tracker/08-08-24.md",
+    "Tracker/09-08-24.md",
+    "Tracker/23-07-24.md",
+    "Notes/MLOps course- UDEMY.md",
     "Attachments/Pasted image 20240810132226.png",
     "Attachments/Pasted image 20240810132157.png",
     "Attachments/Pasted image 20240810132149.png",
@@ -249,16 +250,7 @@
     "Attachments/Pasted image 20240810131233.png",
     "Attachments/Pasted image 20240810131111.png",
     "Attachments/Pasted image 20240810131025.png",
-    "Attachments/Pasted image 20240810130710.png",
-    "Tracker/08-08-24.md",
-    "Tracker/07-08-24.md",
-    "Notes/MLOps course- UDEMY.md",
-    "Tracker/Projects.md",
-    "Tracker/Planner.md",
-    "Notes/GIT.md",
     "Notes/MLOps AWS.md",
-    "Tracker/09-08-24.md",
-    "Tracker/23-07-24.md",
     "Tracker/05-08-24.md",
     "Tracker/06-08-24.md",
     "Tracker/04-08-24.md",
@@ -272,9 +264,6 @@
     "Tracker/27-07-24.md",
     "Tracker/26-07-24.md",
     "Tracker/25-07-24.md",
-    "Tracker/24-07-24.md",
-    "Notes/GPT-4.md",
-    "Notes/Prompt Engg..md",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
