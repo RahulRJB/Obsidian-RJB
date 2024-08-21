@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "6ce0394662383e02",
+            "id": "5c8e719300b6e63c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Random Forests.md",
+                "file": "Notes/Gradient Boost.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Random Forests.md",
+                "file": "Notes/Gradient Boost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Random Forests.md",
+                "file": "Notes/Gradient Boost.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Random Forests.md"
+                "file": "Notes/Gradient Boost.md"
               }
             }
           },
@@ -253,26 +253,32 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "6ce0394662383e02",
+  "active": "5c8e719300b6e63c",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20240818222449.png",
-    "Notes/CART.md",
+    "Attachments/Pasted image 20240819040346.png",
+    "Attachments/Pasted image 20240819040242.png",
+    "Attachments/Pasted image 20240819040128.png",
+    "Attachments/Pasted image 20240819035750.png",
+    "Attachments/Pasted image 20240819035620.png",
+    "Attachments/Pasted image 20240819035547.png",
+    "Attachments/Pasted image 20240819035443.png",
+    "Attachments/Pasted image 20240819035419.png",
+    "Attachments/Pasted image 20240819035222.png",
+    "Attachments/Pasted image 20240819034732.png",
+    "Attachments/Pasted image 20240819034401.png",
     "Notes/Random Forests.md",
-    "Attachments/Pasted image 20240818220551.png",
-    "Attachments/Pasted image 20240818220201.png",
-    "Attachments/Pasted image 20240818220111.png",
-    "Attachments/Pasted image 20240818215955.png",
-    "Attachments/Pasted image 20240818215436.png",
-    "Attachments/Pasted image 20240818215358.png",
-    "Attachments/Pasted image 20240818215047.png",
-    "Attachments/Pasted image 20240818214841.png",
-    "Attachments/Pasted image 20240818214815.png",
-    "Attachments/Pasted image 20240818212309.png",
+    "Notes/Gradient Boost.md",
+    "Notes/AdaBoost.md",
+    "Notes/GPT-4.md",
+    "Notes/GPT.md",
+    "Notes/GIT.md",
+    "Notes/Boosting.md",
+    "Notes/Bagging.md",
+    "Notes/CART.md",
     "Notes/Statistical ML.md",
     "Tracker/GOALS 2024.md",
     "Tracker/Projects Details.md",
     "Tracker/Lists.md",
-    "Notes/GIT.md",
     "Notes/MLOps course- UDEMY.md",
     "Tracker/Marriage Plan.md",
     "Tracker/Dreams.md",
@@ -285,12 +291,6 @@
     "Tracker/05-08-24.md",
     "Tracker/06-08-24.md",
     "Tracker/04-08-24.md",
-    "Tracker/03-08-24.md",
-    "Tracker/02-08-24.md",
-    "Tracker/01-08-24.md",
-    "Tracker/31-07-24.md",
-    "Tracker/30-07-24.md",
-    "Tracker/29-07-24.md",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
