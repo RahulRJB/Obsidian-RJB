@@ -47,19 +47,6 @@
             }
           },
           {
-            "id": "12c73fe1e16076a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/GOALS 2024.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "415eb111d47f0b84",
             "type": "leaf",
             "state": {
@@ -91,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Gradient Boost.md",
+                "file": "Tracker/Projects Details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Gradient Boost.md",
+                "file": "Tracker/Projects Details.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Gradient Boost.md"
+                "file": "Tracker/Projects Details.md"
               }
             }
           },
@@ -253,8 +240,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5c8e719300b6e63c",
+  "active": "415eb111d47f0b84",
   "lastOpenFiles": [
+    "Tracker/Lists.md",
+    "Tracker/Projects Details.md",
+    "Notes/Gradient Boost.md",
+    "Tracker/GOALS 2024.md",
+    "Notes/GIT.md",
     "Attachments/Pasted image 20240821111053.png",
     "Attachments/Pasted image 20240821110739.png",
     "Attachments/Pasted image 20240821105814.png",
@@ -265,20 +257,14 @@
     "Attachments/Pasted image 20240821102945.png",
     "Attachments/Pasted image 20240821102753.png",
     "Attachments/Pasted image 20240819040346.png",
-    "Attachments/Pasted image 20240819040242.png",
     "Notes/Random Forests.md",
-    "Notes/Gradient Boost.md",
     "Notes/AdaBoost.md",
     "Notes/GPT-4.md",
     "Notes/GPT.md",
-    "Notes/GIT.md",
     "Notes/Boosting.md",
     "Notes/Bagging.md",
     "Notes/CART.md",
     "Notes/Statistical ML.md",
-    "Tracker/GOALS 2024.md",
-    "Tracker/Projects Details.md",
-    "Tracker/Lists.md",
     "Notes/MLOps course- UDEMY.md",
     "Tracker/Marriage Plan.md",
     "Tracker/Dreams.md",

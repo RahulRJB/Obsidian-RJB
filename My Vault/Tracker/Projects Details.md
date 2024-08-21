@@ -13,6 +13,7 @@ Done using Sagemaker processing job(sands run step etc is the sagemaker processi
 
 - Lots of different table normalised and kept in s3 buckets.
 - Used Data Wrangler for Feature Engg. running processing jobs, to join all the diff table that were normalised and kept in s3 buckets.
+- Pyspark used in some case during Data Wrangling.
 - Test cases in Codebuild, like data validation
 - Did univariate/bivariate analysis
 - VIF for multi collinearity(1.4 threshold)
@@ -27,8 +28,16 @@ Done using Sagemaker processing job(sands run step etc is the sagemaker processi
 - LightGBM/XgBoost
 - Did univariate/bivariate analysis
 - VIF for multi collinearity(1.4 threshold)
+- Blending/Stacking
 
 ## UWME(Nov21-Feb22):
+
+- 4 types of data: 
+	- Gen page containing 1 or more table
+	- checkboxed
+	- Grids
+	- Forms(1 big table)
+- 
 
 
 
