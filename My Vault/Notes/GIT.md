@@ -104,13 +104,13 @@ The choice between merge and rebase depends on your workflow and preferences. He
 ### git stash:
 - https://www.atlassian.com/git/tutorials/saving-changes/git-stash#:~:text=The%20git%20stash%20command%20takes,for%20commit%3A%20modified%3A%20index.
 - By default, git stash will stash:
-  	- changes that have been added to your index (staged changes)
-  	- changes made to files that are currently tracked by Git (unstaged changes)
+	- changes that have been added to your index (staged changes)
+	- changes made to files that are currently tracked by Git (unstaged changes)
   But it will not stash:
 	- new files in your working copy that have not yet been staged
-   	- files that have been ignored
- `-u` option (or --include-untracked) tells git stash to also stash your untracked files.
- `-a` option (or --all) tells git stash to include and stash changes to ignored files.
+	- files that have been ignored
+	`-u` option (or --include-untracked) tells git stash to also stash your untracked files.
+	`-a` option (or --all) tells git stash to include and stash changes to ignored files.
 
 - `git stash -u`  -  temporarily shelves (or stashes) changes made in the working copy so you can work on something else, and then come back and re-apply them later on. Stashing is handy if you need to quickly switch context and work on something else, but you're mid-way through a code change and aren't quite ready to commit.
 - `git stash pop`  -  reapply previously stashed changes. removes the changes from your stash
@@ -131,30 +131,30 @@ The choice between merge and rebase depends on your workflow and preferences. He
   You can choose which stash to re-apply by passing its identifier as the last argument, for example: `git stash pop stash@{2}`
 
 - `git stash show`  -  To view a summary of a stash:
-  	index.html | 1 +
-	style.css | 3 +++
-	2 files changed, 4 insertions(+)
+	  	*index.html | 1 +*
+		*style.css | 3 +++*
+		*2 files changed, 4 insertions(+)*
 - `git stash show -p`  -  to view the full diff of a stash:
-	diff --git a/style.css b/style.css
-	new file mode 100644
-	index 0000000..d92368b
-	--- /dev/null
-	+++ b/style.css
-	@@ -0,0 +1,3 @@
-	+* {
-	+  text-decoration: blink;
-	+}
-	diff --git a/index.html b/index.html
-	index 9daeafb..ebdcbd2 100644
-	--- a/index.html
-	+++ b/index.html
-	@@ -1 +1,2 @@
-	+<link rel="stylesheet" href="style.css"/>
+		*diff --git a/style.css b/style.css*
+		*new file mode 100644*
+		*index 0000000..d92368b*
+		*--- /dev/null*
+		*+++ b/style.css*
+		*@@ -0,0 +1,3 @@*
+		*+* {*
+		*+  text-decoration: blink;*
+		*+}*
+		*diff --git a/index.html b/index.html*
+		*index 9daeafb..ebdcbd2 100644*
+		*--- a/index.html*
+		*+++ b/index.html*
+		*@@ -1 +1,2 @@*
+		*+<link rel="stylesheet" href="style.css"/>*
 
 - `git stash -p`  -  Can choose to stash just a single file, a collection of files, or individual changes from within files. If you pass the -p option (or --patch) to , it will iterate through each changed "hunk" in your working copy and ask whether you wish to stash it:
 	- / : search for a hunk by regex
 	- ? : help
-   	- n : don't stash this hunk
+	- n : don't stash this hunk
 	- q : quit (any hunks that have already been selected will be stashed)
 	- s : split this hunk into smaller hunks
 	- y : stash this hunk

@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracker/Projects Details.md",
+                "file": "Notes/GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tracker/Projects Details.md",
+                "file": "Notes/GIT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tracker/Projects Details.md"
+                "file": "Notes/GIT.md"
               }
             }
           },
@@ -240,10 +240,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "415eb111d47f0b84",
+  "active": "97d6239fb6684745",
   "lastOpenFiles": [
-    "Tracker/Lists.md",
     "Tracker/Projects Details.md",
+    "Tracker/Lists.md",
     "Notes/Gradient Boost.md",
     "Tracker/GOALS 2024.md",
     "Notes/GIT.md",
