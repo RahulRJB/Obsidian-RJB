@@ -160,3 +160,7 @@ The choice between merge and rebase depends on your workflow and preferences. He
 	- y : stash this hunk
 - `git stash branch add-stylesheet stash@{1}`  -  You can create a new branch to apply your stashed changes to. This checks out a new branch based on the commit that you created your stash from, and then pops your stashed changes onto it.
 - `git stash drop stash@{1}`  -  Delete a stash
+
+
+
+
