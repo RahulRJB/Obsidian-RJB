@@ -93,8 +93,7 @@ The choice between merge and rebase depends on your workflow and preferences. He
 
 ### git log:
 - gives info about the various commits history.
-
-### Commit history:
+  
 - `git log --pretty=oneline <filename>` -  Used to check commit history of a particular file
 - `git checkout <commit-hash> -- <filename>` -  Override the current version of the file with version at that commit.
 - `git checkout HEAD~1 -- <filename>` -  Restore the file to the previous commit.
