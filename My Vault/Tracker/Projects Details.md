@@ -34,10 +34,15 @@ Done using Sagemaker processing job(sands run step etc is the sagemaker processi
 
 - 4 types of data: 
 	- Gen page containing 1 or more table
-	- checkboxed
-	- Grids
+	- checkboxes(ticked/crossed)
+	- Grids(Just boxes with text within)
 	- Forms(1 big table)
-- 
+	- QA
+- #### QA:
+	- Using a form, upload the pdf/docx, Question and then submit it.
+	- Redirected to a new page. If its .docx, conberted to .pdf using `docx2pdf()`.
+	- pdf converted to images using `pdf2image.convert_from_path()` and poppler. 
+	- Using `pytesseract()` 
 
 
 

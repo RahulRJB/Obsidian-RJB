@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Gradient Boost.md",
+                "file": "Tracker/Projects Details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Gradient Boost.md",
+                "file": "Tracker/Projects Details.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Gradient Boost.md"
+                "file": "Tracker/Projects Details.md"
               }
             }
           },
@@ -240,12 +240,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5c8e719300b6e63c",
+  "active": "415eb111d47f0b84",
   "lastOpenFiles": [
     "Notes/GIT.md",
+    "Notes/Gradient Boost.md",
     "Tracker/Projects Details.md",
     "Tracker/Lists.md",
-    "Notes/Gradient Boost.md",
     "Tracker/GOALS 2024.md",
     "Attachments/Pasted image 20240821111053.png",
     "Attachments/Pasted image 20240821110739.png",
