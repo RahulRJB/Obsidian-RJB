@@ -32,9 +32,9 @@ Done using Sagemaker processing job(sands run step etc is the sagemaker processi
 
 ## UWME(Nov21-Feb22):
 
-- 4 types of data: 
+- 4 types of images: 
 	- Gen page containing 1 or more table
-	- checkboxes(ticked/crossed)
+	- ib_from- checkboxes(ticked/crossed)
 	- Grids(Just boxes with text within)
 	- Forms(1 big table)
 	- QA
@@ -42,7 +42,15 @@ Done using Sagemaker processing job(sands run step etc is the sagemaker processi
 	- Using a form, upload the pdf/docx, Question and then submit it.
 	- Redirected to a new page. If its .docx, conberted to .pdf using `docx2pdf()`.
 	- pdf converted to images using `pdf2image.convert_from_path()` and poppler. 
-	- Using `pytesseract()` 
+	- Using `pytesseract.image_to_string(img, conf='--psm 6 oem 3 tessedit_char_whitelist "<whitelisted char>" ')` extracting the text from these pdf images.
+	- Have trained a tiny roberta model and saved the best checkpoint. Using it we get the `tokenizer=Transformers.AutoTokenizer.from_pretrained(checkpoint)`
+	     `model=Transformers.AutoModelForQuestionAnswering.from_pretrained(checkpoint)`
+	   `nlp = Transformers.pipeline('QA', model=model, tokenizer=tokenizer)`
+	   `res = nlp({'Q': question, 'context': context})`
+	   res, the answer to the question asked.
+- #### ib_from- checkboxes(ticked/crossed):
+	- Can do multiple files at a time
+	- 
 
 
 
