@@ -34,12 +34,19 @@ Done using Sagemaker processing job(sands run step etc is the sagemaker processi
 
 - 4 types of images: 
 	- Gen page containing 1 or more table
-	- ib_from- checkboxes(ticked/crossed)
+	- insurancebinder_form- checkboxes(ticked/crossed) & Tables
 	- Grids(Just boxes with text within)
 	- Forms(1 big table)
 	- QA
-- Tablenet model used. Opensource model to detect tables in images. 
+- #### Tablenet model used. 
+	- Opensource model to detect tables in images. 
 	- Finetuned to detect diff kinds of table in diff usecases.
+	- The model used was OriginalTableNet().
+		- The base model is a DenseNet encoder(had tried VGG19, resnet, effcientNet)
+		- In forward pass, the input was passed through the dense layer giving 3 outputs, pool_3, pool_4, pool_5. 
+		- pool_5 output is passed through a conv layer.
+		- This conv output along with pool_3, pool_4, was used as input for Table_decoder and column_decoder. This gave us the Table and column output.
+		- Row_decoder was also tried in similar manner, but no good results so later removed.
 - #### QA:
 	- Using a form, upload the pdf/docx, Question and then submit it.
 	- Redirected to a new page. If its .docx, conberted to .pdf using `docx2pdf()`.
@@ -50,7 +57,7 @@ Done using Sagemaker processing job(sands run step etc is the sagemaker processi
 	   `nlp = Transformers.pipeline('QA', model=model, tokenizer=tokenizer)`
 	   `res = nlp({'Q': question, 'context': context})`
 	   res, the answer to the question asked.
-- #### ib_from- checkboxes(ticked/crossed):
+- #### ib_form- checkboxes(ticked/crossed) & Tables:
 	- Can do multiple files/images at a time. Once images uploaded, saved in a local directory for further use.
 	- ##### Extracting Checkboxes and text:
 		- Then the image processing starts. `joblib` used to parallelize the process.
@@ -77,7 +84,7 @@ Done using Sagemaker processing job(sands run step etc is the sagemaker processi
 			- The checkboxes marked are highlighted in a separate image as well as its text.
 		- `get_dataframe` -- Get a df of the text that are checked.
 			- Iteratively, the bounding boxes of texts are taken and using it, image cropped one by one, 
-			- Using a superres library, the text within is enhanced and resized.
+			- Using a superres library((EDSRx3/x4, ESPCNx2/x3/x4), the text within is enhanced and resized.
 			- pytesseract used to extract the text.
 			- Finally a dataframe formed with col, checked_or_not and text
 	- ##### Extracting table if any from ib form.
