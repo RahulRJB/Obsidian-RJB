@@ -42,11 +42,15 @@ Done using Sagemaker processing job(sands run step etc is the sagemaker processi
 	- Opensource model to detect tables in images. 
 	- Finetuned to detect diff kinds of table in diff usecases.
 	- The model used was OriginalTableNet().
-		- The base model is a DenseNet encoder(had tried VGG19, resnet, effcientNet)
+		- ![[Attachments/Pasted image 20240829134940.png]]
+		- The base model is a [[DenseNet]] encoder(had tried [[VGG19]], [[ResNet]], effcientNet)![[Attachments/Pasted image 20240829135125.png]]
 		- In forward pass, the input was passed through the dense layer giving 3 outputs, pool_3, pool_4, pool_5. 
 		- pool_5 output is passed through a conv layer.
-		- This conv output along with pool_3, pool_4, was used as input for Table_decoder and column_decoder. This gave us the Table and column output.
-		- Row_decoder was also tried in similar manner, but no good results so later removed.
+		- This conv output along with pool_3, pool_4, was used as input for Table_decoder and column_decoder. This gave us the Table and column output.![[Attachments/Pasted image 20240829135045.png]]![[Attachments/Pasted image 20240829135103.png]]
+		- Row_decoder was also tried in similar manner, but no good results so later removed.![[Attachments/Pasted image 20240829135014.png]]
+		- This model was opensource and pretrained. We had taken the weights(best checkpoint) along with the architecture from Github.
+	- The model was finetuned on diff usecases, Gen_table, Insurance_binder forms, sov etc.
+		- <Finetuning.>
 - #### QA:
 	- Using a form, upload the pdf/docx, Question and then submit it.
 	- Redirected to a new page. If its .docx, conberted to .pdf using `docx2pdf()`.
@@ -89,6 +93,7 @@ Done using Sagemaker processing job(sands run step etc is the sagemaker processi
 			- Finally a dataframe formed with col, checked_or_not and text
 	- ##### Extracting table if any from ib form.
 		- Separately `Table_handler()` function used to extract tables if any from this ib image.
+		- for ib_table, we load the checkpoint of trained weights for better detection of the table.
 		- 
 
 
