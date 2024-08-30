@@ -113,13 +113,17 @@
 		- Using cv2.findContours(), contours for found and area of the contour checked. If area > threshold, it is a table and contour saved. From it we get the coordinates of the diff table boundaries.
 		- Same done for the columns as well.
 		- Using the table/column boundaries/coordinates, the original image is taken and highlighted and returned along with the coordinates, etc
-		- Now the column coordinates are iterated through, each of the col coordinates are taken and the original image is cropped with it to get just that column, then we check the no of rows in that column.
+		
+		- Now a random column coordinate is taken and the original image is cropped with it to get just that column, then we check if that column has row lines or not.
 		- To do that, the cropped image is thresholded, a horizontal kernel created, using the 2 erode_horizontal created and then this and kernel is dilated to get the horizontal line offerings/candidates.
 		- Using these offerings, iterate and find the rows that are more than 4pixel thick, only choose that for the final rows. Now we check if the total no of row lines>4? i.e total 3 rows, if there are, this is table with row lines or else its a table without row lines.
+
 		- If table has row lines:
-			- We extract the table
-			- We extract the table
-			- We extract the tablegen
+			- The table is taken and again, the diff column coordinates are iterated through. It is now again resized, cropped to get just the col, greyscaled, and again we try to find row lines. Then we upscale the column image and using the row lines of the col we extract the data out of the rows using pytesseract. So we now have all the row data for a col. Now we check if the coordinates of the col is within which table coordinates, i.e col part of which table, sfter that we create a dict of tables and append that col as a member of this table. In the end we have dict with keys= diff tables and values=diff col with the table, data within each row of a col, confidence, bb of the rows etc. Now we have all the info about all the data in al the table of the ib page, we create dfs using this. For a table we allign its rows, after which we can transfer the data to dfs.
+		- Table without row lines:
+			- Again we align the table with the cols by comparing the coordinates. So we get the cols associated with each table. Now we table each table, iterate through its cols, crop the image to get the col, resize, sharpen, upscale, convert to greyscale, remove lines if any. Then we extract the bb of the text in the rows of this col using pytesseract. We check the closeness of the bbs, if 2 bbs very close or intersect, then the text within must be part of the same row and are mergerd. The  the row text is taken and added to a dictionary, same done for all the cols. Thus we get a df. Depending on the avg distance bet the bbs, we also calculate if any row is empty or not. We also check if all the cols of a table has the same no of rows.
+	- So we have images of checkboxes and tables boundaries marked. We take the images and merge them and save them for display. We display all the images and the checkbox table extracted and gen table if any extracted.
+- #### sov :
 
 
 
