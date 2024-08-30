@@ -112,7 +112,14 @@
 		- Model outputs, table_out and column_out. It is thresholded to get the prominent table/column boundaries.
 		- Using cv2.findContours(), contours for found and area of the contour checked. If area > threshold, it is a table and contour saved. From it we get the coordinates of the diff table boundaries.
 		- Same done for the columns as well.
-		- Using the table/column boundaries/coordinates, the original image is taken and highlighted 
+		- Using the table/column boundaries/coordinates, the original image is taken and highlighted and returned along with the coordinates, etc
+		- Now the column coordinates are iterated through, each of the col coordinates are taken and the original image is cropped with it to get just that column, then we check the no of rows in that column.
+		- To do that, the cropped image is thresholded, a horizontal kernel created, using the 2 erode_horizontal created and then this and kernel is dilated to get the horizontal line offerings/candidates.
+		- Using these offerings, iterate and find the rows that are more than 4pixel thick, only choose that for the final rows. Now we check if the total no of row lines>4? i.e total 3 rows, if there are, this is table with row lines or else its a table without row lines.
+		- If table has row lines:
+			- We extract the table
+			- We extract the table
+			- We extract the tablegen
 
 
 
