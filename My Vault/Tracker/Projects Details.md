@@ -2,13 +2,26 @@
 
 ## Santander(Nov23-Oct24):
 
-Type of search in retrieval:
-- HNSV
-- KNN
-Hybrid search experimentation
-Uses AWS secret manager, AWS codebuild
-experiments with cross encoder, sentence transformer
-Done using Sagemaker processing job(sands run step etc is the sagemaker processing job)
+
+- #### Retrieval
+	- opensearch used for vector database.
+	- Type of search in retrieval:
+		- HNSV
+		- KNN
+	- Retrieval using semantic search(vector embedding similarity)
+	- Hybrid search experimentation done(semantic + keyword). Various combination(arithematic/geometric/harmonic) and normalisation(l2/min-max) techniques used and diff weights tried.
+	- 
+- Uses AWS secret manager, AWS codebuild
+
+- Done using Sagemaker processing job(sands run step etc is the sagemaker processing job)
+
+- #### Ranking 
+	- Initially retrieval ranking and view count used. Too much dependance on view count so used view count binned/normalized etc to reduce dependance. 
+	- Then ranking was changed to do weighted arithematic/ geometric mean of the 2.
+	- Cross-encoder- Colbert and msmarco models used too for reranking. compared to title and chunked index and scored. Ranking generated using this score, opensearch scores, and view count binned.
+- #### Embeddings
+	- ada_2_embedding model used.
+	- Experimented with all-MiniLM-L6-v2 embedding model as well.
 ## Aegon(May23-Oct23):
 
 - Lots of different table normalised and kept in s3 buckets.
@@ -93,8 +106,13 @@ Done using Sagemaker processing job(sands run step etc is the sagemaker processi
 			- Finally a dataframe formed with col, checked_or_not and text
 	- ##### Extracting table if any from ib form.
 		- Separately `Table_handler()` function used to extract tables if any from this ib image.
-		- for ib_table, we load the checkpoint of trained weights for better detection of the table.
-		- 
+		- for ib_table, we load the checkpoint of trained weights for better detection of the ib table.
+		- We load the image, resize it, do some conversions using cv2(greyscale, LA etc)
+		- After this converted to tensors, and passed through the trained OriginalTableNet() model.
+		- Model outputs, table_out and column_out. It is thresholded to get the prominent table/column boundaries.
+		- Using cv2.findContours(), contours for found and area of the contour checked. If area > threshold, it is a table and contour saved. From it we get the coordinates of the diff table boundaries.
+		- Same done for the columns as well.
+		- Using the table/column boundaries/coordinates, the original image is taken and highlighted 
 
 
 
