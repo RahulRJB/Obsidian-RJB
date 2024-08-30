@@ -48,8 +48,8 @@
 - 4 types of images: 
 	- Gen page containing 1 or more table
 	- insurancebinder_form- checkboxes(ticked/crossed) & Tables
-	- Grids(Just boxes with text within)
-	- Forms(1 big table)
+	- invoices-  (Grids, Just boxes with text within)
+	- SOV Forms(1 big table and some text boxes)
 	- QA
 - #### Tablenet model used. 
 	- Opensource model to detect tables in images. 
@@ -123,8 +123,12 @@
 		- Table without row lines:
 			- Again we align the table with the cols by comparing the coordinates. So we get the cols associated with each table. Now we table each table, iterate through its cols, crop the image to get the col, resize, sharpen, upscale, convert to greyscale, remove lines if any. Then we extract the bb of the text in the rows of this col using pytesseract. We check the closeness of the bbs, if 2 bbs very close or intersect, then the text within must be part of the same row and are mergerd. The  the row text is taken and added to a dictionary, same done for all the cols. Thus we get a df. Depending on the avg distance bet the bbs, we also calculate if any row is empty or not. We also check if all the cols of a table has the same no of rows.
 	- So we have images of checkboxes and tables boundaries marked. We take the images and merge them and save them for display. We display all the images and the checkbox table extracted and gen table if any extracted.
-- #### sov :
+- #### sov - checkboxes(ticked/crossed) & Tables:
 	- Almost same as the ib_form!
+- #### Invoices (Key-value pairs):
+	- Here as well, multiple images can be processed at a time.
+	- Image, taken, threshold found, horizontal kernel created using which H lines detected to get horizontal borders.
+	- 
 
 
 
