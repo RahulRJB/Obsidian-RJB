@@ -112,7 +112,7 @@
 		- Model outputs, table_out and column_out. It is thresholded to get the prominent table/column boundaries.
 		- Using cv2.findContours(), contours for found and area of the contour checked. If area > threshold, it is a table and contour saved. From it we get the coordinates of the diff table boundaries.
 		- Same done for the columns as well.
-		- Using the table/column boundaries/coordinates, the original image is taken and highlighted 
+		- Using the table/column boundaries/coordinates, the original image is taken and highlighted c0304593
 
 
 
