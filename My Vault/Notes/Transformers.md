@@ -16,29 +16,11 @@ https://www.youtube.com/watch?v=wjZofJX0v4M&t=102s
 
 ## [[RNN]]: 
 
-
-- Feed-forward neural networks rolled out over time.![[Attachments/Pasted image 20240605014339.png]]
--  Deal with sequence data where the input has some defined ordering.
-
-- Architectures:
-	- **Vector to Sequence Model**: These neural nets take in a fixed size vector as input and it outputs a sequence of any length. Eg. In image captioning the input can be a vector representation of an image and the output sequence is a sentence that describes the image.![[Attachments/Pasted image 20240605014541.png]]
-	- **Sequence to Vector Model**: These neural networks taken a sequences input and spits out a fixed length vector. Eg. Sentiment analysis the movie review is an input and a fixed size vector is the output indicating how good or bad this person thought the movie was.![[Attachments/Pasted image 20240605014922.png]]
-	-  **Sequence to Sequence model**: These neural networks take a sequence input and outputs another sequence. Eg. Language translation, the input could be a sentence in Spanish and the output is the translation in English.![[Attachments/Pasted image 20240605014954.png]]
-
-- Disadvantages![[Attachments/Pasted image 20240605015506.png]]
-
-
+- Why is it not used?
 
 ## [[LSTM]]:
 
-- Introduced a long short term memory cell in place of dumb neurons. This cell has a branch that allows passed information to skip a lot of the processing of the current cell and move on to the next. This allows the memory to be retained for longer sequences.![[Attachments/Pasted image 20240605015710.png]]
-- Disadvantages:
-	-  It is able to deal with longer sequences well only if the order is in hundreds of words instead of a thousand words. 
-	- Normal RNNs are slow but LSTMs are even slower, they are more complex.
-	- These RNNs and LSTM networks, input data needs to be passed sequentially or serially one after the other. We need inputs of the previous state to make any operations on the current state. Such sequential flow does not make use of today's GPUs very well which are designed for parallel computation.
-
-
-
+- Why is it not used?
 
 ## [[Notes/Transformers|Transformers]]:
 

@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "de99ff8685174bb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Sentence Transformer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "415eb111d47f0b84",
             "type": "leaf",
             "state": {
@@ -78,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 315.5
   },
   "right": {
     "id": "c7c09c75a428bb68",
@@ -243,26 +255,34 @@
   },
   "active": "415eb111d47f0b84",
   "lastOpenFiles": [
+    "Notes/Sentence Transformer.md",
+    "Notes/BERT.md",
+    "Attachments/Pasted image 20240830210447.png",
+    "Attachments/Pasted image 20240830210022.png",
+    "Attachments/Pasted image 20240830205626.png",
+    "Attachments/Pasted image 20240830203340.png",
+    "Attachments/Pasted image 20240830202109.png",
+    "Attachments/Pasted image 20240830201456.png",
+    "Attachments/Pasted image 20240830200912.png",
+    "Notes/RNN.md",
+    "Notes/LSTM.md",
+    "Notes/Bi-LSTM.md",
+    "Notes/SHAP.md",
+    "Notes/Gradient Boost.md",
+    "Notes/Sentence Transformers.md",
+    "Notes/Transformers.md",
+    "Attachments/Pasted image 20240830194336.png",
+    "Notes/GIT.md",
+    "Tracker/Projects Details.md",
     "Notes/DenseNet.md",
     "Attachments/Pasted image 20240829135632.png",
-    "Tracker/Projects Details.md",
     "Notes/ResNet.md",
     "Attachments/Pasted image 20240829135542.png",
     "Notes/VGG19.md",
-    "Attachments/Pasted image 20240829135448.png",
     "Notes/CNN.md",
     "Notes/PyTorch.md",
-    "Attachments/Pasted image 20240829135125.png",
-    "Attachments/Pasted image 20240829135103.png",
-    "Attachments/Pasted image 20240829135045.png",
-    "Attachments/Pasted image 20240829135014.png",
-    "Attachments/Pasted image 20240829134940.png",
-    "Notes/GIT.md",
-    "Notes/Gradient Boost.md",
     "Tracker/Lists.md",
     "Tracker/GOALS 2024.md",
-    "Attachments/Pasted image 20240821111053.png",
-    "Attachments/Pasted image 20240821110739.png",
     "Notes/Random Forests.md",
     "Notes/AdaBoost.md",
     "Notes/GPT-4.md",
@@ -270,14 +290,6 @@
     "Notes/Boosting.md",
     "Notes/Bagging.md",
     "Notes/CART.md",
-    "Notes/Statistical ML.md",
-    "Notes/MLOps course- UDEMY.md",
-    "Tracker/Marriage Plan.md",
-    "Tracker/Dreams.md",
-    "Tracker/18-08-24.md",
-    "Tracker/07-08-24.md",
-    "Tracker/08-08-24.md",
-    "Tracker/09-08-24.md",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
