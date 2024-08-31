@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "c7c09c75a428bb68",
@@ -253,7 +254,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "415eb111d47f0b84",
+  "active": "86b01602b1c1be4d",
   "lastOpenFiles": [
     "Notes/ColBERT.md",
     "Templates/Template 1.md",

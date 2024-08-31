@@ -130,7 +130,8 @@
 - #### Invoices (Key-value pairs):
 	- Here as well, multiple images can be processed at a time.
 	- Image, taken, threshold found, horizontal kernel created using which diff V lines detected. The most extreme and longest vertical lines selected out of it. They must be the vertical borders. They are marked and image returned.
-	- Now this image taken, 
+	- Now this marked image taken, and we try to derive boxes from it. To do that we convert to greyscale, thresholded. H and V kernels created, and used to get the H and V lines in the images, Then the lines intersecting extrated out, as they must be the boxes. The area checked,if >than a threshold area, then the coordinates of the boxes saved and the image highlighted with the boxes.
+	- Now the boxes iterated through, for each box, coordinates taken and image cropped to get just the box. The box again, greyscaled, thresholded
 
 
 
