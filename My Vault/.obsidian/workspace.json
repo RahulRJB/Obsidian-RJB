@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/RAG.md",
+                "file": "Notes/ColBERT.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "colbe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,12 +137,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 277.5
   },
   "right": {
     "id": "c7c09c75a428bb68",
@@ -158,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/RAG.md",
+                "file": "Notes/ColBERT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/RAG.md",
+                "file": "Notes/ColBERT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/RAG.md"
+                "file": "Notes/ColBERT.md"
               }
             }
           },
@@ -256,6 +255,9 @@
   },
   "active": "e8726f7e81d30cfe",
   "lastOpenFiles": [
+    "Templates/Template 1.md",
+    "Notes/ColBERT.md",
+    "Notes/RAG.md",
     "Notes/Cross-Encoder.md",
     "Notes/Bi-Encoder.md",
     "Notes/Gradient Boost.md",
@@ -289,9 +291,6 @@
     "Notes/PyTorch.md",
     "Tracker/GOALS 2024.md",
     "Notes/Random Forests.md",
-    "Notes/AdaBoost.md",
-    "Notes/GPT-4.md",
-    "Notes/GPT.md",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
