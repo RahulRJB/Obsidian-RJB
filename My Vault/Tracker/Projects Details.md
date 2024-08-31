@@ -129,8 +129,8 @@
 	- Almost same as the ib_form!
 - #### Invoices (Key-value pairs):
 	- Here as well, multiple images can be processed at a time.
-	- Image, taken, threshold found, horizontal kernel created using which H lines detected to get horizontal borders.
-	- 
+	- Image, taken, threshold found, horizontal kernel created using which diff V lines detected. The most extreme and longest vertical lines selected out of it. They must be the vertical borders. They are marked and image returned.
+	- Now this image taken, 
 
 
 

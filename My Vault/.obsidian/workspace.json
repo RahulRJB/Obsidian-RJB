@@ -91,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/ColBERT.md",
+                "file": "Tracker/Projects Details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/ColBERT.md",
+                "file": "Tracker/Projects Details.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/ColBERT.md"
+                "file": "Tracker/Projects Details.md"
               }
             }
           },
@@ -253,10 +253,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e8726f7e81d30cfe",
+  "active": "415eb111d47f0b84",
   "lastOpenFiles": [
-    "Templates/Template 1.md",
     "Notes/ColBERT.md",
+    "Templates/Template 1.md",
     "Notes/RAG.md",
     "Notes/Cross-Encoder.md",
     "Notes/Bi-Encoder.md",
