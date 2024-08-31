@@ -21,7 +21,9 @@
 	- Cross-encoder- Colbert and msmarco models used too for reranking. compared to title and chunked index and scored. Ranking generated using this score, opensearch scores, and view count binned.
 - #### Embeddings
 	- ada_2_embedding model used.
-	- Experimented with all-MiniLM-L6-v2 embedding model as well.
+	- Experimented with all-MiniLM-L6-v2 sentence transformer embedding model as well.
+	- Used cross-encoder to integrate
+	- Created Sagemaker endpoints for these embeddings models. 
 ## Aegon(May23-Oct23):
 
 - Lots of different table normalised and kept in s3 buckets.
