@@ -53,9 +53,8 @@
 	- invoices-  (Grids, Just boxes with text within)
 	- SOV Forms(1 big table and some text boxes)
 	- QA
-- #### Tablenet model used. 
+- #### Tablenet Model 
 	- Opensource model to detect tables in images. 
-	- Finetuned to detect diff kinds of table in diff usecases.
 	- The model used was OriginalTableNet().
 		- ![[Attachments/Pasted image 20240829134940.png]]
 		- The base model is a [[DenseNet]] encoder(had tried [[VGG19]], [[ResNet]], effcientNet)![[Attachments/Pasted image 20240829135125.png]]
@@ -64,8 +63,16 @@
 		- This conv output along with pool_3, pool_4, was used as input for Table_decoder and column_decoder. This gave us the Table and column output.![[Attachments/Pasted image 20240829135045.png]]![[Attachments/Pasted image 20240829135103.png]]
 		- Row_decoder was also tried in similar manner, but no good results so later removed.![[Attachments/Pasted image 20240829135014.png]]
 		- This model was opensource and pretrained. We had taken the weights(best checkpoint) along with the architecture from Github.
-	- The model was finetuned on diff usecases, Gen_table, Insurance_binder forms, sov etc.
-		- <Finetuning.>
+	- The model was finetuned on diff usecases, Gen_table, Insurance_binder forms, sov etc to detect diff kinds of table.
+- #### Finetuning
+	- class ImageFolder(nn.Module)- To start with, we manually had hand labelled the images for tables and saved the paths into a dataframe. The df contains info about the various images like img_path, table_mask_path, col_mask_path. Using this class, the df is iterated through, image, table and col mask loaded, transformed(Normalised, etc) and returned.
+	-  Now using this class, train_data df is loaded and train dataset created and then loaded using Pytorch Dataloader of batch_size=128. These images after loading to dataloader is used to calculate the mean and std of the normalised image tensor.
+	- 
+
+
+
+
+
 - #### QA:
 	- Using a form, upload the pdf/docx, Question and then submit it.
 	- Redirected to a new page. If its .docx, conberted to .pdf using `docx2pdf()`.
@@ -134,12 +141,8 @@
 	- Now the boxes iterated through, for each box, coordinates taken and image cropped to get just the box. The box again, greyscaled, thresholded, horizontal/vertical kernels of a min line length/ width created, using which those lines are detected, contours found and marked and removed. Then pytesseract used to extract text from that box and appended to a list. These text within the box are key-value pairs.
 	- Now these kv pairs of each box iterated through, ***Spacy*** used to decipher the kv pairs, extract entities using entity modelling. If the entity label== 'KEY', then saved in the key list  else if == 'Value', saved in the value list and saved. Hence we retrieve the Key-value pairs present in all the boxes of the image. We make a df out of this.
 	- So the highlighted image and the KV df returned.
-
 - #### Generic Tables form:
 	- Again exactly same as the ib_form!
-	  
-	  
-
 
 
 
