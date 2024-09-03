@@ -131,7 +131,15 @@
 	- Here as well, multiple images can be processed at a time.
 	- Image, taken, threshold found, horizontal kernel created using which diff V lines detected. The most extreme and longest vertical lines selected out of it. They must be the vertical borders. They are marked and image returned.
 	- Now this marked image taken, and we try to derive boxes from it. To do that we convert to greyscale, thresholded. H and V kernels created, and used to get the H and V lines in the images, Then the lines intersecting extrated out, as they must be the boxes. The area checked,if >than a threshold area, then the coordinates of the boxes saved and the image highlighted with the boxes.
-	- Now the boxes iterated through, for each box, coordinates taken and image cropped to get just the box. The box again, greyscaled, thresholded
+	- Now the boxes iterated through, for each box, coordinates taken and image cropped to get just the box. The box again, greyscaled, thresholded, horizontal/vertical kernels of a min line length/ width created, using which those lines are detected, contours found and marked and removed. Then pytesseract used to extract text from that box and appended to a list. These text within the box are key-value pairs.
+	- Now these kv pairs of each box iterated through, ***Spacy*** used to decipher the kv pairs, extract entities using entity modelling. If the entity label== 'KEY', then saved in the key list  else if == 'Value', saved in the value list and saved. Hence we retrieve the Key-value pairs present in all the boxes of the image. We make a df out of this.
+	- So the highlighted image and the KV df returned.
+
+- #### Generic Tables form:
+	- Again almost same as the ib_form!
+	- 
+	  
+	  
 
 
 
