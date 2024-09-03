@@ -66,7 +66,7 @@
 	- The model was finetuned on diff usecases, Gen_table, Insurance_binder forms, sov etc to detect diff kinds of table.
 - #### Finetuning
 	- class ImageFolder(nn.Module)- To start with, we manually had hand labelled the images for tables and saved the paths into a dataframe. The df contains info about the various images like img_path, table_mask_path, col_mask_path. Using this class, the df is iterated through, image, table and col mask loaded, transformed(Normalised, etc) and returned.
-	-  Now using this class, train_data df is loaded and train dataset created and then loaded using Pytorch Dataloader of batch_size=128. These images after loading to dataloader is used to calculate the mean and std of the normalised image tensor.
+	- Now using this class, train_data df is loaded and train dataset created and then loaded using Pytorch Dataloader of batch_size=128. These images after loading to dataloader is used to calculate the mean and std of the normalised image tensor.
 	- 
 
 
