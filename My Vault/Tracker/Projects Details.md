@@ -136,8 +136,7 @@
 	- So the highlighted image and the KV df returned.
 
 - #### Generic Tables form:
-	- Again almost same as the ib_form!
-	- 
+	- Again exactly same as the ib_form!
 	  
 	  
 
