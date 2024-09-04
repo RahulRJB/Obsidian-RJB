@@ -24,6 +24,8 @@
 	- Experimented with all-MiniLM-L6-v2 sentence transformer embedding model as well.
 	- Used cross-encoder to integrate
 	- Created Sagemaker endpoints for these embeddings models. 
+- #### Generation:
+	- 
 ## Aegon(May23-Oct23):
 
 - Lots of different table normalised and kept in s3 buckets.
