@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "5c8e719300b6e63c",
+            "id": "0b933122ae341191",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Gradient Boost.md",
+                "file": "Notes/RCNN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,20 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/ColBERT.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "415eb111d47f0b84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/Projects Details.md",
+                "file": "Notes/RAG.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -89,9 +76,43 @@
                 }
               }
             }
+          },
+          {
+            "id": "415eb111d47f0b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/Projects Details.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d94539185becfcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/04-09-24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03751063618b29a5",
+            "type": "leaf",
+            "state": {
+              "type": "weekly",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 260.5
   },
   "right": {
     "id": "c7c09c75a428bb68",
@@ -157,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracker/Projects Details.md",
+                "file": "Notes/RCNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tracker/Projects Details.md",
+                "file": "Notes/RCNN.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tracker/Projects Details.md"
+                "file": "Notes/RCNN.md"
               }
             }
           },
@@ -234,8 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,8 +273,35 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "415eb111d47f0b84",
+  "active": "0b933122ae341191",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240904135559.png",
+    "Attachments/Pasted image 20240904135328.png",
+    "Notes/QUOTES OF THE DAY.md",
+    "Notes/RCNN.md",
+    "Notes/CNN.md",
+    "Notes/VGG19.md",
+    "Notes/GIT.md",
+    "Notes/MLOps course- UDEMY.md",
+    "Notes/RAG.md",
+    "Tracker/Projects Details.md",
+    "Tracker/Lists.md",
+    "Tracker/04-09-24.md",
+    "Notes/ResNet.md",
+    "Notes/LSTM.md",
+    "Notes/LLMs.md",
+    "Notes/LLM Training.md",
+    "Notes/LLM Tools.md",
+    "Notes/LLM security.md",
+    "Notes/LLM OS.md",
+    "Notes/LLM FUTURE.md",
+    "Notes/LLM Evaluation.md",
+    "Notes/Intro into LLMs, Andrej Karpathy.md",
+    "Notes/Hacker's guide to LLMs, Jeremy Howard.md",
+    "Notes/LLM Basics.md",
+    "Notes/Jeremy Howard.md",
+    "Notes/Andrej Karpathy.md",
+    "Notes/ULMfit.md",
     "Attachments/Pasted image 20240904030847.png",
     "Attachments/Pasted image 20240904030745.png",
     "Attachments/Pasted image 20240904030733.png",
@@ -264,33 +311,6 @@
     "Attachments/Pasted image 20240904030432.png",
     "Attachments/Pasted image 20240904030347.png",
     "Attachments/Pasted image 20240904030329.png",
-    "Attachments/Pasted image 20240904030303.png",
-    "Attachments/Pasted image 20240904030242.png",
-    "Notes/ColBERT.md",
-    "Templates/Template 1.md",
-    "Notes/RAG.md",
-    "Notes/Cross-Encoder.md",
-    "Notes/Bi-Encoder.md",
-    "Notes/Gradient Boost.md",
-    "Notes/text-embedding-ada-002.md",
-    "Notes/Sentence Transformer.md",
-    "Tracker/Lists.md",
-    "Notes/Word Embeddings.md",
-    "Notes/Transformers.md",
-    "Tracker/Projects Details.md",
-    "Notes/BERT.md",
-    "Notes/RNN.md",
-    "Notes/LSTM.md",
-    "Notes/Bi-LSTM.md",
-    "Notes/SHAP.md",
-    "Notes/Sentence Transformers.md",
-    "Notes/GIT.md",
-    "Notes/DenseNet.md",
-    "Notes/ResNet.md",
-    "Notes/VGG19.md",
-    "Notes/CNN.md",
-    "Notes/PyTorch.md",
-    "Tracker/GOALS 2024.md",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",

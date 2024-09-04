@@ -5,7 +5,7 @@
 DATE:  23-05-24
 
 
-Tags: [[Tags/LLMs|LLMs]], [[Tags/Jeremy Howard]]
+Tags: [[Notes/LLMs|LLMs]], [[Notes/Jeremy Howard]]
 
 
 # References: 
@@ -15,9 +15,9 @@ Tags: [[Tags/LLMs|LLMs]], [[Tags/Jeremy Howard]]
 Companion notebook:  [llm_hackersguide_JH/lm-hackers.ipynb at main · RahulRJB/llm_hackersguide_JH (github.com)](https://github.com/RahulRJB/llm_hackersguide_JH/blob/main/lm-hackers.ipynb)
 
 
-## [[Tags/LLM Basics|LLM Basics]]:
+## LLM Basics:
 
-- **[[Tags/nat.dev]]**: This site lets us play with a variety of language models , eg. 'text-davinci-003' from [[OpenAI]]
+- **[[Notes/nat.dev]]**: This site lets us play with a variety of language models , eg. 'text-davinci-003' from [[OpenAI]]
 - An LLM, at each point predicts the probability of a variety of possible next words and depending on how it is set up, it either picks the most likely word(token) every time or if we change settings like P values, temperatures, it changes what comes up next, giving us a diff result.
 - LLM does not always predicts words, it actually predicts tokens, sub-words or pieces of a word
 - [[Tokenization]]: 
@@ -25,9 +25,9 @@ Companion notebook:  [llm_hackersguide_JH/lm-hackers.ipynb at main · RahulRJB/l
 	- Tokenizer for GPT `encoding_for_model`. We can also specify the model specific tokenizer to use.
 
 
-## [[Tags/LLM Training|LLM Training]]:
+## [[Notes/LLM Training|LLM Training]]:
 
-- Basic idea of LLMs like [[Tags/ChatGPT]], [[GPT-4]], [[Tags/Bard]] Etc come from a paper from 2017 having algorithm called [[Tags/ULMfit]]. ![[Attachments/Pasted image 20240524125722.png]]
+- Basic idea of LLMs like [[Notes/ChatGPT]], [[GPT-4]], [[Notes/Bard]] Etc come from a paper from 2017 having algorithm called [[Notes/ULMfit]]. ![[Attachments/Pasted image 20240524125722.png]]
 	- 3 step process. 
 	- Step 1, LM  pre-training, i.e. predict the next word of a sentence. To do this we  train this LM on Wikipedia. We took a neural network and using stochastic gradient descent or SGD you can teach it to do almost anything if you give it examples and so I gave it lots of examples of sentences from Wikipedia to guess what the next word is and if it guesses it right it would be rewarded and if it gets something else it would be penalized and effectively basically it's trying to maximize those rewards. it's trying to find a set of weights for this function that makes it more likely that it would predict right.
 	- Doing this Neural network is gonna have to learn a lot of stuff about the world to do a really good job of predicting the next word. The key idea here for me is that this is a form of compression and the idea of the relationship between compression and intelligence. Basic idea is that yeah if you can guess what words are coming up next then effectively you're compressing all that information down into a neural network.
@@ -75,7 +75,7 @@ Companion notebook:  [llm_hackersguide_JH/lm-hackers.ipynb at main · RahulRJB/l
 - We can have multiple such functions(tools) made available for things GPT-4 is not familiar with, It will try to solve whatever it can on its own, but for other things, it will use these tools.
 ## [[HuggingFace API]]:
 
-- Using HF open source models ![[Attachments/Pasted image 20240601022808.png]].generate() will [[Tags/autoregressive]]ly call the model, i.e. generate new token and again and again passing its previous result back as the next input.![[Attachments/Pasted image 20240601023804.png]]
+- Using HF open source models ![[Attachments/Pasted image 20240601022808.png]].generate() will [[Notes/autoregressive]]ly call the model, i.e. generate new token and again and again passing its previous result back as the next input.![[Attachments/Pasted image 20240601023804.png]]
 - Using bfloat16 floating point format reduces the computation time by a lot!![[Attachments/Pasted image 20240601024152.png]]
 - Using a different kind of discretization(quantised) called GPTQ, where a model is carefully optimized to work with 4 or 8 bits or other lower precision data. This is done by a person known as The Bloke, is fantastic at taking popular models running that optimization process and then uploading the results back to hugging face.![[Attachments/Pasted image 20240601024409.png]]
 - Fictionizing this:![[Attachments/Pasted image 20240601024948.png]]
@@ -106,4 +106,4 @@ Companion notebook:  [llm_hackersguide_JH/lm-hackers.ipynb at main · RahulRJB/l
 
 ## [[llama.cpp]]:
 
-- **llama.cpp** runs on lots of different things including [[Tags/cuda]]. It uses a different format called .gguf. We can use it from python even if it was a CPP thing using python wrapper. We can download from hugging face, gguf file, there's lots of different ones they're all documented as to what's what you can pick how big a file you want you can download it.![[Attachments/Pasted image 20240601040044.png]]![[Attachments/Pasted image 20240601040123.png]]
+- **llama.cpp** runs on lots of different things including [[Notes/cuda]]. It uses a different format called .gguf. We can use it from python even if it was a CPP thing using python wrapper. We can download from hugging face, gguf file, there's lots of different ones they're all documented as to what's what you can pick how big a file you want you can download it.![[Attachments/Pasted image 20240601040044.png]]![[Attachments/Pasted image 20240601040123.png]]

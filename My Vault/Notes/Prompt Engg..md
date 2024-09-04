@@ -5,7 +5,7 @@
 DATE:  09-07-24
 
 
-Tags: [[Tags/LLMs|LLMs]]
+Tags: [[Notes/LLMs|LLMs]]
 
 # References: 
 [Prompt Engineering Tutorial – Master ChatGPT and LLM Responses (youtube.com)](https://www.youtube.com/watch?v=_ZvnD73m40o&t=47s)

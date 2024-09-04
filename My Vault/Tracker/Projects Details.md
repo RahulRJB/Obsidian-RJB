@@ -25,7 +25,8 @@
 	- Used cross-encoder to integrate
 	- Created Sagemaker endpoints for these embeddings models. 
 - #### Generation:
-	- 
+	- Prompting techniques
+	- User vs System msg (gpt3.5)
 ## Aegon(May23-Oct23):
 
 - Lots of different table normalised and kept in s3 buckets.
@@ -48,6 +49,13 @@
 - Blending/Stacking
 
 ## UWME(Nov21-Feb22):
+
+- #### Problem Statement:
+	- There are historical documents of similar type. Printed. Needs to be digitized.
+	- Pytesseract used can nowadays be replaced by phi-3.5, Qwen2 OCR vision models. When prompted can extract tables directly 
+- ####  Evaluation:
+	- Accuracy of text with a row/column for pytesseract
+	- And Any row/column missed out for tablenet also IoU for loss during training of TableNet() model
 
 - 4 types of images: 
 	- Gen page containing 1 or more table
@@ -162,5 +170,9 @@
 
 ## CAR Damage(Mar22- July22):
 
-
+- #### Problem statement:
+	- ...
+- #### Evaluation:
+	- ...
+- 
 ## Synth Data:

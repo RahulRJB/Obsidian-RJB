@@ -90,5 +90,14 @@
       ],
       "key": "PageUp"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
   ]
 }

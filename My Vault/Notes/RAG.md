@@ -5,7 +5,7 @@
 DATE:  11-06-24
 
 
-Tags: [[Tags/LLMs|LLMs]]
+Tags: [[Notes/LLMs|LLMs]]
 
 # References:
 

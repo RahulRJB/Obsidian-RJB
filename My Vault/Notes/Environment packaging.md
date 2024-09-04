@@ -11,7 +11,7 @@ Tags:
 
 
 
-## [[Tags/CONDA]]
+## [[Notes/CONDA]]
 
 #### conda create new environment:
 conda create --name <environment_name> [python=X.Y.Z] [package1 package2 ...]
@@ -25,7 +25,7 @@ conda create --name <environment_name> [python=X.Y.Z] [package1 package2 ...]
 
 
 
-## [[Tags/venv]]
+## [[Notes/venv]]
 
 The `venv` module is a built-in module in Python 3.3 and later that allows you to create lightweight virtual environments.
 

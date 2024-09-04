@@ -5,7 +5,7 @@
 DATE:  01-06-24
 
 
-Tags: [[Tags/LLMs|LLMs]], [[Tags/Andrej Karpathy]]
+Tags: [[Notes/LLMs|LLMs]], [[Notes/Andrej Karpathy]]
 
 
 # References: 
