@@ -65,13 +65,10 @@
 		- This model was opensource and pretrained. We had taken the weights(best checkpoint) along with the architecture from Github.
 	- The model was finetuned on diff usecases, Gen_table, Insurance_binder forms, sov etc to detect diff kinds of table.
 - #### Finetuning
-	- class ImageFolder(nn.Module)- To start with, we manually had hand labelled the images for tables and saved the paths into a dataframe. The df contains info about the various images like img_path, table_mask_path, col_mask_path. Using this class, the df is iterated through, image, table and col mask loaded, transformed(Normalised, etc) and returned.
-	- Now using this class, train_data df is loaded and train dataset created and then loaded using Pytorch Dataloader of batch_size=128. These images after loading to dataloader is used to calculate the mean and std of the normalised image tensor.
-	- 
-
-
-
-
+	- class ImageFolder(nn.Module)- To start with, we manually had hand labelled the images for tables and columns and saved the paths into a dataframe. This df contains info about the various images like img_path, table_mask_path, col_mask_path. Using this class, the df is iterated through, image, table and col and row dimension arrays are loaded, transformed(Normalised, etc) and returned.![[Attachments/Pasted image 20240904030242.png]]
+	- Now using this class, train_data df is loaded and train dataset created and then loaded using Pytorch Dataloader of batch_size=128. These images after loading to dataloader is used to calculate the mean and std of the normalised image tensor.   -- NOT NEEDED![[Attachments/Pasted image 20240904030329.png]]
+	- The model is trained using BCE loss. The predicted table/col area and ground truth table/col area are compared, The comparison is done on every pixel, So More the intersection lesser the loss, better the model performs.![[Attachments/Pasted image 20240904030347.png]]
+	- SO using the model, the BCEloss, the model is finetuned on each of the diff table types.![[Attachments/Pasted image 20240904030432.png]]![[Attachments/Pasted image 20240904030449.png]]![[Attachments/Pasted image 20240904030538.png]]![[Attachments/Pasted image 20240904030601.png]]![[Attachments/Pasted image 20240904030733.png]]![[Attachments/Pasted image 20240904030847.png]]
 
 - #### QA:
 	- Using a form, upload the pdf/docx, Question and then submit it.
