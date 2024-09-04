@@ -161,5 +161,11 @@ The choice between merge and rebase depends on your workflow and preferences. He
 - `git stash drop stash@{1}`  -  Delete a stash
 
 
+### Upstream branch:
+- `git branch -vv`  -  To check all the upstream branches associated with your local branches.
+- `git push -u <upstreammbranch>` -  If there's no upstream branch created for your local branch, this command used to create an upstream branch with the given name.
+- `git branch --unset-upstream` -  If there is an upstream branch associated with your local branch, this command can remove it.
+
+
 
 
