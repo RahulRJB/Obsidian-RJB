@@ -11,7 +11,6 @@
 	- Retrieval using semantic search(vector embedding similarity)
 	- Hybrid search experimentation done(semantic + keyword). Various combination(arithematic/geometric/harmonic) and normalisation(l2/min-max) techniques used and diff weights tried.
 	- 
-- Uses AWS secret manager, AWS codebuild
 
 - Done using Sagemaker processing job(sands run step etc is the sagemaker processing job)
 
@@ -27,11 +26,11 @@
 - #### Generation:
 	- Prompting techniques
 	- User vs System msg (gpt3.5)
-- #### GPT4o-mini vs GPT3.5:
+- #### GPT4o-mini vs GPT3.5 Turbo:
 	- lower cost, 
 	- Lower Latency(5-10secs to 3-4secs)
 	- Reduced hallucination
-	- 
+	- Better performing
 ## Aegon(May23-Oct23):
 
 - Lots of different table normalised and kept in s3 buckets.
