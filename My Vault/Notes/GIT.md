@@ -16,6 +16,13 @@ https://gemini.google.com/app/690123ddb68853de
 
 # Content:
 
+
+### Staging Area:
+- Working dir --> Staging area![[Attachments/Pasted image 20240904225023.png]]
+- `git commit -m '<msg>'` -  Staging area --> Local repo
+- `git diff` -  Diff between working directory and staging area.
+- `git status -v -v` -  Detailed status, all the changes made to all the files.
+- `git diff --staged` -  Diff between staging area and commit version.
 ### git pull:
 
 - `git pull` is a combination of two commands:
@@ -165,6 +172,8 @@ The choice between merge and rebase depends on your workflow and preferences. He
 - `git branch -vv`  -  To check all the upstream branches associated with your local branches.
 - `git push -u <upstreammbranch>` -  If there's no upstream branch created for your local branch, this command used to create an upstream branch with the given name.
 - `git branch --unset-upstream` -  If there is an upstream branch associated with your local branch, this command can remove it.
+
+
 
 
 

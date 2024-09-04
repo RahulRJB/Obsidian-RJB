@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracker/Projects Details.md",
+                "file": "Notes/GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tracker/Projects Details.md",
+                "file": "Notes/GIT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tracker/Projects Details.md"
+                "file": "Notes/GIT.md"
               }
             }
           },
@@ -273,8 +273,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "415eb111d47f0b84",
+  "active": "97d6239fb6684745",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240904225023.png",
+    "Tracker/Projects Details.md",
     "Notes/RCNN.md",
     "Attachments/Pasted image 20240904135559.png",
     "Attachments/Pasted image 20240904135328.png",
@@ -284,7 +286,6 @@
     "Notes/GIT.md",
     "Notes/MLOps course- UDEMY.md",
     "Notes/RAG.md",
-    "Tracker/Projects Details.md",
     "Tracker/Lists.md",
     "Tracker/04-09-24.md",
     "Notes/ResNet.md",
