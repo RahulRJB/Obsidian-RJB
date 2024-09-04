@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/RCNN.md",
+                "file": "Tracker/Projects Details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/RCNN.md",
+                "file": "Tracker/Projects Details.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/RCNN.md"
+                "file": "Tracker/Projects Details.md"
               }
             }
           },
@@ -273,12 +273,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0b933122ae341191",
+  "active": "415eb111d47f0b84",
   "lastOpenFiles": [
+    "Notes/RCNN.md",
     "Attachments/Pasted image 20240904135559.png",
     "Attachments/Pasted image 20240904135328.png",
     "Notes/QUOTES OF THE DAY.md",
-    "Notes/RCNN.md",
     "Notes/CNN.md",
     "Notes/VGG19.md",
     "Notes/GIT.md",
@@ -310,7 +310,6 @@
     "Attachments/Pasted image 20240904030449.png",
     "Attachments/Pasted image 20240904030432.png",
     "Attachments/Pasted image 20240904030347.png",
-    "Attachments/Pasted image 20240904030329.png",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",

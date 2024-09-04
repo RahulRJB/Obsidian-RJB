@@ -27,6 +27,11 @@
 - #### Generation:
 	- Prompting techniques
 	- User vs System msg (gpt3.5)
+- #### GPT4o-mini vs GPT3.5:
+	- lower cost, 
+	- Lower Latency(5-10secs to 3-4secs)
+	- Reduced hallucination
+	- 
 ## Aegon(May23-Oct23):
 
 - Lots of different table normalised and kept in s3 buckets.
