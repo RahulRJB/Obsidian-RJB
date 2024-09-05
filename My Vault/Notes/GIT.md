@@ -18,11 +18,14 @@ https://gemini.google.com/app/690123ddb68853de
 
 
 ### Staging Area:
-- Working dir --> Staging area![[Attachments/Pasted image 20240904225023.png]]
-- `git commit -m '<msg>'` -  Staging area --> Local repo
-- `git diff` -  Diff between working directory and staging area.
+- Working area --> Staging area![[Attachments/Pasted image 20240904225023.png]]
+- `git diff` -  Diff between working area and staging area.
+- `git commit -m '<msg>'` -  Staging area --> Local repo(commit area)
+- `git diff --staged` -  Diff between staging area and Local repo(commit area).
 - `git status -v -v` -  Detailed status, all the changes made to all the files.
-- `git diff --staged` -  Diff between staging area and commit version.
+- `git reset --soft HEAD^` -  Local repo(commit area)  -->  Staging area
+- `git reset HEAD <file-to-unstage>` -  Staging area --> Working dir  
+
 ### git pull:
 
 - `git pull` is a combination of two commands:
