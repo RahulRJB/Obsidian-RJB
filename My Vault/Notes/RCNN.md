@@ -15,8 +15,8 @@ Tags: [[Object Detection]]
 
 # Content:
 
-- [[CNN]] goal: Predict output in an image
-- Object detection models: Also has to predict the bounding boxes along with the predictions
+- [[CNN]] goal: Predict output in an image.
+- Object detection models: Predict output in an image along with bounding boxes.
 - ### Process:
 	- The CNN bit used ![[Attachments/Pasted image 20240904135328.png]]
 	- For object detection task we have to modify it a little bit. firstly all of the things we do after

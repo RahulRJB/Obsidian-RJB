@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/GIT.md",
+                "file": "Notes/RCNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/GIT.md",
+                "file": "Notes/RCNN.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/GIT.md"
+                "file": "Notes/RCNN.md"
               }
             }
           },
@@ -273,8 +273,9 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "97d6239fb6684745",
+  "active": "0b933122ae341191",
   "lastOpenFiles": [
+    "Notes/GIT.md",
     "Attachments/Pasted image 20240904225023.png",
     "Tracker/Projects Details.md",
     "Notes/RCNN.md",
@@ -283,7 +284,6 @@
     "Notes/QUOTES OF THE DAY.md",
     "Notes/CNN.md",
     "Notes/VGG19.md",
-    "Notes/GIT.md",
     "Notes/MLOps course- UDEMY.md",
     "Notes/RAG.md",
     "Tracker/Lists.md",
@@ -310,7 +310,6 @@
     "Attachments/Pasted image 20240904030538.png",
     "Attachments/Pasted image 20240904030449.png",
     "Attachments/Pasted image 20240904030432.png",
-    "Attachments/Pasted image 20240904030347.png",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
