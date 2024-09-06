@@ -88,7 +88,7 @@ The choice between merge and rebase depends on your workflow and preferences. He
 
 
 
-### Branching(local and remote):
+### Branches(local and remote):
 
 - `git checkout <branch-name>`  -  Change branch
 - `git checkout -b <new-branch-name> <existing-branch-name>`  -  Creating a new branch from a local exising branch.
@@ -97,6 +97,7 @@ The choice between merge and rebase depends on your workflow and preferences. He
 - `git branch -vv`  -  To check all the upstream branches associated with your local branches.
 - `git push -u <upstreammbranch>` -  If there's no upstream branch created for your local branch, this command used to create an upstream branch with the given name.
 - `git branch --unset-upstream` -  If there is an upstream branch associated with your local branch, this command can remove it.
+- `git branch -m <old-branch-name> <new-branch-name>` -  Renaming a branch
 
 
 ### git  push:
