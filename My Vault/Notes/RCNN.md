@@ -16,46 +16,11 @@ Tags: [[Object Detection]]
 # Content:
 
 - [[CNN]] goal: Predict output in an image.
-- Object detection models: Predict output in an image along with bounding boxes.
-- ### Process:
+- Object detection models: Predict output in an image + bounding boxes.
+- #### Process:
 	- The CNN bit used ![[Attachments/Pasted image 20240904135328.png]]
-	- For object detection task we have to modify it a little bit. firstly all of the things we do after
-
-fully connected layer is going to get
-
-separated as a branch and what's the
-
-other Branch it's another fully
-
-connected layer to Output our bounding
-
-box coordinates
-
-and again we already know what are the
-
-correct bounding boxes during training
-
-and we use L2 loss for this allowance
-
-function
-
-last but not least we can use weighted
-
-sum to compute our final loss![[Attachments/Pasted image 20240904135559.png]]
-
-one major disadvantage it only can
-
-detect one object in the picture because
-
-we just output one single bounding box
-
-coordinates
-
-so we actually can't use this
-
-architecture in scenarios when multiple
-
-cars exist in our input
+	- For object detection task we have to modify it a little bit. After fully connected layer, we create 2 branches, one for CNN classification, and other, another fully connected layer to Output our bounding box coordinates. We already know what are the correct bounding boxes during training, use [[Notes/L2 loss (MSE loss)]]for the loss function. Lastly we use weighted sum to compute our final loss.![[Attachments/Pasted image 20240904135559.png]]
+- 1 major disadvantage, it only can detect one object in the picture because we just output one single bounding box coordinates. Can't use this architecture in scenarios when multiple objects exist in our input. 
 
 
 

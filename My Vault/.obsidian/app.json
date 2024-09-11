@@ -10,5 +10,6 @@
   "attachmentFolderPath": "Attachments",
   "userIgnoreFilters": [
     "Attachments/"
-  ]
+  ],
+  "showRibbon": true
 }
