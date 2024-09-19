@@ -83,20 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/Projects Details.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65beb88bf9ef1431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/11-09-24.md",
+                "file": "Tracker/19-09-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,14 +95,6 @@
             "type": "leaf",
             "state": {
               "type": "weekly",
-              "state": {}
-            }
-          },
-          {
-            "id": "db764e2bd1365a4e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
               "state": {}
             }
           }
@@ -283,8 +262,25 @@
   },
   "active": "0b933122ae341191",
   "lastOpenFiles": [
-    "Tracker/11-09-24.md",
+    "Notes/MLOps course- UDEMY.md",
+    "Notes/GIT.md",
     "Notes/RCNN.md",
+    "Notes/RAG.md",
+    "Tracker/19-09-24.md",
+    "Tracker/Lists.md",
+    "Tracker/20-09-24.md",
+    "Tracker/24-07-24.md",
+    "Tracker/23-07-24.md",
+    "Tracker/Projects Details.md",
+    "Tracker/18-09-24.md",
+    "Tracker/18-08-24.md",
+    "Tracker/17-09-24.md",
+    "Tracker/16-09-24.md",
+    "Tracker/15-09-24.md",
+    "Tracker/14-09-24.md",
+    "Tracker/13-09-24.md",
+    "Tracker/12-09-24.md",
+    "Tracker/11-09-24.md",
     "Notes/Selective Search.md",
     "Attachments/Pasted image 20240911131140.png",
     "Attachments/Pasted image 20240911131002.png",
@@ -298,27 +294,10 @@
     "Attachments/Pasted image 20240911124126.png",
     "Notes/L1 loss (MAE loss).md",
     "Notes/L2 loss (MSE loss).md",
-    "Tracker/Projects Details.md",
-    "Tracker/Lists.md",
-    "Notes/RAG.md",
-    "Tracker/24-07-24.md",
     "Tracker/Marriage Plan.md",
     "Tracker/GOALS 2024.md",
     "Tracker/Dreams.md",
-    "Tracker/23-07-24.md",
     "Tracker/22-07-24.md",
-    "Tracker/18-08-24.md",
-    "Tracker/05-09-24.md",
-    "Tracker/04-09-24.md",
-    "Tracker/10-09-24.md",
-    "Tracker/09-09-24.md",
-    "Tracker/08-09-24.md",
-    "Tracker/07-09-24.md",
-    "Tracker/06-09-24.md",
-    "Notes/Loss.md",
-    "Notes/GIT.md",
-    "Notes/QUOTES OF THE DAY.md",
-    "Notes/CNN.md",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
