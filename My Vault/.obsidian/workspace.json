@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "8aaf70f3cb620c1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/ANNOY.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "64ec11214a331f60",
             "type": "leaf",
             "state": {
@@ -99,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/RCNN.md",
+                "file": "Notes/ANNOY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/RCNN.md",
+                "file": "Notes/ANNOY.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/RCNN.md"
+                "file": "Notes/ANNOY.md"
               }
             }
           },
@@ -260,12 +273,21 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0b933122ae341191",
+  "active": "8aaf70f3cb620c1a",
   "lastOpenFiles": [
-    "Notes/MLOps course- UDEMY.md",
-    "Notes/GIT.md",
-    "Notes/RCNN.md",
+    "Attachments/Pasted image 20240920023332.png",
+    "Attachments/Pasted image 20240920022917.png",
+    "Attachments/Pasted image 20240920022814.png",
+    "Attachments/Pasted image 20240920022607.png",
+    "Attachments/Pasted image 20240920022235.png",
+    "Attachments/Pasted image 20240920022119.png",
+    "Notes/Clustering.md",
+    "Notes/ANNOY.md",
     "Notes/RAG.md",
+    "Notes/RCNN.md",
+    "Notes/GIT.md",
+    "Notes/MLOps course- UDEMY.md",
+    "Notes/Selective Search.md",
     "Tracker/19-09-24.md",
     "Tracker/Lists.md",
     "Tracker/20-09-24.md",
@@ -281,23 +303,14 @@
     "Tracker/13-09-24.md",
     "Tracker/12-09-24.md",
     "Tracker/11-09-24.md",
-    "Notes/Selective Search.md",
     "Attachments/Pasted image 20240911131140.png",
     "Attachments/Pasted image 20240911131002.png",
     "Attachments/Pasted image 20240911130828.png",
     "Attachments/Pasted image 20240911130549.png",
     "Attachments/Pasted image 20240911125921.png",
-    "Attachments/Pasted image 20240911125621.png",
-    "Attachments/Pasted image 20240911125358.png",
-    "Attachments/Pasted image 20240911125236.png",
-    "Attachments/Pasted image 20240911124754.png",
-    "Attachments/Pasted image 20240911124126.png",
     "Notes/L1 loss (MAE loss).md",
     "Notes/L2 loss (MSE loss).md",
     "Tracker/Marriage Plan.md",
-    "Tracker/GOALS 2024.md",
-    "Tracker/Dreams.md",
-    "Tracker/22-07-24.md",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
