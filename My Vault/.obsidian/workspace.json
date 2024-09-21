@@ -52,33 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/RAG.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8aaf70f3cb620c1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/ANNOY.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "427d29be2e00051c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Notes/Prompt caching.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e0d25f5b076fce6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/HNSW.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Prompt caching.md",
+                "file": "Notes/HNSW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Prompt caching.md",
+                "file": "Notes/HNSW.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Prompt caching.md"
+                "file": "Notes/HNSW.md"
               }
             }
           },
@@ -286,10 +273,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "427d29be2e00051c",
+  "active": "4e0d25f5b076fce6",
   "lastOpenFiles": [
     "Notes/ANNOY.md",
+    "Notes/Vector Search.md",
+    "Notes/HNSW.md",
+    "Notes/Untitled.md",
     "Notes/Prompt caching.md",
+    "Notes/RAG.md",
     "Attachments/Pasted image 20240920023332.png",
     "Attachments/Pasted image 20240920022917.png",
     "Attachments/Pasted image 20240920022814.png",
@@ -297,7 +288,6 @@
     "Attachments/Pasted image 20240920022235.png",
     "Attachments/Pasted image 20240920022119.png",
     "Notes/Clustering.md",
-    "Notes/RAG.md",
     "Notes/RCNN.md",
     "Notes/GIT.md",
     "Notes/MLOps course- UDEMY.md",
@@ -321,9 +311,6 @@
     "Attachments/Pasted image 20240911131002.png",
     "Attachments/Pasted image 20240911130828.png",
     "Attachments/Pasted image 20240911130549.png",
-    "Notes/L1 loss (MAE loss).md",
-    "Notes/L2 loss (MSE loss).md",
-    "Tracker/Marriage Plan.md",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
