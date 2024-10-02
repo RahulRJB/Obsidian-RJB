@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Prompt caching.md",
+                "file": "Notes/RAG.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/19-09-24.md",
+                "file": "Tracker/02-10-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 204.5
   },
   "right": {
     "id": "c7c09c75a428bb68",
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/HNSW.md",
+                "file": "Notes/RCNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/HNSW.md",
+                "file": "Notes/RCNN.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/HNSW.md"
+                "file": "Notes/RCNN.md"
               }
             }
           },
@@ -273,14 +273,22 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4e0d25f5b076fce6",
+  "active": "0b933122ae341191",
   "lastOpenFiles": [
+    "Notes/RAG.md",
+    "Notes/Prompt caching.md",
+    "Notes/RCNN.md",
+    "Notes/HNSW.md",
+    "Tracker/Lists.md",
+    "Tracker/02-10-24.md",
+    "Tracker/03-10-24.md",
+    "Tracker/23-07-24.md",
+    "Tracker/20-09-24.md",
+    "Tracker/19-09-24.md",
+    "Tracker/24-07-24.md",
     "Notes/ANNOY.md",
     "Notes/Vector Search.md",
-    "Notes/HNSW.md",
     "Notes/Untitled.md",
-    "Notes/Prompt caching.md",
-    "Notes/RAG.md",
     "Attachments/Pasted image 20240920023332.png",
     "Attachments/Pasted image 20240920022917.png",
     "Attachments/Pasted image 20240920022814.png",
@@ -288,15 +296,9 @@
     "Attachments/Pasted image 20240920022235.png",
     "Attachments/Pasted image 20240920022119.png",
     "Notes/Clustering.md",
-    "Notes/RCNN.md",
     "Notes/GIT.md",
     "Notes/MLOps course- UDEMY.md",
     "Notes/Selective Search.md",
-    "Tracker/19-09-24.md",
-    "Tracker/Lists.md",
-    "Tracker/20-09-24.md",
-    "Tracker/24-07-24.md",
-    "Tracker/23-07-24.md",
     "Tracker/Projects Details.md",
     "Tracker/18-09-24.md",
     "Tracker/18-08-24.md",
@@ -305,8 +307,6 @@
     "Tracker/15-09-24.md",
     "Tracker/14-09-24.md",
     "Tracker/13-09-24.md",
-    "Tracker/12-09-24.md",
-    "Tracker/11-09-24.md",
     "Attachments/Pasted image 20240911131140.png",
     "Attachments/Pasted image 20240911131002.png",
     "Attachments/Pasted image 20240911130828.png",
