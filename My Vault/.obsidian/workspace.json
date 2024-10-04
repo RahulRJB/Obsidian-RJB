@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/RCNN.md",
+                "file": "Notes/Fast RCNN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/RCNN.md",
+                "file": "Notes/Fast RCNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/RCNN.md",
+                "file": "Notes/Fast RCNN.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/RCNN.md"
+                "file": "Notes/Fast RCNN.md"
               }
             }
           },
@@ -275,11 +275,21 @@
   },
   "active": "0b933122ae341191",
   "lastOpenFiles": [
-    "Notes/Selective Search.md",
-    "Attachments/Pasted image 20241003233024.png",
+    "Attachments/Pasted image 20241004023549.png",
+    "Attachments/Pasted image 20241004023327.png",
+    "Attachments/Pasted image 20241004021600.png",
+    "Attachments/Pasted image 20241004021038.png",
+    "Attachments/Pasted image 20241004020845.png",
+    "Attachments/Pasted image 20241004020610.png",
+    "Attachments/Pasted image 20241004020202.png",
+    "Attachments/Pasted image 20241004015908.png",
+    "Attachments/Pasted image 20241004014821.png",
+    "Attachments/Pasted image 20241004014641.png",
+    "Attachments/Pasted image 20241004014308.png",
     "Notes/RCNN.md",
+    "Notes/Fast RCNN.md",
+    "Notes/Selective Search.md",
     "Notes/AlexNet.md",
-    "Attachments/Pasted image 20241003232200.png",
     "Notes/RAG.md",
     "Notes/Prompt caching.md",
     "Notes/HNSW.md",
@@ -293,12 +303,6 @@
     "Notes/ANNOY.md",
     "Notes/Vector Search.md",
     "Notes/Untitled.md",
-    "Attachments/Pasted image 20240920023332.png",
-    "Attachments/Pasted image 20240920022917.png",
-    "Attachments/Pasted image 20240920022814.png",
-    "Attachments/Pasted image 20240920022607.png",
-    "Attachments/Pasted image 20240920022235.png",
-    "Attachments/Pasted image 20240920022119.png",
     "Notes/Clustering.md",
     "Notes/GIT.md",
     "Notes/MLOps course- UDEMY.md",
@@ -307,9 +311,6 @@
     "Tracker/18-08-24.md",
     "Tracker/17-09-24.md",
     "Tracker/16-09-24.md",
-    "Tracker/15-09-24.md",
-    "Attachments/Pasted image 20240911131140.png",
-    "Attachments/Pasted image 20240911131002.png",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",

@@ -5,13 +5,14 @@
 DATE:  04-09-24
 
 
-Tags: [[Object Detection]]
+Tags: [[Object Detection]] [[Fast RCNN]]
 
 
 # References:
 - https://www.youtube.com/watch?v=nJzQDpppFj0
 - https://blog.roboflow.com/what-is-r-cnn/
 - https://pyimagesearch.com/2020/07/13/r-cnn-object-detection-with-keras-tensorflow-and-deep-learning/
+- https://medium.com/@kattarajesh2001/object-detection-part-2-two-stage-detectors-r-cnn-fast-r-cnn-faster-r-cnn-026e5fac5dd0
 
 # Content:
 
