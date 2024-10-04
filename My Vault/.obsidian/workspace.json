@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "963013e0afcd8461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Faster RCNN.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e8726f7e81d30cfe",
             "type": "leaf",
             "state": {
@@ -112,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Fast RCNN.md",
+                "file": "Notes/Faster RCNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Fast RCNN.md",
+                "file": "Notes/Faster RCNN.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Fast RCNN.md"
+                "file": "Notes/Faster RCNN.md"
               }
             }
           },
@@ -273,8 +286,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "0b933122ae341191",
+  "active": "963013e0afcd8461",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20241004124634.png",
+    "Attachments/Pasted image 20241004123304.png",
+    "Attachments/Pasted image 20241004123209.png",
+    "Notes/Fast RCNN.md",
+    "Notes/Faster RCNN.md",
+    "Tracker/02-10-24.md",
     "Attachments/Pasted image 20241004023549.png",
     "Attachments/Pasted image 20241004023327.png",
     "Attachments/Pasted image 20241004021600.png",
@@ -283,18 +302,13 @@
     "Attachments/Pasted image 20241004020610.png",
     "Attachments/Pasted image 20241004020202.png",
     "Attachments/Pasted image 20241004015908.png",
-    "Attachments/Pasted image 20241004014821.png",
-    "Attachments/Pasted image 20241004014641.png",
-    "Attachments/Pasted image 20241004014308.png",
     "Notes/RCNN.md",
-    "Notes/Fast RCNN.md",
     "Notes/Selective Search.md",
     "Notes/AlexNet.md",
     "Notes/RAG.md",
     "Notes/Prompt caching.md",
     "Notes/HNSW.md",
     "Tracker/Lists.md",
-    "Tracker/02-10-24.md",
     "Tracker/03-10-24.md",
     "Tracker/23-07-24.md",
     "Tracker/20-09-24.md",
@@ -302,7 +316,6 @@
     "Tracker/24-07-24.md",
     "Notes/ANNOY.md",
     "Notes/Vector Search.md",
-    "Notes/Untitled.md",
     "Notes/Clustering.md",
     "Notes/GIT.md",
     "Notes/MLOps course- UDEMY.md",
