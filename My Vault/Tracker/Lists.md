@@ -6,21 +6,16 @@ kanban-plugin: board
 
 ## TO study
 
-- [ ] Basics algos
-- [x] MLOps ✅ 2024-07-24
-- [x] Opensearch ✅ 2024-07-24
-- [x] Prompt engineering ✅ 2024-08-07
 - [ ] Revision of Projects
+- [ ] Sagemaker Proper
+- [ ] Basics algos
+- [ ] LORA, QLora
+- [ ] RLHF
 - [ ] Karpathy videos
 - [ ] Stacking, blending, AK
-- [ ] 
-- [ ] Multimodal variable
 - [ ] Diffusion models
-- [ ] Docker
 - [ ] SQL questions
 - [ ] Langchain
-- [ ] RLHF
-- [ ] LORA
 - [ ] WOE
 - [ ] Factor analysis code and intuition
 - [ ] Prob Callibration
@@ -38,7 +33,6 @@ kanban-plugin: board
 - [ ] LSTM
 - [ ] Reason for High AUC
 - [ ] AUC relation with F1 and skewed data
-- [ ] SQL-to-text
 - [ ] Psi
 - [ ] IV
 
@@ -63,6 +57,7 @@ kanban-plugin: board
 - [ ] Coursera  
 	- [  ] Improving Deep Neural Network: Hyperparameter tuning, Regularization, optimization  
 	Structuring Machine Learning projects
+- [ ] 
 - [ ] YouTube channels
 	- [ ] Linear Algebra, 3blue1brown
 	- [ ] Calculus, 3blue1brown

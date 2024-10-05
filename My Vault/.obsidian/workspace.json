@@ -21,38 +21,12 @@
             }
           },
           {
-            "id": "97d6239fb6684745",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/HNSW.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e8726f7e81d30cfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/RAG.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e0d25f5b076fce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/HNSW.md",
+                "file": "Notes/Gradient Boost.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracker/05-10-24.md",
+                "file": "Notes/Gradient Boost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tracker/05-10-24.md",
+                "file": "Notes/Gradient Boost.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tracker/05-10-24.md"
+                "file": "Notes/Gradient Boost.md"
               }
             }
           },
@@ -260,14 +234,21 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "415eb111d47f0b84",
+  "active": "e8726f7e81d30cfe",
   "lastOpenFiles": [
-    "Notes/Mask RCNN.md",
-    "Tracker/05-10-24.md",
-    "Notes/HNSW.md",
     "Tracker/Lists.md",
-    "Attachments/Pasted image 20241005223453.png",
+    "Tracker/05-10-24.md",
+    "Notes/MLOps course- UDEMY.md",
+    "Notes/HNSW.md",
     "Notes/Gradient Boost.md",
+    "Attachments/Pasted image 20241006010716.png",
+    "Notes/RAG.md",
+    "Attachments/Pasted image 20241006010528.png",
+    "Attachments/Pasted image 20241006005433.png",
+    "Attachments/Pasted image 20241006005025.png",
+    "Attachments/Pasted image 20241006003927.png",
+    "Notes/Mask RCNN.md",
+    "Attachments/Pasted image 20241005223453.png",
     "Notes/Cross-Encoder.md",
     "Notes/Boosting.md",
     "Notes/GIT.md",
@@ -278,17 +259,11 @@
     "Tracker/02-10-24.md",
     "Tracker/03-10-24.md",
     "Tracker/04-10-24.md",
-    "Notes/RAG.md",
     "Tracker/06-10-24.md",
     "Tracker/07-10-24.md",
     "Attachments/Pasted image 20241004124634.png",
     "Attachments/Pasted image 20241004123304.png",
     "Attachments/Pasted image 20241004123209.png",
-    "Attachments/Pasted image 20241004023549.png",
-    "Attachments/Pasted image 20241004023327.png",
-    "Attachments/Pasted image 20241004021600.png",
-    "Attachments/Pasted image 20241004021038.png",
-    "Attachments/Pasted image 20241004020845.png",
     "Notes/Selective Search.md",
     "Notes/AlexNet.md",
     "Notes/Prompt caching.md",
@@ -296,7 +271,6 @@
     "Tracker/20-09-24.md",
     "Tracker/19-09-24.md",
     "Tracker/24-07-24.md",
-    "Notes/ANNOY.md",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
