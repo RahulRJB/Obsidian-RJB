@@ -26,33 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/GIT.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b933122ae341191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Fast RCNN.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "963013e0afcd8461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Faster RCNN.md",
+                "file": "Notes/HNSW.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/02-10-24.md",
+                "file": "Tracker/05-10-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -191,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Faster RCNN.md",
+                "file": "Tracker/05-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Faster RCNN.md",
+                "file": "Tracker/05-10-24.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Faster RCNN.md"
+                "file": "Tracker/05-10-24.md"
               }
             }
           },
@@ -286,13 +260,27 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "963013e0afcd8461",
+  "active": "415eb111d47f0b84",
   "lastOpenFiles": [
-    "Notes/Fast RCNN.md",
-    "Notes/Faster RCNN.md",
-    "Notes/RAG.md",
+    "Notes/Mask RCNN.md",
+    "Tracker/05-10-24.md",
     "Notes/HNSW.md",
+    "Tracker/Lists.md",
+    "Attachments/Pasted image 20241005223453.png",
+    "Notes/Gradient Boost.md",
+    "Notes/Cross-Encoder.md",
+    "Notes/Boosting.md",
+    "Notes/GIT.md",
+    "Notes/Faster RCNN.md",
+    "Notes/RCNN.md",
+    "Notes/Fast RCNN.md",
+    "Attachments/Pasted image 20241005220509.png",
     "Tracker/02-10-24.md",
+    "Tracker/03-10-24.md",
+    "Tracker/04-10-24.md",
+    "Notes/RAG.md",
+    "Tracker/06-10-24.md",
+    "Tracker/07-10-24.md",
     "Attachments/Pasted image 20241004124634.png",
     "Attachments/Pasted image 20241004123304.png",
     "Attachments/Pasted image 20241004123209.png",
@@ -301,28 +289,14 @@
     "Attachments/Pasted image 20241004021600.png",
     "Attachments/Pasted image 20241004021038.png",
     "Attachments/Pasted image 20241004020845.png",
-    "Attachments/Pasted image 20241004020610.png",
-    "Attachments/Pasted image 20241004020202.png",
-    "Notes/RCNN.md",
     "Notes/Selective Search.md",
     "Notes/AlexNet.md",
     "Notes/Prompt caching.md",
-    "Tracker/Lists.md",
-    "Tracker/03-10-24.md",
     "Tracker/23-07-24.md",
     "Tracker/20-09-24.md",
     "Tracker/19-09-24.md",
     "Tracker/24-07-24.md",
     "Notes/ANNOY.md",
-    "Notes/Vector Search.md",
-    "Notes/Clustering.md",
-    "Notes/GIT.md",
-    "Notes/MLOps course- UDEMY.md",
-    "Tracker/Projects Details.md",
-    "Tracker/18-09-24.md",
-    "Tracker/18-08-24.md",
-    "Tracker/17-09-24.md",
-    "Tracker/16-09-24.md",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",

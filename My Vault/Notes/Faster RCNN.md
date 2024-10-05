@@ -10,6 +10,7 @@ Tags: [[Notes/Object Detection|Object Detection]]
 # References:
 https://www.youtube.com/watch?v=auHkGHM-x_M
 https://medium.com/@kattarajesh2001/object-detection-part-2-two-stage-detectors-r-cnn-fast-r-cnn-faster-r-cnn-026e5fac5dd0
+https://www.digitalocean.com/community/tutorials/faster-r-cnn-explained-object-detection
 
 
 # Content:
@@ -29,34 +30,28 @@ https://medium.com/@kattarajesh2001/object-detection-part-2-two-stage-detectors-
 	
 	![](https://miro.medium.com/v2/resize:fit:576/1*vQrsJkBXBqo3ankVxw3SJA.png)
 	
-	anchor box of different scales and aspect ratios (3x3=9 boxes)
 	
 	The goal of generating anchors is to obtain good coverage over all possible scales and sizes of objects in an image. For example a person standing and a car both boxes are having different aspect ratios(1:2 and 2:1). For each point on the output feature map, a set of anchors is generated(**n** aspect rations and **m** scales gives **m*n** anchors). These anchors are placed densely across the spatial dimensions of the feature map, covering various locations(receptive fields) and scales in the input image. If the feature map size is **kxk** and the number of anchor boxes are lets say **p** boxes, then it generates these **p** boxes at each location on the feature map and that gives **k*k*p** anchor boxes per image. The purpose of using anchors is to provide a systematic way of proposing potential object regions without considering all possible bounding box locations. By placing anchors of different sizes and aspect ratios at each location on the feature map, the network can learn to predict whether an object is present at that receptive field on the image and estimate its size.
 	
 	![](https://miro.medium.com/v2/resize:fit:630/1*EfEdbhUSlUJxctBWHd0zvg.png)
-	
-	Anchor boxes at each location on the feature map and corresponding receptive field on input image.
-	
-	So, for each image, RPN generates k*k*p anchor boxes (kxk feature map size, p is the number of anchor boxes per location(number of aspect ratios*number of scales) and now for every anchor we ask two questions-
+		
+	So, for each image, RPN generates k*k*p anchor boxes (kxk feature map size, p is the number of anchor boxes per location(number of aspect ratios* x number of scales) and now for every anchor we ask two questions-
 	
 		1. Does the anchor contains any relevant object?
-		
 		2. If object is present, what are the adjustments to adjust that anchor box to better fit the object?
-
 	So, the RPN predicts the likelihood of each anchor box containing an object (foreground) or background without worrying about what type of object in that box like a pedestrian, car etc. It takes the convolutional feature map from the base network as input and applies convolutional layers to predict two outputs in parallel: foreground probabilities and bounding box adjustments. The foreground probability indicates the likelihood of an anchor box containing an object, while the bounding box adjustments refine the coordinates of the anchor boxes to better fit the objects. Non-maximum suppression is then applied to remove redundant and overlapping proposals, and a proposal selection step is performed to choose a fixed number of top-scoring proposals for further processing. So the region proposal network outputs these adjusted boxes or proposals along with their objectness scores(probability of the box containing object of interest).
 	![](https://miro.medium.com/v2/resize:fit:538/1*rhNlFlkTkId6keWxrjvQOQ.jpeg)
+	## RPN Network Architecture and training:
+	![](https://miro.medium.com/v2/resize:fit:337/1*2t9LOkMjmzXuY-wtQHxryQ.png)
+	
+	
+	1. The RPN takes the feature map obtained from the backbone network as input, applies a 3x3 convolutional layer with 512 units. This convolutional layer operates independently at each spatial location in the feature map, producing a 512-dimensional feature vector or descriptor for every location. This step helps to enhance the representational capacity of the features and extract more discriminative information relevant for object detection.
+	2. After the convolutional layer, the feature map is fed into two sibling layers. The first sibling is a 1x1 convolutional layer with 18 units, which is responsible for object classification. The output of this layer has a size of (H, W, 18), where H and W represent the dimensions of the feature map and each of the 18 units in this output corresponds to one of the 9 anchors (each anchor has 2 units for objectness score, forground or background). This output provides probabilities indicating whether each anchor at every spatial location contains an object or background.
+	3. The second sibling layer is another 1x1 convolutional layer, but with 36 units. This layer is responsible for bounding box regression, which aims to refine the coordinates of the anchors to better fit the objects present in the image. The output of this layer has a size of (H, W, 36), where the 36 units corresponds 9 anchors with 4 units for each (9*4=36) . The output provides regression adjustments that adjust the coordinates (x, y, width, height) of the anchors.
 
-## RPN Network Architecture and training:
+### **Training:** 
 
-![](https://miro.medium.com/v2/resize:fit:337/1*2t9LOkMjmzXuY-wtQHxryQ.png)
-
-Region proposal network
-
-1. The RPN takes the feature map obtained from the backbone network as input, applies a 3x3 convolutional layer with 512 units. This convolutional layer operates independently at each spatial location in the feature map, producing a 512-dimensional feature vector or descriptor for every location. This step helps to enhance the representational capacity of the features and extract more discriminative information relevant for object detection.
-2. After the convolutional layer, the feature map is fed into two sibling layers. The first sibling is a 1x1 convolutional layer with 18 units, which is responsible for object classification. The output of this layer has a size of (H, W, 18), where H and W represent the dimensions of the feature map and each of the 18 units in this output corresponds to one of the 9 anchors (each anchor has 2 units for objectness score, forground or background). This output provides probabilities indicating whether each anchor at every spatial location contains an object or background.
-3. The second sibling layer is another 1x1 convolutional layer, but with 36 units. This layer is responsible for bounding box regression, which aims to refine the coordinates of the anchors to better fit the objects present in the image. The output of this layer has a size of (H, W, 36), where the 36 units corresponds 9 anchors with 4 units for each (9*4=36) . The output provides regression adjustments that adjust the coordinates (x, y, width, height) of the anchors.
-
-**Training:** During training, the RPN aims to effectively classify anchors as foreground (containing objects) or background (not containing objects), and to regress the bounding box coordinates of the anchors to better fit the objects.
+During training, the RPN aims to effectively classify anchors as foreground (containing objects) or background (not containing objects), and to regress the bounding box coordinates of the anchors to better fit the objects.
 
 1. All anchors are categorized into two groups based on their overlap with ground-truth objects. Anchors with an highest Intersection over Union (IoU) with the ground truth box or greater than 0.7 with any ground-truth object box are labeled as “foreground” (positive anchors), indicating they contain objects. Anchors with an IoU less than 0.3 with all ground-truth objects are labeled as “background” (negative anchors), indicating they do not contain objects. Same ground truth box can cause multiple positive anchors.
 2. From the pool of labeled anchors of an image, a mini-batch of size 256 (128 foreground,128 background) is randomly sampled for training. The goal is to maintain a balanced ratio between foreground and background anchors in the mini-batch other wise it causes bais in the training towards negatives. This balanced sampling ensures that the model is exposed to sufficient examples of both classes during training, preventing class imbalance issues. If there are insufficient number of positives, then it pads the remaining in the mini batch with negatives samples.
