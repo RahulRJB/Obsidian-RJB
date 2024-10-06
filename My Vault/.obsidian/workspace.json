@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "98c6c2eb60409b54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/XgBoost.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "64ec11214a331f60",
             "type": "leaf",
             "state": {
@@ -57,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/05-10-24.md",
+                "file": "Tracker/06-10-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Gradient Boost.md",
+                "file": "Tracker/06-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Gradient Boost.md",
+                "file": "Tracker/06-10-24.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Gradient Boost.md"
+                "file": "Tracker/06-10-24.md"
               }
             }
           },
@@ -234,17 +247,25 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e8726f7e81d30cfe",
+  "active": "415eb111d47f0b84",
   "lastOpenFiles": [
+    "Tracker/05-10-24.md",
+    "Notes/XgBoost.md",
+    "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md",
+    "Notes/Lets build GPT, from scratch, in code, spelled out, Andrej Karpathy.md",
+    "Notes/Gradient Boost.md",
+    "Notes/AdaBoost.md",
+    "Notes/AlexNet.md",
+    "Notes/Andrej Karpathy.md",
+    "Notes/ANNOY.md",
+    "Notes/YAML.md",
+    "Tracker/Lists.md",
     "Notes/Collaborative Filtering.md",
     "Attachments/Pasted image 20241006020521.png",
     "Attachments/Pasted image 20241006020504.png",
     "Attachments/Pasted image 20241006020305.png",
     "Attachments/Pasted image 20241006015819.png",
     "Attachments/Pasted image 20241006015353.png",
-    "Notes/Gradient Boost.md",
-    "Tracker/Lists.md",
-    "Tracker/05-10-24.md",
     "Notes/MLOps course- UDEMY.md",
     "Notes/HNSW.md",
     "Attachments/Pasted image 20241006010716.png",
@@ -264,13 +285,6 @@
     "Tracker/03-10-24.md",
     "Tracker/04-10-24.md",
     "Tracker/06-10-24.md",
-    "Tracker/07-10-24.md",
-    "Notes/Selective Search.md",
-    "Notes/AlexNet.md",
-    "Notes/Prompt caching.md",
-    "Tracker/23-07-24.md",
-    "Tracker/20-09-24.md",
-    "Tracker/19-09-24.md",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",

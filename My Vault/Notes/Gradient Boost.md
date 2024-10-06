@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=en2bmeB4QUo&t=151s
 
 - Gradient Boost starts by making a single leaf instead of a tree or stump. This leaf represents an initial guess for the weights for all of the samples. When trying to predict a continuous value like weight, the first guess is the average value. 
 - Then gradient boost builds a tree like [[AdaBoost]]. This tree is based on the errors made by the previous tree but unlike Adaboost, this tree is usually larger than a stump, that said gradient boost still restricts the size of the tree. Usually the size is restricted to 8 to 32 leaves.
-- Like Adaboost gradient boost scales the trees, however gradient boost scales all trees by the same amount.
+- Like Adaboost, gradient boost scales the trees, however gradient boost scales all trees by the same amount.
 - GB continues to build trees in this fashion until it has made the number of trees you asked for or additional trees fail to improve the fit.
 
 ### Steps:
@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=en2bmeB4QUo&t=151s
 - Get he pseudo-residuals using the initial guess.![[Attachments/Pasted image 20240819031534.png]]
 - ![[Attachments/Pasted image 20240819031628.png]]![[Attachments/Pasted image 20240819031750.png]]
 - We now combine the original leaf with the new tree to make a new prediction of an individual's weight from the training data.![[Attachments/Pasted image 20240819032004.png]]This is awesome, but the model fits the training data too well, in other words we have low bias but probably very high variance. 
-- To prevent low bias, high variance,  gradient boost uses a learning rate to scale the contribution from the new tree. The LR is a value between 0 & 1. In this case we'll set the LR=0.1. Now the predicted weight equals 71.2 + (0.1x16.8) = 72.9![[Attachments/Pasted image 20240819032226.png]]With the learning rate=0.1, new prediction isn't as good as it was before but it's a little better than the prediction made with just the original leaf which predicted that all samples to be just avgs. In other words scaling the tree by the learning rate results in a small step in the right direction.
+- To prevent low bias, high variance,  gradient boost uses a learning rate to scale the contribution from the new tree. The LR is a value between 0 & 1. In this case we'll set the LR=0.1. Now the predicted weight equals 71.2 + (0.1x16.8) = 72.9![[Attachments/Pasted image 20240819032226.png]]With the learning rate=0.1, new prediction isn't as good as it was before but it's a little better than the prediction made with just the original leaf which predicted that all samples to be just avgs. In other words scaling the tree by the learning rate results in a **small step in the right direction.**
 - According to Jerome Freedman, who invented gradient boost, empirical evidence shows that taking lots of small steps in the right direction results in better predictions with a testing data set ie lower variance.
 - Now we repeat the steps of creating a new tree with updated residuals.![[Attachments/Pasted image 20240819032826.png]]Original residuals > Ori+1st tree > Ori+1st tree+2nd tree.
   The residuals keep getting smaller, so taken another step in the right direction.
