@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "b52b90b658f408cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/BERT.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "64ec11214a331f60",
             "type": "leaf",
             "state": {
@@ -112,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -178,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/XgBoost.md",
+                "file": "Notes/BERT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/XgBoost.md",
+                "file": "Notes/BERT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/XgBoost.md"
+                "file": "Notes/BERT.md"
               }
             }
           },
@@ -273,8 +286,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "98c6c2eb60409b54",
+  "active": "b52b90b658f408cf",
   "lastOpenFiles": [
+    "Notes/Sentence Transformer.md",
+    "Notes/BERT.md",
     "Notes/XgBoost.md",
     "Tracker/Lists.md",
     "Notes/Gradient Boost.md",
@@ -309,7 +324,6 @@
     "Notes/Cross-Encoder.md",
     "Notes/Boosting.md",
     "Notes/GIT.md",
-    "Notes/Faster RCNN.md",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
