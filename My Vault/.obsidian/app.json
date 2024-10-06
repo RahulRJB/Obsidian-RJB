@@ -1,5 +1,5 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
@@ -9,7 +9,8 @@
   "useMarkdownLinks": false,
   "attachmentFolderPath": "Attachments",
   "userIgnoreFilters": [
-    "Attachments/"
+    "Tracker/",
+    "Templates/"
   ],
   "showRibbon": true
 }

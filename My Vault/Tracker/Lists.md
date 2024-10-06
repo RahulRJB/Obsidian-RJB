@@ -7,19 +7,19 @@ kanban-plugin: board
 ## TO study
 
 - [ ] Revision of Projects
-- [ ] Sagemaker Proper
+- [ ] Sagemaker Proper ![[Attachments/Pasted image 20241006003927.png]]
 - [ ] Basics algos
 - [ ] LORA, QLora
 - [ ] RLHF
 - [ ] Karpathy videos
 - [ ] Stacking, blending, AK
-- [ ] Diffusion models
+- [ ] LightGBM
 - [ ] SQL questions
+- [ ] Diffusion models
 - [ ] Langchain
 - [ ] WOE
 - [ ] Factor analysis code and intuition
 - [ ] Prob Callibration
-- [ ] LightGBM
 - [ ] Cramers for cat feature correlation
 - [ ] VIF
 - [ ] Amazon Athena
