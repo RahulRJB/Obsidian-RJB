@@ -60,6 +60,19 @@
             }
           },
           {
+            "id": "5896bdff14618bd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/LoRA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "64ec11214a331f60",
             "type": "leaf",
             "state": {
@@ -83,7 +96,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/06-10-24.md",
+                "file": "Tracker/07-10-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -191,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/BERT.md",
+                "file": "Notes/LoRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/BERT.md",
+                "file": "Notes/LoRA.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/BERT.md"
+                "file": "Notes/LoRA.md"
               }
             }
           },
@@ -286,12 +299,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "b52b90b658f408cf",
+  "active": "5896bdff14618bd8",
   "lastOpenFiles": [
-    "Notes/Sentence Transformer.md",
     "Notes/BERT.md",
-    "Notes/XgBoost.md",
+    "Notes/LoRA.md",
+    "Tracker/07-10-24.md",
+    "Tracker/06-10-24.md",
     "Tracker/Lists.md",
+    "Notes/Sentence Transformer.md",
+    "Notes/XgBoost.md",
     "Notes/Gradient Boost.md",
     "Attachments/Pasted image 20241006005433.png",
     "Attachments/Pasted image 20241004124634.png",
@@ -307,7 +323,6 @@
     "Tracker/Marriage Plan.md",
     "Tracker/GOALS 2024.md",
     "Tracker/Dreams.md",
-    "Tracker/06-10-24.md",
     "Notes/MLOps course- UDEMY.md",
     "Tracker/05-10-24.md",
     "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md",
@@ -322,8 +337,6 @@
     "Notes/RAG.md",
     "Notes/Mask RCNN.md",
     "Notes/Cross-Encoder.md",
-    "Notes/Boosting.md",
-    "Notes/GIT.md",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
