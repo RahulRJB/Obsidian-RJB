@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/LoRA.md",
+                "file": "Notes/XgBoost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/LoRA.md",
+                "file": "Notes/XgBoost.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/LoRA.md"
+                "file": "Notes/XgBoost.md"
               }
             }
           },
@@ -299,15 +299,15 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5896bdff14618bd8",
+  "active": "98c6c2eb60409b54",
   "lastOpenFiles": [
-    "Notes/BERT.md",
     "Notes/LoRA.md",
+    "Notes/BERT.md",
+    "Notes/XgBoost.md",
     "Tracker/07-10-24.md",
     "Tracker/06-10-24.md",
     "Tracker/Lists.md",
     "Notes/Sentence Transformer.md",
-    "Notes/XgBoost.md",
     "Notes/Gradient Boost.md",
     "Attachments/Pasted image 20241006005433.png",
     "Attachments/Pasted image 20241004124634.png",
