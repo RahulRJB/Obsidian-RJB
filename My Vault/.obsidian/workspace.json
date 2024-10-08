@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "637e9e9b7dad2807",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/UMAP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b52b90b658f408cf",
             "type": "leaf",
             "state": {
@@ -138,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/XgBoost.md",
+                "file": "Notes/UMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/XgBoost.md",
+                "file": "Notes/UMAP.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/XgBoost.md"
+                "file": "Notes/UMAP.md"
               }
             }
           },
@@ -299,11 +312,21 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "98c6c2eb60409b54",
+  "active": "637e9e9b7dad2807",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20241009013358.png",
+    "Attachments/Pasted image 20241009013328.png",
+    "Attachments/Pasted image 20241009012750.png",
+    "Attachments/Pasted image 20241009012605.png",
+    "Attachments/Pasted image 20241009012520.png",
+    "Attachments/Pasted image 20241009012118.png",
+    "Attachments/Pasted image 20241009012002.png",
+    "Notes/PCA.md",
+    "Notes/UMAP.md",
+    "Notes/Dimensionality Reduction.md",
+    "Notes/XgBoost.md",
     "Notes/LoRA.md",
     "Notes/BERT.md",
-    "Notes/XgBoost.md",
     "Tracker/07-10-24.md",
     "Tracker/06-10-24.md",
     "Tracker/Lists.md",
@@ -313,12 +336,6 @@
     "Attachments/Pasted image 20241004124634.png",
     "Attachments/Pasted image 20241004023327.png",
     "Attachments/Pasted image 20241004023549.png",
-    "Attachments/Pasted image 20241004123209.png",
-    "Attachments/Pasted image 20241004123304.png",
-    "Attachments/Pasted image 20241005220509.png",
-    "Attachments/Pasted image 20241005223453.png",
-    "Attachments/Pasted image 20241006003927.png",
-    "Attachments/Pasted image 20241006005025.png",
     "Tracker/Projects Details.md",
     "Tracker/Marriage Plan.md",
     "Tracker/GOALS 2024.md",
@@ -333,10 +350,6 @@
     "Notes/ANNOY.md",
     "Notes/YAML.md",
     "Notes/Collaborative Filtering.md",
-    "Notes/HNSW.md",
-    "Notes/RAG.md",
-    "Notes/Mask RCNN.md",
-    "Notes/Cross-Encoder.md",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
