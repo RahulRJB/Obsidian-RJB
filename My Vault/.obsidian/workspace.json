@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracker/09-10-24.md",
+                "file": "Notes/LoRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tracker/09-10-24.md",
+                "file": "Notes/LoRA.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tracker/09-10-24.md"
+                "file": "Notes/LoRA.md"
               }
             }
           },
@@ -299,30 +299,31 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "415eb111d47f0b84",
+  "active": "5896bdff14618bd8",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20241010031258.png",
+    "Attachments/Pasted image 20241010031108.png",
+    "Attachments/Pasted image 20241010030814.png",
+    "Notes/LoRA.md",
+    "Attachments/Pasted image 20241010030421.png",
+    "Attachments/Pasted image 20241010030020.png",
+    "Attachments/Pasted image 20241010025459.png",
+    "Attachments/Pasted image 20241010025329.png",
+    "Attachments/Pasted image 20241010025107.png",
+    "Attachments/Pasted image 20241010024831.png",
+    "Attachments/Pasted image 20241010024627.png",
+    "Tracker/09-10-24.md",
     "Notes/Gradient Boost.md",
     "Notes/Untitled.md",
     "Notes/XgBoost.md",
-    "Notes/LoRA.md",
     "Notes/BERT.md",
     "Notes/t-SNE.md",
     "Attachments/Pasted image 20241009132954.png",
-    "Attachments/Pasted image 20241009132931.png",
-    "Attachments/Pasted image 20241009132805.png",
-    "Attachments/Pasted image 20241009132643.png",
-    "Attachments/Pasted image 20241009132434.png",
-    "Attachments/Pasted image 20241009132345.png",
-    "Attachments/Pasted image 20241009132321.png",
-    "Attachments/Pasted image 20241009132130.png",
-    "Attachments/Pasted image 20241009132012.png",
-    "Attachments/Pasted image 20241009131846.png",
     "Notes/HDBSCAN.md",
     "Notes/Dimensionality Reduction.md",
     "Notes/UMAP.md",
     "Notes/Clustering.md",
     "Notes/PCA.md",
-    "Tracker/09-10-24.md",
     "Tracker/08-10-24.md",
     "Tracker/07-10-24.md",
     "Tracker/06-10-24.md",
