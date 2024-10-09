@@ -10,13 +10,15 @@ Tags: [[Dimensionality Reduction]]
 # References:
 
 https://www.youtube.com/watch?v=eN0wFzBA4Sc
+https://www.youtube.com/watch?v=nq6iPZVUxZUv -- Creator Talk
+https://www.youtube.com/watch?v=g5DZuRDnOGY -- Creator Talk
 
 
 # Content:
 
 - Uniform Manifold Approximation and Projection.
-- [[PCA]] Drawbacks: It only works well when PC1&2 account for most of the variation in the data. If we have a really complicated dataset, PCA may not work very well.
-- Popular because it is relatively fast even with large data sets and similar samples tend to cluster together in the final output so it is **useful for identifying similarities and outliers**.
+- [[PCA]] Drawbacks: It only works well when PC1&2 account for most of the variation in the data. If we have a really complicated dataset, PCA may not work very well. It preserves the global structure
+- UMAP is popular because it is relatively fast even with large data sets and similar samples tend to cluster together in the final output(preserves the local structure) so it is **useful for identifying similarities and outliers**.
 - ![[Attachments/Pasted image 20241009012002.png]]
 - ![[Attachments/Pasted image 20241009012118.png]]Idea is to initialize the low-dim points and then move the low dimensional points around until they form clusters that have the same relationships we see in the high-dim data, in other words because points A, B and C are clustered together and are relatively far from the other cluster D, E, F, UMAP wants the low dimensional points A, B and C to be close to each other and relatively far from the other cluster.
 - It calculates similarity scores to help identify clustered points so it can try to preserve that clustering in the low-dimensional graph.![[Attachments/Pasted image 20241009012520.png]]
@@ -35,5 +37,9 @@ https://www.youtube.com/watch?v=eN0wFzBA4Sc
 - **Comparison with t-SNE**: 
 	- t-SNE always starts with a random initialization of the low-dimensional graph.  In contrast UMAP uses something called spectral embedding to initialize the low-dimensional graph and what that means is that every time you use UMAP on a specific dataset you always start with the exact same low dimensional graph.
 	- t-SNE moves every single point a little bit each iteration, in contrast UMAP can move just one point or a small subset of points each time and this helps it scale well with super big datasets.
+
+### Mathematical Details:
+- ![[Attachments/Pasted image 20241009111954.png]]Algebraic topology states that basically if we build a simple complex out of a topological space in a certain way, we can actually recover all the important topology of that space. So we go from something complicated that's all continuous and topological to something simple and combinatorial that we can work with easily and yet we retain all the information we want to care about.
+- ![[Attachments/Pasted image 20241009112336.png]]![[Attachments/Pasted image 20241009112348.png]]Almost recovered all the information from the topology.
 
 

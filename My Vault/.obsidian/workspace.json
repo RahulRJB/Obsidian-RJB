@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "637e9e9b7dad2807",
+            "id": "34c398f0ad2d3556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Dimensionality Reduction.md",
+                "file": "Notes/t-SNE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/07-10-24.md",
+                "file": "Tracker/09-10-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Dimensionality Reduction.md",
+                "file": "Notes/t-SNE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Dimensionality Reduction.md",
+                "file": "Notes/t-SNE.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Dimensionality Reduction.md"
+                "file": "Notes/t-SNE.md"
               }
             }
           },
@@ -312,26 +312,32 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "637e9e9b7dad2807",
+  "active": "34c398f0ad2d3556",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20241009033143.png",
-    "Attachments/Pasted image 20241009033036.png",
-    "Notes/UMAP.md",
-    "Attachments/Pasted image 20241009031707.png",
-    "Attachments/Pasted image 20241009030316.png",
-    "Attachments/Pasted image 20241009030001.png",
-    "Attachments/Pasted image 20241009025424.png",
-    "Attachments/Pasted image 20241009025325.png",
-    "Attachments/Pasted image 20241009025221.png",
-    "Attachments/Pasted image 20241009023708.png",
-    "Attachments/Pasted image 20241009023655.png",
-    "Attachments/Pasted image 20241009023612.png",
-    "Notes/PCA.md",
-    "Notes/Dimensionality Reduction.md",
+    "Attachments/Pasted image 20241009132954.png",
+    "Attachments/Pasted image 20241009132931.png",
+    "Attachments/Pasted image 20241009132805.png",
+    "Attachments/Pasted image 20241009132643.png",
+    "Attachments/Pasted image 20241009132434.png",
+    "Attachments/Pasted image 20241009132345.png",
+    "Attachments/Pasted image 20241009132321.png",
+    "Attachments/Pasted image 20241009132130.png",
+    "Attachments/Pasted image 20241009132012.png",
+    "Attachments/Pasted image 20241009131846.png",
+    "Attachments/Pasted image 20241009131817.png",
+    "Notes/HDBSCAN.md",
+    "Notes/t-SNE.md",
     "Notes/XgBoost.md",
+    "Notes/Dimensionality Reduction.md",
+    "Notes/UMAP.md",
+    "Notes/Clustering.md",
+    "Notes/PCA.md",
+    "Notes/Untitled.md",
+    "Tracker/09-10-24.md",
+    "Tracker/08-10-24.md",
+    "Tracker/07-10-24.md",
     "Notes/LoRA.md",
     "Notes/BERT.md",
-    "Tracker/07-10-24.md",
     "Tracker/06-10-24.md",
     "Tracker/Lists.md",
     "Notes/Sentence Transformer.md",
@@ -344,12 +350,6 @@
     "Tracker/05-10-24.md",
     "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md",
     "Notes/Lets build GPT, from scratch, in code, spelled out, Andrej Karpathy.md",
-    "Notes/AdaBoost.md",
-    "Notes/AlexNet.md",
-    "Notes/Andrej Karpathy.md",
-    "Notes/ANNOY.md",
-    "Notes/YAML.md",
-    "Notes/Collaborative Filtering.md",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
