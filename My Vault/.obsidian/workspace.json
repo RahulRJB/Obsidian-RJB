@@ -47,19 +47,6 @@
             }
           },
           {
-            "id": "34c398f0ad2d3556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/t-SNE.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b52b90b658f408cf",
             "type": "leaf",
             "state": {
@@ -151,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -217,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/t-SNE.md",
+                "file": "Tracker/09-10-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/t-SNE.md",
+                "file": "Tracker/09-10-24.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/t-SNE.md"
+                "file": "Tracker/09-10-24.md"
               }
             }
           },
@@ -312,8 +299,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "34c398f0ad2d3556",
+  "active": "415eb111d47f0b84",
   "lastOpenFiles": [
+    "Notes/Gradient Boost.md",
+    "Notes/Untitled.md",
+    "Notes/XgBoost.md",
+    "Notes/LoRA.md",
+    "Notes/BERT.md",
+    "Notes/t-SNE.md",
     "Attachments/Pasted image 20241009132954.png",
     "Attachments/Pasted image 20241009132931.png",
     "Attachments/Pasted image 20241009132805.png",
@@ -324,24 +317,17 @@
     "Attachments/Pasted image 20241009132130.png",
     "Attachments/Pasted image 20241009132012.png",
     "Attachments/Pasted image 20241009131846.png",
-    "Attachments/Pasted image 20241009131817.png",
     "Notes/HDBSCAN.md",
-    "Notes/t-SNE.md",
-    "Notes/XgBoost.md",
     "Notes/Dimensionality Reduction.md",
     "Notes/UMAP.md",
     "Notes/Clustering.md",
     "Notes/PCA.md",
-    "Notes/Untitled.md",
     "Tracker/09-10-24.md",
     "Tracker/08-10-24.md",
     "Tracker/07-10-24.md",
-    "Notes/LoRA.md",
-    "Notes/BERT.md",
     "Tracker/06-10-24.md",
     "Tracker/Lists.md",
     "Notes/Sentence Transformer.md",
-    "Notes/Gradient Boost.md",
     "Tracker/Projects Details.md",
     "Tracker/Marriage Plan.md",
     "Tracker/GOALS 2024.md",
