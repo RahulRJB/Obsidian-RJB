@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/UMAP.md",
+                "file": "Notes/Dimensionality Reduction.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/UMAP.md",
+                "file": "Notes/Dimensionality Reduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/UMAP.md",
+                "file": "Notes/Dimensionality Reduction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/UMAP.md"
+                "file": "Notes/Dimensionality Reduction.md"
               }
             }
           },
@@ -314,15 +314,19 @@
   },
   "active": "637e9e9b7dad2807",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20241009013358.png",
-    "Attachments/Pasted image 20241009013328.png",
-    "Attachments/Pasted image 20241009012750.png",
-    "Attachments/Pasted image 20241009012605.png",
-    "Attachments/Pasted image 20241009012520.png",
-    "Attachments/Pasted image 20241009012118.png",
-    "Attachments/Pasted image 20241009012002.png",
-    "Notes/PCA.md",
+    "Attachments/Pasted image 20241009033143.png",
+    "Attachments/Pasted image 20241009033036.png",
     "Notes/UMAP.md",
+    "Attachments/Pasted image 20241009031707.png",
+    "Attachments/Pasted image 20241009030316.png",
+    "Attachments/Pasted image 20241009030001.png",
+    "Attachments/Pasted image 20241009025424.png",
+    "Attachments/Pasted image 20241009025325.png",
+    "Attachments/Pasted image 20241009025221.png",
+    "Attachments/Pasted image 20241009023708.png",
+    "Attachments/Pasted image 20241009023655.png",
+    "Attachments/Pasted image 20241009023612.png",
+    "Notes/PCA.md",
     "Notes/Dimensionality Reduction.md",
     "Notes/XgBoost.md",
     "Notes/LoRA.md",
@@ -332,10 +336,6 @@
     "Tracker/Lists.md",
     "Notes/Sentence Transformer.md",
     "Notes/Gradient Boost.md",
-    "Attachments/Pasted image 20241006005433.png",
-    "Attachments/Pasted image 20241004124634.png",
-    "Attachments/Pasted image 20241004023327.png",
-    "Attachments/Pasted image 20241004023549.png",
     "Tracker/Projects Details.md",
     "Tracker/Marriage Plan.md",
     "Tracker/GOALS 2024.md",
