@@ -26,43 +26,9 @@ https://www.youtube.com/watch?v=t509sv5MT0w&t=61s
 	- ![[Attachments/Pasted image 20241010030421.png]]A different idea, specifically designed for language models is prefix tuning. This is a very lightweight alternative to fine-tuning which simply optimizes the input Vector for language models. Essentially this is a way of prompting by prepending specific vectors to the input for a model the idea is to add context to steer the language model.
 	- LoRA
 - ![[Attachments/Pasted image 20241010030814.png]]
-- low rank matrices have several practical
-
-applications because they provide a
-
-compact representations and reduce
-
-complexity
-- Laura is motivated by a paper published
-
-in 2021 by Facebook research that
-
-## Intrinsic Dimension
-
-discusses the intrinsic dimensionality
-
-of large models the key point is that
-
-there exists a low Dimension
-
-re-parametrization that is as effective
-
-for fine-tuning as the full parameter
-
-space basically this means certain
-
-Downstream tasks don't need to tune all
-
-parameters but instead can transform a
-
-much smaller set of weights to achieve a
-
-good performance
-- ![[Attachments/Pasted image 20241010031108.png]]In finetuning BERT, a subset of parameters, ~200, possible to achieve
-
-ninety percent of the accuracy of full
-
-fine tuning using a certain threshold is
+- Low rank matrices have several practical applications because they provide a compact representations and reduce complexity
+- LoRA is motivated by a paper published in 2021 by Facebook research that discusses the intrinsic dimensionality of large models. The key point is that there exists a low Dimension re-parametrization that is as effective for fine-tuning as the full parameter space. Basically this means certain downstream tasks don't need to tune all parameters but instead can transform a much smaller set of weights to achieve a similar performance
+- ![[Attachments/Pasted image 20241010031108.png]]In finetuning BERT, a subset of parameters, ~200, it was possible to achieve 90% of the accuracy of full fine tuning using a certain threshold is
 
 how they Define the intrinsic Dimension
 
