@@ -17,14 +17,18 @@ https://gemini.google.com/app/690123ddb68853de
 # Content:
 
 
-### Staging Area:
-- Working area --> Staging area![[Attachments/Pasted image 20240904225023.png]]
+### Moving from 1 area to other:
+- `git add .` - Working area --> Staging area![[Attachments/Pasted image 20240904225023.png]]
 - `git diff` -  Diff between working area and staging area.
 - `git commit -m '<msg>'` -  Staging area --> Local repo(commit area)
 - `git diff --staged` -  Diff between staging area and Local repo(commit area).
 - `git status -v -v` -  Detailed status, all the changes made to all the files.
 - `git reset --soft HEAD^` -  Local repo(commit area)  -->  Staging area
-- `git reset HEAD <file-to-unstage>` -  Staging area --> Working dir  
+- `git reset --hard HEAD^` -  undo last commit and remove all the changes as well; reset the working area to last commit state.
+- `git reset --hard HEAD^^` - Hard reset last 2 commits
+- `git revert <commit_id>` - Resets to the specified commitid but also as a new commit. so that the undo changes also get tracked
+- `git reset HEAD <file-to-unstage>` -  Staging area --> Working dir
+- `git commit --amend -m '<updated msg>'` - (reset+commit) If you have forgotten to add something to your commit, you can stage the uncomiited things and use this command to commit it all in 1 commit.
 
 ### git pull:
 
@@ -113,6 +117,14 @@ The choice between merge and rebase depends on your workflow and preferences. He
 - `git checkout <commit-hash> -- <filename>` -  Override the current version of the file with version at that commit.
 - `git checkout HEAD~1 -- <filename>` -  Restore the file to the previous commit.
 - `git show <commit-hash>:<filename>` -  Display the content of the file at that specified commit. without changing the working directory.
+
+### get remote repo:
+- `git remote -v` -  display all remote repo.
+- `git remote rm <name>` - remove the remote repo
+- 
+
+
+
 
 
 ### git stash:
