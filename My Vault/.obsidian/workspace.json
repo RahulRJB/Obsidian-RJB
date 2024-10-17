@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LoRA.md",
+                "file": "Notes/Finetuning.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/LoRA.md",
+                "file": "Notes/Finetuning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/LoRA.md",
+                "file": "Notes/Finetuning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/LoRA.md"
+                "file": "Notes/Finetuning.md"
               }
             }
           },
@@ -301,6 +301,7 @@
   },
   "active": "5896bdff14618bd8",
   "lastOpenFiles": [
+    "Notes/LoRA.md",
     "Attachments/Pasted image 20241018015001.png",
     "Attachments/Pasted image 20241018014911.png",
     "Attachments/Pasted image 20241018014104.png",
@@ -309,7 +310,6 @@
     "Attachments/Pasted image 20241018012140.png",
     "Attachments/Pasted image 20241018011909.png",
     "Attachments/Pasted image 20241018011753.png",
-    "Notes/LoRA.md",
     "Attachments/Pasted image 20241018011507.png",
     "Attachments/Pasted image 20241018011354.png",
     "Notes/BERT.md",
@@ -332,7 +332,6 @@
     "Tracker/Marriage Plan.md",
     "Tracker/Projects Details.md",
     "Notes/Gradient Boost.md",
-    "Attachments/Pasted image 20241010031258.png",
     "Notes/t-SNE.md",
     "Notes/HDBSCAN.md",
     "Notes/Dimensionality Reduction.md",

@@ -9,7 +9,7 @@ Tags: [[Notes/Finetuning|Finetuning]]
 
 # References:
 https://www.youtube.com/watch?v=t509sv5MT0w&t=61s
-
+https://www.databricks.com/blog/efficient-fine-tuning-lora-guide-llms
 
 
 # Content:
