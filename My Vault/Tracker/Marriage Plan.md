@@ -3,7 +3,7 @@
   
 Venue- 3L, 147500, paid papa  
 Food reception- 400x950=388000, 11k paid papa  
-Guest House- 1L  
+Guest House- 1L , 7k paid Papa
 Other food- 2L  
 Ring- 75k, paid me  
 Decoration- 2L  
