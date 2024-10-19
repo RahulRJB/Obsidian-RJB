@@ -2,6 +2,8 @@
 
 ## Santander(Nov23-Oct24):
 
+- #### Problem Satement:
+	- Customer care executives
 
 - #### Retrieval
 	- opensearch used for vector database.
