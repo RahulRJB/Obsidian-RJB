@@ -3,10 +3,11 @@
   
 Venue- 3L, 147500, paid papa  
 Food reception- 400x950=388000, 11k paid papa  
-Guest House- 1L , 7k paid Papa
+Guest House- 1L , 7.5k paid Papa
 Other food- 2L  
 Ring- 75k, paid me  
-Decoration- 2L  
+Decoration- 2L 
+Home decoration- 60k
 Photographer- 65k total, 20k paid me  
 Jewellery- 7L, paid papa  
 Clothes- 41k + 1.8k, paid papa  
@@ -14,11 +15,20 @@ Card- 7k, paid me
 Dress Engagement- 8.1k, paid me + 11.5k, paid papa  
 Narayan pujo- 4k, paid maa  
 Tatta- 2.1k, paid maa  
-Reception dress- 36k, paid me  
+Reception dress Ruchira- 36k, paid me  
 Reception Maa- 14.5k, paid papa, 14.5 - 6=8.5k to be paid to papa  
 Fabric me- 19k, paid me  
-  
-  
+Bus- 
+Auto-
+Car Decor- 
+Pandit- 
+Puja khorcha- 
+Wedding Dress- 
+Wedding Shoes- 
+Juta chori- 25k?
+
+
+
   
 RECEPTION FOOD:  
   
