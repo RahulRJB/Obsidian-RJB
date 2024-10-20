@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracker/Marriage Plan.md",
+                "file": "Tracker/Projects Details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +240,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Marriage Plan"
+              "title": "Backlinks for Projects Details"
             }
           },
           {
@@ -249,12 +249,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tracker/Marriage Plan.md",
+                "file": "Tracker/Projects Details.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Marriage Plan"
+              "title": "Outgoing links from Projects Details"
             }
           },
           {
@@ -276,10 +276,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tracker/Marriage Plan.md"
+                "file": "Tracker/Projects Details.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Marriage Plan"
+              "title": "Outline of Projects Details"
             }
           },
           {
@@ -339,13 +339,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "f85b66545a5f5050",
+  "active": "6cd5b629567502c3",
   "lastOpenFiles": [
+    "Tracker/Marriage Plan.md",
     "Tracker/Projects Details.md",
     "Tracker/15-10-24.md",
     "Tracker/Lists.md",
     "Notes/VLM.md",
-    "Tracker/Marriage Plan.md",
     "Notes/BERT.md",
     "Notes/LoRA.md",
     "Notes/Finetuning.md",

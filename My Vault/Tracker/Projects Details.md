@@ -2,8 +2,8 @@
 
 ## Santander(Nov23-Oct24):
 
-- #### Problem Satement:
-	- Customer care executives
+- #### Problem Statement:
+	- Customer care executives have to answer variety of questions/work upon various user requests. For each case they may have specific Identification&verification(ID&V) requirements
 
 - #### Retrieval
 	- opensearch used for vector database.
