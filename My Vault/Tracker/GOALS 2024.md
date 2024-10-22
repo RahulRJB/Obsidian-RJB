@@ -6,3 +6,13 @@
 - [ ] Gym
 - [ ] Kaggle accomplish
 - [ ] Dont miss anything 2 days in a row
+
+
+- Wake up on time
+- Gym/Workout
+- Meditation
+- Study
+- Work
+- Enjoy
+- No outside food
+- Sleep on time
