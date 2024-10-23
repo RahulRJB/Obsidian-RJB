@@ -53,21 +53,6 @@
             }
           },
           {
-            "id": "b52b90b658f408cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/BERT.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BERT"
-            }
-          },
-          {
             "id": "64ec11214a331f60",
             "type": "leaf",
             "state": {
@@ -98,21 +83,6 @@
             }
           },
           {
-            "id": "6cd5b629567502c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/Projects Details.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Projects Details"
-            }
-          },
-          {
             "id": "2f8b6ef745076ae6",
             "type": "leaf",
             "state": {
@@ -125,6 +95,21 @@
               },
               "icon": "lucide-file",
               "title": "22-10-24"
+            }
+          },
+          {
+            "id": "6cd5b629567502c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/Projects Details.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projects Details"
             }
           },
           {
@@ -143,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -215,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/XgBoost.md",
+                "file": "Tracker/Projects Details.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +210,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for XgBoost"
+              "title": "Backlinks for Projects Details"
             }
           },
           {
@@ -234,12 +219,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/XgBoost.md",
+                "file": "Tracker/Projects Details.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from XgBoost"
+              "title": "Outgoing links from Projects Details"
             }
           },
           {
@@ -261,10 +246,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/XgBoost.md"
+                "file": "Tracker/Projects Details.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of XgBoost"
+              "title": "Outline of Projects Details"
             }
           },
           {
@@ -324,11 +309,18 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "98c6c2eb60409b54",
+  "active": "6cd5b629567502c3",
   "lastOpenFiles": [
+    "Notes/Cross-Encoder.md",
+    "Tracker/Projects Details.md",
     "Tracker/22-10-24.md",
     "Tracker/Marriage Plan.md",
-    "Tracker/Projects Details.md",
+    "Notes/Gradient Boost.md",
+    "Notes/MLOps course- UDEMY.md",
+    "Notes/HNSW.md",
+    "Notes/SHAP.md",
+    "Notes/XgBoost.md",
+    "Notes/BERT.md",
     "Tracker/Lists.md",
     "Tracker/09-10-24.md",
     "Tracker/02-10-24.md",
@@ -339,7 +331,6 @@
     "Tracker/Dreams.md",
     "Tracker/GOALS 2024.md",
     "Tracker/15-10-24.md",
-    "Notes/BERT.md",
     "Notes/VLM.md",
     "Notes/LoRA.md",
     "Notes/Finetuning.md",
@@ -353,15 +344,9 @@
     "Attachments/Pasted image 20241018011753.png",
     "Attachments/Pasted image 20241018011507.png",
     "Attachments/Pasted image 20241018011354.png",
-    "Notes/XgBoost.md",
     "Tracker/10-10-24.md",
     "Tracker/14-10-24.md",
     "Tracker/13-10-24.md",
-    "Tracker/12-10-24.md",
-    "Tracker/11-10-24.md",
-    "Tracker/06-10-24.md",
-    "Tracker/07-10-24.md",
-    "Notes/Hamming Distance.md",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",

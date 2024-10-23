@@ -3,36 +3,88 @@
 ## Santander(Nov23-Oct24):
 
 - #### Problem Statement:
-	- Customer care executives have to answer variety of questions/work upon various user requests. For each case they may have specific Identification&verification(ID&V) requirements
-
-- #### Retrieval
-	- opensearch used for vector database.
-	- Type of search in retrieval:
-		- HNSV
-		- KNN
-	- Retrieval using semantic search(vector embedding similarity)
-	- Hybrid search experimentation done(semantic + keyword). Various combination(arithematic/geometric/harmonic) and normalisation(l2/min-max) techniques used and diff weights tried.
+	- Customer care executives have to answer variety of questions/work upon various user requests. Based on each query, they may have specific Identification&verification(ID&V) requirements and specific procedures to follow. For this the company maintains a set of documents (~6000) to refer from. Using RAG solution to solve the problem and reduce the training time of the agents. Index the entire doc base in a vectorDB, based on the query asked, retrieve the Topk docs and use them for the generation using a LLM.
+- #### Primary Goal:
 	- 
+- #### VectorDB:
+	- Using Amazon Opensearch as vectorDB. 
+	- The i-exchange documents, we get the HTML, Title, view_count, audience_tags etc from a diff team.
+	- We process the documents, create raw, markdown, normalised text from the HTML, get nested URLs, lowercase the audience_tags and create a list.
+	- We create 2 separate indexes, 1 for the title and other for the body(contents) of the documents, chunked(200 words/chunk, no overlap).
+	- We use ada_002 embedding model from OpenAI to embed the title/chunks and then ingest all of these into the 2 diff indexes.
+	- We experimented with all-MiniLM-L6-v2 sentence transformer embedding model.
+		- Got the model from Sagemaker Jumpstart/HuggingFace.
+		- Create the model. Create Sagemaker endpoint configuration. Using the configuration, create Sagemaker endpoint and deploy the model.
+		- We also finetuned this model before deploying it. Used all the queries/response from the pilot available and synthetic data for the finetuning.
+		- For fine-tuning used the Sagemaker hyper-parameter tuner and HyperOpt.
+		- Saved the fine-tuned model in Model Registry.
+	- For the index we used [[HNSW]] from nmslib engine to get the approx. nearest-neighbour. Other Options for ANN were ANNOY, ivf. Other engine options: faiss, lucene. We used cosine_similarity for the distance metrics. Other distance metrics: l2, l1, hamming, inner_product etc.
+	- Delta logic:
+		- The i-exchange documents get updated very frequently(weekly/daily). We can create a new/fresh index everytime, but that would involve downtime in Production, so instead we employ the delta logic.
+		- The updates i.e 
+			- Creation of new documents
+			- Update to existing documents
+			- Deletion of existing document, we receive in the form of JSONS.
+		- We take the document ids to be updated/deleted and delete those documents from the index.
+		- Then we create a list using the new docs to be created and docs to be updated, and then use it to create these documents in the 2 indices.
+		- This delta logic is run on a schedule every couple of hours, so the index always remain updated with the latest version of the documents .
 
-- Done using Sagemaker processing job(sands run step etc is the sagemaker processing job)
-
-- #### Ranking 
-	- Initially retrieval ranking and view count used. Too much dependance on view count so used view count binned/normalized etc to reduce dependance. 
-	- Then ranking was changed to do weighted arithematic/ geometric mean of the 2.
-	- Cross-encoder- Colbert and msmarco models used too for reranking. compared to title and chunked index and scored. Ranking generated using this score, opensearch scores, and view count binned.
-- #### Embeddings
-	- ada_2_embedding model used.
-	- Experimented with all-MiniLM-L6-v2 sentence transformer embedding model as well.
-	- Used cross-encoder to integrate
-	- Created Sagemaker endpoints for these embeddings models. 
+- #### Retrieval:
+	- Retrieval done using HNSW, a approx nearest-neighbour algorithm.
+	- We take the query, embed it and use the embedding to get the Top 10/20 similar titles from the Title index and chunks of documents from the chunk/body index.
+	- Have used Semantic search primarily, for the retrieval.
+	- Have also experimented with Hybrid search(semantic + keyword match). 
+		- In the hybrid search, we employ both the semantic + keyword match search. The results for both of them is normalized using l2/min-max techniques to bring them down to the same scale. and then given diff weightage to each of the searches and combined using arithematic/geometric/harmonic means.
+		- Did not fetch good results, just semantic search proved better. This maybe due to the fact the queries were mostly 2-3 words long.
+		- We also used a split technique, i.e. using just semantic search for queries within 3 words and hybrid search for queries more than 3 words. Was not worth the effort, increased complexity and latency.
+	- Colbert was thought for usage for retrieval, but not useful when the index size is in the range 5k-10k. 
+	- ##### Ranking: 
+		- After retrieval of Top 10/20 similar titles from the Title index and chunks of documents from the chunk/body index based on the given query, we use reranking technique to combine and get the final ranks of the different documents retrieved using the 2 indices. 
+		- Initially used count(from chunk index, the number of times diff chunks of the same documents retrieved), retrieval scores and view count to get the final rank. 
+		- Too much dependance on view count, so used view count binned/normalized etc to reduce dependance on it.
+		- Then ranking was changed to do weighted arithematic/ geometric mean of the 2 ranking from the 2 indices.
+		- [[Cross-Encoder]]:
+			- Experimented with cross-encoder models like msmarco for re-ranking. The final ranking generated using this cross-encoder score, opensearch scores, and view count binned. 
 - #### Generation:
-	- Prompting techniques
-	- User vs System msg (gpt3.5)
-- #### GPT4o-mini vs GPT3.5 Turbo:
-	- lower cost, 
-	- Lower Latency(5-10secs to 3-4secs)
-	- Reduced hallucination
-	- Better performing
+	- We take the queries, the docs retrieved and a prompt and model parameters to create a payload and do API call for generation.
+	- The Prompt:
+		- Help the agent out, answering user query.
+		- Be careful with ID&V for any steps undertaken(diff security levels present, Standard, low, enhanced etc.)
+		- Answer in bulleted points.
+		- Answer with 80/120/160 words
+		- Just give an outline, not going into to much details pr specifics, as the context may get missed.
+		- If query not clear/tooo vague/missing keywords, ask the agent to rephrase and provide more details.
+		- Don't assume anything, only answer based on the content of the documents given below.
+		- Few-shot prompting.
+		- Tried many diff wording especially with gpt3.5
+	- User vs System msg (gpt3.5):
+		- gpt3.5 turbo was not good in following instructions when the context got too long.
+		- Tried shuffling the instructions between the system and user prompts to check what worked.
+		- Also increased the num of documents in the context, one-by-one, to check for threshold, as to after which point, the model stops following instructions.
+		- All these rectified with gpt 4o/4o-mini
+	- ##### GPT4o-mini vs GPT3.5 Turbo:
+		- longer context window(128k vs 64k)
+		- lower cost input/output tokens(almost 1/2) 
+		- Lower Latency(5-10secs to 3-4secs)
+		- Reduced hallucination
+		- Better performing
+- #### Post processing(Augmenting response):
+	- Being a stochastic process, at times, the response may not be as instructed, thus we need a check in place.
+	- If placeholder doc ID, 'KB00XXXXX', from few-shot prompting example of the prompt is used by the model by mistake, so not return the gpt response. Instead, respond, "Sorry, could you try again with more details"
+	- If the response has any nested doc id mentioned, which is not among the 5 retrieved docs, replace it with the parent docID.
+	- Order of the doc IDs mentioned in the response should be the same as order of the retrieved docs.
+	- If any particular ID&V process mentioned in the response, replace with "appropriate ID&V".
+	- Replace Stop words.
+- #### Evaluation:
+	- We save the queries, docs retrieved, model response, audience, rating/feedbacks vy the agents on a daily basis to build up a dataset.
+	- The feedbacks are bucketed into, 'No issues', 'Steps missing', 'Wrong process', 'i-exchange wrong', 'Others'.
+	- Any docID, URL, Doc name mentioned in the feedback is extracted out. (We do a semantic search on the title index to check if any doc name is mentioned in the feedback or not)
+	- We use GPT model to auto-evaluate the model response for honesty and helpfulness. For this we provide the query, docs retrieved, model response and evaluation parameters as context to the model for it to output a relevant score for helepfulness(0/1/2/3) and Honesty(yes/no).
+	- For the responses rated 5 by the agents, we save them separately as ground truth. We extract the docIDs from these responses. We thus now know that the answer the given query is present in the corresponding extracted documents.
+	- This feedback evaluation run on a schedule using Sagemaker processing job(sands run step etc is the sagemaker processing job). This is then submitted to the Stakeholder for further evaluation.
+- #### Query Cache:
+	- 
+- 
 ## Aegon(May23-Oct23):
 
 - Lots of different table normalised and kept in s3 buckets.
