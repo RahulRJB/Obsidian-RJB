@@ -6,11 +6,9 @@ kanban-plugin: board
 
 ## TO study
 
-- [ ] LORA, QLora
 - [ ] Revision of Projects
 - [ ] Sagemaker Proper ![[Attachments/Pasted image 20241006003927.png]]
 - [ ] Basics algos
-- [ ] RLHF
 - [ ] Karpathy videos
 - [ ] Stacking, blending, AK
 - [ ] LightGBM

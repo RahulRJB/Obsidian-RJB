@@ -3,9 +3,12 @@
 ## Santander(Nov23-Oct24):
 
 - #### Problem Statement:
-	- Customer care executives have to answer variety of questions/work upon various user requests. Based on each query, they may have specific Identification&verification(ID&V) requirements and specific procedures to follow. For this the company maintains a set of documents (~6000) to refer from. Using RAG solution to solve the problem and reduce the training time of the agents. Index the entire doc base in a vectorDB, based on the query asked, retrieve the Topk docs and use them for the generation using a LLM.
-- #### Primary Goal:
-	- 
+	- Customer care executives have to answer variety of questions/work upon various user requests. Based on each query, they may have specific Identification&verification(ID&V) requirements and specific procedures to follow. For this the company maintains a set of documents (~6000) to refer from. Using RAG solution to solve the problem and reduce the training time of the agents. Index the entire doc base in a vectorDB, and based on the query asked, retrieve the Topk docs and use them for the generation using a LLM.
+- #### Primary Objective:
+	- We have specific metrics to optimize on:
+		- Recall i.e % of times correct docs retrieved in TopK.
+		- Helpfulness(correctness)(0/1/2/3)- How correct is the response
+		- Honesty(yes/no)- Is the model hallucinating/inferring out of context
 - #### VectorDB:
 	- Using Amazon Opensearch as vectorDB. 
 	- The i-exchange documents, we get the HTML, Title, view_count, audience_tags etc from a diff team.
@@ -18,6 +21,7 @@
 		- We also finetuned this model before deploying it. Used all the queries/response from the pilot available and synthetic data for the finetuning.
 		- For fine-tuning used the Sagemaker hyper-parameter tuner and HyperOpt.
 		- Saved the fine-tuned model in Model Registry.
+		- Recall improved, cost effective and lower latency.
 	- For the index we used [[HNSW]] from nmslib engine to get the approx. nearest-neighbour. Other Options for ANN were ANNOY, ivf. Other engine options: faiss, lucene. We used cosine_similarity for the distance metrics. Other distance metrics: l2, l1, hamming, inner_product etc.
 	- Delta logic:
 		- The i-exchange documents get updated very frequently(weekly/daily). We can create a new/fresh index everytime, but that would involve downtime in Production, so instead we employ the delta logic.
@@ -28,7 +32,6 @@
 		- We take the document ids to be updated/deleted and delete those documents from the index.
 		- Then we create a list using the new docs to be created and docs to be updated, and then use it to create these documents in the 2 indices.
 		- This delta logic is run on a schedule every couple of hours, so the index always remain updated with the latest version of the documents .
-
 - #### Retrieval:
 	- Retrieval done using HNSW, a approx nearest-neighbour algorithm.
 	- We take the query, embed it and use the embedding to get the Top 10/20 similar titles from the Title index and chunks of documents from the chunk/body index.
@@ -76,15 +79,18 @@
 	- If any particular ID&V process mentioned in the response, replace with "appropriate ID&V".
 	- Replace Stop words.
 - #### Evaluation:
-	- We save the queries, docs retrieved, model response, audience, rating/feedbacks vy the agents on a daily basis to build up a dataset.
+	- We save the queries, docs retrieved, model response, audience, rating/feedbacks by the agents on a daily basis to build up a dataset.
 	- The feedbacks are bucketed into, 'No issues', 'Steps missing', 'Wrong process', 'i-exchange wrong', 'Others'.
 	- Any docID, URL, Doc name mentioned in the feedback is extracted out. (We do a semantic search on the title index to check if any doc name is mentioned in the feedback or not)
 	- We use GPT model to auto-evaluate the model response for honesty and helpfulness. For this we provide the query, docs retrieved, model response and evaluation parameters as context to the model for it to output a relevant score for helepfulness(0/1/2/3) and Honesty(yes/no).
 	- For the responses rated 5 by the agents, we save them separately as ground truth. We extract the docIDs from these responses. We thus now know that the answer the given query is present in the corresponding extracted documents.
 	- This feedback evaluation run on a schedule using Sagemaker processing job(sands run step etc is the sagemaker processing job). This is then submitted to the Stakeholder for further evaluation.
 - #### Query Cache:
-	- 
-- 
+	- The inference/feedback by the agents are again retrieved and joined on a daily basis and ingested in a query index.
+	- The query index maintains 1 month worth of queries
+	- Now for any new query asked, first the similar queries above a particular similarity threshold(cosine_sim, 0.97) from the index in retrieved and proportion of the 5 rated queries is calculated.
+	- If this proportion is above a particular threshold then the docs retrieved version numbers are matched with the most recent indexed queries' version number. If they all match then we can just use the indexed response and not have to generate again.
+	- If the proportion is below a given threshold/the docs versions do not match, a confidence level is generated based on the proportion again and appended to the generated response.
 ## Aegon(May23-Oct23):
 
 - Lots of different table normalised and kept in s3 buckets.
@@ -230,7 +236,7 @@
 
 - #### Problem statement:
 	- ...
-- #### Evaluation:
+- #### Primary Objective:
 	- ...
 - 
 ## Synth Data:
