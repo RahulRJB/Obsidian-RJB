@@ -27,7 +27,7 @@ https://gemini.google.com/app/690123ddb68853de
 - `git reset --hard HEAD^` -  undo last commit and remove all the changes as well; reset the working area to last commit state.
 - `git reset --hard HEAD^^` - Hard reset last 2 commits
 - `git revert <commit_id>` - Resets to the specified commitid but also as a new commit. so that the undo changes also get tracked
-- `git reset HEAD <file-to-unstage>` -  Staging area --> Working dir
+- `git reset HEAD <file-to-unstage>` or `get restore --staged <file-to-unstage>` -  Staging area --> Working dir
 - `git commit --amend -m '<updated msg>'` - (reset+commit) If you have forgotten to add something to your commit, you can stage the uncomiited things and use this command to commit it all in 1 commit.
 
 ### git pull:
