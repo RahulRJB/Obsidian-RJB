@@ -93,6 +93,13 @@
 	- If the proportion is below a given threshold/the docs versions do not match, a confidence level is generated based on the proportion again and appended to the generated response.
 ## Aegon(May23-Oct23):
 
+- #### Problem Statement:
+	- In UK, people above 55 can start drawing down their pension money(decumulate) until their retirement age(66) when they receive all of the pension money.
+- #### Primary Objective:
+	- The objective was to predict customers most likely to decumulate based on their transactional history, the interest rates received on the pension pot etc, to develop an early prevention system
+- #### Data Engg:
+	- The data was not at all ready for the development process. Historical data was normalised and kept across different s3 buckets.
+	- Not given access to proper metadata, data dictionary, data definitions and how to join the data back into usable form
 - Lots of different table normalised and kept in s3 buckets.
 - Used Data Wrangler for Feature Engg. running processing jobs, to join all the diff table that were normalised and kept in s3 buckets.
 - Pyspark used in some case during Data Wrangling.
