@@ -98,6 +98,18 @@
             }
           },
           {
+            "id": "9a89239678257e31",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
             "id": "2521ac6837cef7fd",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -309,7 +321,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e18110ca2dbc10e6",
+  "active": "9a89239678257e31",
   "lastOpenFiles": [
     "Tracker/Projects Details.md",
     "Tracker/07-11-24.md",
