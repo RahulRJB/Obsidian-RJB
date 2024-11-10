@@ -99,14 +99,54 @@
 	- The objective was to predict customers most likely to decumulate based on their transactional history, the interest rates received on the pension pot etc, to develop an early prevention system
 - #### Data Engg:
 	- The data was not at all ready for the development process. Historical data was normalised and kept across different s3 buckets.
-	- Not given access to proper metadata, data dictionary, data definitions and how to join the data back into usable form
-- Lots of different table normalised and kept in s3 buckets.
-- Used Data Wrangler for Feature Engg. running processing jobs, to join all the diff table that were normalised and kept in s3 buckets.
-- Pyspark used in some case during Data Wrangling.
-- Test cases in Codebuild, like data validation
-- Did univariate/bivariate analysis
-- VIF for multi collinearity(1.4 threshold)
-- 
+	- Not given access to proper metadata, data dictionary, data definitions and how to join the data back into usable form. This was a TCS sponsored POC, if successful, it would be sponsored by client for prod. So no proper support from client.
+	- Used Data Wrangler to visualise the data sample for all the tables. and to join them back for Feature Engg. Running processing jobs, to join all the diff table.
+	- Pyspark used in some case during Data Wrangling.
+	- Univariate/bivariate analysis was done as a part of EDA.
+	- VIF for multi collinearity(1.4 threshold)
+- #### Data:
+	- The money was invested by the customers in either SIP form or one time. This money was put into various funds(portfolio) and managed by the fund managers. This constituted the AUM(asset under management) for that person. So the fund managers, depending upon the risk accepted by the customers, used to buy units of various funds with the money thus managing the assets/AUM for the customers. These funds units were bought using the money at fund unit price of the time. As the unit price of the funds increased overtime, the portfolio valuation/AUM of the customer rose as well.
+	- We had transaction details of the funds purchased/sold, along with the unit prices of these funds at the time of purchase, of customers of the bank dating back 20 years(2002-2003). These transactions was made overtime by the fund managers. So when customers used to put in money, funds were bought, if they decumulated, funds were sold, and if a particular fund was not performing at par with the market, the fund was sold and money from it was used to buy other good-performing funds.
+	- This was the key data table for us. We could use this to get the diff customers over the years. Their portfolio valuation overtime and the AUMs i.e the funds they were invested in/switched to/switched from. We could also get the frequency in which diff customers put in money in the pension pot.
+	- So we used this data to get the diff funds, unit prices overtime, and the interest they returned over the months/years. So we could compare their interests to get the good/bad performing funds. 
+	- This data also was used to get the decumulating customers. A customer was said to decumulate if they took out >=100pounds from the pension pot, which could also only happen after the age of 55.
+	- So we analysed the portfolio performance overtime and in the months leading to decumulation of the customers, as they were key indicators.
+	- We also checked the frequency of adding money to the pension pot and its relation with decumulation.
+	- We checked the average fund/AUM performance and tried to get a correlation decumulation.
+	- On the basis of all this, we engineered diff features to predict decumulation. If a person decumulated then their features were calculated uptil the time when the first money was withdrawn. 
+	- The training/validation data was from 2002 till 2021-2022. Some data of this time duration was kept aside for in-time tesing. Using the model build we also tested on out-of-time data from 2023 i.e predicted people who would decumulate in 2023 based on historic data.
+- #### Modelling:
+	- Given this is a binary classification problem (decumulate vs. not decumulate) with potential class imbalance (typically fewer people decumulate early), here are key metrics and tests to consider:
+
+1. Classification Metrics:
+
+- ROC-AUC Score: Crucial for binary classification, especially with imbalanced classes
+- Precision & Recall: Particularly important if either false positives or false negatives are more costly
+- F1-Score: Balanced measure between precision and recall
+- Cohen's Kappa: Shows improvement over random chance
+
+2. Business-Specific Metrics:
+
+- Cost Matrix: Different costs for false positives vs false negatives (e.g., opportunity cost of incorrect predictions)
+- Lift Chart: Shows model's ability to identify customers most likely to decumulate
+- Decile Analysis: Performance across different probability segments
+
+3. Model Validation Approaches:
+
+- Cross-validation: K-fold to ensure robust performance
+- Time-based validation: Important since pension decisions are time-dependent
+- Out-of-time validation: Testing on newer data to check for concept drift
+
+4. Model Interpretability Tests:
+
+- SHAP values: To explain feature importance (especially interest rates' impact)
+- Partial Dependence Plots: Show relationship between features and decumulation probability
+- Feature Importance Rankings: From XGBoost
+
+
+
+
+
 ## GenAI LAB(Feb23-April23):
 
 
