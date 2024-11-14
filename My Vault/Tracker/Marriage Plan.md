@@ -1,4 +1,25 @@
-5days holidays  
+  
+Things LEFT:  
+Biye Dress  
+Biye Juto
+Sangeet shoe
+Haldi shoe
+Sangeet/Haldi/Aiburobhaat dress
+Briddhi dress?
+Kolapuri chappal generic
+Decoration  
+Home decoration  
+Food install  
+Guest house  
+Pandit  
+  
+  
+  
+
+
+
+
+10days holidays  
   
   
 Venue- 3L, 147500, paid papa  
@@ -85,19 +106,6 @@ Chachra
 Mach Matha  
 Bhaaja  
 Veg Item  
-  
-  
-  
-  
-Things to do:  
-Dress  
-Juto  
-Decoration  
-Home decoration  
-Food install  
-Guest house  
-Pandit  
-  
   
   
   
