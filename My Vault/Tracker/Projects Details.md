@@ -116,32 +116,34 @@
 	- On the basis of all this, we engineered diff features to predict decumulation. If a person decumulated then their features were calculated uptil the time when the first money was withdrawn. 
 	- The training/validation data was from 2002 till 2021-2022. Some data of this time duration was kept aside for in-time tesing. Using the model build we also tested on out-of-time data from 2023 i.e predicted people who would decumulate in 2023 based on historic data.
 - #### Modelling:
-	- Given this is a binary classification problem (decumulate vs. not decumulate) with potential class imbalance (typically fewer people decumulate early), here are key metrics and tests to consider:
+	- Optuna was used to tune the model.
+	- This was a binary classification problem (decumulate vs. not decumulate) with class imbalance (fewer people decumulating early), here are key metrics and tests we considered:
+		1. Classification Metrics:
+			- [[ROC-AUC]] Score: Crucial for binary classification, especially with imbalanced classes. 
+			- After fixing on a particular hyperparameter settings, we optimized on Recall and F1 score to get the best threshold value.
+			- Recall: This was out crucial metric, for us FP was ok but not FN.
+			- Cohen's Kappa: Shows improvement over random chance
+		2. Business-Specific Metrics:
+			- Cost Matrix: Different costs for false positives vs false negatives (e.g., opportunity cost of incorrect predictions)
+			- Lift Chart: Shows model's ability to identify customers most likely to decumulate
+			- Decile Analysis: Performance across different probability segments. 
+	-  Model Validation Approaches:
+		- Cross-validation: 5-fold to ensure robust performance
+		- Time-based validation: Important since pension decisions are time-dependent. We considered both in-time and out-of-time data for our test set.
+		- Out-of-time validation: Testing on newer data to check for concept drift
+	- Model Interpretability Tests:
+		- SHAP values: To explain feature importance
+		- Partial Dependence Plots: Show relationship between features and decumulation probability
+		- Feature Importance Rankings: From XGBoost
 
-1. Classification Metrics:
 
-- ROC-AUC Score: Crucial for binary classification, especially with imbalanced classes
-- Precision & Recall: Particularly important if either false positives or false negatives are more costly
-- F1-Score: Balanced measure between precision and recall
-- Cohen's Kappa: Shows improvement over random chance
-
-2. Business-Specific Metrics:
-
-- Cost Matrix: Different costs for false positives vs false negatives (e.g., opportunity cost of incorrect predictions)
-- Lift Chart: Shows model's ability to identify customers most likely to decumulate
-- Decile Analysis: Performance across different probability segments
-
-3. Model Validation Approaches:
-
-- Cross-validation: K-fold to ensure robust performance
-- Time-based validation: Important since pension decisions are time-dependent
-- Out-of-time validation: Testing on newer data to check for concept drift
-
-4. Model Interpretability Tests:
-
-- SHAP values: To explain feature importance (especially interest rates' impact)
-- Partial Dependence Plots: Show relationship between features and decumulation probability
-- Feature Importance Rankings: From XGBoost
+	- We also performed segmented Performance Metrics:
+		- Model accuracy across different age bands (e.g., 55-60, 60-65, 65+)
+		- Performance for different pension pot sizes
+		- Prediction accuracy based on contribution frequency patterns.
+		- Model reliability for customers with varying investment risk profiles.
+	- Financial Impacts:
+		- Cost savings from early identification of potential decumulation
 
 
 
