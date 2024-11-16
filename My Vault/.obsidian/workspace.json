@@ -113,6 +113,18 @@
             }
           },
           {
+            "id": "bd63375fdbbd63e1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
+          },
+          {
             "id": "f85b66545a5f5050",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -309,7 +321,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "2521ac6837cef7fd",
+  "active": "bd63375fdbbd63e1",
   "lastOpenFiles": [
     "Notes/ROC-AUC.md",
     "Tracker/Projects Details.md",
