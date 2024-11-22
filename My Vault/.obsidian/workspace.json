@@ -53,6 +53,21 @@
             }
           },
           {
+            "id": "a257f6762dacf5b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Stocks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stocks"
+            }
+          },
+          {
             "id": "64ec11214a331f60",
             "type": "leaf",
             "state": {
@@ -113,18 +128,15 @@
             }
           },
           {
-            "id": "a257f6762dacf5b8",
+            "id": "3bda4fbd661826a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Notes/Stocks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "Stocks"
+              "title": "Release Notes 1.7.7"
             }
           },
           {
@@ -143,7 +155,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -324,11 +336,11 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "a257f6762dacf5b8",
+  "active": "3bda4fbd661826a2",
   "lastOpenFiles": [
+    "Notes/Stocks.md",
     "Attachments/Pasted image 20241119181318.png",
     "Tracker/Projects Details.md",
-    "Notes/Stocks.md",
     "Notes/ROC-AUC.md",
     "Tracker/07-11-24.md",
     "Notes/Gradient Boost.md",
@@ -361,7 +373,6 @@
     "Attachments/Pasted image 20241018011909.png",
     "Attachments/Pasted image 20241018011753.png",
     "Attachments/Pasted image 20241018011507.png",
-    "Attachments/Pasted image 20241018011354.png",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
