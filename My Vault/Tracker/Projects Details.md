@@ -114,7 +114,7 @@
 	- We also checked the frequency of adding money to the pension pot and its relation with decumulation.
 	- We checked the average fund/AUM performance and tried to get a correlation decumulation.
 	- On the basis of all this, we engineered diff features to predict decumulation. If a person decumulated then their features were calculated uptil the time when the first money was withdrawn. 
-	- The training/validation data was from 2002 till 2021-2022. Some data of this time duration was kept aside for in-time tesing. Using the model build we also tested on out-of-time data from 2023 i.e predicted people who would decumulate in 2023 based on historic data.
+	- The training/validation data was from 2002 till 2021-2022. Some data of this time duration was kept aside for in-time testing. Using the model build we also tested on out-of-time data from 2023 i.e predicted people who would decumulate in 2023 based on historic data.
 - #### Modelling:
 	- Optuna was used to tune the model.
 	- This was a binary classification problem (decumulate vs. not decumulate) with class imbalance (fewer people decumulating early), here are key metrics and tests we considered:

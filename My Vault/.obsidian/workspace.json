@@ -128,18 +128,6 @@
             }
           },
           {
-            "id": "3bda4fbd661826a2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
             "id": "f85b66545a5f5050",
             "type": "leaf",
             "state": {
@@ -155,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -336,15 +324,16 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "3bda4fbd661826a2",
+  "active": "2521ac6837cef7fd",
   "lastOpenFiles": [
+    "Notes/Gradient Boost.md",
+    "Notes/MLOps course- UDEMY.md",
+    "Notes/XgBoost.md",
     "Notes/Stocks.md",
-    "Attachments/Pasted image 20241119181318.png",
     "Tracker/Projects Details.md",
+    "Attachments/Pasted image 20241119181318.png",
     "Notes/ROC-AUC.md",
     "Tracker/07-11-24.md",
-    "Notes/Gradient Boost.md",
-    "Notes/XgBoost.md",
     "Notes/Evaluation.md",
     "Tracker/Marriage Plan.md",
     "Tracker/Lists.md",
@@ -352,7 +341,6 @@
     "Tracker/05-10-24.md",
     "Tracker/22-10-24.md",
     "Notes/Cross-Encoder.md",
-    "Notes/MLOps course- UDEMY.md",
     "Notes/HNSW.md",
     "Notes/SHAP.md",
     "Notes/BERT.md",
