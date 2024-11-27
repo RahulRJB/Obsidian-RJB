@@ -88,6 +88,21 @@
             }
           },
           {
+            "id": "ea6ab3fc886d0ade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/27-11-24.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27-11-24"
+            }
+          },
+          {
             "id": "03751063618b29a5",
             "type": "leaf",
             "state": {
@@ -95,21 +110,6 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Week Planner"
-            }
-          },
-          {
-            "id": "e18110ca2dbc10e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/07-11-24.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07-11-24"
             }
           },
           {
@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -324,16 +324,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "2521ac6837cef7fd",
+  "active": "a257f6762dacf5b8",
   "lastOpenFiles": [
+    "Tracker/27-11-24.md",
+    "Tracker/07-11-24.md",
+    "Tracker/Projects Details.md",
     "Notes/Gradient Boost.md",
     "Notes/MLOps course- UDEMY.md",
     "Notes/XgBoost.md",
     "Notes/Stocks.md",
-    "Tracker/Projects Details.md",
     "Attachments/Pasted image 20241119181318.png",
     "Notes/ROC-AUC.md",
-    "Tracker/07-11-24.md",
     "Notes/Evaluation.md",
     "Tracker/Marriage Plan.md",
     "Tracker/Lists.md",
