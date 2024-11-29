@@ -14,8 +14,6 @@ Tags: [[python]]
 
 # Content:
 
-`raise` command in Python with a comprehensive breakdown and several examples to help you understand how it works.
-
 The `raise` command is used to deliberately trigger (or "throw") an exception in your code. It's like sending up a signal that something unexpected or error-like has happened, which allows you to handle that situation in a controlled manner.
 
 Let's break this down with some progressively more complex examples:
@@ -29,7 +27,6 @@ def divide_numbers(a, b):
 
 ```
 #### This will work normally 
-
 ```
 result = divide_numbers(10, 2)  # Returns 5.0 
 ```
@@ -45,8 +42,6 @@ In this example, `raise` creates a `ValueError` with a custom message when someo
 
 
 ### 2. Propagating Exceptions
-
-
 ```
 def validate_age(age):     
 	if age < 0:        
