@@ -16,23 +16,29 @@ Tags: [[Notes/python|python]]
 
 An `assert` statement is a debugging aid in Python that tests if a condition is true. It's like a built-in sanity check for your code. If the condition is false, it raises an `AssertionError`, which can help catch logical errors early in development.
 
-### Basic Syntax
-
-python
-
-Copy
-
+#### Basic Syntax
 `assert condition, optional_error_message`
-
-Let's dive into some detailed examples to understand how and when to use `assert`:
 
 ### 1. Simple Condition Checking
 
-python
-
-Copy
-
-`def calculate_average(numbers):     # Assert that the input is not empty    assert len(numbers) > 0, "Cannot calculate average of an empty list"         total = sum(numbers)    return total / len(numbers) # This works fine print(calculate_average([1, 2, 3, 4]))  # Outputs: 2.5 # This will raise an AssertionError try:     calculate_average([]) except AssertionError as e:     print(e)  # Prints: "Cannot calculate average of an empty list"`
+```
+def calculate_average(numbers):     
+	# Assert that the input is not empty    
+	assert len(numbers) > 0, "Cannot calculate average of an empty list"        
+	total = sum(numbers)    
+	return total / len(numbers)``` 
+	
+#### This works fine 
+```
+print(calculate_average([1, 2, 3, 4]))  # Outputs: 2.5 
+ 
+```
+#### This will raise an AssertionError
+```
+try:    
+	calculate_average([]) 
+except AssertionError as e:     
+	print(e)  # Prints: "Cannot calculate average of an empty list"```
 
 ### 2. Type Checking
 
