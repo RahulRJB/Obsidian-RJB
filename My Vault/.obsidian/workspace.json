@@ -53,21 +53,6 @@
             }
           },
           {
-            "id": "8a11113deb3e2a2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Assert.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Assert"
-            }
-          },
-          {
             "id": "64ec11214a331f60",
             "type": "leaf",
             "state": {
@@ -143,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -324,10 +309,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "8a11113deb3e2a2f",
+  "active": "98c6c2eb60409b54",
   "lastOpenFiles": [
-    "Notes/raise.md",
     "Notes/Assert.md",
+    "Notes/raise.md",
     "Notes/python.md",
     "Notes/XgBoost.md",
     "Notes/Dropout.md",
