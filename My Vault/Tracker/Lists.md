@@ -53,9 +53,8 @@ kanban-plugin: board
 ## Study Materials
 
 - [ ] Coursera  
-	- [  ] Improving Deep Neural Network: Hyperparameter tuning, Regularization, optimization  
+	- [ ] Improving Deep Neural Network: Hyperparameter tuning, Regularization, optimization 
 	Structuring Machine Learning projects
-- [ ] 
 - [ ] YouTube channels
 	- [ ] Linear Algebra, 3blue1brown
 	- [ ] Calculus, 3blue1brown

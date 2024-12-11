@@ -1,26 +1,16 @@
-  
-Things LEFT:  
-Biye Dress  
-Biye Juto
-Sangeet shoe
-Haldi shoe
-Sangeet/Haldi/Aiburobhaat dress
-Briddhi dress?
-Kolapuri chappal generic
-Decoration  
-Home decoration  
-Food install  
-Guest house  
-Pandit  
-  
-  
-  
+## Immediate:
 
-
-
-
-10days holidays  
+- [ ] Check Hotel
+- [ ] Fittings for reception
+- [ ] Types of Kurta to stitch/Where to stitch (3)
+- [ ] More Kurtas(Sangeet/Aiburobhaat/Haldi/Wedding entrance/Basshor raat/ 7th kurta/Spare Kurta aashirvad/ Bhaat kapor/)
+- [ ] Shoes (Wedding/Reception/Sangeet/Haldi)
+- [ ] Mobile
+- [ ] Venue Decoration
+- [ ] Wallpaper
+- [ ] Home decoration
   
+## Expenses 
   
 Venue- 3L, 147500, paid papa  
 Food reception- 400x950=388000, 11k paid papa  
@@ -51,11 +41,12 @@ Juta chori- 25k?
 
 
   
-RECEPTION FOOD:  
-  
+## FOOD:  
+
+### Reception
+
 Mocktail, coffee  
-  
-  
+
 Gondhoraj Fish  
 Fish finger  
 Chicken Reshmi kebab  
@@ -63,10 +54,8 @@ Chicken Tikka kebab
 Paneer Sate(white/Red gravy)  
 Cabbage Roll  
 Dahi wada  
-  
-  
+
 Salad(Chicken/Veg/Mushroom/Pasta/Sprout/Egg/Prawn/Fruit/Prawn)  
-  
   
 Green Rumali Roti (Live counter)  
 Rice  
@@ -95,10 +84,11 @@ Pan counter
   
   
   
-FOOD MORNING : Luchi, Chola dal, sandesh  
+### FOOD MORNING : 
+Luchi, Chola dal, sandesh  
   
   
-FOOD LUNCH :  
+### FOOD LUNCH :  
   
 Rice  
 Veg Dal (Moong)  
