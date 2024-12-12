@@ -9,7 +9,7 @@
 - [ ] Venue Decoration
 - [ ] Wallpaper
 - [ ] Home decoration
-  
+- [ ] Mom doctor
 ## Expenses 
   
 Venue- 3L, 147500, paid papa  

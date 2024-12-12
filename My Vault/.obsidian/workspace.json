@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -324,14 +324,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c2876c58d78b685c",
+  "active": "f85b66545a5f5050",
   "lastOpenFiles": [
-    "Tracker/11-12-24.md",
     "Tracker/12-12-24.md",
+    "Tracker/Lists.md",
+    "Tracker/11-12-24.md",
     "Notes/Assert.md",
     "Notes/Cohen's Kappa.md",
     "Notes/XgBoost.md",
-    "Tracker/Lists.md",
     "Tracker/Marriage Plan.md",
     "Tracker/Projects Details.md",
     "Notes/MLOps course- UDEMY.md",
