@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Cohen's Kappa.md",
+                "file": "Notes/Assert.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cohen's Kappa"
+              "title": "Assert"
             }
           },
           {
@@ -93,13 +93,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/11-12-24.md",
+                "file": "Tracker/12-12-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11-12-24"
+              "title": "12-12-24"
             }
           },
           {
@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -324,14 +324,16 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "6f97f2e3460b1a66",
+  "active": "c2876c58d78b685c",
   "lastOpenFiles": [
-    "Notes/XgBoost.md",
+    "Tracker/11-12-24.md",
+    "Tracker/12-12-24.md",
+    "Notes/Assert.md",
     "Notes/Cohen's Kappa.md",
+    "Notes/XgBoost.md",
     "Tracker/Lists.md",
     "Tracker/Marriage Plan.md",
     "Tracker/Projects Details.md",
-    "Tracker/11-12-24.md",
     "Notes/MLOps course- UDEMY.md",
     "Notes/Gradient Boost.md",
     "Tracker/09-10-24.md",
@@ -343,7 +345,6 @@
     "Tracker/08-10-24.md",
     "Tracker/05-10-24.md",
     "Tracker/02-10-24.md",
-    "Notes/Assert.md",
     "Notes/raise.md",
     "Notes/python.md",
     "Notes/Dropout.md",
@@ -352,7 +353,6 @@
     "Tracker/07-11-24.md",
     "Attachments/Pasted image 20241119181318.png",
     "Notes/ROC-AUC.md",
-    "Notes/Evaluation.md",
     "Attachments/Pasted image 20241018015001.png",
     "Attachments/Pasted image 20241018014911.png",
     "Attachments/Pasted image 20241018014104.png",
