@@ -53,36 +53,6 @@
             }
           },
           {
-            "id": "e011c973a40b9ae8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Cohen's Kappa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cohen's Kappa"
-            }
-          },
-          {
-            "id": "53a91521a12dcd13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Quadratic Cohen's Kappa.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quadratic Cohen's Kappa"
-            }
-          },
-          {
             "id": "64ec11214a331f60",
             "type": "leaf",
             "state": {
@@ -133,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/Projects Details.md",
+                "file": "Notes/ROC-AUC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projects Details"
+              "title": "ROC-AUC"
             }
           },
           {
@@ -158,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -341,24 +311,25 @@
   },
   "active": "2521ac6837cef7fd",
   "lastOpenFiles": [
+    "Tracker/Projects Details.md",
     "Tracker/13-12-24.md",
-    "Tracker/12-12-24.md",
-    "Notes/Quadratic Cohen's Kappa.md",
+    "Notes/VIF.md",
+    "Notes/XgBoost.md",
     "Notes/Cohen's Kappa.md",
+    "Notes/Quadratic Cohen's Kappa.md",
+    "Notes/Gradient Boost.md",
+    "Tracker/12-12-24.md",
     "Notes/LLM Agents.md",
     "Attachments/Pasted image 20241213134431.png",
     "Attachments/Pasted image 20241213131708.png",
     "Attachments/Pasted image 20241213131548.png",
     "Attachments/Pasted image 20241213131524.png",
     "Attachments/Pasted image 20241213124255.png",
-    "Notes/XgBoost.md",
     "Notes/Assert.md",
     "Tracker/Marriage Plan.md",
     "Tracker/Lists.md",
     "Tracker/11-12-24.md",
-    "Tracker/Projects Details.md",
     "Notes/MLOps course- UDEMY.md",
-    "Notes/Gradient Boost.md",
     "Tracker/09-10-24.md",
     "Tracker/Dreams.md",
     "Tracker/24-07-24.md",
@@ -371,7 +342,6 @@
     "Notes/raise.md",
     "Notes/python.md",
     "Notes/Dropout.md",
-    "Notes/Stocks.md",
     "Attachments/Pasted image 20241119181318.png",
     "Attachments/Pasted image 20241018015001.png",
     "Attachments/Pasted image 20241018014911.png",

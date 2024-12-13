@@ -103,20 +103,21 @@
 - #### Problem Statement:
 	- In UK, people above 55 can start drawing down their pension money(decumulate) until their retirement age(66) when they receive all of the pension money.
 - #### Primary Objective:
-	- The objective was to predict customers most likely to decumulate based on their transactional history, the interest rates received on the pension pot etc, to develop an early prevention system
+	- The objective was to predict customers most likely to decumulate based on their transactional history, the interest rates received on the pension pot etc, to develop an early prevention system. 
+	- Was primarily a data analysis/data science project
 - #### Data Engg:
 	- The data was not at all ready for the development process. Historical data was normalised and kept across different s3 buckets.
 	- Not given access to proper metadata, data dictionary, data definitions and how to join the data back into usable form. This was a TCS sponsored POC, if successful, it would be sponsored by client for prod. So no proper support from client.
 	- Used Data Wrangler to visualise the data sample for all the tables. and to join them back for Feature Engg. Running processing jobs, to join all the diff table.
-	- Pyspark used in some case during Data Wrangling.
+	- Pyspark used in some case during Data Wrangling  and transformations.
 	- Univariate/bivariate analysis was done as a part of EDA.
-	- VIF for multi collinearity(1.4 threshold)
+	- VIF for multi collinearity(1-4 threshold)
 - #### Data:
 	- The money was invested by the customers in either SIP form or one time. This money was put into various funds(portfolio) and managed by the fund managers. This constituted the AUM(asset under management) for that person. So the fund managers, depending upon the risk accepted by the customers, used to buy units of various funds with the money thus managing the assets/AUM for the customers. These funds units were bought using the money at fund unit price of the time. As the unit price of the funds increased overtime, the portfolio valuation/AUM of the customer rose as well.
 	- We had transaction details of the funds purchased/sold, along with the unit prices of these funds at the time of purchase, of customers of the bank dating back 20 years(2002-2003). These transactions was made overtime by the fund managers. So when customers used to put in money, funds were bought, if they decumulated, funds were sold, and if a particular fund was not performing at par with the market, the fund was sold and money from it was used to buy other good-performing funds.
 	- This was the key data table for us. We could use this to get the diff customers over the years. Their portfolio valuation overtime and the AUMs i.e the funds they were invested in/switched to/switched from. We could also get the frequency in which diff customers put in money in the pension pot.
 	- So we used this data to get the diff funds, unit prices overtime, and the interest they returned over the months/years. So we could compare their interests to get the good/bad performing funds. 
-	- This data also was used to get the decumulating customers. A customer was said to decumulate if they took out >=100pounds from the pension pot, which could also only happen after the age of 55.
+	- This data also was used to get the decumulating customers. A customer was said to decumulate if they took out >=500pounds from the pension pot, which could also only happen after the age of 55.
 	- So we analysed the portfolio performance overtime and in the months leading to decumulation of the customers, as they were key indicators.
 	- We also checked the frequency of adding money to the pension pot and its relation with decumulation.
 	- We checked the average fund/AUM performance and tried to get a correlation decumulation.
