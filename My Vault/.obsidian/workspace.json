@@ -103,13 +103,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/ROC-AUC.md",
+                "file": "Tracker/Projects Details.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROC-AUC"
+              "title": "Projects Details"
             }
           },
           {
@@ -311,6 +311,7 @@
   },
   "active": "2521ac6837cef7fd",
   "lastOpenFiles": [
+    "Notes/ROC-AUC.md",
     "Tracker/Projects Details.md",
     "Tracker/13-12-24.md",
     "Notes/VIF.md",
@@ -341,7 +342,6 @@
     "Tracker/02-10-24.md",
     "Notes/raise.md",
     "Notes/python.md",
-    "Notes/Dropout.md",
     "Attachments/Pasted image 20241119181318.png",
     "Attachments/Pasted image 20241018015001.png",
     "Attachments/Pasted image 20241018014911.png",

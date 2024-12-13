@@ -128,13 +128,12 @@
 	- This was a binary classification problem (decumulate vs. not decumulate) with class imbalance (fewer people decumulating early), here are key metrics and tests we considered:
 		1. Classification Metrics:
 			- [[ROC-AUC]] Score: Crucial for binary classification, especially with imbalanced classes. 
-			- After fixing on a particular hyperparameter settings, we optimized on Recall and F1 score to get the best threshold value.
-			- Recall: This was out crucial metric, for us FP was ok but not FN.
+			- Precision-Recall curve
+			- Recall: This was out crucial metric, for us FP was ok but not FN. missing a decumulation case is more costly than false alerts.
+			- ROC_AUC, precision-recall curves, Recall and business cost was used together to decide on the threshold value.
 			- Cohen's Kappa: Shows improvement over random chance
 		2. Business-Specific Metrics:
-			- Cost Matrix: Different costs for false positives vs false negatives (e.g., opportunity cost of incorrect predictions)
-			- Lift Chart: Shows model's ability to identify customers most likely to decumulate
-			- Decile Analysis: Performance across different probability segments. 
+			- Cost Matrix: Different costs for false positives vs false negatives (e.g., opportunity cost of incorrect predictions) 
 	-  Model Validation Approaches:
 		- Cross-validation: 5-fold to ensure robust performance
 		- Time-based validation: Important since pension decisions are time-dependent. We considered both in-time and out-of-time data for our test set.
@@ -143,14 +142,13 @@
 		- SHAP values: To explain feature importance
 		- Partial Dependence Plots: Show relationship between features and decumulation probability
 		- Feature Importance Rankings: From XGBoost
-
-
 	- We also performed segmented Performance Metrics:
 		- Model accuracy across different age bands (e.g., 55-60, 60-65, 65+)
 		- Performance for different pension pot sizes
 		- Prediction accuracy based on contribution frequency patterns.
 		- Model reliability for customers with varying investment risk profiles.
 	- Financial Impacts:
+		- Average pension value preserved through accurate predictions
 		- Cost savings from early identification of potential decumulation
 
 
