@@ -5,7 +5,7 @@
 DATE:  13-12-24
 
 
-Tags: 
+Tags: [[Notes/LLMs|LLMs]] [[Notes/RAG|RAG]]
 
 # References: 
 https://youtube.com/watch?v=5CLNoPiMbUc
@@ -56,7 +56,7 @@ https://youtube.com/watch?v=5CLNoPiMbUc
 	- **LLM (Basic):** Responds to prompts, generates text, but doesn't have tools or memory.
 	- **LLM Agent:** Uses an LLM as its brain and can perform tasks in an environment by using tools, making plans, and taking actions based on feedback and memory.
 
-- ![[Attachments/Pasted image 20241213131524.png]]![[Attachments/Pasted image 20241213131548.png]]![[Attachments/Pasted image 20241213131708.png]]
+- ![[Attachments/Pasted image 20241213131524.png]]![[Attachments/Pasted image 20241213131548.png]]![[Attachments/Pasted image 20241213131708.png]]![[Attachments/Pasted image 20241213134431.png]]
 
 
 
