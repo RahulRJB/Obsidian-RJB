@@ -91,6 +91,13 @@
 	- Now for any new query asked, first the similar queries above a particular similarity threshold(cosine_sim, 0.97) from the index in retrieved and proportion of the 5 rated queries is calculated.
 	- If this proportion is above a particular threshold then the docs retrieved version numbers are matched with the most recent indexed queries' version number. If they all match then we can just use the indexed response and not have to generate again.
 	- If the proportion is below a given threshold/the docs versions do not match, a confidence level is generated based on the proportion again and appended to the generated response.
+- #### Contextual Retrieval:
+	- ................
+
+
+
+
+
 ## Aegon(May23-Oct23):
 
 - #### Problem Statement:

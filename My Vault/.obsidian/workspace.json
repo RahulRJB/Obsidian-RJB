@@ -108,13 +108,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/12-12-24.md",
+                "file": "Tracker/13-12-24.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-12-24"
+              "title": "13-12-24"
             }
           },
           {
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -339,10 +339,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "53a91521a12dcd13",
+  "active": "2521ac6837cef7fd",
   "lastOpenFiles": [
-    "Notes/Cohen's Kappa.md",
+    "Tracker/13-12-24.md",
+    "Tracker/12-12-24.md",
     "Notes/Quadratic Cohen's Kappa.md",
+    "Notes/Cohen's Kappa.md",
     "Notes/LLM Agents.md",
     "Attachments/Pasted image 20241213134431.png",
     "Attachments/Pasted image 20241213131708.png",
@@ -352,7 +354,6 @@
     "Notes/XgBoost.md",
     "Notes/Assert.md",
     "Tracker/Marriage Plan.md",
-    "Tracker/12-12-24.md",
     "Tracker/Lists.md",
     "Tracker/11-12-24.md",
     "Tracker/Projects Details.md",
@@ -371,7 +372,6 @@
     "Notes/python.md",
     "Notes/Dropout.md",
     "Notes/Stocks.md",
-    "Notes/Regularization.md",
     "Attachments/Pasted image 20241119181318.png",
     "Attachments/Pasted image 20241018015001.png",
     "Attachments/Pasted image 20241018014911.png",
