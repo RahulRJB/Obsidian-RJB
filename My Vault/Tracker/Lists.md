@@ -11,15 +11,11 @@ kanban-plugin: board
 - [ ] Basics algos
 - [ ] Karpathy videos
 - [ ] Stacking, blending, AK
-- [ ] LightGBM
 - [ ] SQL questions
 - [ ] Diffusion models
-- [ ] Langchain
-- [ ] WOE
 - [ ] Factor analysis code and intuition
 - [ ] Prob Callibration
 - [ ] Cramers for cat feature correlation
-- [ ] VIF
 - [ ] Amazon Athena
 - [ ] Eigenvals
 - [ ] SVD
@@ -29,10 +25,7 @@ kanban-plugin: board
 - [ ] cross entropy
 - [ ] Forward sel LR
 - [ ] LSTM
-- [ ] Reason for High AUC
-- [ ] AUC relation with F1 and skewed data
 - [ ] Psi
-- [ ] IV
 
 
 ## CV projects
