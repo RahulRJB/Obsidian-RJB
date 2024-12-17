@@ -1,7 +1,7 @@
 ## Immediate:
 
 - [ ] Check Hotel
-- [ ] Fittings for reception
+- [x] Fittings for reception ✅ 2024-12-18
 - [ ] Types of Kurta to stitch/Where to stitch (3)
 - [ ] More Kurtas(Sangeet/Aiburobhaat/Haldi/Wedding entrance/Basshor raat/ 7th kurta/Spare Kurta aashirvad/ Bhaat kapor/)
 - [ ] Shoes (Wedding/Reception/Sangeet/Haldi)

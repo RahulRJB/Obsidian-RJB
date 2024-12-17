@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -310,17 +310,17 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "2521ac6837cef7fd",
+  "active": "03751063618b29a5",
   "lastOpenFiles": [
-    "Tracker/14-12-24.md",
+    "Tracker/Marriage Plan.md",
     "Tracker/Projects Details.md",
+    "Tracker/14-12-24.md",
     "Tracker/Lists.md",
     "Notes/WOE.md",
     "Notes/Information Value(IV).md",
     "Notes/BERT.md",
     "Notes/Statistics.md",
     "Notes/Statistical ML.md",
-    "Tracker/Marriage Plan.md",
     "Notes/XgBoost.md",
     "Notes/MLOps course- UDEMY.md",
     "Notes/Gradient Boost.md",
