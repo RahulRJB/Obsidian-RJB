@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -310,13 +310,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "03751063618b29a5",
+  "active": "f85b66545a5f5050",
   "lastOpenFiles": [
+    "Tracker/14-12-24.md",
+    "Notes/WOE.md",
     "Tracker/Marriage Plan.md",
     "Tracker/Projects Details.md",
-    "Tracker/14-12-24.md",
     "Tracker/Lists.md",
-    "Notes/WOE.md",
     "Notes/Information Value(IV).md",
     "Notes/BERT.md",
     "Notes/Statistics.md",
