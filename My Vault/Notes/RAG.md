@@ -92,11 +92,15 @@ https://github.com/RahulRJB/RAG-from-scratch
 
 ## Routing:
 
+^ce78b9
+
 - Routing is the next step. Basically routing the query to the right source and in many cases that could be a different database. we can have a vector store, a relational DB and a graph DB, what we do with routing is we simply route the question based upon the context of the question to the relevant data source.
-- **Logical Routing**: We basically give an llm knowledge of the various data sources that we have at our disposal and we let the llm kind of Reason about which one to apply the question to. ![[Attachments/Pasted image 20240622032737.png]]
-- ![[Attachments/Pasted image 20240622033234.png]]![[Attachments/Pasted image 20240622033522.png]]![[Attachments/Pasted image 20240622033618.png]]![[Attachments/Pasted image 20240622033828.png]]
-- **Semantic routing**: We may have different prompts to the LLMs based on the need and the query. To select the appropriate prompt, we take the question we embed it. Then we embed prompts. we then compute the similarity between our question and those prompts and then we choose a prompt based upon the similarity.![[Attachments/Pasted image 20240622032932.png]]
-- ![[Attachments/Pasted image 20240622034139.png]]![[Attachments/Pasted image 20240622034449.png]]
+- ### **Logical Routing**: 
+	- We basically give an llm knowledge of the various data sources that we have at our disposal and we let the llm kind of Reason about which one to apply the question to. ![[Attachments/Pasted image 20240622032737.png]]
+	- ![[Attachments/Pasted image 20240622033234.png]]![[Attachments/Pasted image 20240622033522.png]]![[Attachments/Pasted image 20240622033618.png]]![[Attachments/Pasted image 20240622033828.png]]
+- ### **Semantic routing**: 
+	- We may have different prompts to the LLMs based on the need and the query. To select the appropriate prompt, we take the question we embed it. Then we embed prompts. we then compute the similarity between our question and those prompts and then we choose a prompt based upon the similarity.![[Attachments/Pasted image 20240622032932.png]]
+	- ![[Attachments/Pasted image 20240622034139.png]]![[Attachments/Pasted image 20240622034449.png]]
 
 
 ## Query Construction:
@@ -107,18 +111,18 @@ https://github.com/RahulRJB/RAG-from-scratch
 - ![[Attachments/Pasted image 20240622040031.png]]![[Attachments/Pasted image 20240622040253.png]]![[Attachments/Pasted image 20240622040328.png]]![[Attachments/Pasted image 20240622040356.png]]
 
 
-## [[Indexing]]:
+## Indexing:
 
 ![[Attachments/Pasted image 20240627022034.png]]
-#### Proposition Indexing: 
+### Proposition Indexing: 
 - Taking a document, using an llm to produce a proposition, which is kind of a distillation of that document. This makes it like a crisper, like summary so that's better optimized for retrieval, so might contain a bunch of keywords from the document or like the big ideas. Now we independently store the raw document in a docstore and after retrieving the summary in the vector store, you return the full document for the llm to perform generation. This is a nice trick because at generation time now with long-context LLMs, which can handle that entire document you don't need to worry about splitting it or anything you just simply use the summary to create a really nice representation for fishing out that full doc use that full doc in generation![[Attachments/Pasted image 20240625221613.png]]![[Attachments/Pasted image 20240625222108.png]]
 - ![[Attachments/Pasted image 20240626132255.png]]Adding summary to vectorstore and full docs to docstore![[Attachments/Pasted image 20240626135950.png]]![[Attachments/Pasted image 20240626140323.png]]
-#### RAPTOR:
+### RAPTOR:
 - Intuition is that some questions require consolidation across kind broad array of documents or many chunks within a document and you can call these high level questions. So there's kind of this challenge in retrieval that typically we do like KNN retrieval to fish out some number of chunks but what if you have a question that requires information across like 10-12 different chunks? These very high level question that could benefit from retrieval across many diff clusters of document.![[Attachments/Pasted image 20240627022135.png]]
 - Applying this to a large set of langchain documents:![[Attachments/Pasted image 20240627023416.png]]![[Attachments/Pasted image 20240627023442.png]]![[Attachments/Pasted image 20240627023534.png]]![[Attachments/Pasted image 20240627023633.png]]![[Attachments/Pasted image 20240627023700.png]]
 - Full code @   https://github.com/langchain-ai/langchain/blob/master/cookbook/RAPTOR.ipynb
 - ![[Attachments/Pasted image 20240627023854.png]]![[Attachments/Pasted image 20240627023911.png]]![[Attachments/Pasted image 20240627023938.png]]
-#### [[ColBERT]]: 
+### [[ColBERT]]: 
 - A very diff approach to calculating doc similarity.
 - Main idea is instead of just taking a document and compressing it down to a single vector, we take the document, break it up into individual tokens, basically tokenize it and you produce an embedding vector for every token and there's some kind of positional encoding that occurs when you do this process. Now you do the same thing for your question as well. Then for every token in the question you're Computin g the similarity across all the tokens in the document and you're finding the max,  storing that and you're doing that process for all the tokens in the question. Final score is the sum of the max similarities. Strong performance, but latency is the question.![[Attachments/Pasted image 20240627024250.png]]
 - ![[Attachments/Pasted image 20240627024925.png]]![[Attachments/Pasted image 20240627025012.png]]![[Attachments/Pasted image 20240627025126.png]]
