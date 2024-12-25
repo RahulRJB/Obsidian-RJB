@@ -163,7 +163,7 @@
 	- There were a set of documents for each topic. Indices were created for each of them.
 		- Given a prompt, we used Logical [[Notes/RAG#^ce78b9|routing]] to route the question to the appropriate index and retrieve from it 
 	- The chat history was to be saved for a given session for a later use.
-	- A session could also have multiple topics selected at the same time or at different points of time, in which case independent retrieval was done across the diff indices and then the retrieved documents from the different indices were reranked using RAG Fusion.
+		- A session could also have multiple topics selected at the same time or at different points of time, in which case independent retrieval was done across the diff indices and then the retrieved documents from the different indices were reranked using [[Notes/RAG#|RAG]].
 - #### xxxxxxxxxxxx:
 	- Used Langchain, ChromaDB stack.
 	- 
