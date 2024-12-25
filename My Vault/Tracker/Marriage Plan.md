@@ -2,13 +2,17 @@
 
 - [x] Check Hotel ✅ 2024-12-24
 - [x] Fittings for reception ✅ 2024-12-18
-- [ ] Types of Kurta to stitch/Where to stitch (3)
-- [ ] More Kurtas(Sangeet/Aiburobhaat/Haldi/Basshor raat/ 7th kurta/Spare Kurta aashirvad/ Bhaat kapor/)
+- [x] Types of Kurta to stitch/Where to stitch (3) ✅ 2024-12-26
+- [x] More Kurtas(Sangeet/Aiburobhaat/Haldi/Basshor raat/ 7th kurta/Spare Kurta aashirvad/ Bhaat kapor/) ✅ 2024-12-26
 - [ ] Shoes (Wedding/Reception/Sangeet/Haldi)
 - [ ] Mobile
 - [ ] Venue Decoration
 - [ ] Wallpaper
 - [ ] Home decoration
+- [ ] Think about pre wedding
+- [ ] Pre wedding complete
+- [ ] Guitar
+- [ ] 
 - [x] Mom doctor ✅ 2024-12-24
 - [x] Wedding Dhuti ✅ 2024-12-19
 - [x] Wedding Panjabi main ✅ 2024-12-19

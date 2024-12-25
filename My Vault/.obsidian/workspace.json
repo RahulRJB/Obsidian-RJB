@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -324,10 +324,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "5263433aeb81045e",
+  "active": "f85b66545a5f5050",
   "lastOpenFiles": [
-    "Tracker/Projects Details.md",
     "Notes/RAG.md",
+    "Tracker/Projects Details.md",
     "Notes/Indexing.md",
     "Tracker/24-12-24.md",
     "Notes/WOE.md",
