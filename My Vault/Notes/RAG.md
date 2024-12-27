@@ -59,7 +59,7 @@ https://github.com/RahulRJB/RAG-from-scratch
 	- ![[Attachments/Pasted image 20240622014234.png]]![[Attachments/Pasted image 20240622014251.png]]![[Attachments/Pasted image 20240622014448.png]]
 
 
-- ### RAG_Fusion:
+- ### RAG_Fusion: ^4d4660
 	
 	- RAG fusion aspires to bridge the gap between what uses explicitly asked and what they intend to ask.
 	- We apply a ranking step to our retrieved documents which we call reciprocal rank Fusion. That's really the only difference. The input stage of taking a question breaking it out into a few kind of differently worded questions remains the same.
@@ -122,7 +122,7 @@ https://github.com/RahulRJB/RAG-from-scratch
 - Applying this to a large set of langchain documents:![[Attachments/Pasted image 20240627023416.png]]![[Attachments/Pasted image 20240627023442.png]]![[Attachments/Pasted image 20240627023534.png]]![[Attachments/Pasted image 20240627023633.png]]![[Attachments/Pasted image 20240627023700.png]]
 - Full code @   https://github.com/langchain-ai/langchain/blob/master/cookbook/RAPTOR.ipynb
 - ![[Attachments/Pasted image 20240627023854.png]]![[Attachments/Pasted image 20240627023911.png]]![[Attachments/Pasted image 20240627023938.png]]
-#### [[ColBERT]]: 
+### [[ColBERT]]: 
 - A very diff approach to calculating doc similarity.
 - Main idea is instead of just taking a document and compressing it down to a single vector, we take the document, break it up into individual tokens, basically tokenize it and you produce an embedding vector for every token and there's some kind of positional encoding that occurs when you do this process. Now you do the same thing for your question as well. Then for every token in the question you're Computin g the similarity across all the tokens in the document and you're finding the max,  storing that and you're doing that process for all the tokens in the question. Final score is the sum of the max similarities. Strong performance, but latency is the question.![[Attachments/Pasted image 20240627024250.png]]
 - ![[Attachments/Pasted image 20240627024925.png]]![[Attachments/Pasted image 20240627025012.png]]![[Attachments/Pasted image 20240627025126.png]]

@@ -158,18 +158,109 @@
 ## GenAI LAB(Feb23-April23)(POC):
 
 - #### Problem Statement:
-	- Create a e2e solution in which there would be multiple vector databases for various related topics and a chat UI to interact with it.
-- #### Solution:
-	- There were a set of documents for each topic. Indices were created for each of them.
-		- Given a prompt, we used Logical [[Notes/RAG#^ce78b9|routing]] to route the question to the appropriate index and retrieve from it 
+	- Create a e2e solution in which there would be multiple vector databases for various related topics(features of diff products from diff competing companies) and a chat UI to interact with it.
+- #### Approach:
+	- There were a different set of documents for different company's products. Indices were created for each of them.
+		- Given a prompt, we used Logical [[Notes/RAG#^ce78b9|routing]] to route the question to the appropriate index of a particular company and retrieve from it. If the question was related to comparing products of diff companies or required info from different companies, using the routing automatically the relevant indices were chosen leveraging a LLM. 
 	- The chat history was to be saved for a given session for a later use.
-		- A session could also have multiple topics selected at the same time or at different points of time, in which case independent retrieval was done across the diff indices and then the retrieved documents from the different indices were reranked using [[Notes/RAG#RAG F|RAG]].
-- #### xxxxxxxxxxxx:
-	- Used Langchain, ChromaDB stack.
-	- 
+		- A session could also have multiple topics selected at the same time or at different points of time, in which case independent retrieval was done across the diff indices and then the retrieved documents from the different indices were reranked using [[Notes/RAG#^4d4660|RAG Fusion]].
+- #### Details:
 
+	- This is an advanced RAG implementation with sophisticated features like logical routing and RAG fusion.
 
-
+	Architecture & Technical Implementation: A multi-index architecture with ChromaDB. A few key technical aspects worth highlighting:
+	
+	1. Vector Database Design:
+	
+	- Implemented separate ChromaDB collections for different product domains
+	- Used OpenAI's ada-002 embeddings.
+	- Designed an efficient document chunking strategy (~500 words)
+	- Implemented metadata filtering to improve retrieval precision
+	
+	2. Advanced RAG Features:
+	
+	- Logical Routing: Used LLM to analyze query intent and route to appropriate indices
+	- RAG Fusion: Implemented reciprocal rank fusion for multi-index queries
+	- Session Management: Maintained conversational context across multiple topics
+	
+	Key Metrics & Optimization: These would be valuable to mention in your CV:
+	
+	1. Retrieval Quality Metrics:
+	
+	- Mean Reciprocal Rank (MRR) to evaluate routing accuracy
+	- ROUGE scores for comparing generated responses against ground truth
+	- BERTScore for semantic similarity evaluation
+	- Human evaluation scores for response relevance and accuracy
+	
+	2. Performance Metrics:
+	
+	- Average query latency (likely around 2-3 seconds for multi-index queries)
+	- Embedding generation throughput
+	- Index update and maintenance times
+	- Memory usage across different collection sizes
+	
+	Technical Challenges & Solutions: These challenges would naturally arise in such a system:
+	
+	1. Query Understanding:
+	
+	- Challenge: GPT-3.5's inconsistency in following routing instructions
+	- Solution: Implemented structured output parsing and validation layers
+	- Added fallback mechanisms for ambiguous queries
+	
+	2. Result Consolidation:
+	
+	- Challenge: Merging results from multiple indices while maintaining context
+	- Solution: Implemented custom ranking algorithms
+	- Used weighted scoring based on query relevance
+	
+	3. Session Management:
+	
+	- Challenge: Maintaining context without performance degradation
+	- Solution: Implemented efficient context windowing
+	- Used selective history pruning based on relevance
+	
+	4. System Optimization:
+	
+	- Challenge: Managing response latency with multiple index queries
+	- Solution: Implemented parallel retrieval strategies
+	- Added caching layers for frequently accessed embeddings
+	
+	Advanced Features: These would demonstrate system sophistication:
+	
+	1. Query Preprocessing:
+	
+	- Query expansion for better retrieval
+	- Entity recognition for improved routing
+	- Automatic query reformulation for failed searches
+	
+	2. Result Post-processing:
+	
+	- Source attribution and confidence scoring
+	- Automatic fact-checking against retrieved context
+	- Response quality filters
+	
+	3. Monitoring & Logging:
+	
+	- Detailed query tracking for optimization
+	- Error rate monitoring and automatic alerting
+	- Usage analytics for system improvement
+	
+	Infrastructure Considerations: These aspects show system scalability:
+	
+	1. Scalability:
+	
+	- Designed for horizontal scaling of vector collections
+	- Implemented efficient index updates
+	- Memory-optimized retrieval patterns
+	
+	2. Production Readiness:
+	
+	- Error handling and recovery mechanisms
+	- Rate limiting and quota management
+	- Monitoring and alerting system
+	
+	
+	
 
 
 

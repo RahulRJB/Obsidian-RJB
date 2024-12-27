@@ -6,7 +6,6 @@
       {
         "id": "91e219131ac0abbf",
         "type": "tabs",
-        "dimension": 74.32239657631953,
         "children": [
           {
             "id": "736543a9a4ce82c3",
@@ -127,15 +126,7 @@
               "icon": "lucide-file",
               "title": "Projects Details"
             }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "67e0c42779aa1539",
-        "type": "tabs",
-        "dimension": 25.677603423680456,
-        "children": [
+          },
           {
             "id": "f85b66545a5f5050",
             "type": "leaf",
@@ -151,7 +142,8 @@
               "title": "Marriage Plan"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -334,7 +326,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5263433aeb81045e",
+  "active": "a506043e04bace55",
   "lastOpenFiles": [
     "Notes/RAG.md",
     "Tracker/Projects Details.md",
