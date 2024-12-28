@@ -92,7 +92,8 @@
 	- If this proportion is above a particular threshold then the docs retrieved version numbers are matched with the most recent indexed queries' version number. If they all match then we can just use the indexed response and not have to generate again.
 	- If the proportion is below a given threshold/the docs versions do not match, a confidence level is generated based on the proportion again and appended to the generated response.
 - #### Contextual Retrieval:
-	- ................
+	- Many a times the chunks of a document lack context which may lead to incorrect responses. The solution could be to do logical chunking i.e chunking based on paragraphs etc. or we can create contextual chunks. We feed the LLM with the entire document and the chunk in question. The LLM locates the chunk within the document and modifies the chunk giving it appropriate context for better retrieval.
+	- Frequent updates to documents may be an issue. May not scale because of needing a LLM call for each chunk.
 
 
 
@@ -233,13 +234,7 @@
 	- Memory-optimized retrieval patterns
 	
 	2. Production Readiness:
-	- Error handling and recovery mechanisms eg. fallback to old state if index update failed using context window
-	
-	
-
-
-
-
+	- Error handling and recovery mechanisms eg. fallback to old state if index update failed using context window.
 
 ## ING Australia(Aug22-Jan22):
 

@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -326,13 +326,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f85b66545a5f5050",
+  "active": "a506043e04bace55",
   "lastOpenFiles": [
+    "Tracker/Marriage Plan.md",
     "Tracker/Projects Details.md",
     "Notes/ROUGE.md",
     "Notes/RAG.md",
     "Tracker/27-12-24.md",
-    "Tracker/Marriage Plan.md",
     "Tracker/24-12-24.md",
     "Notes/Indexing.md",
     "Notes/WOE.md",
