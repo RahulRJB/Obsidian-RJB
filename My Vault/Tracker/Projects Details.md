@@ -171,94 +171,69 @@
 	Architecture & Technical Implementation: A multi-index architecture with ChromaDB. A few key technical aspects worth highlighting:
 	
 	1. Vector Database Design:
-	
 	- Implemented separate ChromaDB collections for different product domains
 	- Used OpenAI's ada-002 embeddings.
-	- Designed an efficient document chunking strategy (~500 words)
+	- Designed an efficient document chunking strategy (~500 words, with overlap), also experimented with chunks based on paragraphs/sentences, i.e logical chunking
 	- Implemented metadata filtering to improve retrieval precision
+	- Hybrid Search implemented(Sematic + Keyword search) for better retrieval accuracy, as the response was a lot data oriented.
 	
 	2. Advanced RAG Features:
-	
-	- Logical Routing: Used LLM to analyze query intent and route to appropriate indices
+	- Tried query enrichment/expansion
+	- Logical Routing: Used LLM to analyze query intent and route to appropriate indices. Used Entity recognition as well.
 	- RAG Fusion: Implemented reciprocal rank fusion for multi-index queries
 	- Session Management: Maintained conversational context across multiple topics
 	
-	Key Metrics & Optimization: These would be valuable to mention in your CV:
+	Key Metrics & Optimization:
 	
 	1. Retrieval Quality Metrics:
 	
-	- Mean Reciprocal Rank (MRR) to evaluate routing accuracy
-	- ROUGE scores for comparing generated responses against ground truth
-	- BERTScore for semantic similarity evaluation
-	- Human evaluation scores for response relevance and accuracy
+	- Mean Reciprocal Rank (MRR) to evaluate routing accuracy(0.75 was the target)
+	- [[ROUGE]] scores for comparing generated responses against ground truth-  Could be used because our responses were very data centric. Was used majorly during the initial part of the POC for evaluation
+	- BERTScore for semantic similarity evaluation- Used later alongside ROUGE to check for actual semantic similarity.
+	- Human evaluation scores for response relevance and accuracy(1/0 depending if the response was correct or not on a ground truth dataset of 100 queries)
 	
 	2. Performance Metrics:
-	
 	- Average query latency (likely around 2-3 seconds for multi-index queries)
-	- Embedding generation throughput
-	- Index update and maintenance times
-	- Memory usage across different collection sizes
 	
-	Technical Challenges & Solutions: These challenges would naturally arise in such a system:
+	Technical Challenges & Solutions:
 	
 	1. Query Understanding:
-	
 	- Challenge: GPT-3.5's inconsistency in following routing instructions
 	- Solution: Implemented structured output parsing and validation layers
 	- Added fallback mechanisms for ambiguous queries
 	
 	2. Result Consolidation:
-	
 	- Challenge: Merging results from multiple indices while maintaining context
 	- Solution: Implemented custom ranking algorithms
 	- Used weighted scoring based on query relevance
 	
 	3. Session Management:
-	
 	- Challenge: Maintaining context without performance degradation
 	- Solution: Implemented efficient context windowing
 	- Used selective history pruning based on relevance
 	
 	4. System Optimization:
-	
 	- Challenge: Managing response latency with multiple index queries
 	- Solution: Implemented parallel retrieval strategies
 	- Added caching layers for frequently accessed embeddings
 	
-	Advanced Features: These would demonstrate system sophistication:
-	
-	1. Query Preprocessing:
-	
-	- Query expansion for better retrieval
-	- Entity recognition for improved routing
-	- Automatic query reformulation for failed searches
-	
-	2. Result Post-processing:
-	
+	Advanced Features: 
+	1. Result Post-processing:
 	- Source attribution and confidence scoring
-	- Automatic fact-checking against retrieved context
-	- Response quality filters
 	
-	3. Monitoring & Logging:
-	
+	2. Monitoring & Logging:
 	- Detailed query tracking for optimization
-	- Error rate monitoring and automatic alerting
 	- Usage analytics for system improvement
 	
-	Infrastructure Considerations: These aspects show system scalability:
+	Infrastructure Considerations:
 	
 	1. Scalability:
-	
 	- Designed for horizontal scaling of vector collections
 	- Implemented efficient index updates
 	- Memory-optimized retrieval patterns
 	
 	2. Production Readiness:
-	
-	- Error handling and recovery mechanisms
-	- Rate limiting and quota management
-	- Monitoring and alerting system
-	
+	- Error handling and recovery mechanisms eg. fallback to old state if index update failed using context window
 	
 	
 
