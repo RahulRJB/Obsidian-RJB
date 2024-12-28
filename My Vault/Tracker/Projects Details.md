@@ -239,50 +239,51 @@
 ## ING Australia(Aug22-Jan22):
 
 - #### Primary Objective:
-	- Development of models as part of the early warning system (EWS) in 3 lines of business in ING- Personal Loans, Retail Mortgages, Credit Cards.
+	- Development of models as part of the early warning system (EWS) in 3 lines of business in ING- Personal Loans, Retail Mortgages
 	- Needed to calculate the probability to default. 
-	- Total 6 EWS models to be developed, LR model(baseline) and ML model(LGBM) for each of the 3 products.
+	- Total 4 EWS models to be developed, LR model(baseline) and ML model(LGBM) for each of the 2 products.
 	- The models would be developed to predict the probability of the borrower triggering bad definition (delinquency, hardship, default) in the next 3 months, further to be grouped in the risk segments high/medium/low
 - #### Modelling:
 	- Required huge effort in Data Engineering, preprocessing, dimensionality reduction to transform the provided data into a usable form.
-	- The data available:
+	- ##### Data available:
 		- Internal customer history data
 		- Personal deposit data
 		- Credit bureau Data (Equifax)
 		- Transactional data
 		- ~ 1400 features were there to begin with.
-	- EDA:
+		- The data was a snapshot of 2019
+	- ##### EDA:
 		- Distribution analysis
 		- Trend analysis
 		- Factor/PC analysis
 		- Univariate/Bivariate analysis
-	- ##### Baseline model (LR model)
-		- Feature Screening:
-			- VIF
-			- Information Value (Rejected <3% data)
-			- Missing Value(Rejected more than 58% data) 
-			- Population Stability Index
-			- Domain considerations (we reach ~700 features)
-			- Bivariate(Pairwise) Correlation (reject >0.7)(we reach ~240 features)
-			- Cramer's association (80% threshold) (145 features)
-			- AUC score filter(55% threshold) (68 feats.)
-			- Backward/Forward stepwise LR selection modelling (28 features)
+		- [[Notes/Partial Dependency Plot (pdp)|pdp]]
+	- ##### Baseline model (LR model)  Feature Screening:
+		- [[VIF]]
+		- [[Notes/Information Value(IV)|Information Value]] (Rejected <3% data)
+		- Missing Value(Rejected more than 58% data) 
+		- Population Stability Index
+		- Domain considerations (we reach ~700 features)
+		- Bivariate(Pairwise) Correlation (reject >0.7)(we reach ~240 features) for cont variables
+		- [[Notes/Cramer's V|Cramer's association]] (80% threshold) (145 features) for cat variables
+		- AUC score filter(55% threshold) (68 feats.)
+		- Backward/Forward stepwise LR selection modelling (28 features)
 		- After dimensionality reduction we end up with 28 features gives us ROC-AUC of ~78%
-		- Train ~50k records;  Test ~150k records
-	- ##### ML model:
-		- Feature Screening:
-			- Missing Values
-			- Domain considerations (1164 feats)
-			- Pairwise correlation (~95%) (930 feats.)
-			- Boruta (~400 feats.)
-			- Backward Recursive Elimination (SHAPRFECV) (16 feats)
+	- ##### ML model Feature Screening:
+		- Missing Values
+		- Domain considerations (1164 feats)
+		- Pairwise correlation (~95%) (930 feats.)
+		- Cramer's V
+		- [[Boruta]] (~400 feats.)
+		- [[SHAPRFECV]] (16 feats)
+	- ##### Modelling:
+		- All the cont variables were binned using optbinning to make a all cat variable dataset
+		- We tried out both LightGBM and XgBoost, and also tried to use stacking on these 2 models. Optuna was used to finetune the models
+		- The data was from 2019, was divided in train, test and validation sets. 
+		- 5 fold Cross-validation was done to prevent overfitting
+		- We also had data from Sept-Nov 2021 as out-of-time test set
 
 
--
-- performed Blending/stacking
-- LightGBM/XgBoost
-- Did univariate/bivariate analysis
-- VIF for multi collinearity(1.4 threshold)
 ## UWME(Nov21-Feb22):
 
 - #### Problem Statement:
