@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -311,10 +311,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a506043e04bace55",
+  "active": "f85b66545a5f5050",
   "lastOpenFiles": [
-    "Notes/DenseNet.md",
     "Tracker/Projects Details.md",
+    "Notes/DenseNet.md",
     "Notes/Faster RCNN.md",
     "Notes/Object Detection.md",
     "Notes/Fast RCNN.md",

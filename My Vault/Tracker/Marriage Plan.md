@@ -7,13 +7,13 @@
 - [ ] Shoes (Wedding/Reception/Sangeet/Haldi)
 - [ ] Mobile
 - [ ] Venue Decoration
-- [ ] Wallpaper
-- [ ] Home decoration
-- [ ] Think about pre wedding
-- [ ] Pre wedding complete
+- [x] Wallpaper ✅ 2024-12-30
+- [x] Home decoration ✅ 2024-12-30
+- [ ] Pre wedding complete song practice
 - [ ] Guitar
 - [ ] card dist
 - [ ] Hotel
+- [ ] Splitwise
 - [x] Mom doctor ✅ 2024-12-24
 - [x] Wedding Dhuti ✅ 2024-12-19
 - [x] Wedding Panjabi main ✅ 2024-12-19
