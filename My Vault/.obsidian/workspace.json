@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -311,12 +311,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a506043e04bace55",
+  "active": "f85b66545a5f5050",
   "lastOpenFiles": [
+    "Tracker/Projects Details.md",
     "Tracker/Marriage Plan.md",
     "Notes/Boruta.md",
     "Notes/Partial Dependency Plot (pdp).md",
-    "Tracker/Projects Details.md",
     "Notes/SHAPRFECV.md",
     "Notes/Feature Selection.md",
     "Tracker/29-12-24.md",
