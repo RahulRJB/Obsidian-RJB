@@ -407,8 +407,16 @@
 ## CAR Damage(Mar22- July22):
 
 - #### Problem statement:
-	- ...
-- #### Primary Objective:
-	- ...
-- 
+	- We have an UK based car insurance company Aviva. They wanted to automate the customer claim initiation process and decrease the processing time. For this they wanted to build a platform in which, after the customer uploaded the photo of their damaged car, a trained object detection model(Mask-RCNN) would detect the location of the damage, and estimate the severity of the damage and potential repair cost that may be associated. 
+- #### Data:
+	- We were given some sample photos as training data by the clients, however it wasn't enough to train the model.
+	- We looked into the public domain and got 2 datasets of damaged vehicle photos from Kaggle and UCL.
+	- We had to manually hand label the entire dataset i.e create a metadata for the bounding boxes around the damaged area to be used for training.
+- #### Plan:
+	- Hand label the entire dataset
+	- Train an object detection model, to detect 2 things, the entire vehicle and the damaged area of the vehicle, 3rd task was to also detect the number plate.
+	- Downstream, use a CNN model which got the car with the damaged area as input and classified the damage as minor/substantial/severe and another CNN model to classify the area damaged i.e windshield/bonnet/front body/side panels/back body.
+	- Given we know the details of the customer and the make of the car, estimate the cost of repair associated by combining the severity of damage and area of damage and the average cost associated with to repair that area with that severity of damage.
+- #### Modelling:
+	- 
 ## Synth Data:
