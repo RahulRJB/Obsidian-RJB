@@ -414,9 +414,11 @@
 	- We had to manually hand label the entire dataset i.e create a metadata for the bounding boxes around the damaged area to be used for training.
 - #### Plan:
 	- Hand label the entire dataset
-	- Train an object detection model, to detect 2 things, the entire vehicle and the damaged area of the vehicle, 3rd task was to also detect the number plate.
-	- Downstream, use a CNN model which got the car with the damaged area as input and classified the damage as minor/substantial/severe and another CNN model to classify the area damaged i.e windshield/bonnet/front body/side panels/back body.
+	- Finetune an object detection model like Mask-RCNN, to detect 2 types of classes, the entire vehicle and the damaged area of the vehicle, 3rd class was to also detect the number plate.
+	- The ROI returned with bounding boxes were classified into different classes wrt damage severity such as minor/substantial/severe and in terms of the area damaged i.e windshield/bonnet/front body/side panels/hood. We modified the architecture of the model such that any damage car area returned would have 2 classes everytime, area, damage severity.
 	- Given we know the details of the customer and the make of the car, estimate the cost of repair associated by combining the severity of damage and area of damage and the average cost associated with to repair that area with that severity of damage.
 - #### Modelling:
-	- 
+	- We downloaded the pre-trained Mask-RCNN from Detectron2 by Facebook.
+	- Finetuned it with the labelled images.
+	- Use mAP as a metric to test the accuracy of the model
 ## Synth Data:
