@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/RCNN.md",
+                "file": "Notes/Fast RCNN.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RCNN"
+              "title": "Fast RCNN"
             }
           },
           {
@@ -313,11 +313,11 @@
   },
   "active": "9cb44e70b9754e3c",
   "lastOpenFiles": [
+    "Notes/RCNN.md",
+    "Notes/Fast RCNN.md",
     "Tracker/Projects Details.md",
     "Tracker/29-12-24.md",
-    "Notes/RCNN.md",
     "Notes/Object Detection.md",
-    "Notes/Fast RCNN.md",
     "Notes/Information Value(IV).md",
     "Tracker/Marriage Plan.md",
     "Notes/Boruta.md",
