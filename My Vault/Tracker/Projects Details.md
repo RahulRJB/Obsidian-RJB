@@ -156,7 +156,7 @@
 
 
 
-## GenAI LAB(Feb23-April23)(POC):
+## GenAI LAB(Dec22-April23)(POC):
 
 - #### Problem Statement:
 	- Create a e2e solution in which there would be multiple vector databases for various related topics(features of diff products from diff competing companies) and a chat UI to interact with it.
@@ -236,7 +236,7 @@
 	2. Production Readiness:
 	- Error handling and recovery mechanisms eg. fallback to old state if index update failed using context window.
 
-## ING Australia(Aug22-Jan22):
+## ING Australia(July22-Nov22):
 
 - #### Primary Objective:
 	- Development of models as part of the early warning system (EWS) in 3 lines of business in ING- Personal Loans, Retail Mortgages
@@ -284,16 +284,15 @@
 		- We also had data from Sept-Nov 2021 as out-of-time test set
 
 
-## UWME(Nov21-Feb22):
+## UWME(Feb21-Aug21):
 
 - #### Problem Statement:
-	- There are historical documents of similar type. Printed. Needs to be digitized.
+	- There are historical documents of similar type, printed that need to be digitized.
 	- Pytesseract used can nowadays be replaced by phi-3.5, Qwen2 OCR vision models. When prompted can extract tables directly 
 - ####  Evaluation:
 	- Accuracy of text with a row/column for pytesseract
 	- And Any row/column missed out for tablenet also IoU for loss during training of TableNet() model
-
-- 4 types of images: 
+- #### Data: 
 	- Gen page containing 1 or more table
 	- insurancebinder_form- checkboxes(ticked/crossed) & Tables
 	- invoices-  (Grids, Just boxes with text within)
@@ -390,21 +389,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## CAR Damage(Mar22- July22):
+## CAR Damage(Feb22- June22):
 
 - #### Problem statement:
 	- We have an UK based car insurance company Aviva. They wanted to automate the customer claim initiation process and decrease the processing time. For this they wanted to build a platform in which, after the customer uploaded the photo of their damaged car, a trained object detection model(Mask-RCNN) would detect the location of the damage, and estimate the severity of the damage and potential repair cost that may be associated. 
@@ -420,5 +405,5 @@
 - #### Modelling:
 	- We downloaded the pre-trained Mask-RCNN from Detectron2 by Facebook.
 	- Finetuned it with the labelled images.
-	- Use mAP as a metric to test the accuracy of the model
+	- Use mAP and AV (average recall) as a metric to test the accuracy of the model
 ## Synth Data:
