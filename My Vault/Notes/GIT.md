@@ -19,6 +19,7 @@ https://gemini.google.com/app/690123ddb68853de
 
 ### Moving from 1 area to other:
 - `git add .` - Working area --> Staging area![[Attachments/Pasted image 20240904225023.png]]
+- `git add -p <file>` - stage specific parts of a file 
 - `git diff` -  Diff between working area and staging area.
 - `git commit -m '<msg>'` -  Staging area --> Local repo(commit area)
 - `git diff --staged` -  Diff between staging area and Local repo(commit area).
@@ -102,7 +103,7 @@ The choice between merge and rebase depends on your workflow and preferences. He
 - `git push -u <upstreammbranch>` -  If there's no upstream branch created for your local branch, this command used to create an upstream branch with the given name.
 - `git branch --unset-upstream` -  If there is an upstream branch associated with your local branch, this command can remove it.
 - `git branch -m <old-branch-name> <new-branch-name>` -  Renaming a branch
-
+- `git branch -d <branch-name>`  -  Deleting a local branch
 
 ### git  push:
 
