@@ -5,6 +5,7 @@
 - [x] Types of Kurta to stitch/Where to stitch (3) ✅ 2024-12-26
 - [x] More Kurtas(Sangeet/Aiburobhaat/Haldi/Basshor raat/ 7th kurta/Spare Kurta aashirvad/ Bhaat kapor/) ✅ 2024-12-26
 - [ ] Shoes (Wedding/Reception/Sangeet/Haldi)
+- [ ] Tatta (winter dress/shoes/bath robe/)
 - [ ] Mobile
 - [ ] Venue Decoration
 - [x] Wallpaper ✅ 2024-12-30
