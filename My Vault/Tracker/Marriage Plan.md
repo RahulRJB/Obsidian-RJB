@@ -1,20 +1,30 @@
 ## Immediate:
 
-- [x] Check Hotel ✅ 2024-12-24
-- [x] Fittings for reception ✅ 2024-12-18
-- [x] Types of Kurta to stitch/Where to stitch (3) ✅ 2024-12-26
-- [x] More Kurtas(Sangeet/Aiburobhaat/Haldi/Basshor raat/ 7th kurta/Spare Kurta aashirvad/ Bhaat kapor/) ✅ 2024-12-26
-- [ ] Shoes (Wedding/Reception/Sangeet/Haldi)
-- [ ] Tatta (winter dress/shoes/bath robe/)
-- [ ] Mobile
+- [ ] Shoes
+	- [ ] Wedding
+	- [ ] Reception
+	- [ ] Sangeet
+	- [ ] Haldi
+- [ ] Tatta
+	- [ ] winter dress
+	- [ ] shoes
+	- [ ] bath robe
+	- [ ] under the garments
 - [ ] Venue Decoration
-- [x] Wallpaper ✅ 2024-12-30
-- [x] Home decoration ✅ 2024-12-30
+	- [ ] Reception
+	- [ ] Biye
 - [ ] Pre wedding complete song practice
 - [ ] Guitar
 - [ ] card dist
 - [ ] Hotel
 - [ ] Splitwise
+- [ ] Mobile
+- [x] Check Hotel ✅ 2024-12-24
+- [x] Fittings for reception ✅ 2024-12-18
+- [x] Types of Kurta to stitch/Where to stitch (3) ✅ 2024-12-26
+- [x] More Kurtas(Sangeet/Aiburobhaat/Haldi/Basshor raat/ 7th kurta/Spare Kurta aashirvad/ Bhaat kapor/) ✅ 2024-12-26
+- [x] Wallpaper ✅ 2024-12-30
+- [x] Home decoration ✅ 2024-12-30
 - [x] Mom doctor ✅ 2024-12-24
 - [x] Wedding Dhuti ✅ 2024-12-19
 - [x] Wedding Panjabi main ✅ 2024-12-19
