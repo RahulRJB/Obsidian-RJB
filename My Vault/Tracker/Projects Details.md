@@ -412,5 +412,4 @@
 
 
 
-Based on the above work projects, I need to  write a summary on how it makes me suitable for a position as a Senior Data Scientist in We Remote Devs (WRD) company I am applying for.
 
