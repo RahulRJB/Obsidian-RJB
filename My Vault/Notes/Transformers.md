@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=wjZofJX0v4M&t=102s
 - Used for sequence-to-sequence modelling. like Translation  
 ### [[Encoder]] Block:
 
-- But here, input sequence can be passed in parallel. Consider translating a sentence from English to French, with an RNN encoder we pass an input English sentence one word after the other, the current words hidden state has dependencies in the previous words hidden state. The [[Notes/Word Embeddings|word embeddings]] are generated one time step at a time. 
+- In the encoder block, input sequence are passed in parallel. Consider translating a sentence from English to French, with an RNN encoder we pass an input English sentence one word after the other, the current words hidden state has dependencies in the previous words hidden state. The [[Notes/Word Embeddings|word embeddings]] are generated one time step at a time. 
 - With a transformer encoder, there is no concept of time step for the input, we pass in all the words of the sentence simultaneously and determine the word embeddings simultaneously.![[Attachments/Pasted image 20240605021304.png]] 
 
 - [[Notes/Word Embeddings|Word Embeddings]]: Computers don't understand words, they get numbers, vectors and matrices. The idea is to map every word to a point in space where similar words in meaning are physically closer to each other. The space called an embedding space. We could pretrain this embedding space to save time or even just use an already pre trained embedding space.![[Attachments/Pasted image 20240605023202.png]]
