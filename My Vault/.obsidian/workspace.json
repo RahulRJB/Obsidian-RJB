@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9ac18204e451838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Transformers.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Transformers"
-            }
-          },
-          {
             "id": "98c6c2eb60409b54",
             "type": "leaf",
             "state": {
@@ -35,21 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "XgBoost"
-            }
-          },
-          {
-            "id": "9cb44e70b9754e3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Faster RCNN.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Faster RCNN"
             }
           },
           {
@@ -127,7 +97,8 @@
               "title": "Marriage Plan"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -310,16 +281,25 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c9ac18204e451838",
+  "active": "8cb4b6142f3f161a",
   "lastOpenFiles": [
-    "Notes/MLOps course- UDEMY.md",
+    "Notes/XgBoost.md",
+    "Notes/Faster RCNN.md",
     "Notes/Transformers.md",
+    "Notes/Softmax.md",
+    "Notes/Cross Attention.md",
+    "Notes/Decoder.md",
+    "Notes/Self Attention.md",
+    "Notes/Multi-Head Attention.md",
+    "Attachments/Pasted image 20240608030011.png",
+    "Notes/Positional Encoding.md",
+    "Notes/Encoder.md",
+    "Attachments/Pasted image 20240606131617.png",
+    "Notes/MLOps course- UDEMY.md",
     "Tracker/03-01-25.md",
     "Tracker/02-01-25.md",
     "Tracker/30-12-24.md",
     "Tracker/01-01-25.md",
-    "Notes/XgBoost.md",
-    "Notes/Faster RCNN.md",
     "Tracker/Marriage Plan.md",
     "Tracker/Projects Details.md",
     "Tracker/29-12-24.md",
@@ -331,13 +311,6 @@
     "Notes/Boruta.md",
     "Notes/Partial Dependency Plot (pdp).md",
     "Notes/SHAPRFECV.md",
-    "Notes/Feature Selection.md",
-    "Tracker/27-12-24.md",
-    "Notes/R-squared.md",
-    "Notes/Cramer's V.md",
-    "Notes/Blending.md",
-    "Notes/VIF.md",
-    "Notes/Stacking.md",
     "Untitled.canvas",
     "Attachments/Pasted image 20241213134431.png",
     "Attachments/Pasted image 20241213131708.png",
@@ -347,8 +320,6 @@
     "Attachments/Pasted image 20241119181318.png",
     "Attachments/Pasted image 20241018015001.png",
     "Attachments/Pasted image 20241018014911.png",
-    "Attachments/Pasted image 20241018014104.png",
-    "Attachments/Pasted image 20241018013914.png",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
