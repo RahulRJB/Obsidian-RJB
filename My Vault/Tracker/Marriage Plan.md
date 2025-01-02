@@ -10,6 +10,7 @@
 	- [ ] shoes
 	- [ ] bath robe
 	- [ ] under the garments
+	- [ ] nightware
 - [ ] Venue Decoration
 	- [ ] Reception
 	- [ ] Biye
