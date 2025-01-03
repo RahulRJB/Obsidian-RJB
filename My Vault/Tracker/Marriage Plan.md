@@ -16,7 +16,7 @@
 	- [ ] Biye
 - [ ] Pre wedding complete song practice
 - [ ] Guitar
-- [ ] card dist
+- [x] card dist ✅ 2025-01-03
 - [ ] Hotel
 - [ ] Splitwise
 - [ ] Mobile
@@ -131,17 +131,23 @@ Bade acche lagte hai
 
 
 
-
+<van side by side dont know each other>
 I found a love for me  
-Oh, darling, just dive right in and follow my lead  
+<Walk by the college; Ruchira comes from benhind holds hand>
+Oh, darling, just dive right in and follow my lead
+<Classroom; exchanging notes> 
 Well, I found a girl, beautiful and sweet  
 Oh, I never knew you were the someone waitin' for me
 
+
+<Classroom; Ruchira siting and giggling, I sit by her side and look at her in admiration> 
 'Cause we were just kids when we fell in love, not knowin' what it was  
+<Cut to dance shot; Balle dance>
 I will not give you up this time  
 Oh, darling, just kiss me slow, your heart is all I own  
 And in your eyes, you're holding mine
 
+<picnic shot; listening wired headphones>
 Baby, I'm dancin' in the dark with you between my arms  
 Barefoot on the grass while listenin' to our favourite song  
 When you said you looked a mess, I whispered underneath my breath  
