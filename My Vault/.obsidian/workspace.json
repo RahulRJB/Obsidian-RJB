@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -281,8 +281,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "8cb4b6142f3f161a",
+  "active": "f85b66545a5f5050",
   "lastOpenFiles": [
+    "Tracker/03-01-25.md",
     "Notes/XgBoost.md",
     "Notes/Faster RCNN.md",
     "Notes/Transformers.md",
@@ -296,7 +297,6 @@
     "Notes/Encoder.md",
     "Attachments/Pasted image 20240606131617.png",
     "Notes/MLOps course- UDEMY.md",
-    "Tracker/03-01-25.md",
     "Tracker/02-01-25.md",
     "Tracker/30-12-24.md",
     "Tracker/01-01-25.md",

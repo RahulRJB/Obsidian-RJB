@@ -20,6 +20,8 @@
 - [ ] Hotel
 - [ ] Splitwise
 - [ ] Mobile
+- [ ] amusement
+- [ ] 
 - [x] Check Hotel ✅ 2024-12-24
 - [x] Fittings for reception ✅ 2024-12-18
 - [x] Types of Kurta to stitch/Where to stitch (3) ✅ 2024-12-26
