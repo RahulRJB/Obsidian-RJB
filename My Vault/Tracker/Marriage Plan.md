@@ -61,8 +61,13 @@ Wedding Shoes-
 Juta chori- 25k?
 
 
+Dress stitch -5k
+Joydeb daa - 4.9k + 8.4k
+Bike - 1750/-
+Ruchira - 2750/- 17Dec +
+Helmet - 800
+TV-354
 
-  
 ## FOOD:  
 
 ### Reception
