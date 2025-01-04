@@ -6,16 +6,17 @@ kanban-plugin: board
 
 ## TO study
 
-- [ ] Revision of Projects
-- [ ] Sagemaker Proper ![[Attachments/Pasted image 20241006003927.png]]
-- [ ] Basics algos
-- [ ] Karpathy videos
-- [ ] Stacking, blending, AK
+- [ ] AWS services
+- [ ] Kaggle
+- [ ] Andrej Karpathy gpt
+- [ ] SQL learn
 - [ ] SQL questions
+- [ ] Karpathy videos
+- [x] Revision of Projects ✅ 2025-01-04
+- [x] Basics algos ✅ 2025-01-05
+- [x] Stacking, blending, AK ✅ 2025-01-05
 - [ ] Diffusion models
 - [ ] Factor analysis code and intuition
-- [ ] Prob Callibration
-- [ ] Cramers for cat feature correlation
 - [ ] Amazon Athena
 - [ ] Eigenvals
 - [ ] SVD
@@ -23,24 +24,6 @@ kanban-plugin: board
 - [ ] neglogloss, logloss
 - [ ] hessian
 - [ ] cross entropy
-- [ ] Forward sel LR
-- [ ] LSTM
-- [ ] Psi
-
-
-## CV projects
-
-- [ ] Santander GenAI
-- [ ] RAG-genai
-- [ ] ING AUstralia
-- [ ] Aegon
-- [ ] UWME
-- [ ] Car damage
-- [ ] Synthetic data gen(ctgan)
-- [ ] Question Answering
-- [ ] Anamoly detection
-- [ ] CI
-- [ ] Rule generation
 
 
 ## Study Materials
@@ -72,6 +55,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false],"show-checkboxes":true,"lane-width":400,"full-list-lane-width":true,"new-note-template":"Templates/Template 1.md","new-card-insertion-method":"prepend"}
+{"kanban-plugin":"board","list-collapse":[false,false],"show-checkboxes":true,"lane-width":400,"full-list-lane-width":true,"new-note-template":"Templates/Template 1.md","new-card-insertion-method":"prepend"}
 ```
 %%
