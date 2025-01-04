@@ -67,6 +67,14 @@ Bike - 1750/-
 Ruchira - 2750/- 17Dec +
 Helmet - 800
 TV-354
+Dhoti- 4187/-
+china town - 429/-
+Dolly's Tea - 450/-
+Nahoums - 1555
+UNO's - 2470
+Big momo - 210
+
+
 
 ## FOOD:  
 

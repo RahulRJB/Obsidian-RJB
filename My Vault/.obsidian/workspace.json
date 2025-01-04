@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -295,25 +295,25 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f41579797c055572",
+  "active": "f85b66545a5f5050",
   "lastOpenFiles": [
+    "Tracker/05-01-25.md",
+    "Tracker/Lists.md",
+    "Tracker/Marriage Plan.md",
+    "Notes/SQL.md",
     "Notes/Andrej Karpathy.md",
     "Notes/LoRA.md",
     "Notes/AWS.md",
-    "Notes/SQL.md",
     "Notes/MLOps UDEMY.md",
     "Notes/MLOps AWS.md",
     "Notes/Untitled.md",
-    "Tracker/05-01-25.md",
     "Tracker/04-01-25.md",
-    "Tracker/Lists.md",
     "Notes/XgBoost.md",
     "Notes/ULMfit.md",
     "Notes/UMAP.md",
     "Untitled.canvas",
     "Tracker/03-01-25.md",
     "Tracker/Projects Details.md",
-    "Tracker/Marriage Plan.md",
     "Notes/Faster RCNN.md",
     "Notes/Transformers.md",
     "Notes/Softmax.md",
