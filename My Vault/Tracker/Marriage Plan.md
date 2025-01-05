@@ -15,10 +15,10 @@
 	- [ ] Reception
 	- [ ] Biye
 - [ ] Pre wedding complete song practice
-- [ ] Guitar
+- [x] Guitar ✅ 2025-01-05
 - [x] card dist ✅ 2025-01-03
 - [ ] Hotel
-- [ ] Splitwise
+- [x] Splitwise ✅ 2025-01-05
 - [ ] Mobile
 - [ ] amusement
 - [ ] 
@@ -34,7 +34,7 @@
 - [x] Wedding Panjabi intro ✅ 2024-12-24
 ## Expenses 
   
-Venue- 3L, 147500, paid papa  
+Venue- 3L, 197500, paid papa  
 Food reception- 400x950=388000, 11k paid papa  
 Guest House- 1L , 7.5k paid Papa
 Other food- 2L  
@@ -50,29 +50,17 @@ Narayan pujo- 4k, paid maa
 Tatta- 2.1k, paid maa  
 Reception dress Ruchira- 36k, paid me  
 Reception Maa- 14.5k, paid papa, 14.5 - 6=8.5k to be paid to papa  
-Fabric me- 19k, paid me  
-Bus- 
-Auto-
-Car Decor- 
-Pandit- 
-Puja khorcha- 
-Wedding Dress- 
+Fabric me- 19k, paid me 
+Kurtas stitch - 20k, paid me
+Dhuti - 4187/-, paid me
+Biye Sherwani - 4k/-, paid me
+Bus- 15k
+Auto- 
+Pandit- 25k
+Puja khorcha-  
 Wedding Shoes- 
 Juta chori- 25k?
 
-
-- [x] Dress stitch -5k ✅ 2025-01-05
-- [ ] Joydeb daa - 4.9k + 8.4k
-- [x] Bike - 1750/- ✅ 2025-01-05
-- [ ] Ruchira - 2750/- 17Dec +
-- [x] Helmet - 800 ✅ 2025-01-05
-- [x] TV-354 ✅ 2025-01-05
-- [ ] Dhoti- 4187/-
-- [x] china town - 429/- ✅ 2025-01-05
-- [x] Dolly's Tea - 450/- ✅ 2025-01-05
-- [x] Nahoums - 1555 ✅ 2025-01-05
-- [x] UNO's - 2470 ✅ 2025-01-05
-- [x] Big momo - 210 ✅ 2025-01-05
 
 
 
