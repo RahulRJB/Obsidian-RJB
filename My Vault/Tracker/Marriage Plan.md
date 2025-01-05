@@ -61,18 +61,18 @@ Wedding Shoes-
 Juta chori- 25k?
 
 
-Dress stitch -5k
-Joydeb daa - 4.9k + 8.4k
-Bike - 1750/-
-Ruchira - 2750/- 17Dec +
-Helmet - 800
-TV-354
-Dhoti- 4187/-
-china town - 429/-
-Dolly's Tea - 450/-
-Nahoums - 1555
-UNO's - 2470
-Big momo - 210
+- [x] Dress stitch -5k ✅ 2025-01-05
+- [ ] Joydeb daa - 4.9k + 8.4k
+- [x] Bike - 1750/- ✅ 2025-01-05
+- [ ] Ruchira - 2750/- 17Dec +
+- [x] Helmet - 800 ✅ 2025-01-05
+- [x] TV-354 ✅ 2025-01-05
+- [ ] Dhoti- 4187/-
+- [x] china town - 429/- ✅ 2025-01-05
+- [x] Dolly's Tea - 450/- ✅ 2025-01-05
+- [x] Nahoums - 1555 ✅ 2025-01-05
+- [x] UNO's - 2470 ✅ 2025-01-05
+- [x] Big momo - 210 ✅ 2025-01-05
 
 
 
