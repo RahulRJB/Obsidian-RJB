@@ -411,7 +411,35 @@
 
 
 
-007, Soumya Sankalp Appartment, Kodigehalli, Kadugodi
+
+## Application:
+
+- Address:  007, Soumya Sankalp Apartment, Kodigehalli, Kadugodi
+
+
+
+
+
+## Queries:
+
+- Salary?
+- Location?
+- Hybrid?
+- Kolkata?
+- HR name
+- Save name and number
+## Process:
+
+| Applied                                                               | Role(Work) | Pay    | Location        | <center>Status</center>           | HR, num |
+| --------------------------------------------------------------------- | ---------- | ------ | --------------- | --------------------------------- | ------- |
+| Bosch                                                                 | -          | -      | -               | Reject(not suitable for the role) |         |
+| Input Zero                                                            |            | 15-16  |                 | Declined                          | Mahitha |
+| [EXL: Analytics, AI & Digital Solutions](https://www.exlservice.com/) | CV         | 18 LPA | Electronic City | Pending with Recruiter            | Bhawna  |
+| Honeywell                                                             |            |        |                 |                                   |         |
+| Interactions LLC                                                      |            |        |                 |                                   |         |
+| Brillio                                                               |            |        |                 |                                   |         |
+| weekday                                                               |            |        |                 |                                   |         |
+| MMT                                                                   |            |        |                 |                                   |         |
 
 
 
