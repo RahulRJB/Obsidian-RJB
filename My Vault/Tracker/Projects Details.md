@@ -440,6 +440,8 @@
 | Brillio                                                               |            |        |                 |                                   |         |
 | weekday                                                               |            |        |                 |                                   |         |
 | MMT                                                                   |            |        |                 |                                   |         |
+| Cognizant                                                             |            |        |                 |                                   |         |
+| Deloitte                                                              |            |        |                 |                                   |         |
 
 
 
