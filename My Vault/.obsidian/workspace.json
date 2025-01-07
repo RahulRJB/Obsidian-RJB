@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -295,10 +295,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a506043e04bace55",
+  "active": "f85b66545a5f5050",
   "lastOpenFiles": [
-    "Tracker/Marriage Plan.md",
     "Tracker/05-01-25.md",
+    "Tracker/Projects Details.md",
+    "Tracker/Marriage Plan.md",
     "Tracker/Lists.md",
     "Notes/SQL.md",
     "Notes/Andrej Karpathy.md",
@@ -313,7 +314,6 @@
     "Notes/UMAP.md",
     "Untitled.canvas",
     "Tracker/03-01-25.md",
-    "Tracker/Projects Details.md",
     "Notes/Faster RCNN.md",
     "Notes/Transformers.md",
     "Notes/Softmax.md",
