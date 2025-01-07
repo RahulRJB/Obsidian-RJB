@@ -3,25 +3,25 @@
 - [ ] Shoes
 	- [ ] Wedding
 	- [ ] Reception
-	- [ ] Sangeet
+	- [ ] Sangeet/Haldi
 	- [ ] Haldi
 - [ ] Tatta
 	- [ ] winter dress
-	- [ ] shoes
 	- [ ] bath robe
 	- [ ] under the garments
 	- [ ] nightware
 - [ ] Venue Decoration
-	- [ ] Reception
-	- [ ] Biye
+	- [ ] Decide Reception
+	- [x] Biye ✅ 2025-01-08
 - [ ] Pre wedding complete song practice
-- [x] Guitar ✅ 2025-01-05
-- [x] card dist ✅ 2025-01-03
 - [ ] Hotel
-- [x] Splitwise ✅ 2025-01-05
-- [ ] Mobile
 - [ ] amusement
-- [ ] 
+- [ ] Dhuti check again / Adi akshay co
+- [ ] Panjamis another??
+- [ ] Mobile
+- [x] Splitwise ✅ 2025-01-08
+- [x] Guitar ✅ 2025-01-08
+- [x] card dist ✅ 2025-01-03
 - [x] Check Hotel ✅ 2024-12-24
 - [x] Fittings for reception ✅ 2024-12-18
 - [x] Types of Kurta to stitch/Where to stitch (3) ✅ 2024-12-26
