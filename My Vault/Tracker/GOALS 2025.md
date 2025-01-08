@@ -1,9 +1,13 @@
 
-- [ ] 40+ CTC before may
-- [ ] <80kg
-- [ ] Think bout Flat
-- [ ] Loss 1.5l crypto Adani 7k
-- [ ] Gym
+- [ ] Get Married
+- [ ] International trip; try 2
+- [ ] Job resignation Feb end
+- [ ] Try hybrid job
+- [ ] 40+ CTC
+- [ ] keep <80kg
+- [ ] Try nomad life
+
+
 - [ ] Kaggle accomplish
 - [ ] Dont miss anything 2 days in a row
 

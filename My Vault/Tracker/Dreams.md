@@ -21,3 +21,8 @@ Do different things:
 - [ ] Guitar
 - [ ] Watch proper stuff
 - [ ] Look into investments
+
+
+Losses in Life:
+- [ ] 1.5L crypto 
+- [ ] 7k Adani
