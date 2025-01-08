@@ -440,7 +440,7 @@
 | Interactions LLC                                                      |            |        |                 |                                   |         |
 | Brillio                                                               |            |        |                 |                                   |         |
 | weekday                                                               |            |        |                 |                                   |         |
-| MMT                                                                   |            |        |                 |                                   |         |
+| MMT                                                                   |            |        |                 | Reject                            |         |
 | Cognizant                                                             |            |        |                 |                                   |         |
 | Deloitte                                                              |            |        |                 |                                   |         |
 | Accenture                                                             |            | 18 LPA |                 |                                   | Poonam  |
