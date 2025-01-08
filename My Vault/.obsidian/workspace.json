@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,10 +295,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a506043e04bace55",
+  "active": "f41579797c055572",
   "lastOpenFiles": [
-    "Tracker/Marriage Plan.md",
+    "Attachments/Pasted image 20250108142442.png",
     "Tracker/Projects Details.md",
+    "Tracker/Marriage Plan.md",
     "Tracker/08-01-25.md",
     "Tracker/05-10-24.md",
     "Tracker/05-01-25.md",
@@ -324,7 +325,6 @@
     "Notes/Self Attention.md",
     "Notes/Multi-Head Attention.md",
     "Attachments/Pasted image 20240608030011.png",
-    "Notes/Positional Encoding.md",
     "Attachments/Pasted image 20240606131617.png",
     "Attachments/Pasted image 20241213134431.png",
     "Attachments/Pasted image 20241213131708.png",

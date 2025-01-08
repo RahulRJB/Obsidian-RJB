@@ -13,8 +13,6 @@ Tags:
 
 
 # Content:
-
-
-
-
+- ![[Attachments/Pasted image 20250108142442.png]]
+- 
 
