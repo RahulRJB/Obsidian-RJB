@@ -415,7 +415,8 @@
 ## Application:
 
 - Address:  007, Soumya Sankalp Apartment, Kodigehalli, Kadugodi
-
+  Whitefield, Bengaluru - 560067
+- Institute:  Heritage Institute Of Technology
 
 
 
@@ -424,7 +425,7 @@
 
 - Salary?
 - Location?
-- Hybrid?
+- Hybrid? How many times a week?
 - Kolkata?
 - HR name
 - Save name and number
@@ -442,6 +443,7 @@
 | MMT                                                                   |            |        |                 |                                   |         |
 | Cognizant                                                             |            |        |                 |                                   |         |
 | Deloitte                                                              |            |        |                 |                                   |         |
+| Accenture                                                             |            | 18 LPA |                 |                                   | Poonam  |
 
 
 

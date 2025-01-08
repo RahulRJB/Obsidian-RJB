@@ -57,9 +57,9 @@ Biye Sherwani - 4k/-, paid me
 Bus- 15k
 Auto- 
 Pandit- 25k
-Puja khorcha-  
 Wedding Shoes- 
 Juta chori- 25k?
+Given Papa - 10k
 
 
 
