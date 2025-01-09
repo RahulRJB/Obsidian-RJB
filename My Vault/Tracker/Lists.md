@@ -6,11 +6,15 @@ kanban-plugin: board
 
 ## TO study
 
-- [ ] AWS services
-- [ ] Kaggle
+- [ ] LORA implement
+- [ ] Diffusion Models
+- [ ] GAN
+- [ ] AWS Processing Job
+- [ ] AWS Step Functions
 - [ ] Andrej Karpathy gpt
 - [ ] SQL learn
 - [ ] SQL questions
+- [ ] Kaggle
 - [x] Revision of Projects ✅ 2025-01-04
 - [x] Basics algos ✅ 2025-01-05
 - [x] Stacking, blending, AK ✅ 2025-01-05

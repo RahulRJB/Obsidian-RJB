@@ -412,10 +412,19 @@
 
 
 
+
+
+
+
+
+
 ## Application:
+
+- Permanent Add:  29/8, Purbachal North, Kalitala Main Road, Preyashi Building, 1st floor
 
 - Address:  007, Soumya Sankalp Apartment, Kodigehalli, Kadugodi
   Whitefield, Bengaluru - 560067
+
 - Institute:  Heritage Institute Of Technology, Kolkata
 
 
@@ -431,7 +440,17 @@
 
 ## Summary:
 
-- As a Data Scientist, I have a proven track record of designing, developing, and deploying innovative data-driven solutions, with a particular expertise in Natural Language Processing (NLP) and machine learning. I've led projects encompassing Retrieval Augmented Generation (RAG) systems, predictive analytics, computer vision, and automated data extraction, demonstrating a comprehensive skillset. My NLP experience includes developing RAG systems using advanced techniques like semantic embeddings, hybrid search, query enrichment, and cross-encoder reranking to optimize retrieval accuracy and response quality. I have also implemented custom ranking algorithms and query caching mechanisms to achieve sub-second response times for frequent queries. I possess strong skills in document processing, data extraction from unstructured data sources (text and images), and model evaluation. I am comfortable implementing a variety of machine learning models, including classification and object detection models and possess significant experience with feature engineering, hyperparameter tuning, and rigorous model validation. In all my roles I've emphasized performance, efficiency, and practical impact. I am adept at using tools such as Langchain, OpenSearch, ChromaDB, Sagemaker, AWS Data Wrangler, PySpark, Optuna and Detectron2.
+- ##### Skillset:
+	- Generative AI, Deep Learning, NLP, Computer Vision, Classification, Regression, Ensembling, Feature Engineering, Dimensionality Reduction, Object Detection, Hyperparameter Tuning, Model Optimization, Evaluation & Validation
+
+- ##### Short Summary with Focus on NLP:    
+	- As a Data Scientist, I have a proven track record of designing, developing, and deploying innovative data-driven solutions, with a particular expertise in Natural Language Processing (NLP) and machine learning. I've led projects encompassing Retrieval Augmented Generation (RAG) systems, predictive analytics, computer vision, and automated data extraction, demonstrating a comprehensive skillset. My NLP experience includes developing RAG systems using advanced techniques like semantic embeddings, hybrid search, query enrichment, and cross-encoder reranking to optimize retrieval accuracy and response quality. I have also implemented custom ranking algorithms and query caching mechanisms to achieve sub-second response times for frequent queries. I possess strong skills in document processing, data extraction from unstructured data sources (text and images), and model evaluation. I am comfortable implementing a variety of machine learning models, including classification and object detection models and possess significant experience with feature engineering, hyperparameter tuning, and rigorous model validation. In all my roles I've emphasized performance, efficiency, and practical impact. I am adept at using tools such as Langchain, OpenSearch, ChromaDB, Sagemaker, AWS Data Wrangler, PySpark, Optuna and Detectron2.
+- ##### Short Summary with Focus on CV:
+
+
+
+
+
 ## Process:
 
 | Applied                                                               | Role(Work) | Pay    | Location        | <center>Status</center>           | HR, num |
@@ -447,6 +466,10 @@
 | Cognizant                                                             |            |        |                 |                                   |         |
 | Deloitte                                                              |            |        |                 |                                   |         |
 | Accenture                                                             |            | 18 LPA |                 |                                   | Poonam  |
+| Tiger Analytics                                                       |            |        |                 |                                   |         |
+| Harman                                                                |            |        |                 |                                   |         |
+| John Deere                                                            | GenAI      |        | MG Road         |                                   | Priti   |
+|                                                                       |            |        |                 |                                   |         |
 
 
 
