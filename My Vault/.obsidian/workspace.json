@@ -142,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -325,10 +325,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f41579797c055572",
+  "active": "f85b66545a5f5050",
   "lastOpenFiles": [
-    "Tracker/Marriage Plan.md",
     "Notes/SQL.md",
+    "Tracker/Marriage Plan.md",
     "Attachments/Pasted image 20250109205745.png",
     "Attachments/Pasted image 20250109205713.png",
     "Attachments/Screen+Shot+2016-04-17+at+12.22.49+PM.png",

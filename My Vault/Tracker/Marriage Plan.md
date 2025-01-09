@@ -55,9 +55,7 @@ NonAC -  14k
 
 Monad
 9239003909
-nonAC - 52 - 13k
-AC       - 52 - 16k
-
+nonAC - 61 - 14k
 
 
 
