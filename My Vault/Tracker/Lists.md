@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## TO study
 
+- [ ] Revise Pytorch
 - [ ] LORA implement
 - [ ] Diffusion Models
 - [ ] GAN

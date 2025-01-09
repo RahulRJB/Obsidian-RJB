@@ -18,6 +18,9 @@
 - [ ] amusement
 - [ ] Dhuti check again / Adi akshay co
 - [ ] Panjamis another??
+- [ ] Call Jamai
+
+
 - [x] Splitwise ✅ 2025-01-08
 - [x] Guitar ✅ 2025-01-08
 - [x] card dist ✅ 2025-01-03
