@@ -18,7 +18,6 @@
 - [ ] amusement
 - [ ] Dhuti check again / Adi akshay co
 - [ ] Panjamis another??
-- [ ] Mobile
 - [x] Splitwise ✅ 2025-01-08
 - [x] Guitar ✅ 2025-01-08
 - [x] card dist ✅ 2025-01-03
@@ -32,6 +31,33 @@
 - [x] Wedding Dhuti ✅ 2024-12-19
 - [x] Wedding Panjabi main ✅ 2024-12-19
 - [x] Wedding Panjabi intro ✅ 2024-12-24
+
+
+#### Bus:
+
+Roy Tours and Travels
+nonAC - 52 - 13k
+AC       - 52 - 16k
+
+
+Chohan
+6290830475
+deluxe nonAC - 50seater - 12k
+traveller AC - 55seater - 16k
+
+
+Babaji
+AC - 55seater - 12k
+NonAC -  14k
+
+Monad
+9239003909
+nonAC - 52 - 13k
+AC       - 52 - 16k
+
+
+
+
 ## Expenses 
   
 Venue- 3L, 197500, paid papa  

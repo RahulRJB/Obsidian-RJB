@@ -6,12 +6,13 @@
 - [ ] 40+ CTC
 - [ ] keep <80kg
 - [ ] Try nomad life
+- [ ] Bike
+- [ ] Car
 
 
-- [ ] Kaggle accomplish
-- [ ] Dont miss anything 2 days in a row
 
 
+#### Healthy Lifestyle
 - Wake up on time
 - Gym/Workout
 - Meditation
@@ -20,3 +21,5 @@
 - Enjoy
 - No outside food
 - Sleep on time
+- No pseudo Dopamine
+- Do hard things

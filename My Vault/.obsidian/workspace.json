@@ -142,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -325,13 +325,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a506043e04bace55",
+  "active": "f41579797c055572",
   "lastOpenFiles": [
-    "Tracker/Lists.md",
+    "Tracker/Marriage Plan.md",
     "Tracker/Projects Details.md",
     "Tracker/Dreams.md",
     "Tracker/GOALS 2025.md",
-    "Tracker/Marriage Plan.md",
+    "Tracker/Lists.md",
     "Tracker/08-01-25.md",
     "Notes/SQL.md",
     "Notes/GIT.md",
