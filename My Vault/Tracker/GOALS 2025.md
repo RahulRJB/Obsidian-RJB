@@ -23,3 +23,4 @@
 - Sleep on time
 - No pseudo Dopamine
 - Do hard things
+- Enjoy the hard work of learning new things

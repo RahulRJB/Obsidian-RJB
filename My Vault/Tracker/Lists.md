@@ -6,6 +6,12 @@ kanban-plugin: board
 
 ## TO study
 
+- [ ] SQL
+	- [ ] Section 3, 4
+	- [ ] Section 5
+	- [ ] Leetcode 1
+	- [ ] Article 1
+- [ ] NLP
 - [ ] Revise Pytorch
 - [ ] LORA implement
 - [ ] Diffusion Models
@@ -15,7 +21,6 @@ kanban-plugin: board
 - [ ] Andrej Karpathy gpt
 - [ ] SQL learn
 - [ ] SQL questions
-- [ ] Kaggle
 - [x] Revision of Projects ✅ 2025-01-04
 - [x] Basics algos ✅ 2025-01-05
 - [x] Stacking, blending, AK ✅ 2025-01-05

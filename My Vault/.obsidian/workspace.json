@@ -38,6 +38,21 @@
             }
           },
           {
+            "id": "3fb83bcf5dcd0aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/NLP - UT Austin.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NLP - UT Austin"
+            }
+          },
+          {
             "id": "f85b66545a5f5050",
             "type": "leaf",
             "state": {
@@ -92,13 +107,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/09-01-25.md",
+                "file": "Tracker/10-01-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09-01-25"
+              "title": "10-01-25"
             }
           },
           {
@@ -325,18 +340,22 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f85b66545a5f5050",
+  "active": "3fb83bcf5dcd0aa6",
   "lastOpenFiles": [
+    "Notes/NLP.md",
+    "Notes/NLP - UT Austin.md",
     "Notes/SQL.md",
+    "Tracker/10-01-25.md",
+    "Tracker/09-01-25.md",
+    "Tracker/Lists.md",
+    "Tracker/GOALS 2025.md",
+    "Tracker/Dreams.md",
+    "Tracker/QUOTES OF THE DAY.md",
     "Tracker/Marriage Plan.md",
     "Attachments/Pasted image 20250109205745.png",
     "Attachments/Pasted image 20250109205713.png",
     "Attachments/Screen+Shot+2016-04-17+at+12.22.49+PM.png",
-    "Tracker/09-01-25.md",
-    "Tracker/Lists.md",
     "Tracker/Projects Details.md",
-    "Tracker/Dreams.md",
-    "Tracker/GOALS 2025.md",
     "Notes/GIT.md",
     "Attachments/Pasted image 20250108142442.png",
     "Tracker/05-10-24.md",
@@ -354,9 +373,6 @@
     "Untitled.canvas",
     "Tracker/03-01-25.md",
     "Notes/Faster RCNN.md",
-    "Notes/Transformers.md",
-    "Notes/Softmax.md",
-    "Notes/Cross Attention.md",
     "Attachments/Pasted image 20240608030011.png",
     "Attachments/Pasted image 20240606131617.png",
     "Attachments/Pasted image 20241213134431.png",
