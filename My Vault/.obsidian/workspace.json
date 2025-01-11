@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -340,10 +340,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "3fb83bcf5dcd0aa6",
+  "active": "f85b66545a5f5050",
   "lastOpenFiles": [
-    "Tracker/Projects Details.md",
     "Notes/NLP - UT Austin.md",
+    "Tracker/Projects Details.md",
     "Notes/NLP.md",
     "Notes/SQL.md",
     "Tracker/10-01-25.md",

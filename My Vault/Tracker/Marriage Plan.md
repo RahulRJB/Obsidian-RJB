@@ -13,14 +13,14 @@
 - [ ] Venue Decoration
 	- [ ] Decide Reception
 	- [x] Biye ✅ 2025-01-08
-- [ ] Pre wedding complete song practice
 - [ ] Hotel
 - [ ] amusement
 - [ ] Dhuti check again / Adi akshay co
 - [ ] Panjamis another??
 - [ ] Call Jamai
+- [ ] Bus confirm
 
-
+- [x] Pre wedding complete song practice ✅ 2025-01-11
 - [x] Splitwise ✅ 2025-01-08
 - [x] Guitar ✅ 2025-01-08
 - [x] card dist ✅ 2025-01-03
