@@ -113,16 +113,6 @@
             }
           },
           {
-            "id": "03751063618b29a5",
-            "type": "leaf",
-            "state": {
-              "type": "weekly",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Week Planner"
-            }
-          },
-          {
             "id": "2a63324f6116bf7d",
             "type": "leaf",
             "state": {
@@ -242,16 +232,6 @@
             }
           },
           {
-            "id": "e4f6b248289256eb",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
-            }
-          },
-          {
             "id": "f3744790d4a47ed6",
             "type": "leaf",
             "state": {
@@ -272,6 +252,16 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          },
+          {
+            "id": "a7b3d102b46e813f",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ]
@@ -299,11 +289,22 @@
       "omnisearch:Omnisearch": false,
       "periodic-notes:Open today": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "86b01602b1c1be4d",
+  "active": "3fb83bcf5dcd0aa6",
   "lastOpenFiles": [
+    "Tracker/Dreams.md",
+    "Notes/Normalization.md",
+    "Tracker/GOALS 2025.md",
+    "Tracker/10-01-25.md",
+    "Tracker/Lists.md",
+    "Tracker/Projects Details.md",
+    "Notes/NLP - UT Austin.md",
     "Attachments/Pasted image 20250112202717.png",
     "Attachments/Pasted image 20250112202655.png",
     "Attachments/Pasted image 20250112202633.png",
@@ -311,15 +312,9 @@
     "Attachments/Pasted image 20250112202356.png",
     "Attachments/Pasted image 20250112201939.png",
     "Tracker/Marriage Plan.md",
-    "Notes/NLP - UT Austin.md",
-    "Tracker/Projects Details.md",
     "Notes/NLP.md",
     "Notes/SQL.md",
-    "Tracker/10-01-25.md",
     "Tracker/09-01-25.md",
-    "Tracker/Lists.md",
-    "Tracker/GOALS 2025.md",
-    "Tracker/Dreams.md",
     "Tracker/QUOTES OF THE DAY.md",
     "Attachments/Pasted image 20250109205745.png",
     "Attachments/Pasted image 20250109205713.png",
@@ -340,7 +335,6 @@
     "Notes/UMAP.md",
     "Untitled.canvas",
     "Tracker/03-01-25.md",
-    "Attachments/Pasted image 20240608030011.png",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
