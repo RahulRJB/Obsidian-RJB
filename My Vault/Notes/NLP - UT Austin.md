@@ -78,27 +78,17 @@ Tags: [[NLP]]
 - ![[Attachments/Pasted image 20250112202717.png]]
 
 ### **Linear Binary Classification:**
-- 
+- ![[Attachments/Pasted image 20250113030021.png]]
 - **Classifier Input:** A classifier takes an input, denoted as _x_, which is a point in a d-dimensional real-valued feature space. This space is represented as *x∈R^d*.
-- **Feature Extractor:** The notation _f(x)_ represents a feature extractor. This is a crucial step, especially when _x_ is a string, as it transforms the string into a numeric representation [1].
-- **Mapping**: The feature extractor, _f_, maps a string input to a set of features in the _d_-dimensional space [1]. This mapping is necessary to use the text in machine learning models [1].
-- **Labels**: Each point has a label, _y_, which in binary classification has two possible values: -1 (negative) or +1 (positive) [1].
-- **Visual Representation:** Points are represented in a 2-dimensional feature space, where each point is an _x_, and the label (+ or -) represents its class [1].
-- **Weight Vector:** A classifier is represented as a weight vector, _w_ (sometimes denoted as theta), which is a vector pointing in a direction in the feature space [1].
-- **Decision Boundary:** The decision boundary is **perpendicular to the direction that _w_ is pointing** [1]. This boundary separates the positive and negative classes [1].
-- **Classification Decision:** To classify a point, the dot product of the weight vector (_w_) and the feature vector (_f(x)_) is computed [1].
-- If the dot product _w_T _f(x)_ is greater than zero, the point is classified as positive [1].
-- If the dot product is less than zero, it is classified as negative [1].
-- Points exactly on the boundary need a tie-breaking mechanism which is not discussed in the excerpt [1].
-- **Bias Term:** The lecture notes that many linear models include a bias term, _b_. However, this course will not use a separate _b_ term. Instead the bias term is incorporated into the feature vector [1].
-- This is done by adding a 1 to the end of the feature vector, effectively folding the bias into the feature vector [1].
-- This allows for a simplified representation of the classifier without needing to manage separate bias terms [1].
+- **Feature Extractor:** The notation _f(x)_ represents a feature extractor. This is a crucial step, especially when _x_ is a string, as it transforms the string into a numeric representation i.e. vector in d-dim.
+- **Mapping**: The feature extractor, _f_, maps a string input to a set of features in the _d_-dimensional space. This mapping is necessary to use the text in machine learning models.
+- **Labels**: Each point has a label, _y_, which in binary classification has two possible values: [-1 or +1].
+- **Visual Representation:** Points are represented in a 2-dimensional feature space, where each point is an _x_, and the label (+ or -) represents its class.
+- **Weight Vector:** A classifier is represented as a weight vector, _w_ (sometimes denoted as theta), which is a vector pointing in a direction in the feature space.
+- **Decision Boundary:** The decision boundary is **perpendicular to the direction that _w_ is pointing**. This boundary separates the positive and negative classes.
+- **Classification Decision:** To classify a point, the dot product of the weight vector (_w_) and the feature vector (_f(x)_) is computed. If the dot product _wT . f(x)_ >0, the point is classified as positive. If <0, it is classified as negative.
+- **Bias Term:** Many linear models include a bias term, _b_. However, we will not use a separate _b_ term. Instead the bias term is incorporated into the feature vector. This is done by adding a 1 to the end of the feature vector, effectively folding the bias into the feature vector. This allows for a simplified representation of the classifier without needing to manage separate bias terms.
 
-**Next Steps in the Course**
-
-- The lecture introduces linear binary classification as a starting point [1].
-- The following segments will cover the perceptron and logistic regression, which are two approaches for learning the weights (_w_) [1].
-- These approaches are functionally similar [1].
 
 **Connections to Previous Concepts**
 
@@ -106,6 +96,139 @@ Tags: [[NLP]]
 - These classifiers are a way to map from input text to a discrete label. The text is turned into a feature vector, and the classifier then predicts one of two possible labels.
 - This classification problem is one of the applications enabled by text analysis tools, which we have previously discussed.
 
-These notes capture the core concepts of linear binary classification discussed in the provided lecture transcript. It builds on the previous discussion of NLP applications, methodologies, and representations, and sets the stage for subsequent learning about specific learning algorithms for these models.
 
-convert_to_textConvert to source
+### **Sentiment Analysis and Feature Extraction:**
+- ![[Attachments/seg-2.pdf]]
+- **Goal**: To build a pipeline that goes from raw text to feature vectors, which can then be used in a classifier to train a sentiment analysis model. The goal is to classify text as having positive or negative sentiment.
+- **Sentiment Analysis**: This involves determining whether a piece of text expresses a positive or negative sentiment.
+- **Binary Classification**: Sentiment analysis is framed as a binary classification problem where the labels are either positive or negative sentiment.
+- **Positive sentiment** indicates that the author likes something.
+- **Negative sentiment** indicates that the author does not like something.
+- **Challenges in Sentiment Analysis**: Sentiment analysis is complicated by factors like negation and higher-level structure within the text. For instance, "will never watch again" indicates a negative sentiment, even though "watch again" alone might indicate positive sentiment.
+- **Two Main Steps**: The process involves two main steps:
+	1. **Feature Extraction**: Mapping text to feature vectors.
+	2. **Training a Classifier**: Using labeled data to train a classification model.
+
+**Feature Extraction: Bag of Words**
+
+- **Basic Feature Type**: The most basic type of feature used is the **bag-of-words**.
+- **Vocabulary**: A vocabulary is constructed of the _n_ most common words (e.g., 10,000 words in English). This vocabulary is used to create a feature vector.
+- **Feature Vector**: Each word in the vocabulary is assigned a position in a large vector. The vector has a dimension equal to the size of the vocabulary (e.g., 10,000).
+- **Binary Representation**: For each input text, 1 is placed in the vector position if the corresponding word is present in the text, and a 0 if the word is absent. This results in a sparse vector with mostly zeros and some ones. For example, the sentence “the movie was great” will have 1s in the vector positions corresponding to "the", "movie", "was", and "great".
+- **Count Representation:** Instead of using a binary presence/absence representation, the feature vector can also use word counts, indicating how many times a word appears in the input text.
+
+**Extensions of Bag of Words**
+
+- **Bag of n-grams**: Instead of single words, sequences of _n_ consecutive words (n-grams) are used as features. **Example**: The bi-grams (2-grams) in the sentence "the movie was great" are "the movie", "movie was", and "was great".
+- Using n-grams allows the model to capture more context and meaning. For instance, the bi-gram "not great" can capture the negative sentiment in "the movie was not great,".
+
+**Term Frequency-Inverse Document Frequency ([[TF-IDF]])** 
+
+- This method adjusts word counts based on how common they are across a document collection.
+- **Term Frequency (TF)**: The count of a term in a given document.
+- **Inverse Document Frequency (IDF)**: A measure of how rare a term is across a collection of documents, calculated as the log of the total number of documents divided by the number of documents containing the word. This helps to give more weight to words that are more unique to particular documents.
+- **TF-IDF Score**: The TF-IDF score of a word is the product of its term frequency and inverse document frequency. Common words like "the" receive low scores while rarer, more specific words receive higher scores.
+
+**Pre-processing**
+
+- **Tokenization**: The process of converting a raw string into a sequence of tokens (words or sub-words).
+- **Whitespace Tokenization**: A simple approach that splits words based on spaces. This works well for English but not for many other languages.
+- **Tokenizers**: Tools that can handle punctuation, contractions, and other complexities. For example, tokenizers can split "wasn't" into "was" and "n't" and separate punctuation from words.
+- **Stop Word Removal**: Removing common function words (e.g., "the," "is") that often don't contribute much to sentiment analysis. This is not always necessary but can be beneficial for some tasks, particularly sentiment analysis.
+- Stop words are removed because they are very common, skew bag-of-words vectors and don't contribute much to sentiment analysis.
+- **Casing**: Converting text to lowercase (or sometimes to true case). Lowercasing can be beneficial for sentiment analysis.
+- **Handling Unknown Words**: Replacing rare or unknown words (words not in the vocabulary) with a special "UNK" token. For some tasks, the words can also just be dropped.
+- **Indexing**: Assigning a unique numerical index to each word or n-gram to map them to positions in the feature vector. A mapping is maintained that keeps track of the position of each word in the feature space.
+
+**Summary of the Pipeline**
+
+- The pipeline goes from raw strings to count-based or presence-based feature vectors using bag-of-words or TF-IDF representations [5].
+- The raw text undergoes several pre-processing steps, including tokenization, stop word removal, casing, unknown word replacement, and indexing [5].
+- These steps are critical for turning raw text into a format that can be used in machine learning models for sentiment analysis [5].
+
+These notes provide a detailed overview of the feature extraction process for sentiment analysis and build on earlier concepts about machine learning in NLP. This lecture focuses on the initial steps of transforming text into a usable feature vector for model training. This will help you understand the process involved in transforming text into a numerical representation for machine learning.
+
+
+### **Machine Learning Framework:**
+
+- ![[Attachments/Pasted image 20250113034647.png]]
+- The goal is to **optimize a set of parameters**, denoted as _w_.
+- These parameters could be weights in a linear classifier or parameters in a neural network.
+- The approach is based on **supervised learning**, where the model has access to labeled data.
+- Labeled data consists of pairs of inputs _x_ (e.g., a sentence) and corresponding labels _y_.
+- The data is in the form of (_x_i, _y_i) where _i_ represents the _i_th training example.
+- The task is framed as an **optimization problem**, where the goal is to find an optimal _w_ that allows the model to perform well on the classification task.
+
+**Optimization Objective**
+
+- The optimization involves a **training objective**, which is a linear sum over the training examples.
+- This is an important property for stochastic gradient descent. The objective is a sum of **loss functions** calculated for each training example. The loss function measures how well the current weight vector _w_ fits a particular training example. 
+- The overall objective is to find a _w_ that minimizes the sum of losses across all the training data. The overall objective can be represented as the sum from i=1 to d, of the loss calculated using the ith data point and the weights.
+
+**Stochastic Gradient Descent (SGD)**
+
+- **SGD** is an algorithm used to find the optimal parameters _w_.
+- The algorithm involves iterating over the training data for a certain number of epochs.
+- For each epoch, a data point is sampled from the training data.
+- **Weight Update:** For each sampled data point, the weight vector _w_ is updated. The update rule is:
+	- _w_ := _w_ - α ∇ _L_(_w_)
+	- **∇ _L_(_w_)** represents the **gradient of the loss function** with respect to the weights _w_. This gradient indicates the direction that would increase the loss.
+- **α** is the **step size**, a parameter that controls how far to move the weight vector in each update.
+- The weights are adjusted in the opposite direction of the gradient to reduce the loss.
+- The **step size (α)** is a crucial parameter, particularly in deep neural networks.
+- This process is repeated for a number of iterations.
+
+**Key Takeaways**
+
+- **General Framework:** The framework is applicable to various algorithms used in the course, including perceptron and logistic regression [1].
+- Even training complex deep neural networks will fundamentally use the same optimization approach [1].
+- **Iterative Approach**: Stochastic gradient descent is an iterative approach that adjusts the weights step by step until the loss is minimized.
+
+
+### **Perceptron Algorithm:**
+- ![[Attachments/Pasted image 20250113040556.png]]
+- The perceptron is an algorithm for training a **linear binary classifier**.
+- It is used for binary classification tasks, where the goal is to classify data points into one of two categories (e.g., positive or negative sentiment).
+
+**Decision Rule**
+
+- The decision rule for a binary classifier is based on the dot product of the weights (w) and the feature vector (f(x)).
+- If **w ⋅ f(x) > 0**, the decision is **+1** (positive).
+- If **w ⋅ f(x) ≤ 0**, the decision is **-1** (negative).
+- The algorithm learns the set of weights _w_ from a training set.
+- The weights and features exist in the same vector space; for example, a 10,000-dimensional feature space will have a 10,000-dimensional weight vector.
+
+**Algorithm Steps**
+
+- The perceptron algorithm is run for a certain number of **epochs**.
+- For each epoch, the algorithm iterates through the training data.
+- **Prediction:** For each example, a prediction (y_pred) is made using the current weights.
+- The prediction is either +1 or -1, based on the decision rule.
+- **Weight Update:** The weight vector _w_ is updated based on the prediction.
+- **If the prediction is correct (y_pred = y_i)**, the weight vector remains unchanged.
+- **If the prediction is incorrect**:
+	- **If the true label (y_i) is +1**, the weight vector is updated as: **w := w + α * f(x_i)**.
+	- **If the true label (y_i) is -1**, the weight vector is updated as: **w := w - α * f(x_i)**.
+- **α** (alpha) is a constant representing the learning rate, which controls the magnitude of the update.
+- The update rule essentially encourages the dot product of the weights and the features to be more positive when the true label is positive and more negative when the true label is negative.
+
+**Example Walkthrough**
+
+- Simplified sentiment analysis example with the following sentences: "movie good," "movie bad," and "not good". The corresponding labels (y) are +1, -1, and -1 respectively.
+- The feature vectors (f(x)) are based on the count of the words: 'movie', 'good', 'bad', and 'not'. For example, "movie good" has a feature vector of [1, 1] [2].
+- The weight vector (w) is initialized to all 0s.
+- The algorithm proceeds through the examples, updating the weight vector each time a prediction is incorrect.
+- For instance, when the algorithm encounters "movie good" in the first epoch, it makes a wrong prediction (-1) because the initial weight vector is all zeros. Therefore, the algorithm updates the weight vector to [1, 1].
+- The process is repeated for multiple epochs.
+- After the first epoch, the weight vector reflects that "bad" and "not" have negative weights.
+- In the second epoch, the algorithm may still make some incorrect predictions, and update the weight vector. After a few iterations the algorithm will converge to the point where it correctly classifies all the examples.
+
+**Convergence and Separability**
+
+- In a machine learning course, it can be proven that the perceptron algorithm will converge if the data are **linearly separable**.
+- **Linear Separability:** The data points from different classes can be separated by a straight line (or hyperplane in higher dimensions).
+- If the data is not linearly separable, the perceptron algorithm may loop infinitely.
+- The lecture illustrates this with another example: "good," "bad," "not good," "not bad".
+- In this case, the data points are not separable in the 3-dimensional space, and the perceptron fails to converge.
+- The solution is to change the underlying feature set (e.g. add bi-grams) to create a feature space where the data becomes separable.
+- By adding bi-grams such as “not good” and “not bad” to the feature space the data become separable.
