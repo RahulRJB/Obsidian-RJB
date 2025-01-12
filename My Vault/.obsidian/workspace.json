@@ -86,18 +86,14 @@
             "id": "64ec11214a331f60",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
                 "file": "Tracker/Lists.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-trello",
+              "icon": "lucide-file",
               "title": "Lists"
             }
           },
@@ -208,6 +204,16 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "50ab39900cefe450",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
@@ -224,36 +230,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32a9a450197f9260",
+            "id": "cd504bb921c328e1",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "outline",
               "state": {
-                "file": "Tracker/Projects Details.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Notes/NLP - UT Austin.md"
               },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Projects Details"
+              "icon": "lucide-list",
+              "title": "Outline of NLP - UT Austin"
             }
           },
           {
-            "id": "3a31eb909cc38d5c",
+            "id": "e4f6b248289256eb",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Tracker/Projects Details.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Projects Details"
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Day Planner Timeline"
+            }
+          },
+          {
+            "id": "f3744790d4a47ed6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -268,59 +273,12 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "cd504bb921c328e1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Tracker/Projects Details.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Projects Details"
-            }
-          },
-          {
-            "id": "6bcc4032de14bd0b",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "f3744790d4a47ed6",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "e4f6b248289256eb",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -337,11 +295,21 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-day-planner:Timeline": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "omnisearch:Omnisearch": false,
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3fb83bcf5dcd0aa6",
+  "active": "86b01602b1c1be4d",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250112202717.png",
+    "Attachments/Pasted image 20250112202655.png",
+    "Attachments/Pasted image 20250112202633.png",
+    "Attachments/Pasted image 20250112202540.png",
+    "Attachments/Pasted image 20250112202356.png",
+    "Attachments/Pasted image 20250112201939.png",
     "Tracker/Marriage Plan.md",
     "Notes/NLP - UT Austin.md",
     "Tracker/Projects Details.md",
@@ -372,13 +340,7 @@
     "Notes/UMAP.md",
     "Untitled.canvas",
     "Tracker/03-01-25.md",
-    "Notes/Faster RCNN.md",
     "Attachments/Pasted image 20240608030011.png",
-    "Attachments/Pasted image 20240606131617.png",
-    "Attachments/Pasted image 20241213134431.png",
-    "Attachments/Pasted image 20241213131708.png",
-    "Attachments/Pasted image 20241213131548.png",
-    "Attachments/Pasted image 20241213131524.png",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",

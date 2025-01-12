@@ -10,5 +10,11 @@
   "obsidian-tasks-plugin",
   "dataview",
   "obsidian-admonition",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "periodic-notes",
+  "obsidian-minimal-settings",
+  "omnisearch",
+  "recent-files-obsidian",
+  "obsidian-excalidraw-plugin",
+  "table-editor-obsidian"
 ]

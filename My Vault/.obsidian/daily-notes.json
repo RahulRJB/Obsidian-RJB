@@ -1,4 +1,5 @@
 {
   "format": "DD-MM-YY",
-  "folder": "Tracker"
+  "folder": "Tracker",
+  "autorun": true
 }
