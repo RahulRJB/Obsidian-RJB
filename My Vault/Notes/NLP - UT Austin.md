@@ -274,9 +274,9 @@ These notes provide a detailed overview of the feature extraction process for se
 
 **What is Logistic Regression?**
 
-- Logistic regression is a way to **classify things** by figuring out the **probability** of each class [1]. Instead of just assigning a label, it tells you how likely something belongs to a certain category [1].
-- It's a **discriminative model**, meaning it directly calculates the probability of a label (_y_) given some input data (_x_). This is different from a **generative model** that tries to model how the data was generated [1].
-- It is a key concept and the **foundation of many techniques**, including feed-forward neural networks [1].
+- Logistic regression is a way to **classify things** by figuring out the **probability** of each class. Instead of just assigning a label, it tells you how likely something belongs to a certain category.
+- It's a **discriminative model**, meaning it directly calculates the probability of a label (_y_) given some input data (_x_). This is different from a **generative model** that tries to model how the data was generated.
+- It is a key concept and the **foundation of many techniques**, including feed-forward neural networks.
 
 **How Does it Work?**
 
