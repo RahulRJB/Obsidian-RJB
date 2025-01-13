@@ -5,10 +5,9 @@ kanban-plugin: []
 ## TO study
 
 - [ ] SQL
-	- [ ] Section 3, 4
-	- [ ] Section 5
-	- [ ] Leetcode 1
-	- [ ] Article 1
+	- [ ] Section 3, 4, 5
+	- [ ] Section 6, 7
+	- [ ] Section 8, 9, 10
 - [ ] NLP
 - [ ] Revise Pytorch
 - [ ] LORA implement
@@ -16,8 +15,9 @@ kanban-plugin: []
 - [ ] GAN
 - [ ] AWS Processing Job
 - [ ] AWS Step Functions
+- [ ] JumpStart Models
+- [ ] Deployments of Models
 - [ ] Andrej Karpathy gpt
-- [ ] SQL learn
 - [ ] SQL questions
 - [x] Revision of Projects ✅ 2025-01-04
 - [x] Basics algos ✅ 2025-01-05
