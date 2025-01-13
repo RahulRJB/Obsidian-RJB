@@ -19,6 +19,7 @@
 - [ ] Panjamis another??
 - [ ] Call Jamai
 - [ ] Bus confirm
+- [ ] Call Swayatta
 
 - [x] Pre wedding complete song practice ✅ 2025-01-11
 - [x] Splitwise ✅ 2025-01-08

@@ -5,8 +5,28 @@
       "path": "Notes/NLP - UT Austin.md"
     },
     {
-      "basename": "Tf-IDf",
-      "path": "Notes/Tf-IDf.md"
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "Notes/SQL.md"
+    },
+    {
+      "basename": "09-01-25",
+      "path": "Tracker/09-01-25.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "13-01-25",
+      "path": "Tracker/13-01-25.md"
+    },
+    {
+      "basename": "10-01-25",
+      "path": "Tracker/10-01-25.md"
     },
     {
       "basename": "Dreams",
@@ -17,16 +37,12 @@
       "path": "Tracker/GOALS 2025.md"
     },
     {
-      "basename": "10-01-25",
-      "path": "Tracker/10-01-25.md"
+      "basename": "Marriage Plan",
+      "path": "Tracker/Marriage Plan.md"
     },
     {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
+      "basename": "Tf-IDf",
+      "path": "Notes/Tf-IDf.md"
     }
   ],
   "omittedPaths": [],

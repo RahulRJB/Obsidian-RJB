@@ -232,3 +232,40 @@ These notes provide a detailed overview of the feature extraction process for se
 - In this case, the data points are not separable in the 3-dimensional space, and the perceptron fails to converge.
 - The solution is to change the underlying feature set (e.g. add bi-grams) to create a feature space where the data becomes separable.
 - By adding bi-grams such as “not good” and “not bad” to the feature space the data become separable.
+
+
+### **Perceptron as Minimizing a Loss Function**
+- ![[Attachments/Pasted image 20250113132238.png]]
+- We can reframe the perceptron algorithm not as an iterative, error-driven update procedure but as an instance of **stochastic gradient descent (SGD) minimizing a specific loss function**.
+- The loss function has a slightly complex structure, which can be unpacked by focusing on two cases, depending on the term _w_T_ . f(xi)_  . _yi_.
+- The loss function is 0 when _w_T_ . f(xi)_ is >=0 and _yi_ =1, or when _w_T_f(xi)_<0 and _yi_ =-1.
+- To simplify the explanation, the focus is on the case where _yi_=1.
+- The x-axis represents _w_T_f(xi)_, and the y-axis represents the loss.
+- The loss function has two parts:
+	- 0 when _w_T_f(xi)_>=0. This is represented by a flat line on the right side of the graph.
+- It is the negative of _w_T_f(xi)_ when it is less than 0. This is represented by a slanted line on the left side of the graph.
+- This loss function, when used with stochastic gradient descent, results in the perceptron algorithm we previously discussed.
+
+**Sanity Check**
+
+- When the loss == 0, no update is made. This aligns with the perceptron algorithm's behavior when an example is classified correctly.
+- The gradient of the loss with respect to _w_ is zero when _w_T_f(xi)_ > 0.
+- The gradient of the loss with respect to _w_ is -_f(xi)_ otherwise.
+- The gradient can be thought of as a linear function of _w_ times _f(xi)_.
+- When the gradient is computed, taking the derivative with respect to a specific weight _w_ gives the corresponding feature value.
+- The gradient with respect to the vector _w_ is -_f(x)_ if _w_T_f(x)_ < 0.
+- When the gradient is multiplied by -α (where alpha is the step size), if α=1, the weight vector is updated by adding _f(x)_ to _w_, which is consistent with the perceptron update rule when the true label is +1. This demonstrates an alignment between the perceptron's update rule and stochastic gradient descent on this loss function.
+
+**Visualization**
+- ![[Attachments/Pasted image 20250113132317.png]]
+- A small example with two coordinates and four data points (two positive and two negative) is used to visualize the loss function with respect to the weight vector.
+- The loss is visualized using a heat map, where different colors represent varying amounts of loss.
+- There is a wedge-shaped region where the loss is zero. A weight vector at the edge of this wedge results in a decision boundary that correctly classifies the data.
+- Different weight vectors within this region also provide correct classifications.
+- The gradient descent algorithm will move down the loss surface until the flat, zero-loss region is reached, which represents convergence of the algorithm.
+
+**Impact of Data Points on Loss**
+
+- An example can be shown where +ve datapoint is removed, resulting in a different loss surface. The wedge-shaped region, however, remains the same, as it is determined by the remaining two points that define the decision boundary.
+- This visual intuition connects the loss formulation of the perceptron to the error-driven procedure previously discussed.
+
