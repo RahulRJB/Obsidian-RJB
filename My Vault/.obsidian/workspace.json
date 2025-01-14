@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/NLP - UT Austin.md"
+                "file": "Tracker/Marriage Plan.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of NLP - UT Austin"
+              "title": "Outline of Marriage Plan"
             }
           },
           {
@@ -269,10 +269,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3fb83bcf5dcd0aa6",
+  "active": "3c1dfbf0a15ecfde",
   "lastOpenFiles": [
-    "Notes/Inverse Hessian.md",
     "Notes/NLP - UT Austin.md",
+    "Notes/Inverse Hessian.md",
     "Notes/inverse Hessian.md",
     "Attachments/seg-8.pdf",
     "Tracker/14-01-25.md",

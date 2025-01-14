@@ -18,7 +18,7 @@
 - [ ] Dhuti check again / Adi akshay co
 - [ ] Panjamis another??
 - [ ] Call Jamai
-- [ ] Bus confirm
+- [x] Bus confirm
 - [ ] Call Swayatta
 - [ ] Call Sankhadeep
 
@@ -36,29 +36,6 @@
 - [x] Wedding Dhuti ✅ 2024-12-19
 - [x] Wedding Panjabi main ✅ 2024-12-19
 - [x] Wedding Panjabi intro ✅ 2024-12-24
-
-
-#### Bus:
-
-Roy Tours and Travels
-nonAC - 52 - 13k
-AC       - 52 - 16k
-
-
-Chohan
-6290830475
-deluxe nonAC - 50seater - 12k
-traveller AC - 56seater - 16k
-
-
-Babaji
-AC - 55seater - 12k
-NonAC -  14k
-
-Monad
-9239003909
-nonAC - 61 - 14k
-
 
 
 ## Expenses 
@@ -83,7 +60,7 @@ Fabric me- 19k, paid me
 Kurtas stitch - 20k, paid me
 Dhuti - 4187/-, paid me
 Biye Sherwani - 4k/-, paid me
-Bus- 15k
+Bus- 16k, me
 Auto- 
 Pandit- 25k
 Wedding Shoes- 
