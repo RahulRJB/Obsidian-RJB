@@ -48,7 +48,7 @@ AC       - 52 - 16k
 Chohan
 6290830475
 deluxe nonAC - 50seater - 12k
-traveller AC - 55seater - 16k
+traveller AC - 56seater - 16k
 
 
 Babaji
