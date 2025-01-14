@@ -441,3 +441,65 @@ Think of it like this: instead of computing the full curvature information (inve
 - Other ad hoc tricks used in deep learning such as dropout can also provide similar benefits of regularization without explicitly incorporating it into the loss function.
 
 
+### **Multi-class Classification**
+
+- Multi-class classification is a generalization of binary classification where data points are categorized into **more than two classes**.
+- This is useful for many NLP problems where there are more than just two classes.
+- The set of classes is denoted by _y_, which is sometimes referred to as the output space.
+
+**Approaches to Multi-class Classification**
+
+- One approach is to use **one-vs-all** which involves creating a boundary that separates each class from all of the others, resulting in _n_ binary classifiers.
+- However, this method may not work well in cases where classes cannot be easily separated using linear classification.
+- Instead, multi-class classification can be formulated using two main techniques:
+	- **Different Weights (DW):** One weight vector per class.
+	- **Different Features (DF):** One weight vector with different features per class.
+- These two methods are generally equivalent in basic settings, but DW is more suited to neural networks and DF is useful for structured classification.
+
+**Different Weights (DW) Approach**
+
+- In the different weights approach, each class has its own weight vector.
+- The classification decision is made by taking the **arg max** over all possible classes. This means selecting the class that results in the highest value.
+- The expression used to determine the class is the dot product of a class-specific weight vector (_wy_) and the feature vector (_f(x)_).
+- The class with the highest dot product is the prediction.
+- This approach is similar to one-vs-all, but it's not trained as a series of binary classifiers.
+
+**Different Features (DF) Approach**
+
+- In the different features approach, there is a single weight vector, but the features are dependent on the class.
+- The feature vector is denoted as _f(x,y)_ and is created by combining the input features _f(x)_ with a hypothesized class _y_.
+- The features are defined as indicators for the input and the class; if _y_ is hypothesized as the correct class, the features are "turned on" for the hypothesized class.
+- A single weight vector _w_ is then used to calculate a score for the combined features, which is the dot product of _w_ and _f(x,y)_.
+- The features are conjunctive as they look at both _x_ and _y_.
+- The reason that DF is not used as much in neural networks is that it would require rerunning the network _n_ times for n-way classification.
+
+**Example: Topic Classification**
+
+- A topic classification example was used to illustrate the DW and DF approaches [1].
+- The sentence "too many drug trials too few patients" was classified into one of three classes: health, sports, or science [1].
+- The feature vector _f(x)_ is a bag of words, specifically unigrams: drug, patients, and baseball [1].
+- For the sentence provided, the feature vector is _[1, 1]_ since it contains "drug" and "patients" but not "baseball" [1].
+
+**DW Approach in the Example**
+
+- Each topic (health, sports, science) has its own weight vector [1].
+- For example, the weight vector for health might assign high weights to "drug" and "patients," and a low weight to "baseball". This vector is denoted as _whealth_ [1].
+- The dot product of this weight vector and the feature vector, _(whealth • f(x))_ gives a score for health.
+- Similarly, other weight vectors give scores for sports and science [1].
+- The topic with the highest score is chosen as the prediction [1].
+
+**DF Approach in the Example**
+
+- The feature vector _f(x,y)_ is created by replicating the feature vector _f(x)_ for each class [1].
+- When _y=health_, _f(x,y)_ has the _f(x)_ vector _[1, 1]_ at the beginning, followed by zeros. When _y=sports_, zeros are followed by _[1, 1]_ in the second position [1].
+- The weight vector, _w_, can now be a single weight vector and each class can be determined by the values in the dot product [1].
+- When you toggle the hypothesized value of _y_, different parts of the feature vector become active, resulting in different dot products [1].
+
+**Structured Classification**
+
+- The different features approach is particularly useful in **structured classification**, where the output _y_ is a more complicated object [1].
+- For example, this could involve assigning part-of-speech tags to each word in a sentence [1].
+- In these cases, it is not practical to have one set of weights per output class, making DF a more viable choice [1].
+- The DF approach allows us to combine properties of the input with properties of the output [1].
+
+These notes should provide a good overview of multi-class classification techniques, including how to apply them in different settings. Remember to review the different concepts and examples to solidify your understanding.
