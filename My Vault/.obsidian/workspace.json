@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tracker/Marriage Plan.md"
+                "file": "Notes/NLP - UT Austin.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Marriage Plan"
+              "title": "Outline of NLP - UT Austin"
             }
           },
           {
@@ -269,10 +269,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3c1dfbf0a15ecfde",
+  "active": "3fb83bcf5dcd0aa6",
   "lastOpenFiles": [
-    "Tracker/14-01-25.md",
+    "Notes/Inverse Hessian.md",
     "Notes/NLP - UT Austin.md",
+    "Notes/inverse Hessian.md",
+    "Attachments/seg-8.pdf",
+    "Tracker/14-01-25.md",
+    "Attachments/seg-7.pdf",
     "Tracker/Marriage Plan.md",
     "Tracker/Projects Details.md",
     "Tracker/15-01-25.md",
@@ -308,16 +312,12 @@
     "Notes/GIT.md",
     "Tracker/05-10-24.md",
     "Tracker/05-01-25.md",
-    "Notes/Andrej Karpathy.md",
-    "Notes/LoRA.md",
     "Untitled.canvas",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
     "Attachments/Recording 20240608031932.webm",
     "Attachments/Recording 20240608031602.webm",
-    "Attachments/Recording 20240608030942.webm",
-    "Attachments/Recording 20240606032013.webm",
     "Untitled 1.canvas"
   ]
 }

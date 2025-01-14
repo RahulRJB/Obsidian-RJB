@@ -326,3 +326,118 @@ These notes provide a detailed overview of the feature extraction process for se
 - Logistic regression and perceptron have similar loss curves and often perform similarly in practice.
 - The choice between perceptron and logistic regression might not be significant in many classification problems.
 
+### **Sentiment Analysis**
+- ![[Attachments/seg-7.pdf]]
+- Sentiment analysis is a type of **classification task** where the goal is to determine the **sentiment** (positive or negative) expressed in a piece of text.
+- It involves understanding whether a given text expresses a positive opinion (e.g., "the movie was great") or a negative one (e.g., "the film was awful").
+- Sentiment analysis can be thought of as a **binary classification problem**.
+
+**Feature Extraction**
+
+- Feature extraction is the process of converting text data into **numerical feature vectors**, which can then be used by a machine learning classifier.
+- The basic steps to go from text to feature vectors are:
+- A labeled dataset of examples are used to train a classifier.
+- Text is converted to a feature vector via feature extraction.
+- This involves mapping words or sequences of words into a vector space.
+
+**Bag of Words**
+
+- The most basic type of features are called **bag of words (BOW)** features.
+- In this approach, we create a vocabulary of the most common words in the language. For example, the 10,000 most common words might be used as the vocabulary.
+- Each word in the vocabulary is assigned a position in a large vector.
+- For each input example, the corresponding position in the vector is marked with a "1" if the word is present in the example, and a "0" if it's not.
+- This leads to a vector that consists of mostly zeros and a few ones.
+- The values in this vector can represent the presence or absence of a word, or they can be counts of how many times each word appears in the input.
+- The bag of words approach can be effective for sentiment analysis.
+
+**Bag of N-grams**
+
+- **N-grams** are sequences of _n_ consecutive words.
+- **Bag of n-grams** is an extension of the bag of words approach where instead of individual words, we consider sequences of words.
+- For example, bigrams are sequences of two words (e.g., "movie was", "was great").
+- This can capture some context, such as "not great", which would be missed by the simple bag of words approach.
+- A feature vector is created in a similar way to bag-of-words, but with n-grams as the units instead of words.
+
+**Term Frequency-Inverse Document Frequency (TF-IDF)**
+
+- TF-IDF is a weighting scheme that combines two concepts:
+	- **Term Frequency (TF):** The count of a term in a given document.
+	- **Inverse Document Frequency (IDF):** A measure of how rare a term is across a collection of documents. The IDF is calculated as the log of the total number of documents divided by the number of documents containing the term.
+- **TF-IDF score** is calculated by multiplying the term frequency by the inverse document frequency.
+- Common words like "the" will have a low TF-IDF score as they appear in most documents. And rare words will have a higher TF-IDF score, as they may be more characteristic of the document.
+- TF-IDF can help to emphasize important words while downplaying common ones.
+
+**Pre-processing**
+
+- Pre-processing is the step of preparing the raw text before feature extraction.
+- This involves a few steps, including:
+	- **Tokenization:** The process of splitting raw text into words or tokens. Simple whitespace tokenization works well for English, but other languages may require different approaches.
+	- Tokenizers can also handle punctuation, contractions and hyphenated words. For example, a tokenizer can separate "wasn't" into "was" and "n't" or "great!" into "great" and "!".
+- **Stop Word Removal:** Removing common function words (e.g., "the", "is") that do not contribute much to the sentiment analysis task.
+- **Casing:** Converting text to a specific case (e.g., lowercasing) which can be helpful for sentiment analysis and other applications.
+- **Handling Unknown Words:** Replacing rare words that are not in our vocabulary with a special token (e.g., "/<unk/>")
+- **Indexing:** Mapping each word or n-gram into the feature space, effectively assigning each item a position in the vector.
+
+**Summary of Pipeline**
+
+- Raw string input is transformed by applying tokenization, stop word removal, casing, unknown word replacement, and indexing.
+- The processed string is converted into a feature vector, which could be a bag of words or TF-IDF vector.
+- This feature vector is then used to train a sentiment classifier.
+
+
+### **Optimization Basics**
+- ![[Attachments/seg-8.pdf]]
+- The core idea of optimization is to find the best set of **weights** (denoted as _w_) that **minimizes a loss function**.
+- The **loss function** is a way of quantifying how well our model is performing, and it's defined with respect to the training dataset. The goal is to find the _w_ that minimizes this function.
+- The loss function is considered as a **linear sum** over training examples. The training data is treated as fixed, and _w_ is the variable that we are changing to find a good value for the loss function.
+
+**Stochastic Gradient Descent (SGD)**
+
+- **Stochastic Gradient Descent (SGD)** is an optimization algorithm where we repeatedly pick a training example (_i_) and then apply an update to the weights _w_ .
+- The update rule is: _w := w - α * ∇Li(w)_
+- _α_ is the **step size** (also known as the learning rate) which determines how big of a step to take in the direction of the gradient.
+- ∇_Li(w)_ is the **gradient** of the loss on the _i_th example with respect to the weights.
+- Because we are minimizing the loss function, we subtract the gradient in the update rule. This moves _w_ in the direction that reduces the loss.
+
+**Step Size**
+
+- The **step size** is a critical parameter in the optimization process. It makes the difference between convergence and non-convergence.
+- If the step size is too large, the optimization process can **oscillate** around the minimum and never converge.
+- If the step size is too small, the optimization process can take a very long time to converge to the minimum
+- Choosing the right step size is not a straightforward task and is an active area of research.
+
+**How to Choose Step Size**
+
+- **Trial and Error:** One approach is to try a range of different orders of magnitude for the step size.
+- **Start Large and Decay:** Another strategy is to start with a larger step size and gradually reduce it as the optimization process progresses. This can be done using a fixed schedule like _1/t_ or _1/√t_, where _t_ is the epoch number.
+- **Decrease on Stagnation:** Another common technique is to monitor performance on a held-out validation set. If performance stagnates, the step size can be decreased.
+
+**Limitations of Basic SGD**
+
+- Basic SGD treats all positions of the weight vector equally. This can be problematic because different positions might reflect very different things. For example, in neural networks, they may reflect different layers, and in feature based models, they may represent common versus rare features.
+- It may not be efficient to apply the same update to all of the parameters.
+
+**Newton's Method**
+
+- **Newton's method** uses the **curvature** of the objective function to figure out the correct step size.
+- It uses the [[Inverse Hessian]] (second derivative) to make the optimization process more efficient.
+- For a quadratic function, Newton's method can jump directly to the optimum in a single step.
+- However, the **computation of the Hessian is very expensive** in terms of computing power and time, particularly for large models with many features (it's scales quadratically to the number of features) and is thus not generally feasible to use.
+
+**Adaptive Methods**
+
+- **Adaptive methods** like AdaGrad, AdaDelta, and Adam, are designed to address the limitations of SGD and Newton's method (Hessian problem). They are clever because they:
+1. Approximate the inverse Hessian's behavior without actually computing it
+2. Scale linearly with the number of parameters (much more efficient)
+3. Adjust learning rates per-parameter based on past gradients
+
+Think of it like this: instead of computing the full curvature information (inverse Hessian), these methods keep running estimates of how quickly each parameter should be updated based on their historical gradient behavior. This gives many of the benefits of using curvature information but at a much lower computational cost.
+
+**Regularization**
+
+- In classical statistics, fully optimizing the loss function is considered bad due to the **bias-variance trade-off**.
+- **Regularization** is used to prevent overfitting by not fully optimizing the loss function. It is done to reduce the variance of the estimator and to improve results on new data.
+- Instead of explicitly adding regularization to the objective function, it is common to use techniques like early stopping (not running as many iterations).
+- Other ad hoc tricks used in deep learning such as dropout can also provide similar benefits of regularization without explicitly incorporating it into the loss function.
+
+
