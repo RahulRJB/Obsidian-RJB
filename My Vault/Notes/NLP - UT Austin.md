@@ -280,50 +280,49 @@ These notes provide a detailed overview of the feature extraction process for se
 
 **How Does it Work?**
 
-- Imagine you have a bunch of data points, and you want to classify each one into one of two classes (positive or negative). Logistic regression figures out the probability of a data point belonging to the positive class [1].
-- It uses a formula that looks like this to calculate the probability of a data point being in the positive class: _p(y = +1 | x) = ew⋅f(x) / (1 + ew⋅f(x))_ [1].
-- _w_ is the **weight vector**, which determines the importance of each feature [1].
-- _f(x)_ is the **feature vector**, which is a set of numbers representing the data point [1].
-- The dot product of _w_ and _f(x)_ is similar to what's done in the perceptron algorithm, but in logistic regression, this dot product is used in the logistic function [1].
-- The **logistic function** (_ex / (1 + ex)_) is a special function that takes any number and turns it into a probability between 0 and 1 [1]. This is useful because probabilities must be between 0 and 1 [1].
-- The probability of a data point belonging to the negative class is calculated as _p(y = -1 | x) = 1 - p(y = +1 | x)_, since there are only two classes, and their probabilities must sum to one [2].
+- Imagine you have a bunch of data points, and you want to classify each one into one of two classes (positive or negative). Logistic regression figures out the probability of a data point belonging to the positive class.
+- It uses a formula that looks like this to calculate the probability of a data point being in the positive class: _p(y = +1 | x) = e^w⋅f(x) / (1 + e^w⋅f(x))_.
+- _w_ is the **weight vector**, which determines the importance of each feature.
+- _f(x)_ is the **feature vector**, which is a set of numbers representing the data point.
+- The dot product of _w_ and _f(x)_ is similar to what's done in the perceptron algorithm, but in logistic regression, this dot product is used in the logistic function.
+- The **logistic function** (_e^x / (1 + e^x)_) is a special function that takes any number and turns it into a probability between 0 and 1. This is useful because probabilities must be between 0 and 1.
+- The probability of a data point belonging to the negative class is calculated as _p(y = -1 | x) = 1 - p(y = +1 | x)_ = 1 / (1 + e^w⋅f(x))_, since there are only two classes, and their probabilities must sum to 1.
 
 **Making Decisions**
 
-- To classify a data point, logistic regression checks if the probability of it being in the positive class is greater than 0.5 [2].
-- If the probability is greater than 0.5, it's classified as positive, otherwise, it is classified as negative [2].
-- The decision boundary for logistic regression turns out to be the same as for the perceptron: _w⋅f(x) > 0_ [2]. The key difference, though, is the probabilistic interpretation in logistic regression [2].
+- To classify a data point, logistic regression checks if the probability of it being in the positive class is greater than 0.5.
+- If the probability is greater than 0.5, it's classified as positive, otherwise, it is classified as negative.
+- The decision boundary for logistic regression turns out to be the same as for the perceptron: _w⋅f(x) > 0_ . The key difference, though, is the probabilistic interpretation in logistic regression.
 
 **How Does Logistic Regression Learn?**
 
-- The goal is to **maximize the likelihood** of observing the correct labels in the training data, given the data itself [2]. This means we want to find the weight vector _w_ that makes the observed labels as likely as possible [2].
-- The **likelihood** is the product of the probabilities of observing each label, given its corresponding data point [2].
-- Because products are hard to deal with, we can maximize the **log-likelihood** instead, which is the sum of the log probabilities. This is because log is a monotonic function [3].
-- To turn this into a minimization problem (which is easier for computers to solve), we can minimize the **negative log-likelihood (NLL)** [3]. Think of NLL as a **loss** function [3].
-- The **stochastic gradient descent (SGD)** algorithm is used to minimize the loss function [3].
-- SGD involves computing the **gradient** of the loss function with respect to the weights [3]. The gradient shows the direction in which to adjust the weights to reduce the loss [3].
+- The goal is to **maximize the likelihood** of observing the correct labels in the training data, given the data itself. This means we want to find the weight vector _w_ that makes the observed labels as likely as possible.
+- The **likelihood** is the product of the probabilities of observing each label, given its corresponding data point.
+- Because products are hard to deal with, we can maximize the **log-likelihood** instead, which is the sum of the log probabilities. This is because log is a monotonic function.
+- To turn this into a minimization problem (which is easier for computers to solve), we can minimize the **negative log-likelihood (NLL)**. Think of NLL as a **loss** function.
+- The **stochastic gradient descent (SGD)** algorithm is used to minimize the loss function.
+- SGD involves computing the **gradient** of the loss function with respect to the weights. The gradient shows the direction in which to adjust the weights to reduce the loss.
 
 **Updating the Weights**
 
-- The update rule is derived using a derivative for a positively labeled example (_yi_ = +1) [4].
-- After some math, the update rule for weights becomes: _w := w + α * f(x) * (1 - p(y = +1 | x))_ [5].
-- _α_ is a small number called the learning rate [5].
-- This looks similar to the perceptron update: _w := w + α * f(x)_, where if we misclassify a positive example as negative, we update the weight vector by adding the feature vector [5].
-- However, in logistic regression, the update is scaled by _(1 - p(y = +1 | x))_ [5].
-- If the model is very confident about the prediction ( _p(y = +1 | x)_ is close to 1), there will be a small update [5].
-- If the model is not confident ( _p(y = +1 | x)_ is close to 0) or misclassifies the example, the update is larger and resembles the perceptron update [5].
+- The update rule is derived using a derivative for a positively labeled example (_yi_ = +1).
+- After some math, the update rule for weights becomes: _w := w + α * f(x) * (1 - p(y = +1 | x))_.
+- _α_ is a small number called the learning rate.
+- This looks similar to the perceptron update: _w := w + α * f(x)_, where if we misclassify a positive example as negative, we update the weight vector by adding the feature vector.
+- However, in logistic regression, the update is scaled by _(1 - p(y = +1 | x))_.
+- If the model is very confident about the prediction ( _p(y = +1 | x)_ is close to 1), there will be a small update.
+- If the model is not confident ( _p(y = +1 | x)_ is close to 0) or misclassifies the example, the update is larger and resembles the perceptron update.
 
 **Loss Curves**
 
-- If we plot the loss as a function of _z = w⋅f(x)_, the loss curve for logistic regression looks like a smoothed version of the perceptron loss [6].
-- This means that the two algorithms will generally perform similarly, even though their logic is different [6].
+- If we plot the loss as a function of _z = w⋅f(x)_, the loss curve for logistic regression looks like a smoothed version of the perceptron loss.
+- This means that the two algorithms will generally perform similarly, even though their logic is different.
 
 **Key Takeaways**
 
-- Logistic regression is a method to classify by predicting probabilities, using a logistic function [1].
-- It learns by minimizing the negative log-likelihood loss [3].
-- The weight update rule is similar to the perceptron's, but it's modulated by a probability term [5].
-- Logistic regression and perceptron have similar loss curves and often perform similarly in practice [6].
-- The choice between perceptron and logistic regression might not be significant in many classification problems [6].
+- Logistic regression is a method to classify by predicting probabilities, using a logistic function.
+- It learns by minimizing the negative log-likelihood loss.
+- The weight update rule is similar to the perceptron's, but it's modulated by a probability term.
+- Logistic regression and perceptron have similar loss curves and often perform similarly in practice.
+- The choice between perceptron and logistic regression might not be significant in many classification problems.
 
-These notes should give you a good understanding of logistic regression. Remember to go back to the equations if you want to solidify your understanding.
