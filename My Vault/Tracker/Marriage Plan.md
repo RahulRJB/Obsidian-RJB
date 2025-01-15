@@ -1,8 +1,8 @@
 ## Immediate:
 
 - [ ] Shoes
-	- [ ] Wedding
-	- [ ] Reception
+	- [x] Wedding
+	- [x] Reception
 	- [ ] Sangeet/Haldi
 	- [ ] Haldi
 - [ ] Tatta
@@ -15,8 +15,8 @@
 	- [x] Biye ✅ 2025-01-08
 - [ ] Hotel
 - [ ] amusement
-- [ ] Dhuti check again / Adi akshay co
-- [ ] Panjamis another??
+- [ ] Dhuti check again / Adi akshay co (18 Jan) 
+- [ ] Panjamis another?? 
 - [ ] Call Jamai
 - [x] Bus confirm
 - [ ] Call Swayatta

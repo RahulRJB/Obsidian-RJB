@@ -443,6 +443,8 @@ Think of it like this: instead of computing the full curvature information (inve
 
 ### **Multi-class Classification**
 
+- ![[Attachments/seg-9.pdf]]
+
 - Multi-class classification is a generalization of binary classification where data points are categorized into **more than two classes**.
 - This is useful for many NLP problems where there are more than just two classes.
 - The set of classes is denoted by _y_, which is sometimes referred to as the output space.

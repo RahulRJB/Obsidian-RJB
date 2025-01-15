@@ -471,7 +471,7 @@
 | Tiger Analytics                                                       |            |        |                 |                                   |         |
 | Harman                                                                |            |        |                 |                                   |         |
 | John Deere                                                            | GenAI      |        | MG Road         |                                   | Priti   |
-|                                                                       |            |        |                 |                                   |         |
+| Verizon                                                               |            |        |                 |                                   |         |
 
 
 
