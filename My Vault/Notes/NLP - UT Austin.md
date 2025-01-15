@@ -652,3 +652,131 @@ P(y=_ŷ_|x) = exp(_w_⋅_f(x,ŷ_)) / Σy' exp(_w_⋅_f(x,y'_)
 - For example, in authorship attribution, bag-of-words features can detect different dialects of English or code-switching, thus revealing the group a person belongs to.
 - Similarly, zip code information, when used in loan applications, correlates heavily with race, thereby introducing bias.
 - A real-world example is Amazon's resume sorting tool, which learned negative weights for women's organizations and women's colleges, revealing an unintended gender bias.
+
+
+### **Introduction to Neural Networks**
+- ![[Attachments/seg-12.pdf]]
+
+- Neural networks are introduced as a method to address the limitations of linear classifiers in certain classification problems.
+- A key issue with basic linear classifiers is that they cannot separate data that is not linearly separable. The example given is the sentences "good", "bad", "not good", and "not bad", which, when represented as bag-of-unigrams features, cannot be separated by a linear classifier.
+- Methods like adding bigram features or using kernel methods can solve this problem, but these can be computationally expensive and have undesirable properties for NLP.
+- Neural networks aim to transform the data into a **latent feature space**, where the data can be more easily separated.
+
+**How Neural Networks Transform Data**
+
+- Neural networks transform the input data using a **non-linear function**.
+- The process involves a linear transformation followed by a non-linear activation function.
+- **f(x)**: Represents the original input features vector.
+- **v**: A matrix that maps the n-dimensional input feature space to a d-dimensional space.
+- **z**: The latent feature vector, calculated as z = g(v * f(x)), where g is a non-linear function.
+- **g**: A non-linear activation function. Common choices include hyperbolic tangent (tanh), rectified linear units (ReLU), and sigmoid functions. The choice of non-linearity is important, but the specific function used often doesn't significantly affect the outcome.
+
+**Learning Useful Latent Features**
+
+- The goal of the transformation by v and g is to make the classification problem easier in the transformed (latent) space.
+- The classifier is then applied in this transformed space using **wT . z**, where w is the weight vector and z is the transformed input vector.
+- Simplified example with features x1 and x2 to demonstrate how this works.
+	- The transformation of these features to a new space using tanh and the matrix v results in new coordinates z1, z2, and z3, which are tanh(x1), tanh(x2), and tanh(x1 + x2), respectively.
+	- This transformation moves data points into a space where they can be separated by a hyperplane, as opposed to the original, inseparable space.
+
+**Conjunctive Features and Learning Feature Interactions**
+
+- The transformations in neural networks allow the learning of **conjunctive features**, which are combinations of input features. For example, the z3 coordinate (tanh(x1 + x2)) acts as an "or gate" between x1 and x2, thus modeling how the features interact with each other.
+- Neural networks can learn these feature combinations in an **end-to-end** way, without needing manual specification of the interactions.
+- By learning the parameters in matrix v, as well as the best parameters for the linear classifier that operates on the output of the non-linear activation functions, the whole system can be optimized for the classification task.
+
+
+### **Visualizing Feed-Forward Neural Networks**
+- ![[Attachments/seg-13.pdf]]
+
+- The lecture focuses on visualizing how feed-forward neural networks transform data through a series of operations. These transformations create a **latent feature representation** (z) that facilitates classification.
+- The process involves three main stages:
+	- **Warping Space:** Input features (f(x)) are multiplied by a matrix (v), which warps the feature space. This can be visualized as turning the feature space into parallelograms.
+	- **Shifting:** A bias or shift is applied to the warped space, though this is often ignored in visualizations because it can be incorporated into the feature space. This step can be visualized as a simple translation or shift of the warped space.
+	- **Non-linear Transformation:** The warped and shifted space is then passed through a non-linear transformation (g), such as tanh or ReLU, which squashes the space into a specific range. For example, hyperbolic tangent (tanh) maps the entire real line into the range of -1 to 1.
+
+**Understanding the Transformations Graphically**
+
+- These transformations can be visualized graphically, especially in low-dimensional spaces. The goal of these transformations is to map data points into a space where they are **linearly separable**, even if they were not in the original space.
+- For example, if you have two sets of points (e.g., red and blue curves) that are not separable by a linear classifier, these transformations can map them into a new space where they become linearly separable.
+
+**The Power of Deep Networks**
+
+- By stacking multiple layers of these transformations, deep networks can learn very complex mappings. Each layer applies warping, shifting, and non-linear transformation, allowing the network to "pull apart" entangled data.
+- The lecture illustrates this with two entangled spirals which, through the described series of operations, can be separated in the transformed space.
+- The ability to learn these transformations automatically through backpropagation is a key advantage of neural networks.
+
+
+**Key Concepts**
+
+- **Latent Feature Space (z):** The transformed space where data is represented after passing through the neural network layers. This space is created by applying the transformations to the input feature space.
+- **Linear Separability:** The goal of the transformations is to make the data linearly separable, which means that a linear classifier can effectively separate different classes in the latent space.
+- **Backpropagation:** These transformations are learned through backpropagation, without needing any hand-design of these transformations.
+- **End-to-End Learning:** The entire network, including the transformations, can be learned end-to-end, which makes deep networks so powerful.
+
+**Visual Example: Transforming Entangled Spirals**
+
+- Example of two entangled spirals to demonstrate the power of these transformations.
+- Initially, the spirals are deeply entangled and not linearly separable.
+- Through a series of warping, shifting, and non-linear transformations, the neural network is able to pull these spirals apart, creating a highly warped space, making them linearly separable.
+
+
+### **Feedforward Neural Networks: Mathematical Notation**
+
+- The lecture begins by formalizing the concept of feedforward neural networks using mathematical notation.
+- The starting point is **multi-class logistic regression**, where the probability of a class _y_ is calculated using the formula: P(y) = exp(w_y ⋅ f(x)) / Σ exp(w_y' ⋅ f(x)), where:
+- _w_y_ is the weight vector associated with class _y_.
+- _f(x)_ is the feature vector.
+- The sum in the denominator is over all possible classes _y'_. [1]
+- This equation calculates a **scalar probability** for a single class. [1]
+- To move towards a vectorized computation, the weight vectors for each class (_w1, w2, w3..._) are stacked into a single **weight matrix (W)** [1].
+- This allows the entire operation to be expressed in a more compact form: **softmax(W * f(x))**. [1]
+- _W_ is a matrix of size (number of classes x number of features).
+- The output is a **vector of probabilities** for each class. [1]
+
+**Introducing Hidden Layers**
+
+- A **hidden layer** is introduced to compute a latent feature representation _z_. [2]
+- This is achieved by multiplying the input feature vector _f(x)_ by a matrix _V_ and then applying a non-linear function _g_: **z = g(V * f(x))**. [2]
+- _V_ is a matrix of size (d x n), where _n_ is the number of input features and _d_ is the dimension of the hidden layer.
+- _z_ is the latent feature vector.
+- The output probability vector is then computed using the same softmax operation: **softmax(W * z)**. [2]
+- The sizes of the matrices (_V_ and _W_) are critical for the operations to work correctly, and must match the sizes of the layers [2].
+
+**Training Neural Networks**
+
+- The training process aims to **maximize the log-likelihood** of the training data, or equivalently, **minimize the negative log-likelihood (loss)**. [3]
+- The log-likelihood of a training example is expressed as a dot product of a **selector vector _e_** with the log probabilities. _e_ is a vector with 1 in the position of the correct class and zeros everywhere else [3].
+- This formulation ensures that the network learns to assign a high probability to the correct class. [3]
+- The loss function for a single example is given by the weights of the correct class dotted with _z_, minus the log of the sum of the exponentiated values, which is similar to multi-class logistic regression [3].
+
+**Backpropagation**
+
+- Backpropagation is used to compute the gradients of the loss with respect to the parameters (matrix _V_) in the earlier layers of the network. [4]
+- The high level idea of backpropagation involves computing an **error signal** based on the output layer and passing it back through the network. [4]
+- This error signal is used to update the parameters in the earlier layers of the network by applying the **chain rule**. [4]
+- The gradient of the loss with respect to _V_ is computed as the product of the gradient of the loss with respect to _z_ and the gradient of _z_ with respect to _V_. [4]
+- The gradient of _z_ with respect to _V_ involves the derivative of the non-linear activation function _g_, and the gradient of the linear transformation [4].
+- For each parameter matrix (_V_ and _W_), a gradient term from the loss is combined with information from the input to that layer to update the parameters [5].
+- Backpropagation works by using saved values from the forward pass and computing the gradient backwards [5].
+
+**Key Concepts**
+
+- **Multi-class Logistic Regression:** The starting point for understanding feedforward neural networks, where probabilities for multiple classes are calculated using a softmax function. [1]
+- **Weight Matrix (W):** A matrix formed by stacking the weight vectors of all classes together, which allows for vectorized computations. [1]
+- **Hidden Layer:** A layer that transforms input features into a latent feature space _z_ using a linear transformation (matrix _V_) followed by a non-linear activation function. [2]
+- **Latent Feature Space (z):** A transformed representation of the input data that the neural network uses internally for classification. [2]
+- **Non-linear Activation Function (g):** A non-linear function applied after the linear transformation, which allows the network to learn complex patterns in the data. [2]
+- **Log Likelihood:** A measure used to train the network, where the goal is to maximize the log-likelihood of the training data. [3]
+- **Backpropagation:** An algorithm used to compute the gradients of the loss with respect to the parameters in the earlier layers of the network. [4]
+- **Error Signal:** A term propagated backwards through the network to compute gradients. [4]
+- **Chain Rule:** A mathematical rule used in backpropagation to compute the gradient of composite functions. [4]
+
+**Key Takeaways**
+
+- Feedforward neural networks build upon multi-class logistic regression by introducing hidden layers and non-linearities.
+- These networks transform input data into a latent space, and the entire process can be expressed mathematically using matrix operations and non-linear activation functions.
+- Backpropagation is used to train the network by computing gradients of the loss with respect to the network's parameters.
+- The network learns the parameters of the transformation by using the gradient and optimizing the likelihood of the data.
+
+These notes should provide a comprehensive understanding of feedforward neural networks, their mathematical formulations, and the backpropagation algorithm. Remember to review these concepts and the associated mathematical expressions to solidify your learning.

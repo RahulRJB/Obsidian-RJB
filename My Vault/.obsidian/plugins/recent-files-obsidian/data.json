@@ -9,12 +9,16 @@
       "path": "Notes/SQL.md"
     },
     {
-      "basename": "text-embedding-ada-002",
-      "path": "Notes/text-embedding-ada-002.md"
-    },
-    {
       "basename": "15-01-25",
       "path": "Tracker/15-01-25.md"
+    },
+    {
+      "basename": "14-01-25",
+      "path": "Tracker/14-01-25.md"
+    },
+    {
+      "basename": "text-embedding-ada-002",
+      "path": "Notes/text-embedding-ada-002.md"
     },
     {
       "basename": "Sentence Transformer",
@@ -39,10 +43,6 @@
     {
       "basename": "16-01-25",
       "path": "Tracker/16-01-25.md"
-    },
-    {
-      "basename": "14-01-25",
-      "path": "Tracker/14-01-25.md"
     },
     {
       "basename": "GOALS 2025",
