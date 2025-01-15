@@ -6,7 +6,7 @@
 DATE:  31-08-24
 
 
-Tags:
+Tags: [[Notes/Bi-Encoder|Bi-Encoder]] 
 
 # References:
 

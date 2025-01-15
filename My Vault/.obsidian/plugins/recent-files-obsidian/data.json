@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Sentence Transformer",
+      "path": "Notes/Sentence Transformer.md"
+    },
+    {
+      "basename": "Cross-Encoder",
+      "path": "Notes/Cross-Encoder.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "Notes/SQL.md"
+    },
+    {
       "basename": "NLP - UT Austin",
       "path": "Notes/NLP - UT Austin.md"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "13-01-25",
       "path": "Tracker/13-01-25.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Notes/SQL.md"
     },
     {
       "basename": "09-01-25",

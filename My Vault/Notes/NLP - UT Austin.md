@@ -446,24 +446,20 @@ Think of it like this: instead of computing the full curvature information (inve
 - ![[Attachments/seg-9.pdf]]
 
 - Multi-class classification is a generalization of binary classification where data points are categorized into **more than two classes**.
-- This is useful for many NLP problems where there are more than just two classes.
 - The set of classes is denoted by _y_, which is sometimes referred to as the output space.
 
 **Approaches to Multi-class Classification**
 
-- One approach is to use **one-vs-all** which involves creating a boundary that separates each class from all of the others, resulting in _n_ binary classifiers.
-- However, this method may not work well in cases where classes cannot be easily separated using linear classification.
+- One approach is to use **one-vs-all** which involves creating a boundary that separates each class from all of the others, resulting in _n_ binary classifiers. However, this method may not work well in cases where classes cannot be easily separated using linear classification.
 - Instead, multi-class classification can be formulated using two main techniques:
-	- **Different Weights (DW):** One weight vector per class.
-	- **Different Features (DF):** One weight vector with different features per class.
+	- **Different Weights (DW):** Different weight vector for each class.
+	- **Different Features (DF):** Same weight vector but different features for each class.
 - These two methods are generally equivalent in basic settings, but DW is more suited to neural networks and DF is useful for structured classification.
 
 **Different Weights (DW) Approach**
 
-- In the different weights approach, each class has its own weight vector.
-- The classification decision is made by taking the **arg max** over all possible classes. This means selecting the class that results in the highest value.
-- The expression used to determine the class is the dot product of a class-specific weight vector (_wy_) and the feature vector (_f(x)_).
-- The class with the highest dot product is the prediction.
+- In the different weights approach, each class has its own weight vector. The diff weight vectors are all dotted with the feature. The classification decision is made by taking the **arg max** over all possible classes. This means selecting the class that results in the highest magnitude.
+- The expression used to determine the class is the dot product of a class-specific weight vector (_wy_) and the feature vector (_f(x)_) (same for all classes). The class with the highest dot product is the prediction.
 - This approach is similar to one-vs-all, but it's not trained as a series of binary classifiers.
 
 **Different Features (DF) Approach**
@@ -471,37 +467,92 @@ Think of it like this: instead of computing the full curvature information (inve
 - In the different features approach, there is a single weight vector, but the features are dependent on the class.
 - The feature vector is denoted as _f(x,y)_ and is created by combining the input features _f(x)_ with a hypothesized class _y_.
 - The features are defined as indicators for the input and the class; if _y_ is hypothesized as the correct class, the features are "turned on" for the hypothesized class.
-- A single weight vector _w_ is then used to calculate a score for the combined features, which is the dot product of _w_ and _f(x,y)_.
+- A single weight vector _w_ is then used to calculate a score for the combined features, by dot product of _w_ and _f(x,y)_.
 - The features are conjunctive as they look at both _x_ and _y_.
 - The reason that DF is not used as much in neural networks is that it would require rerunning the network _n_ times for n-way classification.
 
 **Example: Topic Classification**
 
-- A topic classification example was used to illustrate the DW and DF approaches [1].
-- The sentence "too many drug trials too few patients" was classified into one of three classes: health, sports, or science [1].
-- The feature vector _f(x)_ is a bag of words, specifically unigrams: drug, patients, and baseball [1].
-- For the sentence provided, the feature vector is _[1, 1]_ since it contains "drug" and "patients" but not "baseball" [1].
+- A topic classification example can be used to illustrate the DW and DF approaches.
+- The sentence "too many drug trials too few patients" can be classified into one of three classes: health, sports, or science.
+- The feature vector _f(x)_ is a bag of words, specifically unigrams with vocab: drug, patients, and baseball.
+- For the sentence provided, the feature vector is [1, 1, 0] since it contains "drug" and "patients" but not "baseball".
 
 **DW Approach in the Example**
 
-- Each topic (health, sports, science) has its own weight vector [1].
-- For example, the weight vector for health might assign high weights to "drug" and "patients," and a low weight to "baseball". This vector is denoted as _whealth_ [1].
-- The dot product of this weight vector and the feature vector, _(whealth • f(x))_ gives a score for health.
-- Similarly, other weight vectors give scores for sports and science [1].
-- The topic with the highest score is chosen as the prediction [1].
+- Each topic (health, sports, science) has its own weight vector.
+- For example, the weight vector for health might assign high weights to "drug" and "patients," and a low weight to "baseball" like [4, 5, -1]. This vector is denoted as _w_health_.
+- The dot product of this weight vector and the feature vector, _(w_health • f(x))_ gives a score for health == 4x1+5x1+0x-1 = 9.
+- Similarly, other weight vectors give scores for sports and science eg.  _(w_sports • f(x))_ == [2, 1, 6] • [1, 1, 0] = 3.
+- The topic with the highest score is chosen as the prediction.
 
 **DF Approach in the Example**
 
-- The feature vector _f(x,y)_ is created by replicating the feature vector _f(x)_ for each class [1].
-- When _y=health_, _f(x,y)_ has the _f(x)_ vector _[1, 1]_ at the beginning, followed by zeros. When _y=sports_, zeros are followed by _[1, 1]_ in the second position [1].
-- The weight vector, _w_, can now be a single weight vector and each class can be determined by the values in the dot product [1].
-- When you toggle the hypothesized value of _y_, different parts of the feature vector become active, resulting in different dot products [1].
+- The feature vector _f(x,y)_ is created by replicating the feature vector _f(x)_ for each class.
+- When _y=health_, _f(x,y)_ has the _f(x)_ vector at the beginning, followed by 0's i.e _[110   000,  000]_. When _y=sports_, 0s are followed by _f(x)_ in the second position i.e. _[000, 110, 000]_.
+- The weight vector, _w_, can now be a single weight vector and each class can be determined by the values in the dot product.
+- When you toggle the hypothesized value of _y_, different parts of the feature vector become active, resulting in different dot products.
 
 **Structured Classification**
 
-- The different features approach is particularly useful in **structured classification**, where the output _y_ is a more complicated object [1].
-- For example, this could involve assigning part-of-speech tags to each word in a sentence [1].
-- In these cases, it is not practical to have one set of weights per output class, making DF a more viable choice [1].
-- The DF approach allows us to combine properties of the input with properties of the output [1].
+- The different features approach is particularly useful in **structured classification**, where the output _y_ is a more complicated object.
+- For example, this could involve assigning part-of-speech tags to each word in a sentence.
+- In these cases, it is not practical to have one set of weights per output class, making DF a more viable choice. The DF approach allows us to combine properties of the input with properties of the output.
 
-These notes should provide a good overview of multi-class classification techniques, including how to apply them in different settings. Remember to review the different concepts and examples to solidify your understanding.
+
+### **Multi-class Perceptron**
+
+- Multi-class perceptron is a generalization of the perceptron algorithm to handle more than two classes. The algorithm iterates through epochs and data, updating weights when the prediction is incorrect.
+- **Prediction:** The prediction uses different weights, indexed by the class label _y_ (Using **DW Approach**). The predicted class is the one that maximizes the dot product of its weight vector with the feature vector _f(x)_.
+- _W_y_ • _f(x)_
+- **Update:** An update is made only if the predicted class (_y_pred_) does not match the correct class (_y_i_). The update involves two parts:
+	- **Demoting the incorrect class:** The dot product of the weight vector for the incorrect class (_W_ypred_) with the feature vector _f(x)_ is decreased by subtracting α_f(x)_.
+	- **Promoting the correct class:** The dot product of the weight vector for the correct class (_W_yi_) with the feature vector _f(x)_ is increased by adding α_f(x)_.
+- The step size _α_ is also part of the update.
+- The general idea is to move the model's score for the correct class higher and the score for the incorrect class lower.
+
+**Example of Multi-class Perceptron**
+
+- Two example sentences: 
+	- "too many drug trials too few patients"; label y=1, 
+	- "baseball players taking drugs";  label y=2. 
+- Vocab = [drugs, patients, patients]
+- The output space _y_={1, 2, 3}, and the default prediction is y=3.
+- Initially, all weight vectors (_wy1_, _wy2_, _wy3_) are initialized to 0.
+- **First example:** "too many drug trials too few patients" (_y_=1) => [1, 1, 0], the model predicts _y_pred_=3. An update is made: αf(x) is added to _w_y1_ and subtracted from _w_y3_.
+- **Second example:** "baseball players taking drugs" (_y_=2)=> [1, 0, 1],, the model predicts _y_pred_=1 (because _w_y1_ ⋅ _f(x)_ is the highest). An update is made: _αf(x)_ is added to _w_y2_ and subtracted from _w_y1_.
+- If the prediction is correct, no update is made.
+
+**Multi-class Perceptron with Different Features(DF)**
+
+- In the different features formulation, there is only one weight vector _W_.
+- The update rule is similar: _α_ _f(x, yi)_ is added to _W_. This means that the features are associated with the correct class.
+- The other updates are modified such that instead of having _y_pred_ associated with the weights, it now lives inside the feature function.
+
+**Multi-class Logistic Regression**
+
+- Multi-class logistic regression is a generalization of logistic regression to handle more than two classes. The probability that _y_ equals a particular class _ŷ_ is calculated as the exponential of the dot product of _w_ and the feature vector, divided by the sum of these exponentials over all possible output values.
+
+P(y=_ŷ_|x) = exp(_w_⋅_f(x,ŷ_)) / Σy' exp(_w_⋅_f(x,y'_)
+
+- This is different from binary logistic regression where we had 1 + exp(_w_ ⋅ _f(x)_) in the denominator. The denominator normalizes the probabilities so they sum to 1.
+- **Gradient:** The gradient of the log-likelihood of the data has the form of -_f(x, yi_) + Σy P(y|x) _f(x,y)_.
+- The gradient shows that the weights associated with the correct class are promoted and the weights associated with the incorrect classes are demoted.
+
+**Gradient Analysis**
+
+- When the probability of _y_i_ given _x_ is close to 1, the gradient is approximately zero.
+- When the probability of the wrong class _y_bad_ is higher, the gradient promotes the correct class _yi_ and demotes the incorrect class _y_bad_.
+- The update resembles that of multi-class perceptron, with the exception that the update is “softer” in that it takes into account the distribution over all the classes rather than just the correct and the incorrect class.
+- When the probabilities are in the middle, you get a softer update where you are kicking all the other classes down a little bit and boosting the correct one.
+
+**Key Takeaways**
+
+- Multi-class perceptron and logistic regression are extensions of their binary counterparts for problems with more than two classes.
+- Both algorithms involve updating weights based on whether the prediction is correct or not.
+- The multi-class perceptron update directly adjusts the weights of the predicted and true classes.
+- Multi-class logistic regression uses a probability distribution over all classes, and the update is based on the gradient of the log-likelihood.
+- Both algorithms have similar update rules with slightly different approaches and they use the same idea of promoting correct classes and demoting incorrect ones.
+- These algorithms will be revisited in the context of neural networks and structured prediction.
+
+

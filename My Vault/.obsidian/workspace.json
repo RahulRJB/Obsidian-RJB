@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/SQL.md",
+                "file": "Notes/Sentence Transformer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL"
+              "title": "Sentence Transformer"
             }
           },
           {
@@ -127,8 +127,7 @@
               "title": "Dreams"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +209,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/NLP - UT Austin.md"
+                "file": "Notes/Sentence Transformer.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of NLP - UT Austin"
+              "title": "Outline of Sentence Transformer"
             }
           },
           {
@@ -269,11 +268,14 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "3fb83bcf5dcd0aa6",
+  "active": "f41579797c055572",
   "lastOpenFiles": [
-    "Attachments/seg-9.pdf",
-    "Tracker/15-01-25.md",
+    "Notes/Cross-Encoder.md",
+    "Notes/Sentence Transformer.md",
+    "Notes/SQL.md",
     "Notes/NLP - UT Austin.md",
+    "Tracker/15-01-25.md",
+    "Attachments/seg-9.pdf",
     "Tracker/Marriage Plan.md",
     "Tracker/Projects Details.md",
     "Tracker/Lists.md",
@@ -292,7 +294,6 @@
     "Attachments/seg-6.pdf",
     "Attachments/Pasted image 20250113132317.png",
     "Attachments/Pasted image 20250113132238.png",
-    "Notes/SQL.md",
     "Tracker/09-01-25.md",
     "Tracker/10-01-25.md",
     "Tracker/Dreams.md",
@@ -311,13 +312,11 @@
     "Notes/NLP.md",
     "Tracker/QUOTES OF THE DAY.md",
     "Notes/GIT.md",
-    "Tracker/05-10-24.md",
     "Untitled.canvas",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
     "Attachments/Recording 20240608035015.webm",
     "Attachments/Recording 20240608031932.webm",
-    "Attachments/Recording 20240608031602.webm",
     "Untitled 1.canvas"
   ]
 }
