@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "text-embedding-ada-002",
+      "path": "Notes/text-embedding-ada-002.md"
+    },
+    {
       "basename": "Sentence Transformer",
       "path": "Notes/Sentence Transformer.md"
     },

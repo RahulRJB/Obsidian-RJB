@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=O3xbVmpdJwU&t=950s
 		- Step3: We return the nearest neighbors as the most related questions.
 	- So for a question we only have to use BERT model only once and not 100s of times. as we suggested before this is good since computing simple cosine similarities between vectors is much cheaper than passing in all questions on the platform through the complex model every time you need to make a decision.![[Attachments/Pasted image 20240830203340.png]]
 	- Problems with above: 
-		- BERT outputs vector rep of words not sentences. It's good with word representations, not sentence representations. So to get sentence vectors, we would need to aggregate(like mean pooling) the words vectors to get it. would be real bad though. Avg of Glove embeddings would give better results!
+		- BERT outputs vector rep of words not sentences. It's good with word representations, not sentence representations. So to get sentence vectors, we would need to aggregate(like mean pooling) the words vectors to get it. would be real bad though. Avg of [[GloVe]] embeddings would give better results!
 	- In order to have BERT to create sentence vectors that actually have meaning we need to further train it on sentence level tasks such as:
 		- Natural language inferencing (NLI)
 		- Sentence text similarity (STS)

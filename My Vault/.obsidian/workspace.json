@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Sentence Transformer.md",
+                "file": "Notes/text-embedding-ada-002.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sentence Transformer"
+              "title": "text-embedding-ada-002"
             }
           },
           {
@@ -209,10 +209,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Sentence Transformer.md"
+                "file": "Notes/text-embedding-ada-002.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Sentence Transformer"
+              "title": "Outline of text-embedding-ada-002"
             }
           },
           {
@@ -270,8 +270,9 @@
   },
   "active": "f41579797c055572",
   "lastOpenFiles": [
-    "Notes/Cross-Encoder.md",
+    "Notes/GloVe.md",
     "Notes/Sentence Transformer.md",
+    "Notes/Cross-Encoder.md",
     "Notes/SQL.md",
     "Notes/NLP - UT Austin.md",
     "Tracker/15-01-25.md",
@@ -311,7 +312,6 @@
     "Attachments/Pasted image 20250112202356.png",
     "Notes/NLP.md",
     "Tracker/QUOTES OF THE DAY.md",
-    "Notes/GIT.md",
     "Untitled.canvas",
     "Notes/MLOps course",
     "Attachments/Recording 20240608035307.webm",
