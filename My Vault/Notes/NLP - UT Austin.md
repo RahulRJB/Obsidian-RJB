@@ -501,6 +501,7 @@ Think of it like this: instead of computing the full curvature information (inve
 
 
 ### **Multi-class Perceptron**
+- ![[Attachments/seg-10.pdf]]
 
 - Multi-class perceptron is a generalization of the perceptron algorithm to handle more than two classes. The algorithm iterates through epochs and data, updating weights when the prediction is incorrect.
 - **Prediction:** The prediction uses different weights, indexed by the class label _y_ (Using **DW Approach**). The predicted class is the one that maximizes the dot product of its weight vector with the feature vector _f(x)_.

@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "NLP - UT Austin",
+      "path": "Notes/NLP - UT Austin.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "Notes/SQL.md"
+    },
+    {
       "basename": "text-embedding-ada-002",
       "path": "Notes/text-embedding-ada-002.md"
+    },
+    {
+      "basename": "15-01-25",
+      "path": "Tracker/15-01-25.md"
     },
     {
       "basename": "Sentence Transformer",
@@ -11,18 +23,6 @@
     {
       "basename": "Cross-Encoder",
       "path": "Notes/Cross-Encoder.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Notes/SQL.md"
-    },
-    {
-      "basename": "NLP - UT Austin",
-      "path": "Notes/NLP - UT Austin.md"
-    },
-    {
-      "basename": "15-01-25",
-      "path": "Tracker/15-01-25.md"
     },
     {
       "basename": "Marriage Plan",
