@@ -557,3 +557,98 @@ P(y=_ŷ_|x) = exp(_w_⋅_f(x,ŷ_)) / Σy' exp(_w_⋅_f(x,y'_)
 - These algorithms will be revisited in the context of neural networks and structured prediction.
 
 
+
+
+### **Multi-class Classification Examples in NLP**
+- ![[Attachments/seg-11.pdf]]
+
+- Multi-class classification is used to categorize text into more than two classes. eg:
+	- Text classification
+	- Textual entailment
+	- Entity disambiguation or entity linking
+	- Authorship attribution
+
+**1. Text Classification**
+
+- This involves assigning a piece of text to a topic or category.
+- **Datasets** for text classification range from news articles to online forum postings.
+
+**2. Textual Entailment**
+
+- Textual entailment is a **three-class classification task** dealing with sentence pairs.
+- The relationships between sentence pairs are:
+	- **Entailment**: The first sentence implies the second sentence. For example, "A soccer game with multiple males playing" entails "Some men are playing a sport".
+	- **Contradiction**: The two sentences cannot be true at the same time. For example, "A black car starts up in front of a crowd of people" contradicts "A man is driving down a lonely road".
+	- **Unrelated**: The relationship between the two sentences is neither entailment nor contradiction.
+- This task is challenging, especially when using basic methods like bag-of-words features.
+- **Neural networks** have significantly improved performance on this task.
+
+**3. Entity Disambiguation (Entity Linking)**
+
+- This involves linking a mention of an entity in text to its corresponding real-world entity, often represented by a **Wikipedia article**.
+- For example, in the text "… they had disqualified Armstrong from his seven consecutive Tour de France wins", "Armstrong" refers to Lance Armstrong.
+- This is a difficult task as the same mention could refer to multiple entities, so it can be thought of as a **multi-class classification problem** with a very large number of classes (e.g., any article on Wikipedia).
+- The number of potential classes can be reduced using techniques such as **pruning** down to articles with the mention in their titles.
+- This requires a more complex feature structure than just combining indicators of the input with class label.
+
+**4. Authorship Attribution**
+
+- This is the task of identifying the author of a text based on their writing style.
+- It is an old problem that has been studied using statistical methods for over a century.
+- Stylistic information, such as **stop word frequencies and function word usage**, which are often ignored in text classification, can be very useful for this task.
+- Famous historical examples include:
+	- Disputes over who wrote Shakespeare’s plays.
+	- Attributing the Federalist Papers to either Alexander Hamilton or James Madison.
+- An example of authorship attribution in the lecture is **Twitter authorship attribution**, where the goal is to identify who wrote a given tweet from a set of potential authors.
+	- A study was done using 500 million tweets from 1000 users with at least 1000 tweets each.
+	- The model they used was a support vector machine with **character four-grams and word two-through-five-grams**.
+	- They found that accuracy was surprisingly high, even with limited training data.
+	- The key to success was finding **k-signatures**, which are n-grams that appear in a certain percentage of an author's tweets but not in others.
+	- These signatures can be at the character level, or at the word level.
+	- These signatures reveal distinctive patterns that basic linear classifiers can pick up, despite the challenges.
+
+**Key Takeaways**
+
+- Multi-class classification is a versatile technique with various applications in NLP.
+- The choice of feature representation can vary depending on the task and complexity.
+- These examples show the different ways we can use multi-class classification.
+- Some problems require more sophisticated methods, such as neural networks, due to complex relationships.
+
+### **Fairness in Classification**
+- ![[Attachments/seg-11a.pdf]]
+
+- When classifiers are used to make real-world decisions, they can have significant impacts on people's lives.
+- It is crucial to consider the ethical implications of using classifiers, as these systems can be used in ways that discriminate unfairly.
+- Classifiers should adhere to the same standards as humans, including anti-discrimination laws.
+
+**Why Accuracy Isn't Enough**
+
+- Focusing solely on accuracy is not sufficient to determine if a model is fair.
+- It is important to analyze how classifiers treat different population subgroups.
+- **Bias** is defined as when a classifier makes consistent non-zero prediction errors on a subgroup compared to the overall population.
+
+**Illustrative Example of Bias**
+
+- Consider two populations, pi1 and pi2, where performance on a test is plotted against ground truth performance.
+- If individuals from pi1 consistently score higher on a test than individuals from pi2, despite having the same ground truth performance, the test is considered biased.
+- This means the test **penalizes pi2**, as they receive lower scores despite having the same underlying ability.
+
+**Fairness in Classification: Predicted Positives vs. Ground Truth Positives**
+
+- Fairness in classification is also based on the ratio of predicted positives to ground truth positives.
+- The ratio of predicted positives to ground truth positives must be approximately the same for each group to ensure fairness.
+- For instance, if group 1 has 50% positive reviews and group 2 has 60% positive reviews, a fair classifier should predict 50% positive in group 1 and 60% positive in group 2.
+- A classifier that predicts 50% positive in both groups is unfair to group 2, even if its accuracy is high for both groups, because it under-predicts the positive rate for that group.
+
+**Adjusting Classification Thresholds**
+
+- It is possible to use different criteria across different groups to achieve fairer results.
+- This may involve adjusting the classification threshold for certain groups. For example, if a classifier under-predicts positives for group 2, one could lower the threshold for positive predictions for that group. This counter-intuitive approach could result in a fairer outcome.
+
+**The Problem of Sensitive Features**
+
+- Classifiers can discriminate even when explicitly avoiding sensitive features like gender or race.
+- This occurs when other features correlate with membership in a minority group.
+- For example, in authorship attribution, bag-of-words features can detect different dialects of English or code-switching, thus revealing the group a person belongs to.
+- Similarly, zip code information, when used in loan applications, correlates heavily with race, thereby introducing bias.
+- A real-world example is Amazon's resume sorting tool, which learned negative weights for women's organizations and women's colleges, revealing an unintended gender bias.
