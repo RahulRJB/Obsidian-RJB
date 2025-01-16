@@ -722,63 +722,40 @@ P(y=_ŷ_|x) = exp(_w_⋅_f(x,ŷ_)) / Σy' exp(_w_⋅_f(x,y'_)
 
 
 ### **Feedforward Neural Networks: Mathematical Notation**
-- ![[Attachments/seg-13 1.pdf]]
+- ![[Attachments/seg-14.pdf]]
 
 
-- The lecture begins by formalizing the concept of feedforward neural networks using mathematical notation.
-- The starting point is **multi-class logistic regression**, where the probability of a class _y_ is calculated using the formula: P(y) = exp(w_y ⋅ f(x)) / Σ exp(w_y' ⋅ f(x)), where:
-- _w_y_ is the weight vector associated with class _y_.
-- _f(x)_ is the feature vector.
-- The sum in the denominator is over all possible classes _y'_. [1]
-- This equation calculates a **scalar probability** for a single class. [1]
-- To move towards a vectorized computation, the weight vectors for each class (_w1, w2, w3..._) are stacked into a single **weight matrix (W)** [1].
-- This allows the entire operation to be expressed in a more compact form: **softmax(W * f(x))**. [1]
-- _W_ is a matrix of size (number of classes x number of features).
-- The output is a **vector of probabilities** for each class. [1]
+- The starting point is **multi-class logistic regression**, where the probability of a class _y_ is calculated using the formula: P(y) = exp(w_y ⋅ f(x)) / Σ exp(w_y' ⋅ f(x)), where _w_y_ is the weight vector associated with class _y_.
+	- _f(x)_ is the feature vector.
+	- The sum in the denominator is over all possible classes _y'_.
+	- This equation calculates a **scalar probability** for a single class.
+- To move towards a vectorized computation, the weight vectors for each class (_w1, w2, w3..._) are stacked into a single **weight matrix (W)**.
+- This allows the entire operation to be expressed in a more compact form: **softmax(W * f(x))**.
+- _W_ is a matrix of size (number of classes x number of features). The output being the **vector of probabilities** for each class.
 
 **Introducing Hidden Layers**
 
-- A **hidden layer** is introduced to compute a latent feature representation _z_. [2]
-- This is achieved by multiplying the input feature vector _f(x)_ by a matrix _V_ and then applying a non-linear function _g_: **z = g(V * f(x))**. [2]
+- A **hidden layer** is introduced to compute a latent feature representation _z_.
+- This is achieved by multiplying the input feature vector _f(x)_ by a matrix _V_ (to change dimensionality) and then applying a non-linear function _g_: **z = g(V * f(x))**.
 - _V_ is a matrix of size (d x n), where _n_ is the number of input features and _d_ is the dimension of the hidden layer.
 - _z_ is the latent feature vector.
-- The output probability vector is then computed using the same softmax operation: **softmax(W * z)**. [2]
-- The sizes of the matrices (_V_ and _W_) are critical for the operations to work correctly, and must match the sizes of the layers [2].
+- The output probability vector is then computed using the same softmax operation: **softmax(W * z)**.
+- The sizes of the matrices (_V_ and _W_) are critical for the operations to work correctly, and must match the sizes of the layers.
 
 **Training Neural Networks**
 
-- The training process aims to **maximize the log-likelihood** of the training data, or equivalently, **minimize the negative log-likelihood (loss)**. [3]
-- The log-likelihood of a training example is expressed as a dot product of a **selector vector _e_** with the log probabilities. _e_ is a vector with 1 in the position of the correct class and zeros everywhere else [3].
-- This formulation ensures that the network learns to assign a high probability to the correct class. [3]
-- The loss function for a single example is given by the weights of the correct class dotted with _z_, minus the log of the sum of the exponentiated values, which is similar to multi-class logistic regression [3].
+- The training process aims to **maximize the log-likelihood** of the training data, or equivalently, **minimize the negative log-likelihood (loss)**.
+- The log-likelihood of a training example is expressed as a dot product of a **selector vector _e_** with the log probabilities. _e_ is a vector with 1 in the position of the correct class and 0s everywhere else.
+- This formulation ensures that the network learns to assign a high probability to the correct class.
+- The loss function for a single example is given by the weights of the correct class dotted with _z_, minus the log of the sum of the exponentiated values, which is similar to multi-class logistic regression.
 
 **Backpropagation**
 
-- Backpropagation is used to compute the gradients of the loss with respect to the parameters (matrix _V_) in the earlier layers of the network. [4]
-- The high level idea of backpropagation involves computing an **error signal** based on the output layer and passing it back through the network. [4]
-- This error signal is used to update the parameters in the earlier layers of the network by applying the **chain rule**. [4]
-- The gradient of the loss with respect to _V_ is computed as the product of the gradient of the loss with respect to _z_ and the gradient of _z_ with respect to _V_. [4]
-- The gradient of _z_ with respect to _V_ involves the derivative of the non-linear activation function _g_, and the gradient of the linear transformation [4].
-- For each parameter matrix (_V_ and _W_), a gradient term from the loss is combined with information from the input to that layer to update the parameters [5].
-- Backpropagation works by using saved values from the forward pass and computing the gradient backwards [5].
+- Backpropagation is used to compute the gradients of the loss with respect to the parameters (matrix _V_) in the earlier layers of the network.
+- The high level idea of backpropagation involves computing an **error signal** based on the output layer and passing it back through the network.
+- This error signal is used to update the parameters in the earlier layers of the network by applying the **chain rule**.
+- The gradient of the loss with respect to _V_ is computed as the product of the gradient of the loss with respect to _z_ and the gradient of _z_ with respect to _V_.
+- The gradient of _z_ with respect to _V_ involves the derivative of the non-linear activation function _g_, and the gradient of the linear transformation.
+- For each parameter matrix (_V_ and _W_), a gradient term from the loss is combined with information from the input to that layer to update the parameters.
+- Backpropagation works by using saved values from the forward pass and computing the gradient backwards.
 
-**Key Concepts**
-
-- **Multi-class Logistic Regression:** The starting point for understanding feedforward neural networks, where probabilities for multiple classes are calculated using a softmax function. [1]
-- **Weight Matrix (W):** A matrix formed by stacking the weight vectors of all classes together, which allows for vectorized computations. [1]
-- **Hidden Layer:** A layer that transforms input features into a latent feature space _z_ using a linear transformation (matrix _V_) followed by a non-linear activation function. [2]
-- **Latent Feature Space (z):** A transformed representation of the input data that the neural network uses internally for classification. [2]
-- **Non-linear Activation Function (g):** A non-linear function applied after the linear transformation, which allows the network to learn complex patterns in the data. [2]
-- **Log Likelihood:** A measure used to train the network, where the goal is to maximize the log-likelihood of the training data. [3]
-- **Backpropagation:** An algorithm used to compute the gradients of the loss with respect to the parameters in the earlier layers of the network. [4]
-- **Error Signal:** A term propagated backwards through the network to compute gradients. [4]
-- **Chain Rule:** A mathematical rule used in backpropagation to compute the gradient of composite functions. [4]
-
-**Key Takeaways**
-
-- Feedforward neural networks build upon multi-class logistic regression by introducing hidden layers and non-linearities.
-- These networks transform input data into a latent space, and the entire process can be expressed mathematically using matrix operations and non-linear activation functions.
-- Backpropagation is used to train the network by computing gradients of the loss with respect to the network's parameters.
-- The network learns the parameters of the transformation by using the gradient and optimizing the likelihood of the data.
-
-These notes should provide a comprehensive understanding of feedforward neural networks, their mathematical formulations, and the backpropagation algorithm. Remember to review these concepts and the associated mathematical expressions to solidify your learning.
