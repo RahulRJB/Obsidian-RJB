@@ -722,6 +722,8 @@ P(y=_ŷ_|x) = exp(_w_⋅_f(x,ŷ_)) / Σy' exp(_w_⋅_f(x,y'_)
 
 
 ### **Feedforward Neural Networks: Mathematical Notation**
+- ![[Attachments/seg-13 1.pdf]]
+
 
 - The lecture begins by formalizing the concept of feedforward neural networks using mathematical notation.
 - The starting point is **multi-class logistic regression**, where the probability of a class _y_ is calculated using the formula: P(y) = exp(w_y ⋅ f(x)) / Σ exp(w_y' ⋅ f(x)), where:

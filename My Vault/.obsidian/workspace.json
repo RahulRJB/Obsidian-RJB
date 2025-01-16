@@ -132,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -332,14 +332,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f85b66545a5f5050",
+  "active": "3fb83bcf5dcd0aa6",
   "lastOpenFiles": [
-    "Tracker/15-01-25.md",
+    "Attachments/seg-13 1.pdf",
     "Tracker/Marriage Plan.md",
+    "Notes/NLP - UT Austin.md",
+    "Tracker/16-01-25.md",
+    "Tracker/15-01-25.md",
     "Tracker/Lists.md",
     "Tracker/Projects Details.md",
     "Tracker/GOALS 2025.md",
-    "Notes/NLP - UT Austin.md",
     "Notes/SQL.md",
     "Tracker/14-01-25.md",
     "Attachments/seg-13.pdf",
@@ -352,7 +354,6 @@
     "Notes/Sentence Transformer.md",
     "Notes/Cross-Encoder.md",
     "Attachments/seg-9.pdf",
-    "Tracker/16-01-25.md",
     "Notes/Inverse Hessian.md",
     "Notes/inverse Hessian.md",
     "Attachments/seg-8.pdf",
