@@ -74,11 +74,15 @@
               "type": "kanban",
               "state": {
                 "file": "Tracker/Lists.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "kanbanViewState": {
+                  "kanban-plugin": [],
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-trello",
               "title": "Lists"
             }
           },
@@ -88,13 +92,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/15-01-25.md",
+                "file": "Tracker/16-01-25.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15-01-25"
+              "title": "16-01-25"
             }
           },
           {
@@ -128,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/NLP - UT Austin.md",
+                "file": "Tracker/16-01-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +256,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for NLP - UT Austin"
+              "title": "Backlinks for 16-01-25"
             }
           },
           {
@@ -261,12 +265,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/NLP - UT Austin.md",
+                "file": "Tracker/16-01-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from NLP - UT Austin"
+              "title": "Outgoing links from 16-01-25"
             }
           },
           {
@@ -328,12 +332,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3fb83bcf5dcd0aa6",
+  "active": "f85b66545a5f5050",
   "lastOpenFiles": [
-    "Notes/SQL.md",
     "Tracker/15-01-25.md",
-    "Tracker/14-01-25.md",
+    "Tracker/Marriage Plan.md",
+    "Tracker/Lists.md",
+    "Tracker/Projects Details.md",
+    "Tracker/GOALS 2025.md",
     "Notes/NLP - UT Austin.md",
+    "Notes/SQL.md",
+    "Tracker/14-01-25.md",
     "Attachments/seg-13.pdf",
     "Attachments/seg-12.pdf",
     "Attachments/seg-11a.pdf",
@@ -344,11 +352,7 @@
     "Notes/Sentence Transformer.md",
     "Notes/Cross-Encoder.md",
     "Attachments/seg-9.pdf",
-    "Tracker/Marriage Plan.md",
-    "Tracker/Projects Details.md",
-    "Tracker/Lists.md",
     "Tracker/16-01-25.md",
-    "Tracker/GOALS 2025.md",
     "Notes/Inverse Hessian.md",
     "Notes/inverse Hessian.md",
     "Attachments/seg-8.pdf",
