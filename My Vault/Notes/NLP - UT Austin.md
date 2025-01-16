@@ -744,7 +744,7 @@ P(y=_ŷ_|x) = exp(_w_⋅_f(x,ŷ_)) / Σy' exp(_w_⋅_f(x,y'_)
 
 **Training Neural Networks**
 
-- The training process aims to **maximize the log-likelihood** of the training data, or equivalently, **minimize the negative log-likelihood (loss)**.
+- The training process aims to **[[Notes/Maximum Likelihood|maximize the log-likelihood]]** of the training data, or equivalently, **minimize the negative log-likelihood (loss)**.
 - The log-likelihood of a training example is expressed as a dot product of a **selector vector _e_** with the log probabilities. _e_ is a vector with 1 in the position of the correct class and 0s everywhere else.
 - This formulation ensures that the network learns to assign a high probability to the correct class.
 - The loss function for a single example is given by the weights of the correct class dotted with _z_, minus the log of the sum of the exponentiated values, which is similar to multi-class logistic regression.

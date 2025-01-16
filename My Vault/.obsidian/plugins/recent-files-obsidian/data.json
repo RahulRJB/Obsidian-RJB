@@ -5,6 +5,18 @@
       "path": "Notes/NLP - UT Austin.md"
     },
     {
+      "basename": "Maximum Likelihood",
+      "path": "Notes/Maximum Likelihood.md"
+    },
+    {
+      "basename": "Dreams",
+      "path": "Tracker/Dreams.md"
+    },
+    {
+      "basename": "MLOps AWS",
+      "path": "Notes/MLOps AWS.md"
+    },
+    {
       "basename": "Marriage Plan",
       "path": "Tracker/Marriage Plan.md"
     },
@@ -75,10 +87,6 @@
     {
       "basename": "10-01-25",
       "path": "Tracker/10-01-25.md"
-    },
-    {
-      "basename": "Dreams",
-      "path": "Tracker/Dreams.md"
     },
     {
       "basename": "Tf-IDf",
