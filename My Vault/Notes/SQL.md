@@ -29,6 +29,23 @@ Tags:
 		- ```SELECT name, age FROM table
 		  WHERE name='Rahul' AND age>20;```
 		- ```SELECT title FROM films
-		  WHERE rated='R' AND rating>8.5 AND director='Nolan';``` - Sequence is FROM->WHERE->SELECT
-		- 
-	
+		  WHERE rated='R' AND rating>8.5 AND director='Nolan';``` 
+	- `ORDER BY` - Sort rows by column value
+		-  ```SELECT * FROM customer_db
+		  WHERE city='Kolkata'
+		  ORDER BY cust_id ASC, name DESC
+		  ```
+	- `LIMIT` - Limits the num of rows returned by the query
+		-  ```SELECT * FROM customer_db
+		  WHERE city='Kolkata' and amount!=0.0
+		  ORDER BY payment_date DESC
+		  LIMIT 5
+		  ``` -  5 most recent payments done in Kolkata
+	- `BETWEEN` - Tag along WHERE statement![[Attachments/Pasted image 20250117185402.png]]![[Attachments/Pasted image 20250117185441.png]]
+		- ![[Attachments/Pasted image 20250117185535.png]]
+		- ```SELECT * FROM payments_db
+		  WHERE amount BETWEEN 8 AND 9
+		  ORDER BY amount DESC```
+
+
+Sequence is FROM -> WHERE(comparison op, logical op, BETWEEN) -> ORDER BY -> LIMIT -> SELECT

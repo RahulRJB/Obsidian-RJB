@@ -1,13 +1,19 @@
 ---
+
 kanban-plugin: []
+
 ---
 
 ## TO study
 
+- [ ] Chatbot
+- [ ] Leetcode
+- [ ] Challenges in Projects
 - [ ] SQL
 	- [ ] Section 3, 4, 5
 	- [ ] Section 6, 7
 	- [ ] Section 8, 9, 10
+- [ ] SQL questions
 - [ ] NLP
 - [ ] Revise Pytorch
 - [ ] LORA implement
@@ -16,19 +22,15 @@ kanban-plugin: []
 - [ ] AWS Processing Job
 - [ ] AWS Step Functions
 - [ ] JumpStart Models
+- [ ] Amazon Athena
 - [ ] Deployments of Models
 - [ ] Andrej Karpathy gpt
-- [ ] SQL questions
 - [x] Revision of Projects ✅ 2025-01-04
 - [x] Basics algos ✅ 2025-01-05
 - [x] Stacking, blending, AK ✅ 2025-01-05
-- [ ] Amazon Athena
 - [ ] Eigenvals
 - [ ] SVD
 - [ ] PCA
-- [ ] neglogloss, logloss
-- [ ] hessian
-- [ ] cross entropy
 
 
 ## Study Materials
@@ -60,6 +62,6 @@ kanban-plugin: []
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false],"show-checkboxes":true,"lane-width":400,"full-list-lane-width":true,"new-note-template":"Templates/Template 1.md","new-card-insertion-method":"prepend"}
+{"kanban-plugin":[],"list-collapse":[false,false],"show-checkboxes":true,"lane-width":400,"full-list-lane-width":true,"new-note-template":"Templates/Template 1.md","new-card-insertion-method":"prepend"}
 ```
 %%

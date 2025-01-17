@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "SQL",
+      "path": "Notes/SQL.md"
+    },
+    {
+      "basename": "17-01-25",
+      "path": "Tracker/17-01-25.md"
+    },
+    {
       "basename": "16-01-25",
       "path": "Tracker/16-01-25.md"
+    },
+    {
+      "basename": "Dreams",
+      "path": "Tracker/Dreams.md"
+    },
+    {
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
     },
     {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
     {
-      "basename": "NLP - UT Austin",
-      "path": "Notes/NLP - UT Austin.md"
-    },
-    {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "Agentic RAG",
+      "path": "Notes/Agentic RAG.md"
+    },
+    {
+      "basename": "NLP - UT Austin",
+      "path": "Notes/NLP - UT Austin.md"
     },
     {
       "basename": "ROC-AUC",
@@ -37,10 +57,6 @@
       "path": "Notes/Maximum Likelihood.md"
     },
     {
-      "basename": "Dreams",
-      "path": "Tracker/Dreams.md"
-    },
-    {
       "basename": "MLOps AWS",
       "path": "Notes/MLOps AWS.md"
     },
@@ -51,14 +67,6 @@
     {
       "basename": "15-01-25",
       "path": "Tracker/15-01-25.md"
-    },
-    {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Notes/SQL.md"
     },
     {
       "basename": "14-01-25",
@@ -87,10 +95,6 @@
     {
       "basename": "18-01-25",
       "path": "Tracker/18-01-25.md"
-    },
-    {
-      "basename": "17-01-25",
-      "path": "Tracker/17-01-25.md"
     },
     {
       "basename": "13-01-25",
