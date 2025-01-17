@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "RAG",
+      "path": "Notes/RAG.md"
+    },
+    {
       "basename": "NLP - UT Austin",
       "path": "Notes/NLP - UT Austin.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "GOALS 2025",

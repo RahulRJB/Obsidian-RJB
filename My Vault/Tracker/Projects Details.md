@@ -180,6 +180,8 @@
 	2. Advanced RAG Features:
 	- Tried query enrichment/expansion
 	- Logical Routing: Used LLM to analyze query intent and route to appropriate indices. Used Entity recognition as well.
+	- 
+	![[Attachments/Recording 20250117024020.webm]]
 	- RAG Fusion: Implemented reciprocal rank fusion for multi-index queries
 	- Session Management: Maintained conversational context across multiple topics
 	
