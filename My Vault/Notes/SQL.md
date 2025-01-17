@@ -62,5 +62,11 @@ Tags:
 
 
 - `GROUPBY` - ![[Attachments/Pasted image 20250117195727.png]]![[Attachments/Pasted image 20250117201602.png]]
+	-  ```SELECT company, avg(price) FROM prads_db
+	  GROUP BY company```
+
+
+
+
 
 Sequence is FROM -> WHERE(comparison OP, (NOT) BETWEEN, (NOT) IN, LIKE, ILIKE, logical op) -> ORDER BY -> LIMIT -> SELECT

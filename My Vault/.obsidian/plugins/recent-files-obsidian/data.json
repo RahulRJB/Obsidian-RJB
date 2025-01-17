@@ -5,6 +5,10 @@
       "path": "Notes/SQL.md"
     },
     {
+      "basename": "Marriage Plan",
+      "path": "Tracker/Marriage Plan.md"
+    },
+    {
       "basename": "17-01-25",
       "path": "Tracker/17-01-25.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "MLOps AWS",
       "path": "Notes/MLOps AWS.md"
-    },
-    {
-      "basename": "Marriage Plan",
-      "path": "Tracker/Marriage Plan.md"
     },
     {
       "basename": "15-01-25",
