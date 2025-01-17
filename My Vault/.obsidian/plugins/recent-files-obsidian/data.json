@@ -5,6 +5,18 @@
       "path": "Tracker/Projects Details.md"
     },
     {
+      "basename": "ROC-AUC",
+      "path": "Notes/ROC-AUC.md"
+    },
+    {
+      "basename": "Information Value(IV)",
+      "path": "Notes/Information Value(IV).md"
+    },
+    {
+      "basename": "VIF",
+      "path": "Notes/VIF.md"
+    },
+    {
       "basename": "RAG",
       "path": "Notes/RAG.md"
     },

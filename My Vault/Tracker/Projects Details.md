@@ -240,7 +240,7 @@
 ## ING Australia(July22-Nov22):
 
 - #### Primary Objective:
-	- Development of models as part of the early warning system (EWS) in 3 lines of business in ING- Personal Loans, Retail Mortgages
+	- Development of models as part of the early warning system (EWS) in 3 lines of business in ING- Personal Loans, Retail Mortgages, credit card
 	- Needed to calculate the probability to default. 
 	- Total 4 EWS models to be developed, LR model(baseline) and ML model(LGBM) for each of the 2 products.
 	- The models would be developed to predict the probability of the borrower triggering bad definition (delinquency, hardship, default) in the next 3 months, further to be grouped in the risk segments high/medium/low
