@@ -46,6 +46,21 @@ Tags:
 		- ```SELECT * FROM payments_db
 		  WHERE amount BETWEEN 8 AND 9
 		  ORDER BY amount DESC```
+	- `IN` - ```SELECT * FROM payments_db
+		  WHERE name IN ('Rahul', 'Ruchira')```
+	- ![[Attachments/Pasted image 20250117194640.png]]![[Attachments/Pasted image 20250117194702.png]]![[Attachments/Pasted image 20250117194808.png]]
 
 
-Sequence is FROM -> WHERE(comparison op, logical op, BETWEEN) -> ORDER BY -> LIMIT -> SELECT
+- Aggregate Function: ![[Attachments/Pasted image 20250117200124.png]]
+	- Only happens in `SELECT` or `HAVING` clause.
+	- Returns only a number
+	- `SELECT COUNT(amount), ROUND(AVG(amount), 2), MAX(amount), MIN(amount), SUM(...) FROM transaction`
+- 
+
+
+
+
+
+- `GROUPBY` - ![[Attachments/Pasted image 20250117195727.png]]![[Attachments/Pasted image 20250117201602.png]]
+
+Sequence is FROM -> WHERE(comparison OP, (NOT) BETWEEN, (NOT) IN, LIKE, ILIKE, logical op) -> ORDER BY -> LIMIT -> SELECT
