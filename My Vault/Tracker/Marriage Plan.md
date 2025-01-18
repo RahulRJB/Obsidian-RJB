@@ -13,7 +13,7 @@
 	- [ ] Decide Reception
 	- [x] Biye ✅ 2025-01-08
 - [ ] Hotel
-- [ ] amusement
+- [x] amusement
 - [ ] Dhuti check again / Adi akshay co (18 Jan) 
 - [ ] Panjamis another?? 
 - [ ] Call Jamai

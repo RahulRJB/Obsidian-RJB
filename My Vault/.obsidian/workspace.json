@@ -142,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -342,8 +342,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2a63324f6116bf7d",
+  "active": "3c1dfbf0a15ecfde",
   "lastOpenFiles": [
+    "Tracker/GOALS 2025.md",
     "Tracker/Marriage Plan.md",
     "Tracker/QUOTES OF THE DAY.md",
     "Tracker/Lists.md",
@@ -362,7 +363,6 @@
     "Tracker/17-01-25.md",
     "Tracker/16-01-25.md",
     "Tracker/Dreams.md",
-    "Tracker/GOALS 2025.md",
     "Notes/Agentic RAG.md",
     "Notes/NLP - UT Austin.md",
     "conflict-files-obsidian-git.md",
