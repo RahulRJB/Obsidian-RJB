@@ -4,7 +4,6 @@
 	- [x] Wedding
 	- [x] Reception
 	- [ ] Sangeet/Haldi
-	- [ ] Haldi
 - [ ] Tatta
 	- [ ] winter dress
 	- [ ] bath robe

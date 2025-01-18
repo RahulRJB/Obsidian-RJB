@@ -24,3 +24,10 @@
 - No pseudo Dopamine
 - Do hard things
 - Enjoy the hard work of learning new things
+
+
+
+Omega-3, Creatine Monohydrate, Alpha-gpc, L-Tyrosine
+Meditate, NSDR, Hypnosis
+Focus on a point, limit blinks, Binural Beats
+Cold Shower, Run
