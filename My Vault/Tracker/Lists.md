@@ -6,6 +6,7 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] No Javascript, chatbot, Databricks
 - [ ] Chatbot
 - [ ] Leetcode
 - [ ] Challenges in Projects

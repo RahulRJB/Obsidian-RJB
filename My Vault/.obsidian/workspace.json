@@ -142,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -342,10 +342,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3c1dfbf0a15ecfde",
+  "active": "64ec11214a331f60",
   "lastOpenFiles": [
-    "Tracker/GOALS 2025.md",
     "Tracker/Marriage Plan.md",
+    "Tracker/GOALS 2025.md",
     "Tracker/QUOTES OF THE DAY.md",
     "Tracker/Lists.md",
     "Tracker/Projects Details.md",
