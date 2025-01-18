@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
-    },
-    {
       "basename": "Marriage Plan",
       "path": "Tracker/Marriage Plan.md"
+    },
+    {
+      "basename": "NLP - UT Austin",
+      "path": "Notes/NLP - UT Austin.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
     },
     {
       "basename": "GOALS 2025",
@@ -15,10 +23,6 @@
     {
       "basename": "QUOTES OF THE DAY",
       "path": "Tracker/QUOTES OF THE DAY.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "SQL",
@@ -39,10 +43,6 @@
     {
       "basename": "Agentic RAG",
       "path": "Notes/Agentic RAG.md"
-    },
-    {
-      "basename": "NLP - UT Austin",
-      "path": "Notes/NLP - UT Austin.md"
     },
     {
       "basename": "ROC-AUC",

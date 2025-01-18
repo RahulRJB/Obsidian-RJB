@@ -142,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -342,13 +342,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "64ec11214a331f60",
+  "active": "3c1dfbf0a15ecfde",
   "lastOpenFiles": [
+    "Notes/NLP - UT Austin.md",
     "Tracker/Marriage Plan.md",
+    "Tracker/Projects Details.md",
+    "Tracker/Lists.md",
     "Tracker/GOALS 2025.md",
     "Tracker/QUOTES OF THE DAY.md",
-    "Tracker/Lists.md",
-    "Tracker/Projects Details.md",
     "Notes/SQL.md",
     "Attachments/Pasted image 20250117221732.png",
     "Attachments/Pasted image 20250117201602.png",
@@ -364,7 +365,6 @@
     "Tracker/16-01-25.md",
     "Tracker/Dreams.md",
     "Notes/Agentic RAG.md",
-    "Notes/NLP - UT Austin.md",
     "conflict-files-obsidian-git.md",
     "Notes/venv.md",
     "Notes/python.md",
