@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/19-01-25.md",
+                "file": "Tracker/Marriage Plan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19-01-25"
+              "title": "Marriage Plan"
             }
           },
           {
@@ -344,6 +344,7 @@
   },
   "active": "3c1dfbf0a15ecfde",
   "lastOpenFiles": [
+    "Tracker/19-01-25.md",
     "Tracker/Marriage Plan.md",
     "Tracker/Projects Details.md",
     "Notes/NLP - UT Austin.md",
@@ -379,7 +380,6 @@
     "Notes/Tokenization.md",
     "Notes/Temperature.md",
     "Notes/Statistics.md",
-    "Notes/Statistical ML.md",
     "Attachments/Recording 20250117024020.webm",
     "Attachments/Recording 20250117023637.webm",
     "Attachments/seg-14.pdf",

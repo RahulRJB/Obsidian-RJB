@@ -13,12 +13,16 @@
 	- [ ] Decide Reception
 	- [x] Biye ✅ 2025-01-08
 - [ ] Hotel
+- [ ] Dentist Dida
+- [ ] Facial 26Jan
+- [ ] Haircut 3Feb
+- [ ] Whitening
 - [x] amusement
-- [ ] Dhuti check again / Adi akshay co (18 Jan) 
-- [ ] Panjamis another?? 
+- [x] Dhuti check again / Adi akshay co (18 Jan)
+- [x] Panjamis another??
 - [ ] Call Jamai
-- [x] Bus confirm
 - [ ] Call Swayatta
+- [x] Bus confirm
 - [x] Call Sankhadeep
 
 - [x] Pre wedding complete song practice ✅ 2025-01-11
