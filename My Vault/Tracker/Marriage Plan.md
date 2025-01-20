@@ -17,6 +17,8 @@
 - [ ] Facial 26Jan
 - [ ] Haircut 3Feb
 - [ ] Whitening
+- [ ] Medicine
+- [ ] Song choose
 - [x] amusement
 - [x] Dhuti check again / Adi akshay co (18 Jan)
 - [x] Panjamis another??
