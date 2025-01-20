@@ -55,19 +55,15 @@ Tags:
 	- Only happens in `SELECT` or `HAVING` clause.
 	- Returns only a number
 	- `SELECT COUNT(amount), ROUND(AVG(amount), 2), MAX(amount), MIN(amount), SUM(...) FROM transaction`
+
+- `GROUPBY` - ![[Attachments/Pasted image 20250117195727.png]]![[Attachments/Pasted image 20250117221732.png]]![[Attachments/Pasted image 20250117201602.png]]![[Attachments/Pasted image 20250120175854.png]]![[Attachments/Pasted image 20250120175935.png]]
+
+
+- `HAVING` - Allows us to filter after the AGGREGATION has already taken place using `GROUP BY`![[Attachments/Pasted image 20250120181620.png]]
+
+
+
+
 - 
 
-
-
-
-
-- `GROUPBY` - ![[Attachments/Pasted image 20250117195727.png]]![[Attachments/Pasted image 20250117221732.png]]![[Attachments/Pasted image 20250117201602.png]]
-	-  ```SELECT company, avg(price) FROM prads_db
-	  GROUP BY company```
-	- 
-
-
-
-
-
-Sequence is FROM -> WHERE(comparison OP, (NOT) BETWEEN, (NOT) IN, LIKE, ILIKE, logical op) -> GROUP BY -> ORDER BY -> LIMIT -> SELECT
+Sequence is FROM -> WHERE(comparison OP, (NOT) BETWEEN, (NOT) IN, LIKE, ILIKE, logical op) -> GROUP BY -> HAVING -> ORDER BY -> LIMIT -> SELECT

@@ -141,8 +141,7 @@
               "title": "Dreams"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -342,11 +341,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a506043e04bace55",
+  "active": "f41579797c055572",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250120181620.png",
+    "Attachments/Pasted image 20250120175935.png",
+    "Attachments/Pasted image 20250120175854.png",
+    "Tracker/Projects Details.md",
     "Tracker/Marriage Plan.md",
     "Tracker/19-01-25.md",
-    "Tracker/Projects Details.md",
     "Notes/NLP - UT Austin.md",
     "Tracker/Lists.md",
     "Tracker/GOALS 2025.md",
@@ -360,8 +362,6 @@
     "Attachments/Pasted image 20250117194702.png",
     "Attachments/Pasted image 20250117194640.png",
     "Attachments/Pasted image 20250117185535.png",
-    "Attachments/Pasted image 20250117185441.png",
-    "Attachments/Pasted image 20250117185402.png",
     "Tracker/17-01-25.md",
     "Tracker/16-01-25.md",
     "Tracker/Dreams.md",
@@ -379,7 +379,6 @@
     "Notes/ULMfit.md",
     "Notes/Tokenization.md",
     "Notes/Temperature.md",
-    "Notes/Statistics.md",
     "Attachments/Recording 20250117024020.webm",
     "Attachments/Recording 20250117023637.webm",
     "Attachments/seg-14.pdf",
