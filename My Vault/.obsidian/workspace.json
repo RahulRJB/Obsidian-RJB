@@ -93,7 +93,7 @@
               "type": "planner-weekly",
               "state": {},
               "icon": "table-2",
-              "title": "Jan, 13–Jan, 19"
+              "title": "Jan, 20–Jan, 26"
             }
           },
           {
@@ -102,13 +102,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/17-01-25.md",
+                "file": "Tracker/21-01-25.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17-01-25"
+              "title": "21-01-25"
             }
           },
           {
@@ -141,7 +141,8 @@
               "title": "Dreams"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -341,19 +342,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f41579797c055572",
+  "active": "f85b66545a5f5050",
   "lastOpenFiles": [
+    "Tracker/17-01-25.md",
+    "Tracker/21-01-25.md",
+    "Tracker/Marriage Plan.md",
+    "Notes/SQL.md",
     "Attachments/Pasted image 20250120181620.png",
     "Attachments/Pasted image 20250120175935.png",
     "Attachments/Pasted image 20250120175854.png",
     "Tracker/Projects Details.md",
-    "Tracker/Marriage Plan.md",
     "Tracker/19-01-25.md",
     "Notes/NLP - UT Austin.md",
     "Tracker/Lists.md",
     "Tracker/GOALS 2025.md",
     "Tracker/QUOTES OF THE DAY.md",
-    "Notes/SQL.md",
     "Attachments/Pasted image 20250117221732.png",
     "Attachments/Pasted image 20250117201602.png",
     "Attachments/Pasted image 20250117200124.png",
@@ -361,8 +364,6 @@
     "Attachments/Pasted image 20250117194808.png",
     "Attachments/Pasted image 20250117194702.png",
     "Attachments/Pasted image 20250117194640.png",
-    "Attachments/Pasted image 20250117185535.png",
-    "Tracker/17-01-25.md",
     "Tracker/16-01-25.md",
     "Tracker/Dreams.md",
     "Notes/Agentic RAG.md",
