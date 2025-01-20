@@ -7,17 +7,14 @@
 - [ ] Tatta
 	- [ ] winter dress
 	- [ ] bath robe
-	- [ ] under the garments
 	- [ ] nightware
-- [ ] Venue Decoration
-	- [ ] Decide Reception
-	- [x] Biye ✅ 2025-01-08
+- [ ] Decide Reception
 - [ ] Hotel
 - [ ] Dentist Dida
 - [ ] Facial 26Jan
 - [ ] Haircut 3Feb
 - [ ] Whitening
-- [ ] Medicine
+- [x] Medicine
 - [ ] Song choose
 - [x] amusement
 - [x] Dhuti check again / Adi akshay co (18 Jan)
