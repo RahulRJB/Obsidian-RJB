@@ -142,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -342,10 +342,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f85b66545a5f5050",
+  "active": "64ec11214a331f60",
   "lastOpenFiles": [
-    "Tracker/17-01-25.md",
     "Tracker/21-01-25.md",
+    "Tracker/17-01-25.md",
     "Tracker/Marriage Plan.md",
     "Notes/SQL.md",
     "Attachments/Pasted image 20250120181620.png",
