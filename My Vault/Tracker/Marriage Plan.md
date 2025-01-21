@@ -8,12 +8,13 @@
 	- [ ] winter dress
 	- [ ] bath robe
 	- [ ] nightware
-- [ ] Decide Reception
+- [ ] Decide Reception decor
 - [ ] Hotel
-- [ ] Dentist Dida
+- [x] Dentist Dida 26Jan@10:30
 - [ ] Facial 26Jan
 - [ ] Haircut 3Feb
-- [ ] Whitening
+- [ ] Scaling 1Feb@10:00
+- [ ] Lace stitch
 - [x] Medicine
 - [ ] Song choose
 - [x] amusement
@@ -22,7 +23,6 @@
 - [ ] Call Jamai
 - [ ] Call Swayatta
 - [x] Bus confirm
-- [x] Call Sankhadeep
 
 - [x] Pre wedding complete song practice ✅ 2025-01-11
 - [x] Splitwise ✅ 2025-01-08

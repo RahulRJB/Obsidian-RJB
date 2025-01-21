@@ -63,7 +63,31 @@ Tags:
 
 
 
+- AS - column alias
+	- ![[Attachments/Pasted image 20250121140345.png]]Only get created at the very end of the data output.
+	- ![[Attachments/Pasted image 20250121140805.png]]
+	  
 
-- 
+- JOINS:
+	- INNER:  
+		- ![[Attachments/Pasted image 20250121142232.png]]
+		- ![[Attachments/Pasted image 20250121142829.png]]
+	- OUTER:
+		- ![[Attachments/Pasted image 20250121143021.png]]![[Attachments/Pasted image 20250121143113.png]]
+		- ![[Attachments/Pasted image 20250121143249.png]]![[Attachments/Pasted image 20250121143707.png]]
+		- 
 
-Sequence is FROM -> WHERE(comparison OP, (NOT) BETWEEN, (NOT) IN, LIKE, ILIKE, logical op) -> GROUP BY -> HAVING -> ORDER BY -> LIMIT -> SELECT
+
+
+
+
+
+
+
+
+Sequence:   `FROM -> JOIN -> WHERE(comparison OP, (NOT) BETWEEN, (NOT) IN, LIKE, ILIKE, logical op) -> GROUP BY -> HAVING -> ORDER BY -> LIMIT -> SELECT -> AS
+`
+
+
+
+

@@ -6,6 +6,7 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] SORT and SEARCH
 - [ ] Revise The models like XgBoost
 - [ ] No Javascript, chatbot, Databricks
 - [ ] Chatbot
