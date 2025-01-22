@@ -102,13 +102,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/21-01-25.md",
+                "file": "Tracker/22-01-25.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21-01-25"
+              "title": "22-01-25"
             }
           },
           {
@@ -141,8 +141,7 @@
               "title": "Dreams"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -342,27 +341,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "64ec11214a331f60",
+  "active": "f41579797c055572",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250122142246.png",
+    "Attachments/Pasted image 20250122141256.png",
+    "Tracker/22-01-25.md",
+    "Tracker/21-01-25.md",
     "Notes/SQL.md",
-    "Attachments/Pasted image 20250121143707.png",
+    "Attachments/Pasted image 20250122135957.png",
+    "Attachments/Pasted image 20250122135840.png",
+    "Tracker/Lists.md",
+    "Tracker/Projects Details.md",
+    "Tracker/GOALS 2025.md",
     "Tracker/Marriage Plan.md",
+    "Attachments/Pasted image 20250121143707.png",
     "Attachments/Pasted image 20250121143249.png",
     "Attachments/Pasted image 20250121143113.png",
     "Attachments/Pasted image 20250121143021.png",
     "Attachments/Pasted image 20250121142829.png",
     "Attachments/Pasted image 20250121142232.png",
     "Attachments/Pasted image 20250121140805.png",
-    "Attachments/Screen+Shot+2016-04-17+at+12.22.49+PM.png",
-    "Attachments/Pasted image 20250121140345.png",
-    "Attachments/Pasted image 20250121140253.png",
-    "Tracker/21-01-25.md",
-    "Tracker/Lists.md",
     "Tracker/17-01-25.md",
-    "Tracker/Projects Details.md",
     "Tracker/19-01-25.md",
     "Notes/NLP - UT Austin.md",
-    "Tracker/GOALS 2025.md",
     "Tracker/QUOTES OF THE DAY.md",
     "Tracker/16-01-25.md",
     "Tracker/Dreams.md",
@@ -378,7 +379,6 @@
     "Notes/Word Embeddings.md",
     "Notes/Vector Search.md",
     "Notes/ULMfit.md",
-    "Notes/Tokenization.md",
     "Attachments/Recording 20250117024020.webm",
     "Attachments/Recording 20250117023637.webm",
     "Attachments/seg-14.pdf",

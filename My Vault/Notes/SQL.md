@@ -75,7 +75,9 @@ Tags:
 	- OUTER:
 		- ![[Attachments/Pasted image 20250121143021.png]]![[Attachments/Pasted image 20250121143113.png]]
 		- ![[Attachments/Pasted image 20250121143249.png]]![[Attachments/Pasted image 20250121143707.png]]
-		- 
+	- LEFT JOIN:
+		- ![[Attachments/Pasted image 20250122135840.png]]![[Attachments/Pasted image 20250122135957.png]]
+		- ![[Attachments/Pasted image 20250122141256.png]]![[Attachments/Pasted image 20250122142246.png]]
 
 
 
