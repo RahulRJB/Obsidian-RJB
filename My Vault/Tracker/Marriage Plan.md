@@ -15,6 +15,8 @@
 - [ ] Haircut 3Feb
 - [ ] Scaling 1Feb@10:00
 - [ ] Lace stitch
+- [ ] Dhol
+- [ ] Dhuti learn
 - [x] Medicine
 - [ ] Song choose
 - [x] amusement

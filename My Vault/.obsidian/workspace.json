@@ -141,7 +141,8 @@
               "title": "Dreams"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -341,26 +342,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f41579797c055572",
+  "active": "3c1dfbf0a15ecfde",
   "lastOpenFiles": [
+    "Tracker/Projects Details.md",
+    "Tracker/Marriage Plan.md",
+    "Notes/SQL.md",
     "Attachments/Pasted image 20250122142246.png",
     "Attachments/Pasted image 20250122141256.png",
     "Tracker/22-01-25.md",
     "Tracker/21-01-25.md",
-    "Notes/SQL.md",
     "Attachments/Pasted image 20250122135957.png",
     "Attachments/Pasted image 20250122135840.png",
     "Tracker/Lists.md",
-    "Tracker/Projects Details.md",
     "Tracker/GOALS 2025.md",
-    "Tracker/Marriage Plan.md",
     "Attachments/Pasted image 20250121143707.png",
     "Attachments/Pasted image 20250121143249.png",
     "Attachments/Pasted image 20250121143113.png",
     "Attachments/Pasted image 20250121143021.png",
     "Attachments/Pasted image 20250121142829.png",
     "Attachments/Pasted image 20250121142232.png",
-    "Attachments/Pasted image 20250121140805.png",
     "Tracker/17-01-25.md",
     "Tracker/19-01-25.md",
     "Notes/NLP - UT Austin.md",
