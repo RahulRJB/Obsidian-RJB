@@ -477,7 +477,7 @@
 | AT&T                                                                  |            |        |                 |                         |         |
 | R Technologies                                                        |            |        |                 |                         |         |
 | Rocket Softwares                                                      |            |        |                 | 24Jan@11:30am           |         |
-| Hurmonics Global                                                      |            |        |                 |                         |         |
+| Hurmonics Global                                                      |            | 30     |                 | 27Jan@12pm              |         |
 
 
 

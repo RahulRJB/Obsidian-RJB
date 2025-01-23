@@ -84,7 +84,18 @@ Tags:
 	- ![[Attachments/Pasted image 20250123131919.png]]![[Attachments/Pasted image 20250123132208.png]]
 
 
+- Time:![[Attachments/Pasted image 20250123182415.png]]
+	- ![[Attachments/Pasted image 20250123182544.png]]SELECT TIMEZONE / NOW() / TIMEOFDAY() / CURRENT_TIME / CURRENT_DATE
+	- ![[Attachments/Pasted image 20250123183239.png]]![[Attachments/Pasted image 20250123183322.png]]
+	- ![[Attachments/Pasted image 20250123183334.png]]
+	- ![[Attachments/Pasted image 20250123183349.png]]![[Attachments/Pasted image 20250123183502.png]]
 
+
+- Mathmatical Operations:
+	- ![[Attachments/Pasted image 20250123184345.png]]
+
+- String Opeartions:
+	- ![[Attachments/Pasted image 20250123184515.png]]
 
 
 
