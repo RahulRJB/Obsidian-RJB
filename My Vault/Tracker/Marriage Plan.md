@@ -17,6 +17,7 @@
 - [ ] Lace stitch
 - [ ] Dhol
 - [ ] Dhuti learn
+- [ ] Sandakphu
 - [x] Medicine
 - [ ] Song choose
 - [x] amusement
