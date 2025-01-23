@@ -52,7 +52,7 @@ Other food- 2L
 Ring- 75k, paid me  
 Decoration- 2L 
 Home decoration- 60k
-Photographer- 65k total, 20k paid me  
+Photographer- 65k total, 20k+16250/- paid me  
 Jewellery- 7L, paid papa  
 Clothes- 41k + 1.8k, paid papa  
 Card- 7k, paid me  
@@ -71,6 +71,15 @@ Pandit- 25k
 Wedding Shoes- 
 Juta chori- 25k?
 Given Papa - 10k
+cosmetics - 17171/- paid me
+Wedding shoe - 1861/-, paid me
+Other Totto - 7528/-, paid me
+Mukut - 2369/-, paid me
+
+
+
+
+
 Ruchira paid - 40k
 
 

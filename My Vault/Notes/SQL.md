@@ -72,6 +72,7 @@ Tags:
 	- INNER:  
 		- ![[Attachments/Pasted image 20250121142232.png]]
 		- ![[Attachments/Pasted image 20250121142829.png]]
+		- ![[Attachments/Pasted image 20250123133208.png]]
 	- OUTER:
 		- ![[Attachments/Pasted image 20250121143021.png]]![[Attachments/Pasted image 20250121143113.png]]
 		- ![[Attachments/Pasted image 20250121143249.png]]![[Attachments/Pasted image 20250121143707.png]]
@@ -79,7 +80,8 @@ Tags:
 		- ![[Attachments/Pasted image 20250122135840.png]]![[Attachments/Pasted image 20250122135957.png]]
 		- ![[Attachments/Pasted image 20250122141256.png]]![[Attachments/Pasted image 20250122142246.png]]
 
-
+- UNION:![[Attachments/Pasted image 20250123131748.png]]
+	- ![[Attachments/Pasted image 20250123131919.png]]![[Attachments/Pasted image 20250123132208.png]]
 
 
 

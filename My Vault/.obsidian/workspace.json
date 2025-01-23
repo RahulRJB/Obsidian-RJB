@@ -141,8 +141,7 @@
               "title": "Dreams"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -342,29 +341,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3c1dfbf0a15ecfde",
+  "active": "f41579797c055572",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250123133208.png",
+    "Attachments/Pasted image 20250123132208.png",
+    "Attachments/Pasted image 20250123132127.png",
+    "Attachments/Pasted image 20250123131919.png",
+    "Attachments/Pasted image 20250123131748.png",
     "Tracker/23-01-25.md",
+    "Notes/SQL.md",
+    "Tracker/Projects Details.md",
+    "Tracker/GOALS 2025.md",
     "Tracker/Marriage Plan.md",
+    "Notes/NLP - UT Austin.md",
     "Tracker/Lists.md",
     "Tracker/22-01-25.md",
-    "Tracker/Projects Details.md",
-    "Notes/SQL.md",
     "Attachments/Pasted image 20250122142246.png",
     "Attachments/Pasted image 20250122141256.png",
     "Tracker/21-01-25.md",
     "Attachments/Pasted image 20250122135957.png",
     "Attachments/Pasted image 20250122135840.png",
-    "Tracker/GOALS 2025.md",
     "Attachments/Pasted image 20250121143707.png",
     "Attachments/Pasted image 20250121143249.png",
-    "Attachments/Pasted image 20250121143113.png",
-    "Attachments/Pasted image 20250121143021.png",
-    "Attachments/Pasted image 20250121142829.png",
-    "Attachments/Pasted image 20250121142232.png",
     "Tracker/17-01-25.md",
     "Tracker/19-01-25.md",
-    "Notes/NLP - UT Austin.md",
     "Tracker/QUOTES OF THE DAY.md",
     "Tracker/16-01-25.md",
     "Tracker/Dreams.md",
@@ -379,7 +379,6 @@
     "Notes/auto-regressive.md",
     "Notes/Word Embeddings.md",
     "Notes/Vector Search.md",
-    "Notes/ULMfit.md",
     "Attachments/Recording 20250117024020.webm",
     "Attachments/Recording 20250117023637.webm",
     "Attachments/seg-14.pdf",

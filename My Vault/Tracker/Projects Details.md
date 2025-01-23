@@ -474,6 +474,9 @@
 | Harman                                                                |            |        |                 |                                   |         |
 | John Deere                                                            | GenAI      |        | MG Road         |                                   | Priti   |
 | Verizon                                                               |            |        |                 |                                   |         |
+| AT&T                                                                  |            |        |                 |                                   |         |
+| R Technologies                                                        |            |        |                 |                                   |         |
+| Rocket Softwares                                                      |            |        |                 |                                   |         |
 
 
 
