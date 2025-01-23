@@ -141,7 +141,8 @@
               "title": "Dreams"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -341,15 +342,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f41579797c055572",
+  "active": "a506043e04bace55",
   "lastOpenFiles": [
+    "Notes/SQL.md",
+    "Tracker/23-01-25.md",
     "Attachments/Pasted image 20250123133208.png",
     "Attachments/Pasted image 20250123132208.png",
     "Attachments/Pasted image 20250123132127.png",
     "Attachments/Pasted image 20250123131919.png",
     "Attachments/Pasted image 20250123131748.png",
-    "Tracker/23-01-25.md",
-    "Notes/SQL.md",
     "Tracker/Projects Details.md",
     "Tracker/GOALS 2025.md",
     "Tracker/Marriage Plan.md",
@@ -362,7 +363,6 @@
     "Attachments/Pasted image 20250122135957.png",
     "Attachments/Pasted image 20250122135840.png",
     "Attachments/Pasted image 20250121143707.png",
-    "Attachments/Pasted image 20250121143249.png",
     "Tracker/17-01-25.md",
     "Tracker/19-01-25.md",
     "Tracker/QUOTES OF THE DAY.md",
