@@ -71,6 +71,7 @@ Pandit- 25k
 Wedding Shoes- 
 Juta chori- 25k?
 Given Papa - 10k
+Ruchira paid - 40k
 
 
 
