@@ -96,6 +96,18 @@ Tags:
 
 - String Opeartions:
 	- ![[Attachments/Pasted image 20250123184515.png]]
+	- ![[Attachments/Pasted image 20250123231212.png]]![[Attachments/Pasted image 20250123231335.png]]
+
+
+- SUBQUERY:![[Attachments/Pasted image 20250123231939.png]]![[Attachments/Pasted image 20250123232202.png]]
+	- ![[Attachments/Pasted image 20250123232123.png]]
+	- ![[Attachments/Pasted image 20250123232219.png]]![[Attachments/Pasted image 20250123233541.png]]
+
+- EXISTS:![[Attachments/Pasted image 20250123232515.png]]
+	- ![[Attachments/Pasted image 20250123233912.png]]
+
+- SELF JOIN: ![[Attachments/Pasted image 20250123234023.png]]![[Attachments/Pasted image 20250123234053.png]]
+	- ![[Attachments/Pasted image 20250123234752.png]]
 
 
 

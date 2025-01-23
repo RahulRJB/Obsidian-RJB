@@ -5,10 +5,10 @@
 	- [x] Reception
 	- [ ] Sangeet/Haldi
 - [ ] Tatta
-	- [ ] winter dress
-	- [ ] bath robe
-	- [ ] nightware
-- [ ] Decide Reception decor
+	- [x] winter dress
+	- [x] bath robe
+	- [x] nightware
+- [ ] Decide Reception decor 25Jan meet decor, 28 meet caterer
 - [ ] Hotel
 - [x] Dentist Dida 26Jan@10:30
 - [ ] Facial 26Jan
