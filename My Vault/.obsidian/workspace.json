@@ -140,9 +140,24 @@
               "icon": "lucide-file",
               "title": "Dreams"
             }
+          },
+          {
+            "id": "0540a224e2eb0506",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/RAG.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RAG"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -165,43 +180,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "1e2ca3694380c241",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "799b9ca90fb7b25c",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "50ab39900cefe450",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
             }
           }
         ]
@@ -319,6 +297,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -332,7 +311,6 @@
       "obsidian-kanban:Create new board": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
@@ -342,11 +320,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a506043e04bace55",
+  "active": "0540a224e2eb0506",
   "lastOpenFiles": [
-    "Notes/ROUGE.md",
-    "Tracker/Projects Details.md",
+    "Notes/ColBERT.md",
+    "Notes/RAG.md",
+    "Excalidraw/Drawing 2025-01-24 12.58.00.excalidraw.md",
+    "Excalidraw",
+    "Notes/Assert.md",
     "Tracker/24-01-25.md",
+    "Tracker/Projects Details.md",
+    "Notes/ROUGE.md",
     "Articles",
     "Tracker/Marriage Plan.md",
     "Tracker/Lists.md",
@@ -354,7 +337,6 @@
     "Tracker/Dreams.md",
     "Notes/Blending.md",
     "Notes/Collaborative Filtering.md",
-    "Notes/ColBERT.md",
     "Notes/Stacking.md",
     "Notes/ROC-AUC.md",
     "Notes/Sentence Transformer.md",
@@ -368,9 +350,6 @@
     "Notes/GIT.md",
     "Notes/Selective Search.md",
     "Tracker/16-01-25.md",
-    "Tracker/19-01-25.md",
-    "Notes/Tf-IDf.md",
-    "Notes/Prompt caching.md",
     "Attachments/Pasted image 20250124005744.png",
     "Attachments/Pasted image 20250124005709.png",
     "Attachments/Pasted image 20250124005603.png",
@@ -389,7 +368,6 @@
     "Attachments/seg-12.pdf",
     "Attachments/seg-11a.pdf",
     "Attachments/seg-11.pdf",
-    "Attachments/seg-10.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

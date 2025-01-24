@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "RAG",
+      "path": "Notes/RAG.md"
+    },
+    {
+      "basename": "ColBERT",
+      "path": "Notes/ColBERT.md"
+    },
+    {
+      "basename": "Assert",
+      "path": "Notes/Assert.md"
+    },
+    {
+      "basename": "24-01-25",
+      "path": "Tracker/24-01-25.md"
+    },
+    {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "ROUGE",
       "path": "Notes/ROUGE.md"
-    },
-    {
-      "basename": "24-01-25",
-      "path": "Tracker/24-01-25.md"
     },
     {
       "basename": "Marriage Plan",
@@ -35,10 +47,6 @@
     {
       "basename": "Collaborative Filtering",
       "path": "Notes/Collaborative Filtering.md"
-    },
-    {
-      "basename": "ColBERT",
-      "path": "Notes/ColBERT.md"
     },
     {
       "basename": "Stacking",
@@ -165,10 +173,6 @@
       "path": "Notes/VIF.md"
     },
     {
-      "basename": "RAG",
-      "path": "Notes/RAG.md"
-    },
-    {
       "basename": "MLOps AWS",
       "path": "Notes/MLOps AWS.md"
     },
@@ -191,14 +195,6 @@
     {
       "basename": "Inverse Hessian",
       "path": "Notes/Inverse Hessian.md"
-    },
-    {
-      "basename": "18-01-25",
-      "path": "Tracker/18-01-25.md"
-    },
-    {
-      "basename": "13-01-25",
-      "path": "Tracker/13-01-25.md"
     }
   ],
   "omittedPaths": [],
