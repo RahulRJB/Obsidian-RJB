@@ -121,4 +121,21 @@ Sequence:   `FROM -> JOIN -> WHERE(comparison OP, (NOT) BETWEEN, (NOT) IN, LIKE,
 
 
 
-## 
+## Conditional Expressions and Procedures:
+
+- CASE:
+	- ![[Attachments/Pasted image 20250124184607.png]]![[Attachments/Pasted image 20250124184702.png]]![[Attachments/Pasted image 20250124185706.png]]
+	- ![[Attachments/Pasted image 20250124184859.png]]![[Attachments/Pasted image 20250124184942.png]]![[Attachments/Pasted image 20250124185912.png]]
+	- ![[Attachments/Pasted image 20250124190106.png]]![[Attachments/Pasted image 20250124190202.png]]
+
+- COALESCE:![[Attachments/Pasted image 20250124190343.png]]![[Attachments/Pasted image 20250124190850.png]]
+
+- CAST:![[Attachments/Pasted image 20250124190951.png]]![[Attachments/Pasted image 20250124191112.png]]
+
+- NULLIF:![[Attachments/Pasted image 20250124191210.png]]![[Attachments/Pasted image 20250124191218.png]]
+	- ![[Attachments/Pasted image 20250124191902.png]]
+
+
+- VIEWS:![[Attachments/Pasted image 20250124191954.png]]![[Attachments/Pasted image 20250124192049.png]]![[Attachments/Pasted image 20250124192123.png]]
+	- ![[Attachments/Pasted image 20250124192330.png]]![[Attachments/Pasted image 20250124192423.png]]
+- 

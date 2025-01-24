@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "MoE (Mixture of Experts)",
+      "path": "Notes/MoE (Mixture of Experts).md"
+    },
+    {
+      "basename": "RAG",
+      "path": "Notes/RAG.md"
+    },
+    {
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
+    },
+    {
+      "basename": "NLP - UT Austin",
+      "path": "Notes/NLP - UT Austin.md"
+    },
+    {
       "basename": "SQL",
       "path": "Notes/SQL.md"
     },
@@ -15,10 +31,6 @@
     {
       "basename": "24-01-25",
       "path": "Tracker/24-01-25.md"
-    },
-    {
-      "basename": "RAG",
-      "path": "Notes/RAG.md"
     },
     {
       "basename": "SentenceBERT",
@@ -89,10 +101,6 @@
       "path": "Notes/VLM.md"
     },
     {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
-    },
-    {
       "basename": "13-12-24",
       "path": "Tracker/13-12-24.md"
     },
@@ -145,10 +153,6 @@
       "path": "Tracker/02-01-25.md"
     },
     {
-      "basename": "NLP - UT Austin",
-      "path": "Notes/NLP - UT Austin.md"
-    },
-    {
       "basename": "22-01-25",
       "path": "Tracker/22-01-25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "14-01-25",
       "path": "Tracker/14-01-25.md"
-    },
-    {
-      "basename": "text-embedding-ada-002",
-      "path": "Notes/text-embedding-ada-002.md"
     }
   ],
   "omittedPaths": [],
