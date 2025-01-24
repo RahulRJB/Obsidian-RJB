@@ -32,7 +32,7 @@
 		- Then we create a list using the new docs to be created and docs to be updated, and then use it to create these documents in the 2 indices.
 		- This delta logic is run on a schedule every couple of hours, so the index always remain updated with the latest version of the documents .
 - #### Retrieval:
-	- Retrieval done using HNSW, a approx nearest-neighbour algorithm.
+	- Retrieval done using HNSW, an approx nearest-neighbour algorithm.
 	- We take the query, embed it and use the embedding to get the Top 10/20 similar titles from the Title index and chunks of documents from the chunk/body index.
 	- Have used Semantic search primarily, for the retrieval.
 	- Have also experimented with Hybrid search(semantic + keyword match). 
@@ -93,6 +93,10 @@
 - #### Contextual Retrieval:
 	- Many a times the chunks of a document lack context which may lead to incorrect responses. The solution could be to do logical chunking i.e chunking based on paragraphs etc. or we can create contextual chunks. We feed the LLM with the entire document and the chunk in question. The LLM locates the chunk within the document and modifies the chunk giving it appropriate context for better retrieval.
 	- Frequent updates to documents may be an issue. May not scale because of needing a LLM call for each chunk.
+- #### Tricks used:
+	- 
+- #### Challenges:
+	- gpt3.5, did not follow instructions, switched between User vs System prompt
 
 
 
@@ -158,10 +162,10 @@
 ## GenAI LAB(Dec22-April23)(POC):
 
 - #### Problem Statement:
-	- Create a e2e solution in which there would be multiple vector databases for various related topics(features of diff products from diff competing companies) and a chat UI to interact with it.
+	- Create a e2e solution in which there would be multiple vector databases for various related topics(features of diff products from diff competing companies, like Paisa Bazaar) and a chat UI to interact with it.
 - #### Approach:
 	- There were a different set of documents for different company's products. Indices were created for each of them.
-		- Given a prompt, we used Logical [[Notes/RAG#^ce78b9|routing]] to route the question to the appropriate index of a particular company and retrieve from it. If the question was related to comparing products of diff companies or required info from different companies, using the routing automatically the relevant indices were chosen leveraging a LLM. 
+		- Given a prompt, we used Logical [[Notes/RAG#^ce78b9|routing]] to route the question to the appropriate index of a particular company and retrieve from it. If the question was related to comparing products of diff companies or required info from different companies, using the routing automatically the relevant indices were chosen leveraging a LLM. Could compare only 2 indices at a time, only developed that. SO if there were 4 in total only 2 could be compared. But this can be extended beyond that
 	- The chat history was to be saved for a given session for a later use.
 		- A session could also have multiple topics selected at the same time or at different points of time, in which case independent retrieval was done across the diff indices and then the retrieved documents from the different indices were reranked using [[Notes/RAG#^4d4660|RAG Fusion]].
 - #### Details:
@@ -191,7 +195,7 @@
 	
 	- Mean Reciprocal Rank (MRR) to evaluate routing accuracy(0.75 was the target)
 	- [[ROUGE]] scores for comparing generated responses against ground truth-  Could be used because our responses were very data centric. Was used majorly during the initial part of the POC for evaluation
-	- BERTScore for semantic similarity evaluation- Used later alongside ROUGE to check for actual semantic similarity.
+	- **BERTScore** for semantic similarity evaluation- Used later alongside ROUGE to check for actual semantic similarity.  **BERTScore** is based on contextual embeddings from models like BERT and focuses on semantic similarity.
 	- Human evaluation scores for response relevance and accuracy(1/0 depending if the response was correct or not on a ground truth dataset of 100 queries)
 	
 	2. Performance Metrics:
@@ -279,7 +283,7 @@
 		- [[SHAPRFECV]] (16 feats)
 	- ##### Modelling:
 		- All the cont variables were binned using optbinning to make a all cat variable dataset
-		- We tried out both LightGBM and XgBoost, and also tried to use stacking on these 2 models. Optuna was used to finetune the models
+		- We tried out both LightGBM and RandomForest, and also tried to use stacking on these 2 models. Optuna was used to finetune the models
 		- The data was from 2019, was divided in train, test and validation sets. 
 		- 5 fold Cross-validation was done to prevent overfitting
 		- We also had data from Sept-Nov 2021 as out-of-time test set
@@ -478,6 +482,7 @@
 | R Technologies                                                        |            |        |                 |                         |         |
 | Rocket Softwares                                                      |            |        |                 | 24Jan@11:30am           |         |
 | Hurmonics Global                                                      |            | 30     |                 | 27Jan@12pm              |         |
+| Fractal(Soniya) call 2 months before                                  |            |        |                 |                         |         |
 
 
 

@@ -102,13 +102,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/23-01-25.md",
+                "file": "Tracker/24-01-25.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23-01-25"
+              "title": "24-01-25"
             }
           },
           {
@@ -142,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -342,8 +342,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e0d0f5fdcd52eebd",
+  "active": "a506043e04bace55",
   "lastOpenFiles": [
+    "Notes/ROUGE.md",
+    "Tracker/Projects Details.md",
+    "Tracker/24-01-25.md",
+    "Articles",
+    "Tracker/Marriage Plan.md",
+    "Tracker/Lists.md",
+    "Tracker/23-01-25.md",
+    "Tracker/Dreams.md",
+    "Notes/Blending.md",
+    "Notes/Collaborative Filtering.md",
+    "Notes/ColBERT.md",
+    "Notes/Stacking.md",
     "Notes/ROC-AUC.md",
     "Notes/Sentence Transformer.md",
     "Notes/PCA.md",
@@ -359,12 +371,6 @@
     "Tracker/19-01-25.md",
     "Notes/Tf-IDf.md",
     "Notes/Prompt caching.md",
-    "Tracker/09-10-24.md",
-    "Notes/Fast RCNN.md",
-    "Notes/Maximum Likelihood.md",
-    "Tracker/02-01-25.md",
-    "Tracker/Dreams.md",
-    "Notes/SQL.md",
     "Attachments/Pasted image 20250124005744.png",
     "Attachments/Pasted image 20250124005709.png",
     "Attachments/Pasted image 20250124005603.png",
@@ -375,11 +381,6 @@
     "Attachments/Pasted image 20250124005417.png",
     "Attachments/Pasted image 20250124005234.png",
     "Attachments/Pasted image 20250124005002.png",
-    "Tracker/23-01-25.md",
-    "Tracker/Marriage Plan.md",
-    "Tracker/Projects Details.md",
-    "Notes/NLP - UT Austin.md",
-    "Tracker/Lists.md",
     "Attachments/Recording 20250117024020.webm",
     "Attachments/Recording 20250117023637.webm",
     "Attachments/seg-14.pdf",
@@ -389,7 +390,6 @@
     "Attachments/seg-11a.pdf",
     "Attachments/seg-11.pdf",
     "Attachments/seg-10.pdf",
-    "Attachments/seg-9.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

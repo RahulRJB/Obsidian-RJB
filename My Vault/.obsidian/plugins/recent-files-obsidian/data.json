@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "ROUGE",
+      "path": "Notes/ROUGE.md"
+    },
+    {
+      "basename": "24-01-25",
+      "path": "Tracker/24-01-25.md"
+    },
+    {
+      "basename": "Marriage Plan",
+      "path": "Tracker/Marriage Plan.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "23-01-25",
+      "path": "Tracker/23-01-25.md"
+    },
+    {
       "basename": "Dreams",
       "path": "Tracker/Dreams.md"
+    },
+    {
+      "basename": "Blending",
+      "path": "Notes/Blending.md"
+    },
+    {
+      "basename": "Collaborative Filtering",
+      "path": "Notes/Collaborative Filtering.md"
+    },
+    {
+      "basename": "ColBERT",
+      "path": "Notes/ColBERT.md"
+    },
+    {
+      "basename": "Stacking",
+      "path": "Notes/Stacking.md"
     },
     {
       "basename": "ROC-AUC",
@@ -85,24 +125,8 @@
       "path": "Notes/SQL.md"
     },
     {
-      "basename": "23-01-25",
-      "path": "Tracker/23-01-25.md"
-    },
-    {
-      "basename": "Marriage Plan",
-      "path": "Tracker/Marriage Plan.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
-    },
-    {
       "basename": "NLP - UT Austin",
       "path": "Notes/NLP - UT Austin.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "22-01-25",
@@ -175,14 +199,6 @@
     {
       "basename": "13-01-25",
       "path": "Tracker/13-01-25.md"
-    },
-    {
-      "basename": "09-01-25",
-      "path": "Tracker/09-01-25.md"
-    },
-    {
-      "basename": "10-01-25",
-      "path": "Tracker/10-01-25.md"
     }
   ],
   "omittedPaths": [],

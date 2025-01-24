@@ -13,6 +13,8 @@ Tags: [[Notes/RAG|RAG]] [[Notes/Evaluation|Evaluation]]
 
 
 # Content:
+
+- **ROUGE** is based on n-gram overlap and is more focused on surface-level similarity.
 First, let's understand why we need ROUGE. When we generate text (like in your RAG system's responses), we need a way to measure how good that text is compared to what a human would write. But measuring text quality automatically is tricky - there are many ways to say the same thing! This is where ROUGE comes in.
 
 Think of ROUGE like a teacher comparing a student's essay to a model answer. The teacher looks for matching words and phrases between the two. That's essentially what ROUGE does, but in a systematic way.
