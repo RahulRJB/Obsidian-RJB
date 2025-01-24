@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "DORA",
+      "path": "Notes/DORA.md"
+    },
+    {
       "basename": "LoRA",
       "path": "Notes/LoRA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MLOps AWS",
       "path": "Notes/MLOps AWS.md"
-    },
-    {
-      "basename": "15-01-25",
-      "path": "Tracker/15-01-25.md"
     }
   ],
   "omittedPaths": [],
