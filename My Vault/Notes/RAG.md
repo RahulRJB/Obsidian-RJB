@@ -84,7 +84,7 @@ https://github.com/RahulRJB/RAG-from-scratch
 	- ![[Attachments/Pasted image 20240622030236.png]]![[Attachments/Pasted image 20240622030415.png]]![[Attachments/Pasted image 20240622030656.png]]
 
 
-- ### HyDE:
+- ### [[HyDE]]:
 
 	- Questions and documents are very different text objects. Documents can be very large chunks taken from dense publications or other sources whereas questions are short, potentially ill worded from users. The intuition behind HyDE is take questions and map them into document space using a hypothetical document or by generating a hypothetical document. The intuition is that these hypothetical document is closer to a desired document you actually want to retrieve in this high dimensional embedding space than the sparse raw input question itself. So a means for better retrieval.![[Attachments/Pasted image 20240622031306.png]]
 	- ![[Attachments/Pasted image 20240622031711.png]]![[Attachments/Pasted image 20240622031801.png]]![[Attachments/Pasted image 20240622031844.png]]
@@ -130,7 +130,7 @@ https://github.com/RahulRJB/RAG-from-scratch
 ## Active RAG:
 
 - ![[Attachments/Pasted image 20240627025658.png]]![[Attachments/Pasted image 20240627025739.png]]![[Attachments/Pasted image 20240627025844.png]]
-- Check CRAG implementation of ActiveRAG  from the video.
+- ### Check [[CRAG]] implementation of ActiveRAG  from the video.
 - ![[Attachments/Pasted image 20240627161927.png]]
 
 

@@ -1,11 +1,12 @@
 
-# Sentence Transformer
+# SentenceBERT (Sentence Transformer is the library)
 
 
 DATE:  30-08-24
 
 
-Tags: [[Notes/Transformers|Transformers]] [[BERT]]
+Tags: [[Notes/Transformers|Transformers]] [[BERT]] [[Sentence Transformers]]
+
 
 
 # References:
@@ -19,7 +20,7 @@ https://www.youtube.com/watch?v=O3xbVmpdJwU&t=950s
 - **Transformers** work well for sequence to sequence problems, but for the specific natural language problems like question/answering and text summarization even transformers have drawbacks because language problems are complex and the main drawbacks is that we need a lot of data to train transformers from scratch and the architecture may not be complex enough to understand patterns to solve these language problems after all transformers weren't designed to be language models so the word representations generated can still be improved.
 - For this **[[BERT]]** was introduced, designed for such problem solving. There was 1 problem which BERT cannot solve, Sentence similarity.
 - We can pass both question/text to BERT and at the end have a single neuron output layer output a similarity score. This can work but if there are 100,000 text to choose from, the forward pass has to be run that many times, not viable! ![[Attachments/Pasted image 20240830202109.png]]
-- #### Sentence Transfromer:
+- #### Sentence Transfromers:
 	- High level idea: 
 		- Step1: Pass a new question into bert to get a single vector that represents the question
 		- Step2: Compare it to all other questions using something like a cosine similarity metric.

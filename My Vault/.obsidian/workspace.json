@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -320,15 +320,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0540a224e2eb0506",
+  "active": "a506043e04bace55",
   "lastOpenFiles": [
-    "Notes/ColBERT.md",
     "Notes/RAG.md",
+    "Notes/SentenceBERT.md",
+    "Tracker/Projects Details.md",
+    "Tracker/24-01-25.md",
+    "Notes/Sentence Transformers.md",
+    "Notes/HyDE.md",
+    "Notes/CRAG.md",
+    "Notes/ColBERT.md",
     "Excalidraw/Drawing 2025-01-24 12.58.00.excalidraw.md",
     "Excalidraw",
     "Notes/Assert.md",
-    "Tracker/24-01-25.md",
-    "Tracker/Projects Details.md",
     "Notes/ROUGE.md",
     "Articles",
     "Tracker/Marriage Plan.md",
@@ -339,7 +343,6 @@
     "Notes/Collaborative Filtering.md",
     "Notes/Stacking.md",
     "Notes/ROC-AUC.md",
-    "Notes/Sentence Transformer.md",
     "Notes/PCA.md",
     "Notes/WOE.md",
     "Notes/VLM.md",
@@ -347,9 +350,6 @@
     "Tracker/13-12-24.md",
     "Notes/DenseNet.md",
     "Notes/Environment packaging.md",
-    "Notes/GIT.md",
-    "Notes/Selective Search.md",
-    "Tracker/16-01-25.md",
     "Attachments/Pasted image 20250124005744.png",
     "Attachments/Pasted image 20250124005709.png",
     "Attachments/Pasted image 20250124005603.png",

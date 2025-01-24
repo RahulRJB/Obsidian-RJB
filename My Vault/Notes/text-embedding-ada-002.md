@@ -5,7 +5,7 @@
 DATE:  31-08-24
 
 
-Tags: [[Notes/Transformers|Transformers]]  [[Notes/Word Embeddings|Word Embeddings]]  [[Notes/Sentence Transformer|Sentence Transformer]]
+Tags: [[Notes/Transformers|Transformers]]  [[Notes/Word Embeddings|Word Embeddings]]  [[Notes/SentenceBERT|SentenceBERT]]
 # References:
 
 
@@ -35,7 +35,7 @@ Embedding models like **text-embedding-ada-002** are typically trained using a *
 
 
 
-### How they differ from [[Notes/Sentence Transformer|Sentence Transformer]]??:
+### How they differ from [[Notes/SentenceBERT|SentenceBERT]]??:
 
 There are some differences in how **Sentence Transformers** (like those developed using the `sentence-transformers` library) are trained compared to models like **text-embedding-ada-002**. 
 

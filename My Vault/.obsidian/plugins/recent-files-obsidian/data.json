@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
       "basename": "RAG",
       "path": "Notes/RAG.md"
+    },
+    {
+      "basename": "SentenceBERT",
+      "path": "Notes/SentenceBERT.md"
+    },
+    {
+      "basename": "24-01-25",
+      "path": "Tracker/24-01-25.md"
+    },
+    {
+      "basename": "Sentence Transformers",
+      "path": "Notes/Sentence Transformers.md"
+    },
+    {
+      "basename": "HyDE",
+      "path": "Notes/HyDE.md"
+    },
+    {
+      "basename": "CRAG",
+      "path": "Notes/CRAG.md"
     },
     {
       "basename": "ColBERT",
@@ -11,14 +35,6 @@
     {
       "basename": "Assert",
       "path": "Notes/Assert.md"
-    },
-    {
-      "basename": "24-01-25",
-      "path": "Tracker/24-01-25.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "ROUGE",
@@ -55,10 +71,6 @@
     {
       "basename": "ROC-AUC",
       "path": "Notes/ROC-AUC.md"
-    },
-    {
-      "basename": "Sentence Transformer",
-      "path": "Notes/Sentence Transformer.md"
     },
     {
       "basename": "PCA",
@@ -187,14 +199,6 @@
     {
       "basename": "text-embedding-ada-002",
       "path": "Notes/text-embedding-ada-002.md"
-    },
-    {
-      "basename": "Cross-Encoder",
-      "path": "Notes/Cross-Encoder.md"
-    },
-    {
-      "basename": "Inverse Hessian",
-      "path": "Notes/Inverse Hessian.md"
     }
   ],
   "omittedPaths": [],

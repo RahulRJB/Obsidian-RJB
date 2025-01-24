@@ -97,6 +97,10 @@
 	- 
 - #### Challenges:
 	- gpt3.5, did not follow instructions, switched between User vs System prompt
+	- Out of context responses
+	- Improper ID&V
+	- Index update failure ans: Context Manager
+	- Reranking
 
 
 
