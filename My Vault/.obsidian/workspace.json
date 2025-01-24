@@ -156,8 +156,7 @@
               "title": "RAG"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -320,12 +319,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a506043e04bace55",
+  "active": "f41579797c055572",
   "lastOpenFiles": [
-    "Notes/RAG.md",
-    "Notes/SentenceBERT.md",
+    "Attachments/Pasted image 20250124180018.png",
+    "Attachments/Pasted image 20250124175258.png",
+    "Attachments/Pasted image 20250124175244.png",
+    "Attachments/Pasted image 20250124175228.png",
+    "Attachments/Pasted image 20250124175147.png",
+    "Attachments/Pasted image 20250124175040.png",
+    "Attachments/Pasted image 20250124174317.png",
+    "Attachments/Pasted image 20250124174253.png",
+    "Attachments/Pasted image 20250124174113.png",
+    "Attachments/Pasted image 20250124173541.png",
+    "Attachments/Pasted image 20250124173217.png",
+    "Tracker/Marriage Plan.md",
+    "Notes/SQL.md",
     "Tracker/Projects Details.md",
     "Tracker/24-01-25.md",
+    "Notes/RAG.md",
+    "Notes/SentenceBERT.md",
     "Notes/Sentence Transformers.md",
     "Notes/HyDE.md",
     "Notes/CRAG.md",
@@ -335,7 +347,6 @@
     "Notes/Assert.md",
     "Notes/ROUGE.md",
     "Articles",
-    "Tracker/Marriage Plan.md",
     "Tracker/Lists.md",
     "Tracker/23-01-25.md",
     "Tracker/Dreams.md",
@@ -348,18 +359,6 @@
     "Notes/VLM.md",
     "Tracker/GOALS 2025.md",
     "Tracker/13-12-24.md",
-    "Notes/DenseNet.md",
-    "Notes/Environment packaging.md",
-    "Attachments/Pasted image 20250124005744.png",
-    "Attachments/Pasted image 20250124005709.png",
-    "Attachments/Pasted image 20250124005603.png",
-    "Attachments/Pasted image 20250124005546.png",
-    "Attachments/Pasted image 20250124005532.png",
-    "Attachments/Pasted image 20250124005510.png",
-    "Attachments/Pasted image 20250124005500.png",
-    "Attachments/Pasted image 20250124005417.png",
-    "Attachments/Pasted image 20250124005234.png",
-    "Attachments/Pasted image 20250124005002.png",
     "Attachments/Recording 20250117024020.webm",
     "Attachments/Recording 20250117023637.webm",
     "Attachments/seg-14.pdf",

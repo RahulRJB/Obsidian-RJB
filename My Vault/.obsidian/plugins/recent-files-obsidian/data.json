@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "SQL",
+      "path": "Notes/SQL.md"
+    },
+    {
+      "basename": "Marriage Plan",
+      "path": "Tracker/Marriage Plan.md"
+    },
+    {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "24-01-25",
+      "path": "Tracker/24-01-25.md"
     },
     {
       "basename": "RAG",
@@ -11,10 +23,6 @@
     {
       "basename": "SentenceBERT",
       "path": "Notes/SentenceBERT.md"
-    },
-    {
-      "basename": "24-01-25",
-      "path": "Tracker/24-01-25.md"
     },
     {
       "basename": "Sentence Transformers",
@@ -39,10 +47,6 @@
     {
       "basename": "ROUGE",
       "path": "Notes/ROUGE.md"
-    },
-    {
-      "basename": "Marriage Plan",
-      "path": "Tracker/Marriage Plan.md"
     },
     {
       "basename": "Lists",
@@ -139,10 +143,6 @@
     {
       "basename": "02-01-25",
       "path": "Tracker/02-01-25.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Notes/SQL.md"
     },
     {
       "basename": "NLP - UT Austin",

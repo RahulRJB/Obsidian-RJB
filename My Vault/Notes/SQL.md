@@ -103,6 +103,22 @@ Sequence:   `FROM -> JOIN -> WHERE(comparison OP, (NOT) BETWEEN, (NOT) IN, LIKE,
 - ![[Attachments/Pasted image 20250124005234.png]]
 - CONSTRAINTS:![[Attachments/Pasted image 20250124005417.png]]![[Attachments/Pasted image 20250124005500.png]]
 	-   ![[Attachments/Pasted image 20250124005510.png]]![[Attachments/Pasted image 20250124005532.png]]![[Attachments/Pasted image 20250124005546.png]]![[Attachments/Pasted image 20250124005603.png]]
-	- ![[Attachments/Pasted image 20250124005709.png]]![[Attachments/Pasted image 20250124005744.png]]
+	- ![[Attachments/Pasted image 20250124005709.png]]![[Attachments/Pasted image 20250124180018.png]]![[Attachments/Pasted image 20250124005744.png]]
+
+- General Syntax For CREATE TABLE:![[Attachments/Pasted image 20250124172234.png]]
+	- Implementing foreign_key:![[Attachments/Pasted image 20250124173049.png]]
+
+- INSERT Data into Table:![[Attachments/Pasted image 20250124173217.png]]
+	- ![[Attachments/Pasted image 20250124173541.png]]
+
+- UPDATE DATA in Table:![[Attachments/Pasted image 20250124174113.png]]![[Attachments/Pasted image 20250124174253.png]]
+	- ![[Attachments/Pasted image 20250124174317.png]]
+
+- DELETE DATA in Table:![[Attachments/Pasted image 20250124175040.png]]
+
+- ALTER TABLE schema:![[Attachments/Pasted image 20250124175147.png]]![[Attachments/Pasted image 20250124175228.png]]![[Attachments/Pasted image 20250124175244.png]]![[Attachments/Pasted image 20250124175258.png]]
 
 
+
+
+## 

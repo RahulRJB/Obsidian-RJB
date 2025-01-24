@@ -8,24 +8,27 @@
 	- [x] winter dress
 	- [x] bath robe
 	- [x] nightware
-- [ ] Decide Reception decor 25Jan meet decor, 28 meet caterer
+- [ ] Decide Reception decor 25Jan 
+- [ ] Meet caterer 28Jan 
 - [ ] Hotel
 - [x] Dentist Dida 26Jan@10:30
 - [ ] Facial 26Jan
 - [ ] Haircut 3Feb
 - [ ] Scaling 1Feb@10:00
-- [ ] Lace stitch
+- [ ] Lace stitch 25Jan
 - [ ] Dhol
 - [ ] Dhuti learn
+- [ ] Card Sankhadeep
 - [ ] Sandakphu
-- [x] Medicine
+- [ ] Go to Garia for meds 25Jan
 - [ ] Song choose
-- [x] amusement
-- [x] Dhuti check again / Adi akshay co (18 Jan)
-- [x] Panjamis another??
+- [ ] Call panjabi on 26Feb
 - [ ] Call Jamai
 - [ ] Call Swayatta
 - [x] Bus confirm
+- [x] amusement
+- [x] Dhuti check again / Adi akshay co (18 Jan)
+- [x] Panjamis another??
 
 - [x] Pre wedding complete song practice ✅ 2025-01-11
 - [x] Splitwise ✅ 2025-01-08
@@ -70,17 +73,12 @@ Auto-
 Pandit- 25k
 Wedding Shoes- 
 Juta chori- 25k?
-Given Papa - 10k
+Given Papa - 20k
 cosmetics - 17171/- paid me
 Wedding shoe - 1861/-, paid me
 Other Totto - 7528/-, paid me
 Mukut - 2369/-, paid me
 
-
-
-
-
-Ruchira paid - 40k
 
 
 
