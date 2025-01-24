@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "LoRA",
+      "path": "Notes/LoRA.md"
+    },
+    {
       "basename": "MoE (Mixture of Experts)",
       "path": "Notes/MoE (Mixture of Experts).md"
+    },
+    {
+      "basename": "24-01-25",
+      "path": "Tracker/24-01-25.md"
     },
     {
       "basename": "RAG",
@@ -27,10 +35,6 @@
     {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
-    },
-    {
-      "basename": "24-01-25",
-      "path": "Tracker/24-01-25.md"
     },
     {
       "basename": "SentenceBERT",
@@ -195,10 +199,6 @@
     {
       "basename": "15-01-25",
       "path": "Tracker/15-01-25.md"
-    },
-    {
-      "basename": "14-01-25",
-      "path": "Tracker/14-01-25.md"
     }
   ],
   "omittedPaths": [],
