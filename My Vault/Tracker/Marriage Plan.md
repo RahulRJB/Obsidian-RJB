@@ -21,7 +21,9 @@
 - [ ] Card Sankhadeep
 - [ ] Sandakphu
 - [ ] Go to Garia for meds 25Jan
-- [ ] Song choose
+- [x] Song choose
+- [ ] black powder
+- [ ] haldi dhutiii
 - [ ] Call panjabi on 26Feb
 - [ ] Call Jamai
 - [ ] Call Swayatta
