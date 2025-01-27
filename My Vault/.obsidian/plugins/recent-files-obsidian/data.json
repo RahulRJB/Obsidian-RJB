@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "27-01-25",
+      "path": "Tracker/27-01-25.md"
+    },
+    {
       "basename": "RAG",
       "path": "Notes/RAG.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "VIF",
       "path": "Notes/VIF.md"
-    },
-    {
-      "basename": "MLOps AWS",
-      "path": "Notes/MLOps AWS.md"
     }
   ],
   "omittedPaths": [],
