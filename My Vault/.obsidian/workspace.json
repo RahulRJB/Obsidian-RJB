@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -347,8 +347,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3c1dfbf0a15ecfde",
+  "active": "64ec11214a331f60",
   "lastOpenFiles": [
+    "Tracker/Marriage Plan.md",
     "Tracker/Lists.md",
     "Tracker/27-01-25.md",
     "Notes/RAG.md",
@@ -370,7 +371,6 @@
     "Attachments/Pasted image 20250124191210.png",
     "Attachments/Pasted image 20250124191112.png",
     "Attachments/Pasted image 20250124190951.png",
-    "Tracker/Marriage Plan.md",
     "Notes/SentenceBERT.md",
     "Notes/Sentence Transformers.md",
     "Notes/HyDE.md",

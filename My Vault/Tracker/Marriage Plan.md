@@ -14,7 +14,7 @@
 - [x] Dentist Dida 26Jan@10:30
 - [ ] Facial 26Jan
 - [ ] Haircut 3Feb
-- [ ] Scaling 1Feb@10:00
+- [ ] Scaling 31Jan@10:00
 - [x] Lace stitch 25Jan
 - [ ] Dhol
 - [ ] Dhuti learn
