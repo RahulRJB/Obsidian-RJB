@@ -26,7 +26,7 @@
 - [ ] haldi dhutiii
 - [ ] Call panjabi on 26Feb
 - [ ] Call Jamai
-- [ ] Call Swayatta
+- [x] Call Swayatta
 - [x] Bus confirm
 - [x] amusement
 - [x] Dhuti check again / Adi akshay co (18 Jan)
