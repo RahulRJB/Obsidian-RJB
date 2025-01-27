@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -358,14 +358,15 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "0814d5fbebc01bb1",
+  "active": "3c1dfbf0a15ecfde",
   "lastOpenFiles": [
+    "Tracker/28-01-25.md",
     "Notes/Adam optimizer.md",
     "Notes/RAG.md",
-    "Tracker/28-01-25.md",
     "Tracker/27-01-25.md",
     "Tracker/24-01-25.md",
     "Tracker/Projects Details.md",

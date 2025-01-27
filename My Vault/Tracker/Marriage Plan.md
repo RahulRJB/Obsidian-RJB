@@ -1,6 +1,24 @@
 ## Immediate:
 
-- [ ] Shoes
+
+- [ ] Meet caterer 28Jan 
+- [ ] Hotel
+- [ ] Facial 26Jan
+- [ ] Haircut 3Feb
+- [ ] Scaling 31Jan@10:00
+- [ ] Dhol
+- [ ] Dhuti learn
+- [ ] Card Sankhadeep
+- [ ] Sandakphu
+- [ ] Go to Garia for meds 25Jan
+- [ ] haldi dhutiii
+- [ ] Call panjabi on 26Feb
+- [ ] Call Jamai
+- [x] Song choose
+- [x] Dentist Dida 26Jan@10:30
+- [x] Lace stitch 25Jan
+- [x] black powder
+- [x] Shoes
 	- [x] Wedding
 	- [x] Reception
 	- [x] Sangeet/Haldi
@@ -9,23 +27,6 @@
 	- [x] bath robe
 	- [x] nightware
 - [x] Decide Reception decor 29Jan
-- [ ] Meet caterer 28Jan 
-- [ ] Hotel
-- [x] Dentist Dida 26Jan@10:30
-- [ ] Facial 26Jan
-- [ ] Haircut 3Feb
-- [ ] Scaling 31Jan@10:00
-- [x] Lace stitch 25Jan
-- [ ] Dhol
-- [ ] Dhuti learn
-- [ ] Card Sankhadeep
-- [ ] Sandakphu
-- [ ] Go to Garia for meds 25Jan
-- [x] Song choose
-- [x] black powder
-- [ ] haldi dhutiii
-- [ ] Call panjabi on 26Feb
-- [ ] Call Jamai
 - [x] Call Swayatta
 - [x] Bus confirm
 - [x] amusement
