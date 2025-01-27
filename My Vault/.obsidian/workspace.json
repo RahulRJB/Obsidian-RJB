@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -343,13 +343,14 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "0540a224e2eb0506",
+  "active": "64ec11214a331f60",
   "lastOpenFiles": [
-    "Notes/RAG.md",
     "Tracker/27-01-25.md",
+    "Notes/RAG.md",
     "Notes/LoRA.md",
     "Notes/DORA.md",
     "Tracker/Projects Details.md",
