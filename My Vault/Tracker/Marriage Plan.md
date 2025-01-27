@@ -3,26 +3,26 @@
 - [ ] Shoes
 	- [x] Wedding
 	- [x] Reception
-	- [ ] Sangeet/Haldi
+	- [x] Sangeet/Haldi
 - [ ] Tatta
 	- [x] winter dress
 	- [x] bath robe
 	- [x] nightware
-- [ ] Decide Reception decor 25Jan 
+- [x] Decide Reception decor 29Jan
 - [ ] Meet caterer 28Jan 
 - [ ] Hotel
 - [x] Dentist Dida 26Jan@10:30
 - [ ] Facial 26Jan
 - [ ] Haircut 3Feb
 - [ ] Scaling 1Feb@10:00
-- [ ] Lace stitch 25Jan
+- [x] Lace stitch 25Jan
 - [ ] Dhol
 - [ ] Dhuti learn
 - [ ] Card Sankhadeep
 - [ ] Sandakphu
 - [ ] Go to Garia for meds 25Jan
 - [x] Song choose
-- [ ] black powder
+- [x] black powder
 - [ ] haldi dhutiii
 - [ ] Call panjabi on 26Feb
 - [ ] Call Jamai

@@ -157,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -347,8 +347,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "64ec11214a331f60",
+  "active": "3c1dfbf0a15ecfde",
   "lastOpenFiles": [
+    "Tracker/Lists.md",
     "Tracker/27-01-25.md",
     "Notes/RAG.md",
     "Notes/LoRA.md",
@@ -380,7 +381,6 @@
     "Notes/Assert.md",
     "Notes/ROUGE.md",
     "Articles",
-    "Tracker/Lists.md",
     "Tracker/23-01-25.md",
     "Tracker/Dreams.md",
     "Notes/Blending.md",

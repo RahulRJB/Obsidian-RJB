@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Marriage Plan",
+      "path": "Tracker/Marriage Plan.md"
+    },
+    {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "SQL",
       "path": "Notes/SQL.md"
-    },
-    {
-      "basename": "Marriage Plan",
-      "path": "Tracker/Marriage Plan.md"
     },
     {
       "basename": "SentenceBERT",
