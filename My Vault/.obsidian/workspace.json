@@ -162,13 +162,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Adam optimizer.md",
+                "file": "Tracker/28-01-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adam optimizer"
+              "title": "28-01-25"
             }
           }
         ],
@@ -358,8 +358,7 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "remotely-save:Remotely Save": false,
-      "periodic-notes:Open today": false
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "0814d5fbebc01bb1",
