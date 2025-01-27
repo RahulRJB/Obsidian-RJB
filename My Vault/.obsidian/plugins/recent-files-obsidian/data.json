@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Adam optimizer",
+      "path": "Notes/Adam optimizer.md"
+    },
+    {
+      "basename": "RAG",
+      "path": "Notes/RAG.md"
+    },
+    {
+      "basename": "28-01-25",
+      "path": "Tracker/28-01-25.md"
+    },
+    {
+      "basename": "24-01-25",
+      "path": "Tracker/24-01-25.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
     {
       "basename": "Marriage Plan",
       "path": "Tracker/Marriage Plan.md"
-    },
-    {
-      "basename": "27-01-25",
-      "path": "Tracker/27-01-25.md"
-    },
-    {
-      "basename": "RAG",
-      "path": "Notes/RAG.md"
     },
     {
       "basename": "LoRA",
@@ -25,16 +37,8 @@
       "path": "Notes/DORA.md"
     },
     {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
-    },
-    {
       "basename": "MoE (Mixture of Experts)",
       "path": "Notes/MoE (Mixture of Experts).md"
-    },
-    {
-      "basename": "24-01-25",
-      "path": "Tracker/24-01-25.md"
     },
     {
       "basename": "GOALS 2025",
@@ -195,10 +199,6 @@
     {
       "basename": "Information Value(IV)",
       "path": "Notes/Information Value(IV).md"
-    },
-    {
-      "basename": "VIF",
-      "path": "Notes/VIF.md"
     }
   ],
   "omittedPaths": [],

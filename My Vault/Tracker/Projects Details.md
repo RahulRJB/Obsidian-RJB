@@ -467,23 +467,13 @@
 
 | Applied                                                               | Role(Work) | Pay    | Location        | <center>Status</center> | HR, num |
 | --------------------------------------------------------------------- | ---------- | ------ | --------------- | ----------------------- | ------- |
-| Bosch                                                                 | -          | -      | -               | Reject                  |         |
-| Input Zero                                                            |            | 15-16  |                 | Declined                | Mahitha |
 | [EXL: Analytics, AI & Digital Solutions](https://www.exlservice.com/) | CV         | 18 LPA | Electronic City | Test mail given         | Bhawna  |
-| Honeywell                                                             |            |        |                 |                         |         |
-| Interactions LLC                                                      |            |        |                 |                         |         |
-| Brillio                                                               |            |        |                 |                         |         |
-| weekday                                                               |            |        |                 |                         |         |
-| MMT                                                                   |            |        |                 | Reject                  |         |
 | Cognizant                                                             |            |        |                 |                         |         |
 | Deloitte                                                              |            |        |                 | 24Jan@3:30pm interview  |         |
 | Accenture                                                             |            | 18 LPA |                 |                         | Poonam  |
 | Tiger Analytics                                                       |            |        |                 |                         |         |
-| Harman                                                                |            |        |                 |                         |         |
 | John Deere                                                            | GenAI      |        | MG Road         | 28Jan@5pm- Final round  | Priti   |
 | Verizon                                                               |            |        |                 |                         |         |
-| AT&T                                                                  |            |        |                 |                         |         |
-| R Technologies                                                        |            |        |                 |                         |         |
 | Rocket Softwares                                                      |            |        |                 | 24Jan@11:30am           |         |
 | Hurmonics Global                                                      |            | 30     |                 | 27Jan@12pm              |         |
 | Fractal(Soniya) call 2 months before                                  |            |        |                 |                         |         |
