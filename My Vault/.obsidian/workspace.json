@@ -187,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -377,8 +377,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "64ec11214a331f60",
+  "active": "3c1dfbf0a15ecfde",
   "lastOpenFiles": [
+    "Tracker/Lists.md",
     "Notes/Deepseek R1.md",
     "Notes/Deepseek.md",
     "Notes/LLMs.md",
@@ -389,7 +390,6 @@
     "Notes/RAG.md",
     "Tracker/27-01-25.md",
     "Tracker/24-01-25.md",
-    "Tracker/Lists.md",
     "Notes/LoRA.md",
     "Notes/DORA.md",
     "Notes/MoE (Mixture of Experts).md",
