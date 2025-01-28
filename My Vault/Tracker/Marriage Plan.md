@@ -2,7 +2,7 @@
 
 
 - [x] Meet caterer 28Jan
-- [ ] Hotel
+- [x] Hotel
 - [ ] Facial 26Jan
 - [ ] Haircut 1Feb
 - [ ] Scaling 31Jan@10:00

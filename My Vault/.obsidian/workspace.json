@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/28-01-25.md",
+                "file": "Tracker/Marriage Plan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28-01-25"
+              "title": "Marriage Plan"
             }
           },
           {
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -362,15 +362,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3c1dfbf0a15ecfde",
+  "active": "f85b66545a5f5050",
   "lastOpenFiles": [
+    "Tracker/Projects Details.md",
     "Tracker/Marriage Plan.md",
     "Tracker/28-01-25.md",
     "Notes/Adam optimizer.md",
     "Notes/RAG.md",
     "Tracker/27-01-25.md",
     "Tracker/24-01-25.md",
-    "Tracker/Projects Details.md",
     "Tracker/Lists.md",
     "Notes/LoRA.md",
     "Notes/DORA.md",
