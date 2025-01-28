@@ -1,10 +1,10 @@
 ## Immediate:
 
 
-- [ ] Meet caterer 28Jan 
+- [x] Meet caterer 28Jan
 - [ ] Hotel
 - [ ] Facial 26Jan
-- [ ] Haircut 3Feb
+- [ ] Haircut 1Feb
 - [ ] Scaling 31Jan@10:00
 - [ ] Dhol
 - [ ] Dhuti learn
@@ -12,7 +12,7 @@
 - [ ] Sandakphu
 - [ ] Go to Garia for meds 25Jan
 - [ ] haldi dhutiii
-- [ ] Call panjabi on 26Feb
+- [ ] Panjabi Collect 1Feb
 - [ ] Call Jamai
 - [x] Song choose
 - [x] Dentist Dida 26Jan@10:30
@@ -22,7 +22,7 @@
 	- [x] Wedding
 	- [x] Reception
 	- [x] Sangeet/Haldi
-- [ ] Tatta
+- [x] Tatta
 	- [x] winter dress
 	- [x] bath robe
 	- [x] nightware
@@ -53,7 +53,7 @@
   
 Venue- 3L, 197500, paid papa    5k amusement me
 Food reception- 400x950=388000, 11k paid papa  
-Guest House- 1L , 7.5k paid Papa
+Guest House- 10k paid me
 Other food- 2L  
 Ring- 75k, paid me  
 Decoration- 2L 
