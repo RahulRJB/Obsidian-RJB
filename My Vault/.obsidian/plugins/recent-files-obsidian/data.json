@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
       "basename": "Deepseek R1",
       "path": "Notes/Deepseek R1.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "24-01-25",
       "path": "Tracker/24-01-25.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "LoRA",

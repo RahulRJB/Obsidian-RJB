@@ -6,6 +6,8 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] AI Safety for NSFW and PII and sensitive data
+- [ ] LLM loss functions
 - [ ] Optimizers(Adam)
 - [ ] Statistical analysis
 - [ ] SORT and SEARCH
@@ -14,10 +16,6 @@ kanban-plugin: []
 - [ ] Chatbot
 - [ ] Leetcode
 - [ ] Challenges in Projects
-- [ ] SQL
-	- [ ] Section 3, 4, 5
-	- [ ] Section 6, 7
-	- [ ] Section 8, 9, 10
 - [ ] SQL questions
 - [ ] NLP
 - [ ] Revise Pytorch
@@ -30,12 +28,16 @@ kanban-plugin: []
 - [ ] Amazon Athena
 - [ ] Deployments of Models
 - [ ] Andrej Karpathy gpt
-- [x] Revision of Projects ✅ 2025-01-04
-- [x] Basics algos ✅ 2025-01-05
-- [x] Stacking, blending, AK ✅ 2025-01-05
 - [ ] Eigenvals
 - [ ] SVD
 - [ ] PCA
+- [x] SQL
+	- [x] Section 3, 4, 5
+	- [x] Section 6, 7
+	- [x] Section 8, 9, 10
+- [x] Stacking, blending, AK ✅ 2025-01-05
+- [x] Revision of Projects ✅ 2025-01-04
+- [x] Basics algos ✅ 2025-01-05
 
 
 ## Study Materials
