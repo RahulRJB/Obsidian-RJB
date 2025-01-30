@@ -192,13 +192,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Exponential Weighted Average.md",
+                "file": "Tracker/30-01-25.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exponential Weighted Average"
+              "title": "30-01-25"
             }
           }
         ],
@@ -394,10 +394,11 @@
   },
   "active": "215d8cd2d93e3a28",
   "lastOpenFiles": [
+    "Notes/Exponential Weighted Average.md",
+    "Tracker/30-01-25.md",
     "Attachments/Pasted image 20250130132034.png",
     "Attachments/Pasted image 20250130131955.png",
     "Notes/Beam Search.md",
-    "Notes/Exponential Weighted Average.md",
     "Tracker/Lists.md",
     "Notes/RAG.md",
     "Tracker/28-01-25.md",
@@ -425,7 +426,6 @@
     "Attachments/Pasted image 20250124191902.png",
     "Attachments/Pasted image 20250124191218.png",
     "Attachments/Pasted image 20250124191210.png",
-    "Attachments/Pasted image 20250124191112.png",
     "Notes/SentenceBERT.md",
     "Notes/Sentence Transformers.md",
     "Notes/HyDE.md",
