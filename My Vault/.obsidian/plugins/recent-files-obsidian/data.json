@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
+      "basename": "Exponential Weighted Average",
+      "path": "Notes/Exponential Weighted Average.md"
     },
     {
       "basename": "Beam Search",
       "path": "Notes/Beam Search.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
     },
     {
       "basename": "RAG",
@@ -195,10 +199,6 @@
     {
       "basename": "22-01-25",
       "path": "Tracker/22-01-25.md"
-    },
-    {
-      "basename": "21-01-25",
-      "path": "Tracker/21-01-25.md"
     }
   ],
   "omittedPaths": [],
