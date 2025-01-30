@@ -11,6 +11,5 @@
   "userIgnoreFilters": [
     "Tracker/",
     "Templates/"
-  ],
-  "showRibbon": true
+  ]
 }

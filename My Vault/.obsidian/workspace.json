@@ -45,8 +45,17 @@
               "state": {
                 "file": "Tracker/Marriage Plan.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Marriage Plan"
@@ -194,15 +203,48 @@
               "state": {
                 "file": "Tracker/30-01-25.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "30-01-25"
+            }
+          },
+          {
+            "id": "e40a39f4d3e0dd6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/30-01-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "30-01-25"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,7 +263,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -392,10 +435,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "215d8cd2d93e3a28",
+  "active": "3c1dfbf0a15ecfde",
   "lastOpenFiles": [
-    "Notes/Exponential Weighted Average.md",
     "Tracker/30-01-25.md",
+    "Notes/Exponential Weighted Average.md",
     "Attachments/Pasted image 20250130132034.png",
     "Attachments/Pasted image 20250130131955.png",
     "Notes/Beam Search.md",

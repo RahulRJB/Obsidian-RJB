@@ -6,5 +6,6 @@
   "showViewHeader": true,
   "nativeMenus": false,
   "theme": "obsidian",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "showRibbon": true
 }

@@ -8,10 +8,10 @@
 - [ ] Scaling 31Jan@10:00
 - [ ] Dhol
 - [ ] Dhuti learn
-- [ ] Card Sankhadeep
+- [x] Card Sankhadeep
 - [ ] Sandakphu
 - [ ] Go to Garia for meds 25Jan
-- [ ] haldi dhutiii
+- [x] haldi dhutiii
 - [ ] Panjabi Collect 1Feb
 - [ ] Call Jamai
 - [x] Song choose
