@@ -14,7 +14,6 @@ kanban-plugin: []
 - [ ] Revise The models like XgBoost
 - [ ] No Javascript, chatbot, Databricks
 - [ ] Chatbot
-- [ ] Leetcode
 - [ ] Challenges in Projects
 - [ ] SQL questions
 - [ ] NLP
