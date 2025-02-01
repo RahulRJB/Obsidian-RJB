@@ -5,7 +5,7 @@
 - [x] Hotel
 - [ ] Facial 26Jan
 - [ ] Haircut 1Feb
-- [ ] Scaling 31Jan@10:00
+- [x] Scaling 31Jan@10:00
 - [ ] Dhol
 - [ ] Dhuti learn
 - [x] Card Sankhadeep
