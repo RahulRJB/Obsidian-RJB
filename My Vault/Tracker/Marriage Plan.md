@@ -3,8 +3,8 @@
 
 - [x] Meet caterer 28Jan
 - [x] Hotel
-- [ ] Facial 26Jan
-- [ ] Haircut 1Feb
+- [x] Facial 26Jan
+- [x] Haircut 1Feb
 - [x] Scaling 31Jan@10:00
 - [ ] Dhol
 - [ ] Dhuti learn
@@ -12,7 +12,7 @@
 - [ ] Sandakphu
 - [ ] Go to Garia for meds 25Jan
 - [x] haldi dhutiii
-- [ ] Panjabi Collect 1Feb
+- [x] Panjabi Collect 1Feb
 - [ ] Call Jamai
 - [x] Song choose
 - [x] Dentist Dida 26Jan@10:30

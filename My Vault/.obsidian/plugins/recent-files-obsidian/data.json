@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
       "basename": "Marriage Plan",
       "path": "Tracker/Marriage Plan.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Beam Search",
       "path": "Notes/Beam Search.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "RAG",

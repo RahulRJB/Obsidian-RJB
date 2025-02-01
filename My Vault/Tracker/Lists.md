@@ -53,13 +53,13 @@ kanban-plugin: []
 	- [ ] Abhishek Thakur
 	- [ ] Kaggle 30 days in ML series AT
 - [ ] Stanford Online  
+	CS234- RL
 	CS221- AI  
 	CS229- ML  
 	CS230- DL  
 	CS224N- NLP  
 	CS224U- NLU  
-	CS224W- GraphML  
-	CS234- RL
+	CS224W- GraphML
 - [ ] fast ai
 - [ ] AAAMP 15pages, 3 hrs
 

@@ -244,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -435,8 +435,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3c1dfbf0a15ecfde",
+  "active": "64ec11214a331f60",
   "lastOpenFiles": [
+    "Tracker/Marriage Plan.md",
     "Tracker/30-01-25.md",
     "Notes/Exponential Weighted Average.md",
     "Attachments/Pasted image 20250130132034.png",
@@ -447,7 +448,6 @@
     "Tracker/28-01-25.md",
     "Notes/Search.md",
     "Notes/Algorithms.md",
-    "Tracker/Marriage Plan.md",
     "Notes/Deepseek R1.md",
     "Notes/Deepseek.md",
     "Notes/LLMs.md",
