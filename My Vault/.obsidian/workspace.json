@@ -113,8 +113,8 @@
               "state": {
                 "file": "Tracker/28-01-25.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "28-01-25"
@@ -244,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -435,15 +435,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "64ec11214a331f60",
+  "active": "f85b66545a5f5050",
   "lastOpenFiles": [
     "Tracker/Marriage Plan.md",
+    "Tracker/Lists.md",
     "Tracker/30-01-25.md",
     "Notes/Exponential Weighted Average.md",
     "Attachments/Pasted image 20250130132034.png",
     "Attachments/Pasted image 20250130131955.png",
     "Notes/Beam Search.md",
-    "Tracker/Lists.md",
     "Notes/RAG.md",
     "Tracker/28-01-25.md",
     "Notes/Search.md",
