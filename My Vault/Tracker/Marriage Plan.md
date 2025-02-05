@@ -6,7 +6,7 @@
 - [x] Facial 26Jan
 - [x] Haircut 1Feb
 - [x] Scaling 31Jan@10:00
-- [ ] Dhol
+- [x] Dhol
 - [ ] Dhuti learn
 - [x] Card Sankhadeep
 - [ ] Sandakphu
