@@ -52,11 +52,11 @@
 ## Expenses 
   
 Venue- 3L, 197500, paid papa    5k amusement me
-Food reception- 400x950=388000, 11k paid papa  
+Food reception- 400x950=388000, 11k paid papa, 94k paid me  
 Guest House- 10k paid me
 Other food- 2L  
 Ring- 75k, paid me  
-Decoration- 2L 
+Decoration- 1.7L 
 Home decoration- 60k
 Photographer- 65k total, 20k+16250/- paid me  
 Jewellery- 7L, paid papa  
@@ -71,10 +71,10 @@ Fabric me- 19k, paid me
 Kurtas stitch - 20k, paid me
 Dhuti - 4187/-, paid me
 Biye Sherwani - 4k/-, paid me
-Bus- 16k, me
-Auto- 
+Bus- 16.4k, me
+Band - 8k, paid me
 Pandit- 25k
-Wedding Shoes- 
+Wedding Shoes- 1.4k
 Juta chori- 25k?
 Given Papa - 20k
 cosmetics - 17171/- paid me
