@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "05-02-25",
+      "path": "Tracker/05-02-25.md"
+    },
+    {
       "basename": "28-01-25",
       "path": "Tracker/28-01-25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Maximum Likelihood",
       "path": "Notes/Maximum Likelihood.md"
-    },
-    {
-      "basename": "02-01-25",
-      "path": "Tracker/02-01-25.md"
     }
   ],
   "omittedPaths": [],

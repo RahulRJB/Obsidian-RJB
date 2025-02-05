@@ -121,6 +121,30 @@
             }
           },
           {
+            "id": "cd068fbf66a83574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/05-02-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "05-02-25"
+            }
+          },
+          {
             "id": "2a63324f6116bf7d",
             "type": "leaf",
             "state": {
@@ -244,7 +268,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -435,8 +459,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f85b66545a5f5050",
+  "active": "cd068fbf66a83574",
   "lastOpenFiles": [
+    "Tracker/05-02-25.md",
     "Tracker/Marriage Plan.md",
     "Tracker/Lists.md",
     "Tracker/30-01-25.md",
@@ -472,7 +497,6 @@
     "Notes/SentenceBERT.md",
     "Notes/Sentence Transformers.md",
     "Notes/HyDE.md",
-    "Notes/CRAG.md",
     "Excalidraw",
     "Articles",
     "Attachments/Recording 20250117024020.webm",
