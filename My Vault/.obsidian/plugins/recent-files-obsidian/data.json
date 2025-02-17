@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "17-02-25",
+      "path": "Tracker/17-02-25.md"
+    },
+    {
       "basename": "Marriage Plan",
       "path": "Tracker/Marriage Plan.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Fast RCNN",
       "path": "Notes/Fast RCNN.md"
-    },
-    {
-      "basename": "Maximum Likelihood",
-      "path": "Notes/Maximum Likelihood.md"
     }
   ],
   "omittedPaths": [],

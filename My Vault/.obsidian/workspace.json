@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/Marriage Plan.md",
+                "file": "Tracker/17-02-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -58,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Marriage Plan"
+              "title": "17-02-25"
             }
           },
           {
@@ -368,15 +368,15 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "remotely-save:Remotely Save": false,
-      "periodic-notes:Open today": false
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "3c1dfbf0a15ecfde",
   "lastOpenFiles": [
+    "Tracker/Marriage Plan.md",
+    "Tracker/17-02-25.md",
     "Tracker/05-02-25.md",
     "Tracker/28-01-25.md",
-    "Tracker/Marriage Plan.md",
     "Tracker/Lists.md",
     "Tracker/30-01-25.md",
     "Notes/Exponential Weighted Average.md",
@@ -409,7 +409,6 @@
     "Attachments/Pasted image 20250124191210.png",
     "Notes/SentenceBERT.md",
     "Notes/Sentence Transformers.md",
-    "Notes/HyDE.md",
     "Excalidraw",
     "Articles",
     "Attachments/Recording 20250117024020.webm",
