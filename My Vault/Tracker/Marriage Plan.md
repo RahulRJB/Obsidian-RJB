@@ -7,13 +7,13 @@
 - [x] Haircut 1Feb
 - [x] Scaling 31Jan@10:00
 - [x] Dhol
-- [ ] Dhuti learn
+- [x] Dhuti learn
 - [x] Card Sankhadeep
-- [ ] Sandakphu
+- [x] Sandakphu
 - [ ] Go to Garia for meds 25Jan
 - [x] haldi dhutiii
 - [x] Panjabi Collect 1Feb
-- [ ] Call Jamai
+- [x] Call Jamai
 - [x] Song choose
 - [x] Dentist Dida 26Jan@10:30
 - [x] Lace stitch 25Jan

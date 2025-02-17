@@ -472,7 +472,7 @@
 | Deloitte                                                              |            |        |                 | 24Jan@3:30pm interview  |         |
 | Accenture                                                             |            | 18 LPA |                 |                         | Poonam  |
 | Tiger Analytics                                                       |            |        |                 |                         |         |
-| John Deere                                                            | GenAI      |        | MG Road         | 28Jan@5pm- Final round  | Priti   |
+| John Deere                                                            | GenAI      |        | MG Road         | Selected                | Priti   |
 | Verizon                                                               |            |        |                 |                         |         |
 | Rocket Softwares                                                      |            |        |                 | 24Jan@11:30am           |         |
 | Hurmonics Global                                                      |            | 30     |                 | 27Jan@12pm              |         |
