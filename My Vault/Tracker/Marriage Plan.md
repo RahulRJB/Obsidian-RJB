@@ -52,7 +52,7 @@
 ## Expenses 
   
 Venue- 3L, 197500, paid papa    5k amusement me
-Food reception- 400x950=388000, 11k paid papa, 94k paid me  
+Food reception- 400x950=388000, 11k paid papa, 94k + 55650/- + 77750/- paid me  
 Guest House- 10k paid me
 Other food- 2L  
 Ring- 75k, paid me  

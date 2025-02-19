@@ -1,7 +1,7 @@
 
-- [ ] Get Married
+- [x] Get Married
 - [ ] International trip; try 2
-- [ ] Job resignation Feb end
+- [x] Job resignation Feb end
 - [ ] Try hybrid job
 - [ ] 40+ CTC
 - [ ] keep <80kg

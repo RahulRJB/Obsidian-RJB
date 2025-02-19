@@ -6,13 +6,17 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Profiler for code bottleneck?
+- [ ] Customer using rag problem
+- [ ] args kwargs
+- [ ] OOPS
+- [ ] Decorators, Generators
 - [ ] AI Safety for NSFW and PII and sensitive data
 - [ ] LLM loss functions
 - [ ] Optimizers(Adam)
 - [ ] Statistical analysis
 - [ ] SORT and SEARCH
 - [ ] Revise The models like XgBoost
-- [ ] No Javascript, chatbot, Databricks
 - [ ] Chatbot
 - [ ] Challenges in Projects
 - [ ] SQL questions

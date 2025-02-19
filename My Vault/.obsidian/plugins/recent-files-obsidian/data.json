@@ -1,20 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Beam Search",
+      "path": "Notes/Beam Search.md"
+    },
+    {
+      "basename": "Deepseek R1",
+      "path": "Notes/Deepseek R1.md"
+    },
+    {
+      "basename": "RAG",
+      "path": "Notes/RAG.md"
+    },
+    {
       "basename": "19-02-25",
       "path": "Tracker/19-02-25.md"
+    },
+    {
+      "basename": "args and kwrgs",
+      "path": "Notes/args and kwrgs.md"
+    },
+    {
+      "basename": "python",
+      "path": "Notes/python.md"
     },
     {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
     },
     {
-      "basename": "Marriage Plan",
-      "path": "Tracker/Marriage Plan.md"
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
     },
     {
-      "basename": "17-02-25",
-      "path": "Tracker/17-02-25.md"
+      "basename": "18-01-25",
+      "path": "Tracker/18-01-25.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "NLP - UT Austin",
+      "path": "Notes/NLP - UT Austin.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "Notes/SQL.md"
+    },
+    {
+      "basename": "Marriage Plan",
+      "path": "Tracker/Marriage Plan.md"
     },
     {
       "basename": "05-02-25",
@@ -25,10 +61,6 @@
       "path": "Tracker/28-01-25.md"
     },
     {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
-    },
-    {
       "basename": "30-01-25",
       "path": "Tracker/30-01-25.md"
     },
@@ -37,24 +69,12 @@
       "path": "Notes/Exponential Weighted Average.md"
     },
     {
-      "basename": "Beam Search",
-      "path": "Notes/Beam Search.md"
-    },
-    {
-      "basename": "RAG",
-      "path": "Notes/RAG.md"
-    },
-    {
       "basename": "Search",
       "path": "Notes/Search.md"
     },
     {
       "basename": "Algorithms",
       "path": "Notes/Algorithms.md"
-    },
-    {
-      "basename": "Deepseek R1",
-      "path": "Notes/Deepseek R1.md"
     },
     {
       "basename": "Deepseek",
@@ -83,18 +103,6 @@
     {
       "basename": "MoE (Mixture of Experts)",
       "path": "Notes/MoE (Mixture of Experts).md"
-    },
-    {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
-    },
-    {
-      "basename": "NLP - UT Austin",
-      "path": "Notes/NLP - UT Austin.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Notes/SQL.md"
     },
     {
       "basename": "SentenceBERT",
@@ -191,14 +199,6 @@
     {
       "basename": "Tf-IDf",
       "path": "Notes/Tf-IDf.md"
-    },
-    {
-      "basename": "Prompt caching",
-      "path": "Notes/Prompt caching.md"
-    },
-    {
-      "basename": "09-10-24",
-      "path": "Tracker/09-10-24.md"
     }
   ],
   "omittedPaths": [],
