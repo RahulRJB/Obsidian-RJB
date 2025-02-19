@@ -465,18 +465,20 @@
 
 ## Process:
 
-| Applied                                                               | Role(Work) | Pay    | Location        | <center>Status</center> | HR, num |
-| --------------------------------------------------------------------- | ---------- | ------ | --------------- | ----------------------- | ------- |
-| [EXL: Analytics, AI & Digital Solutions](https://www.exlservice.com/) | CV         | 18 LPA | Electronic City | Test mail given         | Bhawna  |
-| Cognizant                                                             |            |        |                 |                         |         |
-| Deloitte                                                              |            |        |                 | 24Jan@3:30pm interview  |         |
-| Accenture                                                             |            | 18 LPA |                 |                         | Poonam  |
-| Tiger Analytics                                                       |            |        |                 |                         |         |
-| John Deere                                                            | GenAI      |        | MG Road         | Selected                | Priti   |
-| Verizon                                                               |            |        |                 |                         |         |
-| Rocket Softwares                                                      |            |        |                 | 24Jan@11:30am           |         |
-| Hurmonics Global                                                      |            | 30     |                 | 27Jan@12pm              |         |
-| Fractal(Soniya) call 2 months before                                  |            |        |                 |                         |         |
+| Applied                              | Role(Work) | Pay    | Location | <center>Status</center>    | HR, num |
+| ------------------------------------ | ---------- | ------ | -------- | -------------------------- | ------- |
+| HCLTech                              |            | 32LPA  |          | Selected 2nd round         |         |
+| Deloitte                             |            |        |          | Awaiting 2nd round results | Venu    |
+| Accenture                            |            | 18 LPA |          |                            | Poonam  |
+| Tiger Analytics                      |            |        |          |                            |         |
+| John Deere                           | GenAI      |        | MG Road  | Selected                   | Priti   |
+| Verizon                              |            |        |          |                            |         |
+| Rocket Softwares                     |            |        |          | Finish mail questions      |         |
+| Hurmonics Global                     |            | 30     |          | 27Jan@12pm                 |         |
+| Fractal(Soniya) call 2 months before |            |        |          |                            |         |
+| Maaze(Chandigarh)                    |            |        |          |                            |         |
+| Lowe's                               |            |        |          |                            |         |
+|                                      |            |        |          |                            |         |
 
 
 

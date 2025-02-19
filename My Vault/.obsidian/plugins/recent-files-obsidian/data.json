@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
       "basename": "Beam Search",
       "path": "Notes/Beam Search.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "python",
       "path": "Notes/python.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "GOALS 2025",
