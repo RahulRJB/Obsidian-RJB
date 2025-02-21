@@ -478,7 +478,8 @@
 | Fractal(Soniya) call 2 months before |            |        |          |                            |         |
 | Maaze(Chandigarh)                    |            |        |          |                            |         |
 | Lowe's                               |            |        |          |                            |         |
-|                                      |            |        |          |                            |         |
+| EPAM                                 |            |        |          |                            |         |
+| Public Sapient                       |            |        |          |                            |         |
 
 
 
