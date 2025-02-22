@@ -6,6 +6,8 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Revise:
+	- [ ] numpy
 - [ ] Profiler for code bottleneck?
 - [ ] Customer using rag problem
 - [ ] args kwargs

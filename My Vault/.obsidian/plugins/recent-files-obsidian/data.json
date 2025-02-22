@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
+      "basename": "CART",
+      "path": "Notes/CART.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Beam Search",
@@ -11,6 +15,14 @@
     {
       "basename": "Deepseek R1",
       "path": "Notes/Deepseek R1.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "Notes/SQL.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "RAG",
@@ -37,16 +49,8 @@
       "path": "Tracker/18-01-25.md"
     },
     {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
-    },
-    {
       "basename": "NLP - UT Austin",
       "path": "Notes/NLP - UT Austin.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Notes/SQL.md"
     },
     {
       "basename": "Marriage Plan",
@@ -195,10 +199,6 @@
     {
       "basename": "19-01-25",
       "path": "Tracker/19-01-25.md"
-    },
-    {
-      "basename": "Tf-IDf",
-      "path": "Notes/Tf-IDf.md"
     }
   ],
   "omittedPaths": [],

@@ -8,6 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "94008c6332d5914e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/CART.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CART"
+            }
+          },
+          {
             "id": "0540a224e2eb0506",
             "type": "leaf",
             "state": {
@@ -29,6 +53,54 @@
               },
               "icon": "lucide-file",
               "title": "RAG"
+            }
+          },
+          {
+            "id": "3fb83bcf5dcd0aa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/NLP - UT Austin.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NLP - UT Austin"
+            }
+          },
+          {
+            "id": "e5ee0a26cd4b2efc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/SQL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SQL"
             }
           },
           {
@@ -77,54 +149,6 @@
               },
               "icon": "lucide-file",
               "title": "Beam Search"
-            }
-          },
-          {
-            "id": "f41579797c055572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/SQL.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SQL"
-            }
-          },
-          {
-            "id": "3fb83bcf5dcd0aa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/NLP - UT Austin.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NLP - UT Austin"
             }
           },
           {
@@ -252,8 +276,7 @@
               "title": "19-02-25"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -385,21 +408,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a506043e04bace55",
+  "active": "94008c6332d5914e",
   "lastOpenFiles": [
+    "Tracker/Lists.md",
+    "Notes/CART.md",
     "Notes/Beam Search.md",
     "Notes/Deepseek R1.md",
+    "Notes/SQL.md",
+    "Tracker/Projects Details.md",
     "Notes/RAG.md",
     "Tracker/19-02-25.md",
     "Notes/args and kwrgs.md",
     "Notes/python.md",
-    "Tracker/Projects Details.md",
     "Tracker/GOALS 2025.md",
     "Tracker/17-02-25.md",
     "Tracker/18-01-25.md",
-    "Tracker/Lists.md",
     "Notes/NLP - UT Austin.md",
-    "Notes/SQL.md",
     "Tracker/Marriage Plan.md",
     "Tracker/05-02-25.md",
     "Tracker/28-01-25.md",
@@ -414,7 +438,6 @@
     "Notes/Adam optimizer.md",
     "Tracker/27-01-25.md",
     "Tracker/24-01-25.md",
-    "Notes/LoRA.md",
     "Attachments/Pasted image 20250124192423.png",
     "Attachments/Pasted image 20250124192330.png",
     "Attachments/Pasted image 20250124192123.png",
