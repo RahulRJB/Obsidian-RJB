@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "CART",
-      "path": "Notes/CART.md"
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
+    },
+    {
+      "basename": "Tensors",
+      "path": "Notes/Tensors.md"
+    },
+    {
+      "basename": "LoRA",
+      "path": "Notes/LoRA.md"
+    },
+    {
+      "basename": "Deepseek R1",
+      "path": "Notes/Deepseek R1.md"
     },
     {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
     {
-      "basename": "Beam Search",
-      "path": "Notes/Beam Search.md"
+      "basename": "CART",
+      "path": "Notes/CART.md"
     },
     {
-      "basename": "Deepseek R1",
-      "path": "Notes/Deepseek R1.md"
+      "basename": "Numpy",
+      "path": "Notes/Numpy.md"
+    },
+    {
+      "basename": "Beam Search",
+      "path": "Notes/Beam Search.md"
     },
     {
       "basename": "SQL",
@@ -39,10 +55,6 @@
     {
       "basename": "python",
       "path": "Notes/python.md"
-    },
-    {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
     },
     {
       "basename": "18-01-25",
@@ -95,10 +107,6 @@
     {
       "basename": "24-01-25",
       "path": "Tracker/24-01-25.md"
-    },
-    {
-      "basename": "LoRA",
-      "path": "Notes/LoRA.md"
     },
     {
       "basename": "DORA",
@@ -191,14 +199,6 @@
     {
       "basename": "Selective Search",
       "path": "Notes/Selective Search.md"
-    },
-    {
-      "basename": "16-01-25",
-      "path": "Tracker/16-01-25.md"
-    },
-    {
-      "basename": "19-01-25",
-      "path": "Tracker/19-01-25.md"
     }
   ],
   "omittedPaths": [],

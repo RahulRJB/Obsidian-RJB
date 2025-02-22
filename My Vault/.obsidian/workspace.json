@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Deepseek R1.md",
+                "file": "Notes/LoRA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Deepseek R1"
+              "title": "LoRA"
             }
           },
           {
@@ -276,7 +276,8 @@
               "title": "19-02-25"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -408,19 +409,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "94008c6332d5914e",
+  "active": "2a63324f6116bf7d",
   "lastOpenFiles": [
+    "Notes/Tensors.md",
+    "Tracker/GOALS 2025.md",
+    "Notes/LoRA.md",
+    "Notes/Deepseek R1.md",
     "Tracker/Lists.md",
     "Notes/CART.md",
+    "Notes/Numpy.md",
     "Notes/Beam Search.md",
-    "Notes/Deepseek R1.md",
     "Notes/SQL.md",
     "Tracker/Projects Details.md",
     "Notes/RAG.md",
     "Tracker/19-02-25.md",
     "Notes/args and kwrgs.md",
     "Notes/python.md",
-    "Tracker/GOALS 2025.md",
     "Tracker/17-02-25.md",
     "Tracker/18-01-25.md",
     "Notes/NLP - UT Austin.md",
@@ -435,9 +439,6 @@
     "Notes/Algorithms.md",
     "Notes/Deepseek.md",
     "Notes/LLMs.md",
-    "Notes/Adam optimizer.md",
-    "Tracker/27-01-25.md",
-    "Tracker/24-01-25.md",
     "Attachments/Pasted image 20250124192423.png",
     "Attachments/Pasted image 20250124192330.png",
     "Attachments/Pasted image 20250124192123.png",
