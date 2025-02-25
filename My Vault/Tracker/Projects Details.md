@@ -465,21 +465,21 @@
 
 ## Process:
 
-| Applied                              | Role(Work) | Pay   | Location | <center>Status</center>    | HR, num |
-| ------------------------------------ | ---------- | ----- | -------- | -------------------------- | ------- |
-| HCLTech                              |            | 32LPA |          | 2nd round                  |         |
-| Deloitte                             |            |       |          | Awaiting 2nd round results | Venu    |
-| Tiger Analytics                      |            |       |          | Mail again                 |         |
-| John Deere                           | GenAI      |       | MG Road  | **Selected**               | Priti   |
-| Rocket Softwares                     |            |       |          | Finish mail questions      |         |
-| Hurmonics Global                     |            | 30    |          | 27Jan@12pm                 |         |
-| Fractal(Soniya) call 2 months before |            |       |          |                            |         |
-| Maaze(Chandigarh)                    |            |       |          |                            |         |
-| Lowe's                               |            |       |          |                            |         |
-| EPAM                                 |            |       |          |                            |         |
-| Public Sapient                       |            |       |          |                            |         |
-| IT Covenence                         |            |       |          |                            |         |
-| Quantiphi                            |            |       |          |                            |         |
+| Applied           | Role(Work) | Pay | Location | <center>Status</center>       | HR, num |
+| ----------------- | ---------- | --- | -------- | ----------------------------- | ------- |
+| John Deere        | GenAI      | 26  | MG Road  | <center>**Selected**</center> | Priti   |
+| Rocket Softwares  |            |     |          | Finish mail questions         |         |
+| Hurmonics Global  |            | 30  |          | 1st round reject! <sob  sob>  |         |
+| Maaze(Chandigarh) |            |     |          | 2nd round await               |         |
+| HCLTech           |            | 32  |          | 2nd round                     |         |
+| Deloitte          |            |     |          | 2nd round reject!             | Venu    |
+| Tiger Analytics   |            |     |          | Mail again                    |         |
+| EPAM              |            |     |          | 1st round select              |         |
+| Quantiphi         |            |     |          | 1st round reject              |         |
+| Lowe's            |            |     |          |                               |         |
+| Public Sapient    |            |     |          |                               |         |
+| IT Covenence      |            |     |          |                               |         |
+| Jaeggar           |            |     |          |                               |         |
 
 
 

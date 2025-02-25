@@ -6,11 +6,10 @@ kanban-plugin: []
 
 ## TO study
 
-- [ ] Revise:
-	- [ ] numpy
+- [ ] AWS
+- [ ] Langchain
 - [ ] Profiler for code bottleneck?
 - [ ] Customer using rag problem
-- [ ] args kwargs
 - [ ] OOPS
 - [ ] Decorators, Generators
 - [ ] AI Safety for NSFW and PII and sensitive data
