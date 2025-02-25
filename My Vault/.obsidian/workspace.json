@@ -104,54 +104,6 @@
             }
           },
           {
-            "id": "9ecac9e7830bc8f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/LoRA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LoRA"
-            }
-          },
-          {
-            "id": "41735875bfad1f3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Beam Search.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Beam Search"
-            }
-          },
-          {
             "id": "a506043e04bace55",
             "type": "leaf",
             "state": {
@@ -277,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -377,6 +329,69 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "c8558d5a6854b571",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tracker/Projects Details.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Projects Details"
+            }
+          },
+          {
+            "id": "1011f353b78b6c27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tracker/Projects Details.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Projects Details"
+            }
+          },
+          {
+            "id": "457297133425106a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f5f9734ba8f38d98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tracker/Projects Details.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Projects Details"
+            }
           }
         ]
       }
@@ -405,23 +420,26 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "remotely-save:Remotely Save": false,
-      "periodic-notes:Open today": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "2a63324f6116bf7d",
+  "active": "a506043e04bace55",
   "lastOpenFiles": [
-    "Notes/Tensors.md",
-    "Tracker/GOALS 2025.md",
+    "Notes/CART.md",
+    "Notes/RAG.md",
+    "Notes/SQL.md",
+    "Attachments/Recording 20240608031932.webm",
     "Notes/LoRA.md",
+    "Attachments/seg-11a.pdf",
+    "Notes/L1 loss (MAE loss).md",
+    "Notes/LLMs.md",
+    "Notes/Beam Search.md",
+    "Tracker/GOALS 2025.md",
+    "Notes/Tensors.md",
     "Notes/Deepseek R1.md",
     "Tracker/Lists.md",
-    "Notes/CART.md",
     "Notes/Numpy.md",
-    "Notes/Beam Search.md",
-    "Notes/SQL.md",
     "Tracker/Projects Details.md",
-    "Notes/RAG.md",
     "Tracker/19-02-25.md",
     "Notes/args and kwrgs.md",
     "Notes/python.md",
@@ -436,9 +454,6 @@
     "Attachments/Pasted image 20250130132034.png",
     "Attachments/Pasted image 20250130131955.png",
     "Notes/Search.md",
-    "Notes/Algorithms.md",
-    "Notes/Deepseek.md",
-    "Notes/LLMs.md",
     "Attachments/Pasted image 20250124192423.png",
     "Attachments/Pasted image 20250124192330.png",
     "Attachments/Pasted image 20250124192123.png",
@@ -455,8 +470,6 @@
     "Attachments/seg-13 1.pdf",
     "Attachments/seg-13.pdf",
     "Attachments/seg-12.pdf",
-    "Attachments/seg-11a.pdf",
-    "Attachments/seg-11.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "25-02-25",
+      "path": "Tracker/25-02-25.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "CART",
+      "path": "Notes/CART.md"
+    },
+    {
+      "basename": "RAG",
+      "path": "Notes/RAG.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "Notes/SQL.md"
+    },
+    {
+      "basename": "Recording 20240608031932",
+      "path": "Attachments/Recording 20240608031932.webm"
+    },
+    {
+      "basename": "LoRA",
+      "path": "Notes/LoRA.md"
+    },
+    {
+      "basename": "seg-11a",
+      "path": "Attachments/seg-11a.pdf"
+    },
+    {
+      "basename": "L1 loss (MAE loss)",
+      "path": "Notes/L1 loss (MAE loss).md"
+    },
+    {
+      "basename": "LLMs",
+      "path": "Notes/LLMs.md"
+    },
+    {
+      "basename": "Beam Search",
+      "path": "Notes/Beam Search.md"
+    },
+    {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
     },
     {
       "basename": "Tensors",
       "path": "Notes/Tensors.md"
-    },
-    {
-      "basename": "LoRA",
-      "path": "Notes/LoRA.md"
     },
     {
       "basename": "Deepseek R1",
@@ -21,28 +61,8 @@
       "path": "Tracker/Lists.md"
     },
     {
-      "basename": "CART",
-      "path": "Notes/CART.md"
-    },
-    {
       "basename": "Numpy",
       "path": "Notes/Numpy.md"
-    },
-    {
-      "basename": "Beam Search",
-      "path": "Notes/Beam Search.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Notes/SQL.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
-    },
-    {
-      "basename": "RAG",
-      "path": "Notes/RAG.md"
     },
     {
       "basename": "19-02-25",
@@ -95,10 +115,6 @@
     {
       "basename": "Deepseek",
       "path": "Notes/Deepseek.md"
-    },
-    {
-      "basename": "LLMs",
-      "path": "Notes/LLMs.md"
     },
     {
       "basename": "Adam optimizer",
@@ -183,22 +199,6 @@
     {
       "basename": "13-12-24",
       "path": "Tracker/13-12-24.md"
-    },
-    {
-      "basename": "DenseNet",
-      "path": "Notes/DenseNet.md"
-    },
-    {
-      "basename": "Environment packaging",
-      "path": "Notes/Environment packaging.md"
-    },
-    {
-      "basename": "GIT",
-      "path": "Notes/GIT.md"
-    },
-    {
-      "basename": "Selective Search",
-      "path": "Notes/Selective Search.md"
     }
   ],
   "omittedPaths": [],
