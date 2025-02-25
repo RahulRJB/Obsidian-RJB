@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "LoRA",
+      "path": "Notes/LoRA.md"
+    },
+    {
+      "basename": "CART",
+      "path": "Notes/CART.md"
+    },
+    {
       "basename": "25-02-25",
       "path": "Tracker/25-02-25.md"
     },
@@ -9,16 +21,8 @@
       "path": "Tracker/19-02-25.md"
     },
     {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
-    },
-    {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
-    },
-    {
-      "basename": "CART",
-      "path": "Notes/CART.md"
     },
     {
       "basename": "RAG",
@@ -31,10 +35,6 @@
     {
       "basename": "Recording 20240608031932",
       "path": "Attachments/Recording 20240608031932.webm"
-    },
-    {
-      "basename": "LoRA",
-      "path": "Notes/LoRA.md"
     },
     {
       "basename": "seg-11a",

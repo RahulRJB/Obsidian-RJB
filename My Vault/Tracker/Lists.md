@@ -6,6 +6,7 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Agents
 - [ ] AWS
 - [ ] Langchain
 - [ ] Profiler for code bottleneck?

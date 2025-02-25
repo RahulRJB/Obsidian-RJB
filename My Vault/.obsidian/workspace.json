@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/CART.md",
+                "file": "Notes/LoRA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CART"
+              "title": "LoRA"
             }
           },
           {
@@ -229,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -336,7 +336,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracker/25-02-25.md",
+                "file": "Tracker/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -346,7 +346,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 25-02-25"
+              "title": "Backlinks for Lists"
             }
           },
           {
@@ -355,12 +355,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tracker/25-02-25.md",
+                "file": "Tracker/Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 25-02-25"
+              "title": "Outgoing links from Lists"
             }
           },
           {
@@ -384,13 +384,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tracker/25-02-25.md",
+                "file": "Tracker/Lists.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 25-02-25"
+              "title": "Outline of Lists"
             }
           }
         ]
@@ -424,17 +424,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c3aa688678be42fd",
+  "active": "64ec11214a331f60",
   "lastOpenFiles": [
-    "Tracker/19-02-25.md",
+    "Notes/LoRA.md",
+    "Notes/CART.md",
     "Tracker/25-02-25.md",
+    "Tracker/19-02-25.md",
     "Tracker/Lists.md",
     "Tracker/Projects Details.md",
-    "Notes/CART.md",
     "Notes/RAG.md",
     "Notes/SQL.md",
     "Attachments/Recording 20240608031932.webm",
-    "Notes/LoRA.md",
     "Attachments/seg-11a.pdf",
     "Notes/L1 loss (MAE loss).md",
     "Notes/LLMs.md",
