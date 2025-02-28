@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/Projects Details.md",
+                "file": "Tracker/28-02-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Projects Details"
+              "title": "28-02-25"
             }
           },
           {
@@ -426,12 +426,13 @@
   },
   "active": "a506043e04bace55",
   "lastOpenFiles": [
+    "Tracker/Projects Details.md",
+    "Tracker/28-02-25.md",
     "Tracker/Lists.md",
     "Notes/LoRA.md",
     "Notes/CART.md",
     "Tracker/25-02-25.md",
     "Tracker/19-02-25.md",
-    "Tracker/Projects Details.md",
     "Notes/RAG.md",
     "Notes/SQL.md",
     "Attachments/Recording 20240608031932.webm",
@@ -455,7 +456,6 @@
     "Notes/Exponential Weighted Average.md",
     "Attachments/Pasted image 20250130132034.png",
     "Attachments/Pasted image 20250130131955.png",
-    "Notes/Search.md",
     "Attachments/Pasted image 20250124192423.png",
     "Attachments/Pasted image 20250124192330.png",
     "Attachments/Pasted image 20250124192123.png",
