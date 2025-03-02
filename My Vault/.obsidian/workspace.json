@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LoRA.md",
+                "file": "Notes/ResNet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LoRA"
+              "title": "ResNet"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/RAG.md",
+                "file": "Tracker/02-03-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RAG"
+              "title": "02-03-25"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/28-02-25.md",
+                "file": "Tracker/Projects Details.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "28-02-25"
+              "title": "Projects Details"
             }
           },
           {
@@ -229,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -420,20 +420,21 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "remotely-save:Remotely Save": false,
-      "periodic-notes:Open today": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "a506043e04bace55",
+  "active": "0540a224e2eb0506",
   "lastOpenFiles": [
+    "Notes/RAG.md",
+    "Tracker/02-03-25.md",
+    "Notes/ResNet.md",
+    "Notes/LoRA.md",
     "Tracker/Projects Details.md",
     "Tracker/28-02-25.md",
     "Tracker/Lists.md",
-    "Notes/LoRA.md",
     "Notes/CART.md",
     "Tracker/25-02-25.md",
     "Tracker/19-02-25.md",
-    "Notes/RAG.md",
     "Notes/SQL.md",
     "Attachments/Recording 20240608031932.webm",
     "Attachments/seg-11a.pdf",
@@ -452,8 +453,6 @@
     "Tracker/Marriage Plan.md",
     "Tracker/05-02-25.md",
     "Tracker/28-01-25.md",
-    "Tracker/30-01-25.md",
-    "Notes/Exponential Weighted Average.md",
     "Attachments/Pasted image 20250130132034.png",
     "Attachments/Pasted image 20250130131955.png",
     "Attachments/Pasted image 20250124192423.png",
