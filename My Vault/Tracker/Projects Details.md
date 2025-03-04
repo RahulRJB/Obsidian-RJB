@@ -478,7 +478,7 @@
 | Quantiphi         |            |     |          | 1st round reject              |         |
 | Lowe's            |            |     |          |                               |         |
 | Public Sapient    |            |     |          |                               |         |
-| IT Convergence    |            |     |          |                               |         |
+| IT Convergence    |            |     |          | 1st round select              |         |
 | Jaeggar           |            |     |          |                               |         |
 | Airbus            |            |     |          |                               |         |
 | Tredence          |            |     |          |                               |         |
