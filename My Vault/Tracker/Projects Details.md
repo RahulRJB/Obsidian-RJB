@@ -479,7 +479,7 @@
 | Lowe's            |            |     |          |                               |         |
 | Public Sapient    |            |     |          |                               |         |
 | IT Convergence    |            |     |          | 1st round select              |         |
-| Jaeggar           |            |     |          |                               |         |
+| Jaeggar           |            |     |          | 1st round select              |         |
 | Airbus            |            |     |          |                               |         |
 | Tredence          |            |     |          |                               |         |
 
