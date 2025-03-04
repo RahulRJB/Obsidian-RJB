@@ -475,13 +475,14 @@
 | Deloitte          |            |     |          | 2nd round reject!             | Venu    |
 | Tiger Analytics   |            |     |          | Mail again                    |         |
 | EPAM              |            |     |          | 1st round select              |         |
-| Quantiphi         |            |     |          | 1st round reject              |         |
+| Quantiphi         |            |     |          | Diff role reject              |         |
 | Lowe's            |            |     |          |                               |         |
 | Public Sapient    |            |     |          |                               |         |
 | IT Convergence    |            |     |          | 1st round select              |         |
 | Jaeggar           |            |     |          | 1st round select              |         |
 | Airbus            |            |     |          |                               |         |
 | Tredence          |            |     |          |                               |         |
+| EXL               |            |     |          |                               |         |
 
 
 
