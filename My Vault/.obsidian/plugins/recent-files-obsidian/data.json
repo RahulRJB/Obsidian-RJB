@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "02-03-25",
-      "path": "Tracker/02-03-25.md"
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "RAG",
       "path": "Notes/RAG.md"
+    },
+    {
+      "basename": "02-03-25",
+      "path": "Tracker/02-03-25.md"
     },
     {
       "basename": "ResNet",
@@ -15,10 +19,6 @@
     {
       "basename": "LoRA",
       "path": "Notes/LoRA.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "28-02-25",
