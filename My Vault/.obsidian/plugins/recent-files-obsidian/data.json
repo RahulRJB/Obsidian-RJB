@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "Assert",
+      "path": "Notes/Assert.md"
+    },
+    {
+      "basename": "raise",
+      "path": "Notes/raise.md"
+    },
+    {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "28-02-25",
       "path": "Tracker/28-02-25.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "CART",
@@ -165,10 +173,6 @@
       "path": "Notes/ColBERT.md"
     },
     {
-      "basename": "Assert",
-      "path": "Notes/Assert.md"
-    },
-    {
       "basename": "ROUGE",
       "path": "Notes/ROUGE.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ROC-AUC",
       "path": "Notes/ROC-AUC.md"
-    },
-    {
-      "basename": "PCA",
-      "path": "Notes/PCA.md"
     }
   ],
   "omittedPaths": [],

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/Projects Details.md",
+                "file": "Notes/Assert.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Projects Details"
+              "title": "Assert"
             }
           },
           {
@@ -229,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -424,13 +424,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a506043e04bace55",
+  "active": "64ec11214a331f60",
   "lastOpenFiles": [
+    "Notes/Assert.md",
+    "Notes/raise.md",
+    "Tracker/Projects Details.md",
     "Notes/RAG.md",
     "Tracker/02-03-25.md",
     "Notes/ResNet.md",
     "Notes/LoRA.md",
-    "Tracker/Projects Details.md",
     "Tracker/28-02-25.md",
     "Tracker/Lists.md",
     "Notes/CART.md",
@@ -452,8 +454,6 @@
     "Tracker/18-01-25.md",
     "Notes/NLP - UT Austin.md",
     "Tracker/Marriage Plan.md",
-    "Tracker/05-02-25.md",
-    "Tracker/28-01-25.md",
     "Attachments/Pasted image 20250130132034.png",
     "Attachments/Pasted image 20250130131955.png",
     "Attachments/Pasted image 20250124192423.png",

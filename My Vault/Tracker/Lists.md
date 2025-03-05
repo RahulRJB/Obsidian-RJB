@@ -6,6 +6,7 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Testings strategies, A/B etc
 - [ ] Agents
 - [ ] AWS
 - [ ] Langchain
