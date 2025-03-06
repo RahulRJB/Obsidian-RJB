@@ -431,13 +431,13 @@
 ## Application:
 
 - Permanent Add:  29/8, Purbachal North, Kalitala Main Road, Preyashi Building, 1st floor
+  Kolkata 700078
 
 - Address:  007, Soumya Sankalp Apartment, Kodigehalli, Kadugodi
   Whitefield, Bengaluru - 560067
 
 - Institute:  Heritage Institute Of Technology, Kolkata
 
-101330659295
 ## Queries:
 
 - Salary?
@@ -472,14 +472,14 @@
 | Hurmonics Global  |            | 30  |          | 1st round reject! <sob  sob>  |         |
 | Maaze(Chandigarh) |            |     |          | 2nd round await               |         |
 | HCLTech           |            | 32  |          | 2nd round                     |         |
-| Deloitte          |            |     |          | 2nd round reject!             | Venu    |
+| Deloitte          |            |     |          | 2nd round select              | Venu    |
 | Tiger Analytics   |            |     |          | Mail again                    |         |
 | EPAM              |            |     |          | 1st round select              |         |
 | Quantiphi         |            |     |          | Diff role reject              |         |
 | Lowe's            |            |     |          |                               |         |
-| Public Sapient    |            |     |          |                               |         |
+| Publicis Sapient  |            |     |          | Test                          |         |
 | IT Convergence    |            |     |          | 1st round select              |         |
-| Jaeggar           |            |     |          | 1st round select              |         |
+| Jaeggar           |            |     |          | 1st round select (Hyd)        |         |
 | Airbus            |            |     |          |                               |         |
 | Tredence          |            |     |          |                               |         |
 | EXL               |            |     |          |                               |         |

@@ -1,28 +1,132 @@
 {
   "recentFiles": [
     {
+      "basename": "06-03-25",
+      "path": "Tracker/06-03-25.md"
+    },
+    {
+      "basename": "Scaling RAG",
+      "path": "Notes/Scaling RAG.md"
+    },
+    {
+      "basename": "Kubernetes",
+      "path": "Notes/Kubernetes.md"
+    },
+    {
+      "basename": "Docker",
+      "path": "Notes/Docker.md"
+    },
+    {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
     {
-      "basename": "Assert",
-      "path": "Notes/Assert.md"
+      "basename": "Microservices",
+      "path": "Notes/Microservices.md"
     },
     {
-      "basename": "raise",
-      "path": "Notes/raise.md"
+      "basename": "Distillation",
+      "path": "Notes/Distillation.md"
     },
     {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
+      "basename": "Scaling",
+      "path": "Notes/Scaling.md"
+    },
+    {
+      "basename": "Architecture",
+      "path": "Notes/Architecture.md"
     },
     {
       "basename": "RAG",
       "path": "Notes/RAG.md"
     },
     {
-      "basename": "02-03-25",
-      "path": "Tracker/02-03-25.md"
+      "basename": "NLP - UT Austin",
+      "path": "Notes/NLP - UT Austin.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "Notes/SQL.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
+    },
+    {
+      "basename": "Dreams",
+      "path": "Tracker/Dreams.md"
+    },
+    {
+      "basename": "28-01-25",
+      "path": "Tracker/28-01-25.md"
+    },
+    {
+      "basename": "25-02-25",
+      "path": "Tracker/25-02-25.md"
+    },
+    {
+      "basename": "24-01-25",
+      "path": "Tracker/24-01-25.md"
+    },
+    {
+      "basename": "23-01-25",
+      "path": "Tracker/23-01-25.md"
+    },
+    {
+      "basename": "22-01-25",
+      "path": "Tracker/22-01-25.md"
+    },
+    {
+      "basename": "21-01-25",
+      "path": "Tracker/21-01-25.md"
+    },
+    {
+      "basename": "19-01-25",
+      "path": "Tracker/19-01-25.md"
+    },
+    {
+      "basename": "18-01-25",
+      "path": "Tracker/18-01-25.md"
+    },
+    {
+      "basename": "17-01-25",
+      "path": "Tracker/17-01-25.md"
+    },
+    {
+      "basename": "16-01-25",
+      "path": "Tracker/16-01-25.md"
+    },
+    {
+      "basename": "15-01-25",
+      "path": "Tracker/15-01-25.md"
+    },
+    {
+      "basename": "14-01-25",
+      "path": "Tracker/14-01-25.md"
+    },
+    {
+      "basename": "13-01-25",
+      "path": "Tracker/13-01-25.md"
+    },
+    {
+      "basename": "10-01-25",
+      "path": "Tracker/10-01-25.md"
+    },
+    {
+      "basename": "09-01-25",
+      "path": "Tracker/09-01-25.md"
+    },
+    {
+      "basename": "raise",
+      "path": "Notes/raise.md"
+    },
+    {
+      "basename": "Assert",
+      "path": "Notes/Assert.md"
     },
     {
       "basename": "ResNet",
@@ -33,24 +137,8 @@
       "path": "Notes/LoRA.md"
     },
     {
-      "basename": "28-02-25",
-      "path": "Tracker/28-02-25.md"
-    },
-    {
       "basename": "CART",
       "path": "Notes/CART.md"
-    },
-    {
-      "basename": "25-02-25",
-      "path": "Tracker/25-02-25.md"
-    },
-    {
-      "basename": "19-02-25",
-      "path": "Tracker/19-02-25.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Notes/SQL.md"
     },
     {
       "basename": "Recording 20240608031932",
@@ -73,10 +161,6 @@
       "path": "Notes/Beam Search.md"
     },
     {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
-    },
-    {
       "basename": "Tensors",
       "path": "Notes/Tensors.md"
     },
@@ -97,24 +181,8 @@
       "path": "Notes/python.md"
     },
     {
-      "basename": "18-01-25",
-      "path": "Tracker/18-01-25.md"
-    },
-    {
-      "basename": "NLP - UT Austin",
-      "path": "Notes/NLP - UT Austin.md"
-    },
-    {
       "basename": "Marriage Plan",
       "path": "Tracker/Marriage Plan.md"
-    },
-    {
-      "basename": "05-02-25",
-      "path": "Tracker/05-02-25.md"
-    },
-    {
-      "basename": "28-01-25",
-      "path": "Tracker/28-01-25.md"
     },
     {
       "basename": "30-01-25",
@@ -131,74 +199,6 @@
     {
       "basename": "Algorithms",
       "path": "Notes/Algorithms.md"
-    },
-    {
-      "basename": "Deepseek",
-      "path": "Notes/Deepseek.md"
-    },
-    {
-      "basename": "Adam optimizer",
-      "path": "Notes/Adam optimizer.md"
-    },
-    {
-      "basename": "24-01-25",
-      "path": "Tracker/24-01-25.md"
-    },
-    {
-      "basename": "DORA",
-      "path": "Notes/DORA.md"
-    },
-    {
-      "basename": "MoE (Mixture of Experts)",
-      "path": "Notes/MoE (Mixture of Experts).md"
-    },
-    {
-      "basename": "SentenceBERT",
-      "path": "Notes/SentenceBERT.md"
-    },
-    {
-      "basename": "Sentence Transformers",
-      "path": "Notes/Sentence Transformers.md"
-    },
-    {
-      "basename": "HyDE",
-      "path": "Notes/HyDE.md"
-    },
-    {
-      "basename": "CRAG",
-      "path": "Notes/CRAG.md"
-    },
-    {
-      "basename": "ColBERT",
-      "path": "Notes/ColBERT.md"
-    },
-    {
-      "basename": "ROUGE",
-      "path": "Notes/ROUGE.md"
-    },
-    {
-      "basename": "23-01-25",
-      "path": "Tracker/23-01-25.md"
-    },
-    {
-      "basename": "Dreams",
-      "path": "Tracker/Dreams.md"
-    },
-    {
-      "basename": "Blending",
-      "path": "Notes/Blending.md"
-    },
-    {
-      "basename": "Collaborative Filtering",
-      "path": "Notes/Collaborative Filtering.md"
-    },
-    {
-      "basename": "Stacking",
-      "path": "Notes/Stacking.md"
-    },
-    {
-      "basename": "ROC-AUC",
-      "path": "Notes/ROC-AUC.md"
     }
   ],
   "omittedPaths": [],

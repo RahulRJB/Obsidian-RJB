@@ -5,7 +5,7 @@
 DATE:  11-06-24
 
 
-Tags: [[Notes/LLMs|LLMs]]
+Tags: [[Notes/LLMs|LLMs]] [[Scaling RAG]]
 
 # References:
 

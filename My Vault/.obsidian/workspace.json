@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94008c6332d5914e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/ResNet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ResNet"
-            }
-          },
-          {
             "id": "0540a224e2eb0506",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/RAG.md",
+                "file": "Notes/Scaling RAG.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RAG"
+              "title": "Scaling RAG"
+            }
+          },
+          {
+            "id": "317edaa6d92d3ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/06-03-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "06-03-25"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Assert.md",
+                "file": "Tracker/Projects Details.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Assert"
+              "title": "Projects Details"
             }
           },
           {
@@ -201,7 +201,7 @@
               "type": "planner-weekly",
               "state": {},
               "icon": "table-2",
-              "title": "Feb, 17–Feb, 23"
+              "title": "Mar, 3–Mar, 9"
             }
           },
           {
@@ -210,7 +210,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/25-02-25.md",
+                "file": "Tracker/06-03-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -225,11 +225,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "25-02-25"
+              "title": "06-03-25"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -420,40 +420,41 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "remotely-save:Remotely Save": false,
-      "periodic-notes:Open today": false
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "64ec11214a331f60",
+  "active": "317edaa6d92d3ab5",
   "lastOpenFiles": [
-    "Notes/Assert.md",
-    "Notes/raise.md",
-    "Tracker/Projects Details.md",
-    "Notes/RAG.md",
-    "Tracker/02-03-25.md",
-    "Notes/ResNet.md",
-    "Notes/LoRA.md",
-    "Tracker/28-02-25.md",
+    "Notes/Kubernetes.md",
+    "Notes/Scaling RAG.md",
+    "Notes/Docker.md",
     "Tracker/Lists.md",
-    "Notes/CART.md",
-    "Tracker/25-02-25.md",
-    "Tracker/19-02-25.md",
+    "Notes/Microservices.md",
+    "Notes/Distillation.md",
+    "Notes/Scaling.md",
+    "Notes/Architecture.md",
+    "Notes/RAG.md",
+    "Notes/NLP - UT Austin.md",
     "Notes/SQL.md",
+    "Tracker/Projects Details.md",
+    "Tracker/GOALS 2025.md",
+    "Tracker/Dreams.md",
+    "Tracker/06-03-25.md",
+    "Tracker/28-01-25.md",
+    "Tracker/25-02-25.md",
+    "Tracker/24-01-25.md",
+    "Tracker/23-01-25.md",
+    "Tracker/22-01-25.md",
+    "Tracker/21-01-25.md",
+    "Tracker/19-02-25.md",
+    "Tracker/19-01-25.md",
+    "Tracker/18-01-25.md",
+    "Tracker/17-01-25.md",
+    "Tracker/16-01-25.md",
+    "Tracker/2024",
+    "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",
     "Attachments/seg-11a.pdf",
-    "Notes/L1 loss (MAE loss).md",
-    "Notes/LLMs.md",
-    "Notes/Beam Search.md",
-    "Tracker/GOALS 2025.md",
-    "Notes/Tensors.md",
-    "Notes/Deepseek R1.md",
-    "Notes/Numpy.md",
-    "Notes/args and kwrgs.md",
-    "Notes/python.md",
-    "Tracker/17-02-25.md",
-    "Tracker/18-01-25.md",
-    "Notes/NLP - UT Austin.md",
-    "Tracker/Marriage Plan.md",
     "Attachments/Pasted image 20250130132034.png",
     "Attachments/Pasted image 20250130131955.png",
     "Attachments/Pasted image 20250124192423.png",
@@ -470,8 +471,6 @@
     "Attachments/Recording 20250117023637.webm",
     "Attachments/seg-14.pdf",
     "Attachments/seg-13 1.pdf",
-    "Attachments/seg-13.pdf",
-    "Attachments/seg-12.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
