@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "317edaa6d92d3ab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/06-03-25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "06-03-25"
-            }
-          },
-          {
             "id": "3fb83bcf5dcd0aa6",
             "type": "leaf",
             "state": {
@@ -227,9 +203,33 @@
               "icon": "lucide-file",
               "title": "06-03-25"
             }
+          },
+          {
+            "id": "3107e40b68d24e43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Vanishing-Exploding Gradients.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vanishing-Exploding Gradients"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -420,13 +420,16 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "317edaa6d92d3ab5",
+  "active": "3107e40b68d24e43",
   "lastOpenFiles": [
-    "Notes/Kubernetes.md",
+    "Notes/Vanishing-Exploding Gradients.md",
     "Notes/Scaling RAG.md",
+    "Tracker/06-03-25.md",
+    "Notes/Kubernetes.md",
     "Notes/Docker.md",
     "Tracker/Lists.md",
     "Notes/Microservices.md",
@@ -439,7 +442,6 @@
     "Tracker/Projects Details.md",
     "Tracker/GOALS 2025.md",
     "Tracker/Dreams.md",
-    "Tracker/06-03-25.md",
     "Tracker/28-01-25.md",
     "Tracker/25-02-25.md",
     "Tracker/24-01-25.md",
@@ -450,7 +452,6 @@
     "Tracker/19-01-25.md",
     "Tracker/18-01-25.md",
     "Tracker/17-01-25.md",
-    "Tracker/16-01-25.md",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",
