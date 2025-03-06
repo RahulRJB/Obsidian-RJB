@@ -229,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -424,7 +424,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3107e40b68d24e43",
+  "active": "64ec11214a331f60",
   "lastOpenFiles": [
     "Notes/Vanishing-Exploding Gradients.md",
     "Notes/Scaling RAG.md",

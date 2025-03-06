@@ -6,6 +6,9 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Finetuning e2e example
+- [ ] Deployment
+- [ ] Python Basics
 - [ ] Testings strategies, A/B etc
 - [ ] Agents
 - [ ] AWS
