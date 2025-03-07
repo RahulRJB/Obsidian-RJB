@@ -258,7 +258,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -453,10 +453,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "64ec11214a331f60",
+  "active": "a506043e04bace55",
   "lastOpenFiles": [
-    "Tracker/Lists.md",
     "Tracker/08-03-25.md",
+    "Tracker/Lists.md",
     "Notes/Decorators.md",
     "Tracker/06-03-25.md",
     "Notes/Vanishing-Exploding Gradients.md",

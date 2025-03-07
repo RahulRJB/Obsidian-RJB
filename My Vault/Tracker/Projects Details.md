@@ -437,7 +437,7 @@
   Whitefield, Bengaluru - 560067
 
 - Institute:  Heritage Institute Of Technology, Kolkata
-
+- UAN - 101330659295
 ## Queries:
 
 - Salary?
