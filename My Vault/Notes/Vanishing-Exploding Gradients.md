@@ -18,11 +18,8 @@ Exploding and vanishing gradients are issues encountered during the training of 
 
 **Vanishing Gradients**: This problem arises when the gradients of the loss function with respect to the model's parameters become exceedingly small. As backpropagation progresses through the layers, these small gradients can diminish to near-zero values, leading to minimal or no updates to the initial layers' weights. Consequently, the model learns very slowly or stops learning altogether. This issue is often associated with activation functions like Sigmoid or Tanh, which can squash input values into small derivatives, exacerbating the problem.
 
-[neptune.ai](https://neptune.ai/blog/vanishing-and-exploding-gradients-debugging-monitoring-fixing?utm_source=chatgpt.com)
 
 **Exploding Gradients**: Conversely, exploding gradients occur when the gradients become excessively large during backpropagation. This can cause substantial updates to the model weights, leading to instability and divergence in the training process. Exploding gradients are often due to improper weight initialization or the accumulation of large gradient values in deep networks.
-
-[neptune.ai](https://neptune.ai/blog/vanishing-and-exploding-gradients-debugging-monitoring-fixing?utm_source=chatgpt.com)
 
 **Identifying These Issues During Training**: After training a neural network for 50 epochs, signs that you might be facing vanishing or exploding gradients include:
 
