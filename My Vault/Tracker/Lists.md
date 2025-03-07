@@ -6,6 +6,7 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] COT
 - [ ] Kubernetes
 - [ ] Containerization
 - [ ] Application take 10mins to run a data input and multiple users are using it. Best way to go abut it

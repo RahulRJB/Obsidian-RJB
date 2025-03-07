@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
       "basename": "Decorators",
       "path": "Notes/Decorators.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Vanishing-Exploding Gradients",
       "path": "Notes/Vanishing-Exploding Gradients.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Scaling RAG",
