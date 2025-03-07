@@ -107,19 +107,24 @@
             "id": "64ec11214a331f60",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tracker/Lists.md",
-                "kanbanViewState": {
-                  "kanban-plugin": [],
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
+                "file": "Tracker/08-03-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Lists"
+              "icon": "lucide-file",
+              "title": "08-03-25"
             }
           },
           {
@@ -450,10 +455,11 @@
   },
   "active": "64ec11214a331f60",
   "lastOpenFiles": [
+    "Tracker/Lists.md",
+    "Tracker/08-03-25.md",
     "Notes/Decorators.md",
     "Tracker/06-03-25.md",
     "Notes/Vanishing-Exploding Gradients.md",
-    "Tracker/Lists.md",
     "Notes/Scaling RAG.md",
     "Notes/Kubernetes.md",
     "Notes/Docker.md",
@@ -475,7 +481,6 @@
     "Tracker/21-01-25.md",
     "Tracker/19-02-25.md",
     "Tracker/19-01-25.md",
-    "Tracker/18-01-25.md",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",
