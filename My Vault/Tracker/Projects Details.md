@@ -470,19 +470,21 @@
 | John Deere        | GenAI      | 26  | MG Road  | <center>**Selected**</center> | Priti   |
 | Rocket Softwares  |            |     |          | Finish mail questions         |         |
 | Hurmonics Global  |            | 30  |          | 1st round reject! <sob  sob>  |         |
-| Maaze(Chandigarh) |            |     |          | 2nd round await               |         |
+| Maaze(Chandigarh) |            |     |          | 2nd round cancelled           |         |
 | HCLTech           |            | 32  |          | 2nd round                     |         |
 | Deloitte          |            |     |          | 2nd round select              | Venu    |
 | Tiger Analytics   |            |     |          | Mail again                    |         |
-| EPAM              |            |     |          | 1st round select              |         |
-| Quantiphi         |            |     |          | Diff role reject              |         |
-| Lowe's            |            |     |          |                               |         |
+| EPAM              |            |     |          | 2nd round reject              |         |
+| Quantiphi         |            |     |          | 1st await                     |         |
+| Lowe's            |            |     |          | Diff role                     |         |
 | Publicis Sapient  |            |     |          | Test                          |         |
 | IT Convergence    |            |     |          | 1st round select              |         |
 | Jaeggar           |            |     |          | 1st round select (Hyd)        |         |
 | Airbus            |            |     |          |                               |         |
 | Tredence          |            |     |          |                               |         |
 | EXL               |            |     |          |                               |         |
+| Persistant        |            |     |          |                               |         |
+| Morgan Stanley    |            |     |          |                               |         |
 
 
 
