@@ -483,7 +483,7 @@
 | Airbus            |            |     |          |                               |         |
 | Tredence          |            |     |          |                               |         |
 | EXL               |            |     |          |                               |         |
-| Persistant        |            |     |          | 11March                       |         |
+| Persistant        |            |     |          | Dumb interviewer              |         |
 | Morgan Stanley    |            |     |          | 12March                       |         |
 
 
