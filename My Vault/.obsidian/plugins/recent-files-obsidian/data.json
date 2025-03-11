@@ -1,32 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Microservices",
-      "path": "Notes/Microservices.md"
+      "basename": "Class",
+      "path": "Notes/Class.md"
     },
     {
-      "basename": "Exponential Weighted Average",
-      "path": "Notes/Exponential Weighted Average.md"
+      "basename": "Scaling RAG",
+      "path": "Notes/Scaling RAG.md"
     },
     {
-      "basename": "Cohen's Kappa",
-      "path": "Notes/Cohen's Kappa.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
-    },
-    {
-      "basename": "08-03-25",
-      "path": "Tracker/08-03-25.md"
+      "basename": "Decorators",
+      "path": "Notes/Decorators.md"
     },
     {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
     {
-      "basename": "Decorators",
-      "path": "Notes/Decorators.md"
+      "basename": "08-03-25",
+      "path": "Tracker/08-03-25.md"
     },
     {
       "basename": "06-03-25",
@@ -37,8 +29,20 @@
       "path": "Notes/Vanishing-Exploding Gradients.md"
     },
     {
-      "basename": "Scaling RAG",
-      "path": "Notes/Scaling RAG.md"
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "Cohen's Kappa",
+      "path": "Notes/Cohen's Kappa.md"
+    },
+    {
+      "basename": "Exponential Weighted Average",
+      "path": "Notes/Exponential Weighted Average.md"
+    },
+    {
+      "basename": "Microservices",
+      "path": "Notes/Microservices.md"
     },
     {
       "basename": "Kubernetes",
@@ -195,10 +199,6 @@
     {
       "basename": "args and kwrgs",
       "path": "Notes/args and kwrgs.md"
-    },
-    {
-      "basename": "python",
-      "path": "Notes/python.md"
     }
   ],
   "omittedPaths": [],
