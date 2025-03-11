@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/Projects Details.md",
+                "file": "Notes/Microservices.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Projects Details"
+              "title": "Microservices"
             }
           },
           {
@@ -455,6 +455,9 @@
   },
   "active": "a506043e04bace55",
   "lastOpenFiles": [
+    "Notes/Exponential Weighted Average.md",
+    "Notes/Cohen's Kappa.md",
+    "Tracker/Projects Details.md",
     "Tracker/08-03-25.md",
     "Tracker/Lists.md",
     "Notes/Decorators.md",
@@ -470,7 +473,6 @@
     "Notes/RAG.md",
     "Notes/NLP - UT Austin.md",
     "Notes/SQL.md",
-    "Tracker/Projects Details.md",
     "Tracker/GOALS 2025.md",
     "Tracker/Dreams.md",
     "Tracker/28-01-25.md",
@@ -479,8 +481,6 @@
     "Tracker/23-01-25.md",
     "Tracker/22-01-25.md",
     "Tracker/21-01-25.md",
-    "Tracker/19-02-25.md",
-    "Tracker/19-01-25.md",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",

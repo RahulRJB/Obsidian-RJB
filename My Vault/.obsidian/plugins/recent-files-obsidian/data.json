@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Microservices",
+      "path": "Notes/Microservices.md"
+    },
+    {
+      "basename": "Exponential Weighted Average",
+      "path": "Notes/Exponential Weighted Average.md"
+    },
+    {
+      "basename": "Cohen's Kappa",
+      "path": "Notes/Cohen's Kappa.md"
+    },
+    {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "Docker",
       "path": "Notes/Docker.md"
-    },
-    {
-      "basename": "Microservices",
-      "path": "Notes/Microservices.md"
     },
     {
       "basename": "Distillation",
@@ -191,14 +199,6 @@
     {
       "basename": "python",
       "path": "Notes/python.md"
-    },
-    {
-      "basename": "Marriage Plan",
-      "path": "Tracker/Marriage Plan.md"
-    },
-    {
-      "basename": "30-01-25",
-      "path": "Tracker/30-01-25.md"
     }
   ],
   "omittedPaths": [],
