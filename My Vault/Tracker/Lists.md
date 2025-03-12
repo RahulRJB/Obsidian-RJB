@@ -6,6 +6,9 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Segregate all the bookmarks!
+- [ ] Encoder vs Decoder internal architecture
+- [ ] Explainable AI
 - [ ] COT
 - [ ] Kubernetes
 - [ ] Containerization

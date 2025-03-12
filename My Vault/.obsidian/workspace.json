@@ -301,7 +301,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -496,9 +496,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b601bc04325935ef",
+  "active": "64ec11214a331f60",
   "lastOpenFiles": [
     "Notes/Hugging Face.md",
+    "Tracker/Lists.md",
     "Notes/LoRA.md",
     "Notes/QLoRA.md",
     "Notes/Supervised Finetuning.md",
@@ -516,7 +517,6 @@
     "Notes/Untitled.md",
     "Tracker/12-03-25.md",
     "Tracker/06-03-25.md",
-    "Tracker/Lists.md",
     "Notes/Class.md",
     "Attachments/Pasted image 20250312030015.png",
     "Attachments/Pasted image 20250312025923.png",
