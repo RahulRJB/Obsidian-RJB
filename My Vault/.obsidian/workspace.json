@@ -177,7 +177,7 @@
               "type": "planner-weekly",
               "state": {},
               "icon": "table-2",
-              "title": "Mar, 3–Mar, 9"
+              "title": "Mar, 10–Mar, 16"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/06-03-25.md",
+                "file": "Tracker/12-03-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -201,7 +201,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "06-03-25"
+              "title": "12-03-25"
             }
           },
           {
@@ -251,9 +251,57 @@
               "icon": "lucide-file",
               "title": "Class"
             }
+          },
+          {
+            "id": "b601bc04325935ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/LoRA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LoRA"
+            }
+          },
+          {
+            "id": "0bf2ad704ca3242f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Hugging Face.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Hugging Face"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -448,19 +496,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6588a721ad9d5be7",
+  "active": "b601bc04325935ef",
   "lastOpenFiles": [
+    "Notes/Hugging Face.md",
+    "Notes/LoRA.md",
+    "Notes/QLoRA.md",
+    "Notes/Supervised Finetuning.md",
+    "Attachments/Pasted image 20241018013914.png",
+    "Notes/Quantization.md",
+    "Attachments/Pasted image 20250312133033.png",
+    "Attachments/Pasted image 20250312132715.png",
+    "Attachments/Pasted image 20241010030421.png",
+    "Attachments/Pasted image 20241010030020.png",
+    "Notes/Finetuning.md",
+    "Attachments/Pasted image 20250312132008.png",
+    "Attachments/Pasted image 20250312125312.png",
+    "Notes/Self-supervised Finetuning.md",
+    "Notes/Reinforcement Learning Finetuning.md",
+    "Notes/Untitled.md",
+    "Tracker/12-03-25.md",
+    "Tracker/06-03-25.md",
+    "Tracker/Lists.md",
+    "Notes/Class.md",
     "Attachments/Pasted image 20250312030015.png",
     "Attachments/Pasted image 20250312025923.png",
     "Attachments/Pasted image 20250312025821.png",
-    "Attachments/Pasted image 20250312025726.png",
-    "Attachments/Pasted image 20250312025646.png",
-    "Notes/Class.md",
     "Notes/Scaling RAG.md",
     "Notes/Decorators.md",
-    "Tracker/Lists.md",
     "Tracker/08-03-25.md",
-    "Tracker/06-03-25.md",
     "Notes/Vanishing-Exploding Gradients.md",
     "Tracker/Projects Details.md",
     "Notes/Cohen's Kappa.md",
@@ -471,25 +534,10 @@
     "Notes/Distillation.md",
     "Notes/Scaling.md",
     "Notes/Architecture.md",
-    "Notes/RAG.md",
-    "Notes/NLP - UT Austin.md",
-    "Notes/SQL.md",
-    "Tracker/GOALS 2025.md",
-    "Tracker/Dreams.md",
-    "Tracker/28-01-25.md",
-    "Tracker/25-02-25.md",
-    "Tracker/24-01-25.md",
-    "Tracker/23-01-25.md",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",
     "Attachments/seg-11a.pdf",
-    "Attachments/Pasted image 20250130132034.png",
-    "Attachments/Pasted image 20250130131955.png",
-    "Attachments/Pasted image 20250124192423.png",
-    "Attachments/Pasted image 20250124192330.png",
-    "Attachments/Pasted image 20250124192123.png",
-    "Attachments/Pasted image 20250124192049.png",
     "Excalidraw",
     "Articles",
     "Attachments/Recording 20250117024020.webm",

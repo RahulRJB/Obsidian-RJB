@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "LoRA",
+      "path": "Notes/LoRA.md"
+    },
+    {
+      "basename": "Hugging Face",
+      "path": "Notes/Hugging Face.md"
+    },
+    {
+      "basename": "QLoRA",
+      "path": "Notes/QLoRA.md"
+    },
+    {
+      "basename": "Supervised Finetuning",
+      "path": "Notes/Supervised Finetuning.md"
+    },
+    {
+      "basename": "Quantization",
+      "path": "Notes/Quantization.md"
+    },
+    {
+      "basename": "Finetuning",
+      "path": "Notes/Finetuning.md"
+    },
+    {
+      "basename": "Self-supervised Finetuning",
+      "path": "Notes/Self-supervised Finetuning.md"
+    },
+    {
+      "basename": "Reinforcement Learning Finetuning",
+      "path": "Notes/Reinforcement Learning Finetuning.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Notes/Untitled.md"
+    },
+    {
+      "basename": "12-03-25",
+      "path": "Tracker/12-03-25.md"
+    },
+    {
+      "basename": "06-03-25",
+      "path": "Tracker/06-03-25.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
       "basename": "Class",
       "path": "Notes/Class.md"
     },
@@ -13,16 +61,8 @@
       "path": "Notes/Decorators.md"
     },
     {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
-    },
-    {
       "basename": "08-03-25",
       "path": "Tracker/08-03-25.md"
-    },
-    {
-      "basename": "06-03-25",
-      "path": "Tracker/06-03-25.md"
     },
     {
       "basename": "Vanishing-Exploding Gradients",
@@ -157,48 +197,8 @@
       "path": "Notes/ResNet.md"
     },
     {
-      "basename": "LoRA",
-      "path": "Notes/LoRA.md"
-    },
-    {
       "basename": "CART",
       "path": "Notes/CART.md"
-    },
-    {
-      "basename": "Recording 20240608031932",
-      "path": "Attachments/Recording 20240608031932.webm"
-    },
-    {
-      "basename": "seg-11a",
-      "path": "Attachments/seg-11a.pdf"
-    },
-    {
-      "basename": "L1 loss (MAE loss)",
-      "path": "Notes/L1 loss (MAE loss).md"
-    },
-    {
-      "basename": "LLMs",
-      "path": "Notes/LLMs.md"
-    },
-    {
-      "basename": "Beam Search",
-      "path": "Notes/Beam Search.md"
-    },
-    {
-      "basename": "Tensors",
-      "path": "Notes/Tensors.md"
-    },
-    {
-      "basename": "Deepseek R1",
-      "path": "Notes/Deepseek R1.md"
-    },
-    {
-      "basename": "Numpy",
-      "path": "Notes/Numpy.md"
-    },
-    {
-      "basename": "args and kwrgs",
-      "path": "Notes/args and kwrgs.md"
     }
   ],
   "omittedPaths": [],
