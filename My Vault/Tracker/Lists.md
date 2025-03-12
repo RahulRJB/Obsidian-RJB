@@ -6,6 +6,8 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Thrading multiprocessing Asyncio
+	concurrent vs parallel
 - [ ] Segregate all the bookmarks!
 - [ ] Encoder vs Decoder internal architecture
 - [ ] Explainable AI

@@ -498,8 +498,9 @@
   },
   "active": "64ec11214a331f60",
   "lastOpenFiles": [
-    "Notes/Hugging Face.md",
+    "Tracker/Projects Details.md",
     "Tracker/Lists.md",
+    "Notes/Hugging Face.md",
     "Notes/LoRA.md",
     "Notes/QLoRA.md",
     "Notes/Supervised Finetuning.md",
@@ -525,7 +526,6 @@
     "Notes/Decorators.md",
     "Tracker/08-03-25.md",
     "Notes/Vanishing-Exploding Gradients.md",
-    "Tracker/Projects Details.md",
     "Notes/Cohen's Kappa.md",
     "Notes/Exponential Weighted Average.md",
     "Notes/Microservices.md",

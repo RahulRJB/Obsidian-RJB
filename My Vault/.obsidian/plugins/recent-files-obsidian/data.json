@@ -5,6 +5,10 @@
       "path": "Tracker/Lists.md"
     },
     {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
       "basename": "Hugging Face",
       "path": "Notes/Hugging Face.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Vanishing-Exploding Gradients",
       "path": "Notes/Vanishing-Exploding Gradients.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "Cohen's Kappa",

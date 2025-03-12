@@ -475,16 +475,18 @@
 | Deloitte          |            |     |          | 2nd round select              | Venu    |
 | Tiger Analytics   |            |     |          | Mail again                    |         |
 | EPAM              |            |     |          | 2nd round reject              |         |
-| Quantiphi         |            |     |          | 1st await                     |         |
 | Lowe's            |            |     |          | Diff role                     |         |
+| Jaeggar           |            |     |          | 1st round select (Hyd)        |         |
 | Publicis Sapient  |            |     |          | Test not given                |         |
 | IT Convergence    |            |     |          | 1st round select              |         |
-| Jaeggar           |            |     |          | 1st round select (Hyd)        |         |
 | Airbus            |            |     |          |                               |         |
 | Tredence          |            |     |          |                               |         |
 | EXL               |            |     |          |                               |         |
 | Persistant        |            |     |          | Dumb interviewer              |         |
 | Morgan Stanley    |            |     |          | 12March                       |         |
+| Quantiphi         |            |     |          | 1st await                     |         |
+| LTTS              |            |     |          |                               |         |
+| Society Generale  |            |     |          |                               |         |
 
 
 
