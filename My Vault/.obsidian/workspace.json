@@ -282,7 +282,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/SentenceBERT.md",
+                "file": "Notes/Hugging Face.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -297,11 +297,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SentenceBERT"
+              "title": "Hugging Face"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -496,10 +496,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0bf2ad704ca3242f",
+  "active": "b601bc04325935ef",
   "lastOpenFiles": [
-    "Notes/Sentence Transformers.md",
     "Notes/Hugging Face.md",
+    "Notes/Quantization.md",
+    "Tracker/Lists.md",
+    "Notes/Sentence Transformers.md",
+    "Notes/SentenceBERT.md",
     "Tracker/12-03-25.md",
     "Tracker/Projects Details.md",
     "Tracker/13-03-25.md",
@@ -508,10 +511,8 @@
     "Notes/Finetuning.md",
     "Notes/Untitled.md",
     "Notes/Class.md",
-    "Tracker/Lists.md",
     "Notes/QLoRA.md",
     "Attachments/Pasted image 20241018013914.png",
-    "Notes/Quantization.md",
     "Attachments/Pasted image 20250312133033.png",
     "Attachments/Pasted image 20250312132715.png",
     "Attachments/Pasted image 20241010030421.png",
@@ -533,7 +534,6 @@
     "Notes/Microservices.md",
     "Notes/Kubernetes.md",
     "Notes/Docker.md",
-    "Notes/Distillation.md",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",

@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "SentenceBERT",
-      "path": "Notes/SentenceBERT.md"
+      "basename": "LoRA",
+      "path": "Notes/LoRA.md"
+    },
+    {
+      "basename": "Hugging Face",
+      "path": "Notes/Hugging Face.md"
+    },
+    {
+      "basename": "Quantization",
+      "path": "Notes/Quantization.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Sentence Transformers",
       "path": "Notes/Sentence Transformers.md"
     },
     {
-      "basename": "Hugging Face",
-      "path": "Notes/Hugging Face.md"
+      "basename": "SentenceBERT",
+      "path": "Notes/SentenceBERT.md"
     },
     {
       "basename": "12-03-25",
@@ -23,10 +35,6 @@
     {
       "basename": "13-03-25",
       "path": "Tracker/13-03-25.md"
-    },
-    {
-      "basename": "LoRA",
-      "path": "Notes/LoRA.md"
     },
     {
       "basename": "Supervised Finetuning",
@@ -45,16 +53,8 @@
       "path": "Notes/Class.md"
     },
     {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
-    },
-    {
       "basename": "QLoRA",
       "path": "Notes/QLoRA.md"
-    },
-    {
-      "basename": "Quantization",
-      "path": "Notes/Quantization.md"
     },
     {
       "basename": "Self-supervised Finetuning",
