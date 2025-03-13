@@ -6,6 +6,7 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] SigLIP, KV cache, CLIP
 - [ ] Thrading multiprocessing Asyncio
 	concurrent vs parallel
 - [ ] Segregate all the bookmarks!

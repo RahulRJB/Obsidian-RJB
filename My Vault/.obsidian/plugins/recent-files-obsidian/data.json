@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
+      "basename": "LoRA",
+      "path": "Notes/LoRA.md"
     },
     {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
+      "basename": "Class",
+      "path": "Notes/Class.md"
     },
     {
       "basename": "Hugging Face",
       "path": "Notes/Hugging Face.md"
     },
     {
-      "basename": "LoRA",
-      "path": "Notes/LoRA.md"
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "QLoRA",
@@ -51,10 +55,6 @@
     {
       "basename": "06-03-25",
       "path": "Tracker/06-03-25.md"
-    },
-    {
-      "basename": "Class",
-      "path": "Notes/Class.md"
     },
     {
       "basename": "Scaling RAG",

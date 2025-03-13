@@ -301,7 +301,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -496,12 +496,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "64ec11214a331f60",
+  "active": "b601bc04325935ef",
   "lastOpenFiles": [
-    "Tracker/Projects Details.md",
-    "Tracker/Lists.md",
-    "Notes/Hugging Face.md",
+    "Notes/Class.md",
     "Notes/LoRA.md",
+    "Notes/Hugging Face.md",
+    "Tracker/Lists.md",
+    "Tracker/Projects Details.md",
     "Notes/QLoRA.md",
     "Notes/Supervised Finetuning.md",
     "Attachments/Pasted image 20241018013914.png",
@@ -518,7 +519,6 @@
     "Notes/Untitled.md",
     "Tracker/12-03-25.md",
     "Tracker/06-03-25.md",
-    "Notes/Class.md",
     "Attachments/Pasted image 20250312030015.png",
     "Attachments/Pasted image 20250312025923.png",
     "Attachments/Pasted image 20250312025821.png",
