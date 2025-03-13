@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "13-03-25",
+      "path": "Tracker/13-03-25.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
       "basename": "LoRA",
       "path": "Notes/LoRA.md"
+    },
+    {
+      "basename": "Supervised Finetuning",
+      "path": "Notes/Supervised Finetuning.md"
+    },
+    {
+      "basename": "Finetuning",
+      "path": "Notes/Finetuning.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Notes/Untitled.md"
     },
     {
       "basename": "Class",
@@ -17,24 +37,12 @@
       "path": "Tracker/Lists.md"
     },
     {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
-    },
-    {
       "basename": "QLoRA",
       "path": "Notes/QLoRA.md"
     },
     {
-      "basename": "Supervised Finetuning",
-      "path": "Notes/Supervised Finetuning.md"
-    },
-    {
       "basename": "Quantization",
       "path": "Notes/Quantization.md"
-    },
-    {
-      "basename": "Finetuning",
-      "path": "Notes/Finetuning.md"
     },
     {
       "basename": "Self-supervised Finetuning",
@@ -43,10 +51,6 @@
     {
       "basename": "Reinforcement Learning Finetuning",
       "path": "Notes/Reinforcement Learning Finetuning.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Notes/Untitled.md"
     },
     {
       "basename": "12-03-25",
@@ -195,10 +199,6 @@
     {
       "basename": "ResNet",
       "path": "Notes/ResNet.md"
-    },
-    {
-      "basename": "CART",
-      "path": "Notes/CART.md"
     }
   ],
   "omittedPaths": [],

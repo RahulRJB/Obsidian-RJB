@@ -473,19 +473,19 @@
 | Maaze(Chandigarh) |            |     |          | 2nd round cancelled           |         |
 | HCLTech           |            | 32  |          | 2nd round                     |         |
 | Deloitte          |            |     |          | 2nd round select              | Venu    |
-| Tiger Analytics   |            |     |          | Mail again                    |         |
 | EPAM              |            |     |          | 2nd round reject              |         |
 | Lowe's            |            |     |          | Diff role                     |         |
 | Jaeggar           |            |     |          | 1st round select (Hyd)        |         |
 | Publicis Sapient  |            |     |          | Test not given                |         |
 | IT Convergence    |            |     |          | 1st round select              |         |
+| Tiger Analytics   |            |     |          | Mail again                    |         |
 | Airbus            |            |     |          |                               |         |
 | Tredence          |            |     |          |                               |         |
 | EXL               |            |     |          |                               |         |
 | Persistant        |            |     |          | Dumb interviewer              |         |
 | Morgan Stanley    |            |     |          | 12March                       |         |
 | Quantiphi         |            |     |          | 1st await                     |         |
-| LTTS              |            |     |          |                               |         |
+| LTTS              |            |     |          | Interview                     |         |
 | Society Generale  |            |     |          |                               |         |
 
 
