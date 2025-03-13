@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "SentenceBERT",
+      "path": "Notes/SentenceBERT.md"
+    },
+    {
+      "basename": "Sentence Transformers",
+      "path": "Notes/Sentence Transformers.md"
+    },
+    {
+      "basename": "Hugging Face",
+      "path": "Notes/Hugging Face.md"
+    },
+    {
+      "basename": "12-03-25",
+      "path": "Tracker/12-03-25.md"
+    },
+    {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
     },
@@ -29,10 +45,6 @@
       "path": "Notes/Class.md"
     },
     {
-      "basename": "Hugging Face",
-      "path": "Notes/Hugging Face.md"
-    },
-    {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "Reinforcement Learning Finetuning",
       "path": "Notes/Reinforcement Learning Finetuning.md"
-    },
-    {
-      "basename": "12-03-25",
-      "path": "Tracker/12-03-25.md"
     },
     {
       "basename": "06-03-25",
@@ -191,14 +199,6 @@
     {
       "basename": "raise",
       "path": "Notes/raise.md"
-    },
-    {
-      "basename": "Assert",
-      "path": "Notes/Assert.md"
-    },
-    {
-      "basename": "ResNet",
-      "path": "Notes/ResNet.md"
     }
   ],
   "omittedPaths": [],

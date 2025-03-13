@@ -20,14 +20,14 @@ https://www.youtube.com/watch?v=O3xbVmpdJwU&t=950s
 - **Transformers** work well for sequence to sequence problems, but for the specific natural language problems like question/answering and text summarization even transformers have drawbacks because language problems are complex and the main drawbacks is that we need a lot of data to train transformers from scratch and the architecture may not be complex enough to understand patterns to solve these language problems after all transformers weren't designed to be language models so the word representations generated can still be improved.
 - For this **[[BERT]]** was introduced, designed for such problem solving. There was 1 problem which BERT cannot solve, Sentence similarity.
 - We can pass both question/text to BERT and at the end have a single neuron output layer output a similarity score. This can work but if there are 100,000 text to choose from, the forward pass has to be run that many times, not viable! ![[Attachments/Pasted image 20240830202109.png]]
-- #### Sentence Transfromers:
+- #### Sentence Transfomers:
 	- High level idea: 
 		- Step1: Pass a new question into bert to get a single vector that represents the question
 		- Step2: Compare it to all other questions using something like a cosine similarity metric.
 		- Step3: We return the nearest neighbors as the most related questions.
 	- So for a question we only have to use BERT model only once and not 100s of times. as we suggested before this is good since computing simple cosine similarities between vectors is much cheaper than passing in all questions on the platform through the complex model every time you need to make a decision.![[Attachments/Pasted image 20240830203340.png]]
 	- Problems with above: 
-		- BERT outputs vector rep of words not sentences. It's good with word representations, not sentence representations. So to get sentence vectors, we would need to aggregate(like mean pooling) the words vectors to get it. would be real bad though. Avg of [[GloVe]] embeddings would give better results!
+		- BERT outputs vector rep of words(tokens) not sentences. It's good with word representations, not sentence representations. So to get sentence vectors, we would need to aggregate(like mean pooling) the words vectors to get it. would be real bad though. Avg of [[GloVe]] embeddings would give better results!
 	- In order to have BERT to create sentence vectors that actually have meaning we need to further train it on sentence level tasks such as:
 		- Natural language inferencing (NLI)
 		- Sentence text similarity (STS)

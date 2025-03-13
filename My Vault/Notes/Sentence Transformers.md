@@ -30,10 +30,11 @@ Tags:
 - The library generalizes the SentenceBERT approach to support other architectures (e.g., RoBERTa, MPNet, DistilBERT).
     
 - Example:
-```from sentence_transformers import SentenceTransformer
+```
+from sentence_transformers import SentenceTransformer
     
-    #Load the original SentenceBERT model
-    model = SentenceTransformer('sentence-transformers/bert-base-nli-mean-tokens')
-    
-    embeddings = model.encode(["Hello, world!", "How are you?"])
-    ```
+#Load the original SentenceBERT model
+model = SentenceTransformer('sentence-transformers/bert-base-nli-mean-tokens')
+
+embeddings = model.encode(["Hello, world!", "How are you?"])
+```
