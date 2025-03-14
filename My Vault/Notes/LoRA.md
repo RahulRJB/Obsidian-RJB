@@ -63,6 +63,30 @@ Comprehensive, industry-ready Python implementation of LoRA fine-tuning for an L
 	    - Option to push to Hugging Face Hub
 	    - Ability to merge LoRA weights with base model for deployment.
 
+- #### Running: 
+  1. load model from pretrained for a given task type eg. `AutoModelForCausalLM.from_pretrained()` -> 
+     Can load model in quantized form OR model can be quantized after loading -> `prepare_model_for_kbit_training` if using quantization -> 
+     `LoraConfig` with tasktype, rank, alpha, dropout, target modules ->
+     Create the LoRA model using `get_peft_model`
+     
+  2. load tokenizer from pretrained eg. `AutoTokenizer.from_pretrained()`-> 
+     Set pad_token -> 
+     
+  3. Load raw dataset using `load_dataset()` ->
+     split dataset ->
+     tokenize input data using `tokenizer()`
+     
+  4. Start training using model, tokenizer, processed dataset ->
+     `TrainingArguments()` to set training arguments -> 
+     `DataCollatorForLanguageModeling()` to create data collator for language modeling -> 
+     `Trainer()` to create trainer using model, training_args, validation/training dataset, data collator ->
+     Set for training ->
+     Save trained model and tokenizer
+     
+  5. Evaluate results ->
+     `merge_and_save_lora_weights()`
+
+
 ```
 import os
 import torch
