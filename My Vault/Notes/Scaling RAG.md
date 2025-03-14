@@ -18,7 +18,7 @@ Tags: [[Notes/RAG|RAG]] [[Architecture]] [[Scaling]]
 ### Case:  Storing 100mill. docs in VectorDB and efficient retrieval architecture during if there are 10,000+ concurrency users:
 
 
-#### **. Embedding Strategy**
+#### **Embedding Strategy**
 
 Since embedding all documents at once is computationally expensive, consider:
 
@@ -26,7 +26,7 @@ Since embedding all documents at once is computationally expensive, consider:
 - **Distributed Processing:** Use a distributed framework like Apache Spark or Ray to parallelize embedding.
 - **Incremental Embedding:** Continuously process new documents instead of doing everything at once.
 
-#### ** Choosing the Right Embedding Model**
+#### **Choosing the Right Embedding Model**
 
 - **Transformer-based models (e.g., OpenAI, BERT, Cohere, Sentence Transformers):** Good for high-quality embeddings but can be slow.
 - **FAISS Optimized Models:** Consider models that work well with FAISS indexing for efficient retrieval.

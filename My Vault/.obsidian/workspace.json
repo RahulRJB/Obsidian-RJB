@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0540a224e2eb0506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Scaling RAG.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Scaling RAG"
-            }
-          },
-          {
             "id": "3fb83bcf5dcd0aa6",
             "type": "leaf",
             "state": {
@@ -301,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -498,19 +474,27 @@
   },
   "active": "b601bc04325935ef",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20241018012140.png",
+    "Notes/LoRA.md",
+    "Attachments/Pasted image 20241018013641.png",
+    "Attachments/Pasted image 20241018011909.png",
+    "Attachments/Pasted image 20241018011753.png",
+    "Notes/Class.md",
+    "Notes/Decorators.md",
+    "Tracker/Lists.md",
+    "Tracker/Projects Details.md",
+    "Notes/SQL.md",
+    "Notes/NLP - UT Austin.md",
+    "Notes/Scaling RAG.md",
     "Notes/Hugging Face.md",
     "Notes/Quantization.md",
-    "Tracker/Lists.md",
     "Notes/Sentence Transformers.md",
     "Notes/SentenceBERT.md",
     "Tracker/12-03-25.md",
-    "Tracker/Projects Details.md",
     "Tracker/13-03-25.md",
-    "Notes/LoRA.md",
     "Notes/Supervised Finetuning.md",
     "Notes/Finetuning.md",
     "Notes/Untitled.md",
-    "Notes/Class.md",
     "Notes/QLoRA.md",
     "Attachments/Pasted image 20241018013914.png",
     "Attachments/Pasted image 20250312133033.png",
@@ -522,18 +506,10 @@
     "Notes/Self-supervised Finetuning.md",
     "Notes/Reinforcement Learning Finetuning.md",
     "Tracker/06-03-25.md",
-    "Attachments/Pasted image 20250312030015.png",
-    "Attachments/Pasted image 20250312025923.png",
-    "Attachments/Pasted image 20250312025821.png",
-    "Notes/Scaling RAG.md",
-    "Notes/Decorators.md",
     "Tracker/08-03-25.md",
     "Notes/Vanishing-Exploding Gradients.md",
     "Notes/Cohen's Kappa.md",
     "Notes/Exponential Weighted Average.md",
-    "Notes/Microservices.md",
-    "Notes/Kubernetes.md",
-    "Notes/Docker.md",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",

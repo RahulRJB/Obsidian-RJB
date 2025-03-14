@@ -57,7 +57,6 @@ Update to namespace of the instance variable:
 
 
 ## 3. Class and Static Methods:
-
 https://www.youtube.com/watch?v=rq8cL2XMM5M&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&index=3
 
 **RegularMethod**: pass instance as the first argument
@@ -125,3 +124,5 @@ my_date = datetime.date(2016, 7, 11)
 
 print(Employee.is_workday(my_date))
 ```
+
+

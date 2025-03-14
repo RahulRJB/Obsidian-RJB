@@ -5,16 +5,40 @@
       "path": "Notes/LoRA.md"
     },
     {
+      "basename": "Class",
+      "path": "Notes/Class.md"
+    },
+    {
+      "basename": "Decorators",
+      "path": "Notes/Decorators.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "Notes/SQL.md"
+    },
+    {
+      "basename": "NLP - UT Austin",
+      "path": "Notes/NLP - UT Austin.md"
+    },
+    {
+      "basename": "Scaling RAG",
+      "path": "Notes/Scaling RAG.md"
+    },
+    {
       "basename": "Hugging Face",
       "path": "Notes/Hugging Face.md"
     },
     {
       "basename": "Quantization",
       "path": "Notes/Quantization.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Sentence Transformers",
@@ -27,10 +51,6 @@
     {
       "basename": "12-03-25",
       "path": "Tracker/12-03-25.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "13-03-25",
@@ -49,10 +69,6 @@
       "path": "Notes/Untitled.md"
     },
     {
-      "basename": "Class",
-      "path": "Notes/Class.md"
-    },
-    {
       "basename": "QLoRA",
       "path": "Notes/QLoRA.md"
     },
@@ -67,14 +83,6 @@
     {
       "basename": "06-03-25",
       "path": "Tracker/06-03-25.md"
-    },
-    {
-      "basename": "Scaling RAG",
-      "path": "Notes/Scaling RAG.md"
-    },
-    {
-      "basename": "Decorators",
-      "path": "Notes/Decorators.md"
     },
     {
       "basename": "08-03-25",
@@ -119,14 +127,6 @@
     {
       "basename": "RAG",
       "path": "Notes/RAG.md"
-    },
-    {
-      "basename": "NLP - UT Austin",
-      "path": "Notes/NLP - UT Austin.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Notes/SQL.md"
     },
     {
       "basename": "GOALS 2025",
@@ -195,10 +195,6 @@
     {
       "basename": "09-01-25",
       "path": "Tracker/09-01-25.md"
-    },
-    {
-      "basename": "raise",
-      "path": "Notes/raise.md"
     }
   ],
   "omittedPaths": [],
