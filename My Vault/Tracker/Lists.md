@@ -6,6 +6,7 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Complete the video
 - [ ] SigLIP, KV cache, CLIP, local vs Global attention
 - [ ] Thrading multiprocessing Asyncio
 	concurrent vs parallel
@@ -17,7 +18,6 @@ kanban-plugin: []
 - [ ] Containerization
 - [ ] Application take 10mins to run a data input and multiple users are using it. Best way to go abut it
 - [ ] Creating an embedding model
-- [ ] Finetuning e2e example
 - [ ] Deployment
 - [ ] Python Basics
 - [ ] Testings strategies, A/B etc
@@ -39,7 +39,6 @@ kanban-plugin: []
 - [ ] SQL questions
 - [ ] NLP
 - [ ] Revise Pytorch
-- [ ] LORA implement
 - [ ] Diffusion Models
 - [ ] GAN
 - [ ] AWS Processing Job
@@ -51,6 +50,8 @@ kanban-plugin: []
 - [ ] Eigenvals
 - [ ] SVD
 - [ ] PCA
+- [x] Finetuning e2e example
+- [x] LORA implement
 - [x] SQL
 	- [x] Section 3, 4, 5
 	- [x] Section 6, 7

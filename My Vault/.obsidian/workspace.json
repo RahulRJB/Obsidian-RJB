@@ -277,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -472,13 +472,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b601bc04325935ef",
+  "active": "64ec11214a331f60",
   "lastOpenFiles": [
-    "Notes/Hugging Face.md",
     "Notes/QLoRA.md",
+    "Notes/Quantization.md",
+    "Attachments/Pasted image 20241018014104.png",
+    "Notes/Hugging Face.md",
     "Notes/LoRA.md",
     "Notes/Sentence Transformers.md",
-    "Notes/Quantization.md",
     "Notes/code.md",
     "Attachments/Pasted image 20241010030814.png",
     "Attachments/Pasted image 20241018012140.png",
@@ -502,14 +503,12 @@
     "Attachments/Pasted image 20250312133033.png",
     "Attachments/Pasted image 20250312132715.png",
     "Attachments/Pasted image 20241010030421.png",
-    "Attachments/Pasted image 20241010030020.png",
     "Notes/Self-supervised Finetuning.md",
     "Notes/Reinforcement Learning Finetuning.md",
     "Tracker/06-03-25.md",
     "Tracker/08-03-25.md",
     "Notes/Vanishing-Exploding Gradients.md",
     "Notes/Cohen's Kappa.md",
-    "Notes/Exponential Weighted Average.md",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",

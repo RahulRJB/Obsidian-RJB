@@ -5,7 +5,7 @@
 DATE:  13-03-25
 
 
-Tags: [[Notes/LLMs|LLMs]] 
+Tags: [[Notes/LLMs|LLMs]]  [[Notes/QLoRA|QLoRA]]
 
 # References:
 
@@ -15,6 +15,16 @@ Tags: [[Notes/LLMs|LLMs]]
 # Content:
 
 Quantization is a technique used to reduce the precision of numerical values, typically converting higher precision formats (like 32-bit floating point) to lower precision formats (like 8-bit integers). It's essentially a compression method that trades off some numerical precision for significant reductions in memory usage and computational requirements.
+
+The weight matrices in neural networks are made up of floating point numbers of type fp32.
+- ![[Attachments/Pasted image 20241010024627.png]]Going down to fp16, we save memory but loose precision.
+- ![[Attachments/Pasted image 20241010024831.png]]Memory requirements are even larger as we store the weights + gradient + learningrates.
+- ![[Attachments/Pasted image 20241010025107.png]]Half precision still works really well. 
+- Some models use mixed precision, i.e diff parts of the network use diff datatypes.
+- ![[Attachments/Pasted image 20241010025329.png]]Very low levels of precision don't really work out of the box, however a trend to use quantization which allows you to go very low even only integers and still maintain the model performance.
+- ![[Attachments/Pasted image 20241010025459.png]]These methods do not simply drop half of the bits which would lead to an information loss but instead calculate a quantization factor that allows to maintain the levels of precision.
+- Less digits = less memory+ faster training
+
 
 Here's how quantization works in the context of Large Language Models (LLMs):
 

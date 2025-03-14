@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
       "basename": "QLoRA",
       "path": "Notes/QLoRA.md"
+    },
+    {
+      "basename": "Quantization",
+      "path": "Notes/Quantization.md"
     },
     {
       "basename": "Hugging Face",
@@ -17,10 +25,6 @@
       "path": "Notes/Sentence Transformers.md"
     },
     {
-      "basename": "Quantization",
-      "path": "Notes/Quantization.md"
-    },
-    {
       "basename": "code",
       "path": "Notes/code.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "Decorators",
       "path": "Notes/Decorators.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Projects Details",
@@ -195,10 +195,6 @@
     {
       "basename": "10-01-25",
       "path": "Tracker/10-01-25.md"
-    },
-    {
-      "basename": "09-01-25",
-      "path": "Tracker/09-01-25.md"
     }
   ],
   "omittedPaths": [],
