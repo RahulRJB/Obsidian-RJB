@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "QLoRA",
+      "path": "Notes/QLoRA.md"
+    },
+    {
+      "basename": "Hugging Face",
+      "path": "Notes/Hugging Face.md"
+    },
+    {
       "basename": "LoRA",
       "path": "Notes/LoRA.md"
+    },
+    {
+      "basename": "Sentence Transformers",
+      "path": "Notes/Sentence Transformers.md"
+    },
+    {
+      "basename": "Quantization",
+      "path": "Notes/Quantization.md"
     },
     {
       "basename": "code",
@@ -37,18 +53,6 @@
       "path": "Notes/Scaling RAG.md"
     },
     {
-      "basename": "Hugging Face",
-      "path": "Notes/Hugging Face.md"
-    },
-    {
-      "basename": "Quantization",
-      "path": "Notes/Quantization.md"
-    },
-    {
-      "basename": "Sentence Transformers",
-      "path": "Notes/Sentence Transformers.md"
-    },
-    {
       "basename": "SentenceBERT",
       "path": "Notes/SentenceBERT.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "Untitled",
       "path": "Notes/Untitled.md"
-    },
-    {
-      "basename": "QLoRA",
-      "path": "Notes/QLoRA.md"
     },
     {
       "basename": "Self-supervised Finetuning",
