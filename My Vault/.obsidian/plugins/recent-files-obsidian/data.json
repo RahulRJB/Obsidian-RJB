@@ -5,6 +5,10 @@
       "path": "Notes/LoRA.md"
     },
     {
+      "basename": "code",
+      "path": "Notes/code.md"
+    },
+    {
       "basename": "Class",
       "path": "Notes/Class.md"
     },
