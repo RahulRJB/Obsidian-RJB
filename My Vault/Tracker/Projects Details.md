@@ -465,28 +465,31 @@
 
 ## Process:
 
-| Applied           | Role(Work) | Pay | Location | <center>Status</center>       | HR, num |
-| ----------------- | ---------- | --- | -------- | ----------------------------- | ------- |
-| John Deere        | GenAI      | 26  | MG Road  | <center>**Selected**</center> | Priti   |
-| Rocket Softwares  |            |     |          | Finish mail questions         |         |
-| Hurmonics Global  |            | 30  |          | 1st round reject! <sob  sob>  |         |
-| Maaze(Chandigarh) |            |     |          | 2nd round cancelled           |         |
-| HCLTech           |            | 32  |          | 2nd round                     |         |
-| Deloitte          |            |     |          | 2nd round select              | Venu    |
-| EPAM              |            |     |          | 2nd round reject              |         |
-| Lowe's            |            |     |          | Diff role                     |         |
-| Jaeggar           |            |     |          | 1st round select (Hyd)        |         |
-| Publicis Sapient  |            |     |          | Test not given                |         |
-| IT Convergence    |            |     |          | 1st round select              |         |
-| Tiger Analytics   |            |     |          | Mail again                    |         |
-| Airbus            |            |     |          |                               |         |
-| Tredence          |            |     |          |                               |         |
-| EXL               |            |     |          |                               |         |
-| Persistant        |            |     |          | Dumb interviewer              |         |
-| Morgan Stanley    |            |     |          | 12March                       |         |
-| Quantiphi         |            |     |          | 1st await                     |         |
-| LTTS              |            |     |          | Interview                     |         |
-| Society Generale  |            |     |          |                               |         |
+| Applied           | Role(Work) | Pay  | Location | <center>Status</center>       | HR, num |
+| ----------------- | ---------- | ---- | -------- | ----------------------------- | ------- |
+| John Deere        | GenAI      | 26   | MG Road  | <center>**Selected**</center> | Priti   |
+| Rocket Softwares  |            |      |          | Finish mail questions         |         |
+| Hurmonics Global  |            | 30   |          | 1st round reject! <sob  sob>  |         |
+| Maaze(Chandigarh) |            |      |          | 2nd round cancelled           |         |
+| HCLTech           |            | 28.5 |          | **Selected**                  |         |
+| Deloitte          |            |      |          | 2nd round select              | Venu    |
+| EPAM              |            |      |          | 2nd round reject              |         |
+| Lowe's            |            |      |          | Diff role                     |         |
+| Jaeggar           |            |      |          | 1st round select (Hyd)        |         |
+| IT Convergence    |            |      |          | 2nd round select              |         |
+| Tiger Analytics   |            |      |          | Mail again                    |         |
+| Publicis Sapient  |            |      |          | Test not given                |         |
+| EXL               |            |      |          |                               |         |
+| Persistant        |            |      |          | Dumb interviewer              |         |
+| Morgan Stanley    |            |      |          | 1st await                     |         |
+| Quantiphi         |            |      |          | 1st await                     |         |
+| LTTS              |            |      |          | Interviewer did not join      |         |
+| Society Generale  |            |      |          | I did not join                |         |
+| Berribot          |            |      |          |                               |         |
+| NTT Data          |            |      |          |                               |         |
+| Airbus            |            |      |          |                               |         |
+| Tredence          |            |      |          |                               |         |
+| Calsoft           |            |      |          |                               |         |
 
 
 

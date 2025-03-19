@@ -125,4 +125,9 @@ my_date = datetime.date(2016, 7, 11)
 print(Employee.is_workday(my_date))
 ```
 
+## 4. Inheritance - Creating Subclasses:
+https://www.youtube.com/watch?v=RSl87lqOXDE&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&index=4
+
+![[Attachments/Pasted image 20250320004922.png]]
+
 

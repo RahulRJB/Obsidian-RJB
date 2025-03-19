@@ -277,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -472,8 +472,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "64ec11214a331f60",
+  "active": "6588a721ad9d5be7",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250320004922.png",
+    "Tracker/Projects Details.md",
+    "Tracker/Lists.md",
     "Notes/QLoRA.md",
     "Notes/Quantization.md",
     "Attachments/Pasted image 20241018014104.png",
@@ -488,8 +491,6 @@
     "Attachments/Pasted image 20241018011753.png",
     "Notes/Class.md",
     "Notes/Decorators.md",
-    "Tracker/Lists.md",
-    "Tracker/Projects Details.md",
     "Notes/SQL.md",
     "Notes/NLP - UT Austin.md",
     "Notes/Scaling RAG.md",

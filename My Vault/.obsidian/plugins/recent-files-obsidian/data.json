@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Class",
+      "path": "Notes/Class.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
@@ -29,16 +37,8 @@
       "path": "Notes/code.md"
     },
     {
-      "basename": "Class",
-      "path": "Notes/Class.md"
-    },
-    {
       "basename": "Decorators",
       "path": "Notes/Decorators.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "SQL",
