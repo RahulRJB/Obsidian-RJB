@@ -516,7 +516,7 @@ To
 | Lowe's               |            |      |          | Diff role                     |         |
 | Jaeggar              |            |      |          | L1 select (Hyd)               |         |
 | IT Convergence       |            |      |          | L2 select                     |         |
-| Tiger Analytics      |            |      |          | Mail again                    |         |
+| Tiger Analytics      |            |      |          | Test                          |         |
 | Publicis Sapient     |            |      |          | Test not given                |         |
 | EXL                  |            |      |          |                               |         |
 | Persistant           |            |      |          | Dumb interviewer(L1 select)   |         |
