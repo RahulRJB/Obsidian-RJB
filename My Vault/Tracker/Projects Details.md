@@ -504,31 +504,31 @@ To
 
 ## Process:
 
-| Applied              | Role(Work) | Pay  | Location | <center>Status</center>       | HR, num |
-| -------------------- | ---------- | ---- | -------- | ----------------------------- | ------- |
-| John Deere           | GenAI      | 26   | MG Road  | <center>**Selected**</center> | Priti   |
-| Rocket Softwares     |            |      |          | Finish mail questions         |         |
-| Hurmonics Global     |            | 30   |          | L1 reject! <sob  sob>         |         |
-| Maaze(Chandigarh)    |            |      |          | L2 vanish                     |         |
-| HCLTech              |            | 28.5 |          | **Selected**                  |         |
-| Deloitte             |            |      |          | **Selected**                  | Venu    |
-| EPAM                 |            |      |          | L2 reject                     |         |
-| Lowe's               |            |      |          | Diff role                     |         |
-| Jaeggar              |            |      |          | L1 select (Hyd)               |         |
-| IT Convergence       |            |      |          | L2 select                     |         |
-| Tiger Analytics      |            |      |          | Test                          |         |
-| Publicis Sapient     |            |      |          | Test not given                |         |
-| EXL                  |            |      |          |                               |         |
-| Persistant           |            |      |          | Dumb interviewer(L1 select)   |         |
-| Morgan Stanley       |            |      |          | L1 select                     |         |
-| Quantiphi            |            |      |          | Not selected(agent, finetune) |         |
-| LTTS                 |            |      |          | Interviewer did not join      |         |
-| Society Generale     |            |      |          | 21March                       |         |
-| Berribot(Mindsprint) |            |      |          |                               |         |
-| NTT Data             |            |      |          | 20 March                      |         |
-| Airbus               |            |      |          |                               |         |
-| Tredence             |            |      |          |                               |         |
-| Calsoft              |            |      |          |                               |         |
+| Applied              | Role(Work) | Pay  | Location | <center>Status</center>             | HR, num |
+| -------------------- | ---------- | ---- | -------- | ----------------------------------- | ------- |
+| John Deere           | GenAI      | 26   | MG Road  | <center>**Selected**</center>       | Priti   |
+| Rocket Softwares     |            |      |          | Finish mail questions               |         |
+| Hurmonics Global     |            | 30   |          | L1 reject! <sob  sob>               |         |
+| Maaze(Chandigarh)    |            |      |          | L2 vanish                           |         |
+| HCLTech              |            | 28.5 |          | **Selected**                        |         |
+| Deloitte             |            |      |          | **Selected**                        | Venu    |
+| EPAM                 |            |      |          | L2 reject                           |         |
+| Lowe's               |            |      |          | Diff role                           |         |
+| Jaeggar              |            |      |          | L1 select (Hyd)                     |         |
+| IT Convergence       |            |      |          | L2 select (System design interview) |         |
+| Tiger Analytics      |            |      |          | Test                                |         |
+| Publicis Sapient     |            |      |          | Test not given                      |         |
+| EXL                  |            |      |          |                                     |         |
+| Persistant           |            |      |          | Dumb interviewer(L1 select)         |         |
+| Morgan Stanley       |            |      |          | L1 select                           |         |
+| Quantiphi            |            |      |          | Not selected(agent, finetune)       |         |
+| LTTS                 |            |      |          | Interviewer did not join            |         |
+| Society Generale     |            |      |          | 21March                             |         |
+| Berribot(Mindsprint) |            |      |          |                                     |         |
+| NTT Data             |            |      |          | 20 March                            |         |
+| Airbus               |            |      |          |                                     |         |
+| Tredence             |            |      |          |                                     |         |
+| Calsoft              |            |      |          |                                     |         |
 
 
 
