@@ -277,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -472,14 +472,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "828c4b1ac1baf362",
+  "active": "a506043e04bace55",
   "lastOpenFiles": [
+    "Notes/Generators.md",
     "Attachments/Pasted image 20250320025212.png",
     "Attachments/Pasted image 20250320025016.png",
     "Attachments/Pasted image 20250320024812.png",
     "Notes/Decorators.md",
     "Notes/Class.md",
-    "Notes/Generators.md",
     "Attachments/Pasted image 20250320023737.png",
     "Attachments/Pasted image 20250320022420.png",
     "Attachments/Pasted image 20250320022244.png",
@@ -491,7 +491,6 @@
     "Tracker/Lists.md",
     "Notes/QLoRA.md",
     "Notes/Quantization.md",
-    "Attachments/Pasted image 20241018014104.png",
     "Notes/Hugging Face.md",
     "Notes/LoRA.md",
     "Notes/Sentence Transformers.md",
