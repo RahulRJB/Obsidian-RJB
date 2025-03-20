@@ -205,12 +205,12 @@
             }
           },
           {
-            "id": "6588a721ad9d5be7",
+            "id": "828c4b1ac1baf362",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Class.md",
+                "file": "Notes/Generators.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -225,7 +225,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Class"
+              "title": "Generators"
             }
           },
           {
@@ -472,8 +472,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6588a721ad9d5be7",
+  "active": "828c4b1ac1baf362",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250320025212.png",
+    "Attachments/Pasted image 20250320025016.png",
+    "Attachments/Pasted image 20250320024812.png",
+    "Notes/Decorators.md",
+    "Notes/Class.md",
+    "Notes/Generators.md",
+    "Attachments/Pasted image 20250320023737.png",
+    "Attachments/Pasted image 20250320022420.png",
+    "Attachments/Pasted image 20250320022244.png",
+    "Attachments/Pasted image 20250320021949.png",
+    "Attachments/Pasted image 20250320021710.png",
+    "Attachments/Pasted image 20250320021643.png",
     "Attachments/Pasted image 20250320004922.png",
     "Tracker/Projects Details.md",
     "Tracker/Lists.md",
@@ -484,13 +496,6 @@
     "Notes/LoRA.md",
     "Notes/Sentence Transformers.md",
     "Notes/code.md",
-    "Attachments/Pasted image 20241010030814.png",
-    "Attachments/Pasted image 20241018012140.png",
-    "Attachments/Pasted image 20241018013641.png",
-    "Attachments/Pasted image 20241018011909.png",
-    "Attachments/Pasted image 20241018011753.png",
-    "Notes/Class.md",
-    "Notes/Decorators.md",
     "Notes/SQL.md",
     "Notes/NLP - UT Austin.md",
     "Notes/Scaling RAG.md",
@@ -500,16 +505,11 @@
     "Notes/Supervised Finetuning.md",
     "Notes/Finetuning.md",
     "Notes/Untitled.md",
-    "Attachments/Pasted image 20241018013914.png",
-    "Attachments/Pasted image 20250312133033.png",
-    "Attachments/Pasted image 20250312132715.png",
-    "Attachments/Pasted image 20241010030421.png",
     "Notes/Self-supervised Finetuning.md",
     "Notes/Reinforcement Learning Finetuning.md",
     "Tracker/06-03-25.md",
     "Tracker/08-03-25.md",
     "Notes/Vanishing-Exploding Gradients.md",
-    "Notes/Cohen's Kappa.md",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",

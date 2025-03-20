@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Generators",
+      "path": "Notes/Generators.md"
+    },
+    {
+      "basename": "Decorators",
+      "path": "Notes/Decorators.md"
+    },
+    {
       "basename": "Class",
       "path": "Notes/Class.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "code",
       "path": "Notes/code.md"
-    },
-    {
-      "basename": "Decorators",
-      "path": "Notes/Decorators.md"
     },
     {
       "basename": "SQL",
