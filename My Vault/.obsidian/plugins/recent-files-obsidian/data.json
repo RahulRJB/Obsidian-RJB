@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Encoder",
+      "path": "Notes/Encoder.md"
+    },
+    {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Generators",
@@ -15,10 +23,6 @@
     {
       "basename": "Class",
       "path": "Notes/Class.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "QLoRA",
@@ -195,10 +199,6 @@
     {
       "basename": "13-01-25",
       "path": "Tracker/13-01-25.md"
-    },
-    {
-      "basename": "10-01-25",
-      "path": "Tracker/10-01-25.md"
     }
   ],
   "omittedPaths": [],

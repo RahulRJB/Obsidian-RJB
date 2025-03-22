@@ -477,14 +477,14 @@
 | EPAM                 |            |      |          | L2 reject                           |         |
 | Lowe's               |            |      |          | Diff role                           |         |
 | Jaeggar              |            |      |          | L1 select (Hyd)                     |         |
-| IT Convergence       |            |      |          | L2 select (System design interview) |         |
+| IT Convergence       |            |      |          | L3 reject (System design interview) |         |
+| Quantiphi            |            |      |          | Not selected(agent, finetune)       |         |
 | Tiger Analytics      |            |      |          | Test                                |         |
-| Publicis Sapient     |            |      |          | Test not given                      |         |
+| Publicis Sapient     |            |      |          | Test link expired                   |         |
 | EXL                  |            |      |          |                                     |         |
 | Persistant           |            |      |          | Dumb interviewer(L1 select)         |         |
 | Morgan Stanley       |            |      |          | L1 select                           |         |
-| Quantiphi            |            |      |          | Not selected(agent, finetune)       |         |
-| LTTS                 |            |      |          | Interviewer did not join            |         |
+| LTTS                 |            |      |          | 24                                  |         |
 | Society Generale     |            |      |          | 21March                             |         |
 | Berribot(Mindsprint) |            |      |          |                                     |         |
 | NTT Data             |            |      |          | 20 March                            |         |
