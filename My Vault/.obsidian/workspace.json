@@ -229,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -424,8 +424,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "64ec11214a331f60",
+  "active": "a506043e04bace55",
   "lastOpenFiles": [
+    "Tracker/Lists.md",
+    "Tracker/Projects Details.md",
     "Notes/Multithreading vs Multiprocessing.md",
     "Attachments/Pasted image 20250324225403.png",
     "Notes/CPython.md",
@@ -446,7 +448,6 @@
     "Notes/Reinforcement Learning Finetuning.md",
     "Tracker/24-03-25.md",
     "Notes/Decorators.md",
-    "Tracker/Lists.md",
     "Notes/Encoder.md",
     "Attachments/Pasted image 20240606131617.png",
     "Notes/LLMs.md",
@@ -455,7 +456,6 @@
     "Notes/Hugging Face.md",
     "Attachments/Pasted image 20250324203735.png",
     "Tracker/Dreams.md",
-    "Tracker/Projects Details.md",
     "Notes/Decoder.md",
     "Notes/Closures.md",
     "Tracker/12-03-25.md",

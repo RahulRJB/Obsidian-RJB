@@ -14,7 +14,29 @@ https://www.youtube.com/watch?v=AZnGRKFUU0c&t=5s
 
 # Content:
 
+## Overview:
+### 1. Memory Space
 
+- **Multiprocessing**: Each process has its own Python interpreter and memory space
+- **Multithreading**: All threads share the same memory space and resources within a single Python interpreter
+
+### 2. GIL (Global Interpreter Lock)
+
+- **Multiprocessing**: Not affected by the GIL, as each process has its own Python interpreter
+- **Multithreading**: Limited by the GIL, which allows only one thread to execute Python bytecode at a time
+
+### 3. CPU-bound vs I/O-bound Tasks
+
+- **Multiprocessing**: Better for CPU-bound tasks (complex calculations, data processing)
+- **Multithreading**: Better for I/O-bound tasks (file operations, network requests, database queries)
+
+### 4. Overhead
+
+- **Multiprocessing**: Higher memory usage and startup time
+- **Multithreading**: Lower memory usage and startup time
+
+
+## Details:
 People have different understandings of Python's capabilities when it comes to handling multiple tasks simultaneously. 2 common statements: 
 	"Python is multi-threaded"
 	"Python is not multi-threaded" 

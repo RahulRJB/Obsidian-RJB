@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "Dreams",
       "path": "Tracker/Dreams.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "Decoder",

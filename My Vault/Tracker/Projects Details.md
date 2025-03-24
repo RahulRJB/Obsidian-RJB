@@ -488,9 +488,9 @@
 | Society Generale     |            |      |          | 21March                             |         |
 | Berribot(Mindsprint) |            |      |          |                                     |         |
 | NTT Data             |            |      |          | 20 March                            |         |
-| Newpage              |            |      |          |                                     |         |
+| Newpage              |            |      | remote   |                                     |         |
 | Syncronium           |            |      |          |                                     |         |
-|                      |            |      |          |                                     |         |
+| Chubb                |            |      |          |                                     |         |
 
 
 
