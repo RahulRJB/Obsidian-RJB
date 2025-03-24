@@ -31,8 +31,6 @@ code:  https://github.com/ajhalthor/Transformer-Neural-Network/blob/main/Transfo
 - ![[Attachments/Pasted image 20240608035407.png]]
 
 
-
-
 - ![[Attachments/Pasted image 20240608034514.png]]
 
 

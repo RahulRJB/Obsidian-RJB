@@ -8,13 +8,36 @@ DATE:  07-03-25
 Tags:  [[Notes/python|python]]
 
 # References:
-
+https://www.youtube.com/watch?v=FsAPt_9Bf3U&list=WL&index=84
 
 
 
 # Content:
 
 Decorators are a powerful feature in Python that allow you to modify or extend the behavior of functions or methods without changing their actual code. They use the `@` syntax and are applied above function definitions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Basic Decorator Concept
 

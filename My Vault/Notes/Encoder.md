@@ -43,14 +43,13 @@ Tags: [[Notes/Transformers|Transformers]]  [[Notes/Decoder|Decoder]]
 - **Bidirectional Self-Attention (Encoder-only):**
     
     - In BERT’s encoder, each token has full visibility of its context (i.e., both left and right neighbors). This allows the model to learn a deep representation of the input.
-        
     - However, this also means that if you try to prompt a BERT-style model to generate text (e.g. “Today, I went to…”), it doesn’t naturally know how to continue the sequence because it’s never been trained in an autoregressive manner.
-        
+
 - **Causal Self-Attention (Decoder-only):**
     
     - GPT’s decoder uses causal masking in its self-attention layers. This mask prevents any token from “seeing” tokens that come later in the sequence.
     - The autoregressive nature ensures that when generating text, the model conditions on all previously generated tokens to predict the next one.
-        
+
 
 ---
 
@@ -75,11 +74,9 @@ Tags: [[Notes/Transformers|Transformers]]  [[Notes/Decoder|Decoder]]
 - **Understanding vs. Generation:**
     
     - **BERT-style (Encoder-only):** Its bidirectional nature makes it excellent for understanding tasks (e.g., sentiment analysis, question answering via ranking answers) where the full context is important.
-        
     - **GPT-style (Decoder-only):** Its autoregressive setup makes it better for creative tasks where the goal is to produce a fluent, coherent output from a given prompt.
-        
+
 - **Representation vs. Decoding:**
     
     - BERT outputs a rich embedding representation for every token. For downstream tasks, you typically add a task-specific “head” on top of these embeddings.
-        
     - GPT, by contrast, outputs probabilities over the vocabulary directly, which makes it ready for text generation without extra decoding layers.
