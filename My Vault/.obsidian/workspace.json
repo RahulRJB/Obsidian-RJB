@@ -205,12 +205,12 @@
             }
           },
           {
-            "id": "23b45956da474590",
+            "id": "f02b7c184917323a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Multithreading vs Multiprocessing.md",
+                "file": "Notes/CLIP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -225,11 +225,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Multithreading vs Multiprocessing"
+              "title": "CLIP"
+            }
+          },
+          {
+            "id": "62c45850634ee750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/ViT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ViT"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -424,11 +448,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a506043e04bace55",
+  "active": "62c45850634ee750",
   "lastOpenFiles": [
+    "Notes/ViT.md",
     "Tracker/Lists.md",
-    "Tracker/Projects Details.md",
+    "Notes/CLIP.md",
+    "Notes/Finetuning.md",
     "Notes/Multithreading vs Multiprocessing.md",
+    "Tracker/Projects Details.md",
     "Attachments/Pasted image 20250324225403.png",
     "Notes/CPython.md",
     "Attachments/Pasted image 20250324224440.png",
@@ -441,8 +468,6 @@
     "Notes/Parallelism.md",
     "Notes/Concurrency.md",
     "Attachments/Pasted image 20250324221401.png",
-    "Notes/Untitled.md",
-    "Notes/Finetuning.md",
     "Notes/Supervised Finetuning.md",
     "Notes/Self-supervised Finetuning.md",
     "Notes/Reinforcement Learning Finetuning.md",

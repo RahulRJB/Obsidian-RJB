@@ -6,7 +6,13 @@ kanban-plugin: []
 
 ## TO study
 
-- [ ] SigLIP, KV cache, CLIP, local vs Global attention
+- [ ] ViTs
+- [ ] KV cache
+- [ ] CLIP
+- [ ] local vs Global attention
+- [ ] VLMs
+- [ ] Diffusion models
+- [ ] SigLIP
 - [ ] Asyncio
 - [ ] Segregate all the bookmarks!
 - [ ] Explainable AI

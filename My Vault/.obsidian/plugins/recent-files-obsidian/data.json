@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
+      "basename": "ViT",
+      "path": "Notes/ViT.md"
     },
     {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
     {
+      "basename": "CLIP",
+      "path": "Notes/CLIP.md"
+    },
+    {
+      "basename": "Finetuning",
+      "path": "Notes/Finetuning.md"
+    },
+    {
       "basename": "Multithreading vs Multiprocessing",
       "path": "Notes/Multithreading vs Multiprocessing.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "CPython",
@@ -27,10 +39,6 @@
     {
       "basename": "Concurrency",
       "path": "Notes/Concurrency.md"
-    },
-    {
-      "basename": "Finetuning",
-      "path": "Notes/Finetuning.md"
     },
     {
       "basename": "Supervised Finetuning",
@@ -191,14 +199,6 @@
     {
       "basename": "Distillation",
       "path": "Notes/Distillation.md"
-    },
-    {
-      "basename": "Scaling",
-      "path": "Notes/Scaling.md"
-    },
-    {
-      "basename": "Architecture",
-      "path": "Notes/Architecture.md"
     }
   ],
   "omittedPaths": [],
