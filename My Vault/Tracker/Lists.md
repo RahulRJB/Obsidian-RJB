@@ -7,8 +7,7 @@ kanban-plugin: []
 ## TO study
 
 - [ ] SigLIP, KV cache, CLIP, local vs Global attention
-- [ ] Thrading multiprocessing Asyncio
-	concurrent vs parallel
+- [ ] Asyncio
 - [ ] Segregate all the bookmarks!
 - [ ] Explainable AI
 - [ ] COT

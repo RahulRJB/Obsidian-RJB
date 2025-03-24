@@ -229,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -424,10 +424,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "23b45956da474590",
+  "active": "64ec11214a331f60",
   "lastOpenFiles": [
-    "Notes/Untitled.md",
     "Notes/Multithreading vs Multiprocessing.md",
+    "Attachments/Pasted image 20250324225403.png",
+    "Notes/CPython.md",
+    "Attachments/Pasted image 20250324224440.png",
+    "Attachments/Pasted image 20250324224351.png",
+    "Attachments/Pasted image 20250324224328.png",
+    "Attachments/Pasted image 20250324223638.png",
+    "Attachments/Pasted image 20250324223456.png",
+    "Notes/Global Interpreter Lock.md",
+    "Attachments/Pasted image 20250324222057.png",
+    "Notes/Parallelism.md",
+    "Notes/Concurrency.md",
+    "Attachments/Pasted image 20250324221401.png",
+    "Notes/Untitled.md",
     "Notes/Finetuning.md",
     "Notes/Supervised Finetuning.md",
     "Notes/Self-supervised Finetuning.md",
@@ -445,23 +457,10 @@
     "Tracker/Dreams.md",
     "Tracker/Projects Details.md",
     "Notes/Decoder.md",
-    "Attachments/Pasted image 20250324195008.png",
-    "Attachments/Pasted image 20250324194501.png",
-    "Attachments/Pasted image 20250324193731.png",
-    "Attachments/Pasted image 20250324193253.png",
-    "Attachments/Pasted image 20250324192957.png",
     "Notes/Closures.md",
-    "Attachments/Pasted image 20250324192212.png",
-    "Attachments/Pasted image 20250324191414.png",
-    "Attachments/Pasted image 20250324191200.png",
     "Tracker/12-03-25.md",
     "Notes/QLoRA.md",
     "Notes/Generators.md",
-    "Tracker/GOALS 2025.md",
-    "Notes/NLP - UT Austin.md",
-    "Notes/SQL.md",
-    "Notes/Class.md",
-    "Notes/Quantization.md",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",

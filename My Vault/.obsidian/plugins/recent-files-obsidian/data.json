@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
       "basename": "Multithreading vs Multiprocessing",
       "path": "Notes/Multithreading vs Multiprocessing.md"
+    },
+    {
+      "basename": "CPython",
+      "path": "Notes/CPython.md"
+    },
+    {
+      "basename": "Global Interpreter Lock",
+      "path": "Notes/Global Interpreter Lock.md"
+    },
+    {
+      "basename": "Parallelism",
+      "path": "Notes/Parallelism.md"
+    },
+    {
+      "basename": "Concurrency",
+      "path": "Notes/Concurrency.md"
     },
     {
       "basename": "Finetuning",
@@ -27,10 +47,6 @@
     {
       "basename": "Decorators",
       "path": "Notes/Decorators.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Encoder",
@@ -183,18 +199,6 @@
     {
       "basename": "Architecture",
       "path": "Notes/Architecture.md"
-    },
-    {
-      "basename": "RAG",
-      "path": "Notes/RAG.md"
-    },
-    {
-      "basename": "28-01-25",
-      "path": "Tracker/28-01-25.md"
-    },
-    {
-      "basename": "25-02-25",
-      "path": "Tracker/25-02-25.md"
     }
   ],
   "omittedPaths": [],
