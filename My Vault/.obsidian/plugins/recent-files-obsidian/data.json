@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "24-03-25",
+      "path": "Tracker/24-03-25.md"
+    },
+    {
       "basename": "Encoder",
       "path": "Notes/Encoder.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "14-01-25",
       "path": "Tracker/14-01-25.md"
-    },
-    {
-      "basename": "13-01-25",
-      "path": "Tracker/13-01-25.md"
     }
   ],
   "omittedPaths": [],

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Encoder.md",
+                "file": "Tracker/24-03-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Encoder"
+              "title": "24-03-25"
             }
           },
           {
@@ -468,12 +468,13 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "remotely-save:Remotely Save": false,
-      "periodic-notes:Open today": false
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "a506043e04bace55",
   "lastOpenFiles": [
+    "Notes/Encoder.md",
+    "Tracker/24-03-25.md",
     "Tracker/Projects Details.md",
     "Tracker/Lists.md",
     "Notes/Generators.md",
@@ -508,7 +509,6 @@
     "Notes/Reinforcement Learning Finetuning.md",
     "Tracker/06-03-25.md",
     "Tracker/08-03-25.md",
-    "Notes/Vanishing-Exploding Gradients.md",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",
