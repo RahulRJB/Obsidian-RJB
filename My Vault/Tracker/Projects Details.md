@@ -488,9 +488,9 @@
 | Society Generale     |            |      |          | 21March                             |         |
 | Berribot(Mindsprint) |            |      |          |                                     |         |
 | NTT Data             |            |      |          | 20 March                            |         |
-| Airbus               |            |      |          |                                     |         |
-| Tredence             |            |      |          |                                     |         |
-| Calsoft              |            |      |          |                                     |         |
+| Newpage              |            |      |          |                                     |         |
+| Syncronium           |            |      |          |                                     |         |
+|                      |            |      |          |                                     |         |
 
 
 

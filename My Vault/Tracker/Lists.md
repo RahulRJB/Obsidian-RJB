@@ -6,12 +6,10 @@ kanban-plugin: []
 
 ## TO study
 
-- [ ] Complete the video
 - [ ] SigLIP, KV cache, CLIP, local vs Global attention
 - [ ] Thrading multiprocessing Asyncio
 	concurrent vs parallel
 - [ ] Segregate all the bookmarks!
-- [ ] Encoder vs Decoder internal architecture
 - [ ] Explainable AI
 - [ ] COT
 - [ ] Kubernetes
@@ -19,15 +17,12 @@ kanban-plugin: []
 - [ ] Application take 10mins to run a data input and multiple users are using it. Best way to go abut it
 - [ ] Creating an embedding model
 - [ ] Deployment
-- [ ] Python Basics
 - [ ] Testings strategies, A/B etc
 - [ ] Agents
 - [ ] AWS
 - [ ] Langchain
 - [ ] Profiler for code bottleneck?
 - [ ] Customer using rag problem
-- [ ] OOPS
-- [ ] Decorators, Generators
 - [ ] AI Safety for NSFW and PII and sensitive data
 - [ ] LLM loss functions
 - [ ] Optimizers(Adam)

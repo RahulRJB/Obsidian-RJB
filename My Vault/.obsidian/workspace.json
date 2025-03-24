@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Decoder.md",
+                "file": "Tracker/Projects Details.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Decoder"
+              "title": "Projects Details"
             }
           },
           {
@@ -162,7 +162,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/12-03-25.md",
+                "file": "Tracker/24-03-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -177,31 +177,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "12-03-25"
-            }
-          },
-          {
-            "id": "c33c6446c67b9741",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Decorators.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Decorators"
+              "title": "24-03-25"
             }
           },
           {
@@ -210,7 +186,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Hugging Face.md",
+                "file": "Notes/Finetuning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -225,11 +201,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hugging Face"
+              "title": "Finetuning"
+            }
+          },
+          {
+            "id": "23b45956da474590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Multithreading vs Multiprocessing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Multithreading vs Multiprocessing"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -424,44 +424,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c33c6446c67b9741",
+  "active": "23b45956da474590",
   "lastOpenFiles": [
-    "Notes/Hugging Face.md",
+    "Notes/Untitled.md",
+    "Notes/Multithreading vs Multiprocessing.md",
+    "Notes/Finetuning.md",
+    "Notes/Supervised Finetuning.md",
+    "Notes/Self-supervised Finetuning.md",
+    "Notes/Reinforcement Learning Finetuning.md",
+    "Tracker/24-03-25.md",
     "Notes/Decorators.md",
+    "Tracker/Lists.md",
+    "Notes/Encoder.md",
+    "Attachments/Pasted image 20240606131617.png",
+    "Notes/LLMs.md",
+    "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md",
+    "Notes/Andrej Karpathy.md",
+    "Notes/Hugging Face.md",
+    "Attachments/Pasted image 20250324203735.png",
+    "Tracker/Dreams.md",
+    "Tracker/Projects Details.md",
+    "Notes/Decoder.md",
+    "Attachments/Pasted image 20250324195008.png",
+    "Attachments/Pasted image 20250324194501.png",
+    "Attachments/Pasted image 20250324193731.png",
+    "Attachments/Pasted image 20250324193253.png",
+    "Attachments/Pasted image 20250324192957.png",
+    "Notes/Closures.md",
+    "Attachments/Pasted image 20250324192212.png",
+    "Attachments/Pasted image 20250324191414.png",
+    "Attachments/Pasted image 20250324191200.png",
+    "Tracker/12-03-25.md",
     "Notes/QLoRA.md",
     "Notes/Generators.md",
     "Tracker/GOALS 2025.md",
-    "Notes/Decoder.md",
-    "Notes/Encoder.md",
-    "Attachments/Pasted image 20240608034514.png",
-    "Attachments/Pasted image 20240608035407.png",
-    "Attachments/Pasted image 20240608033720.png",
     "Notes/NLP - UT Austin.md",
     "Notes/SQL.md",
-    "Tracker/24-03-25.md",
-    "Tracker/Projects Details.md",
-    "Tracker/Lists.md",
-    "Attachments/Pasted image 20250320025212.png",
-    "Attachments/Pasted image 20250320025016.png",
-    "Attachments/Pasted image 20250320024812.png",
     "Notes/Class.md",
-    "Attachments/Pasted image 20250320023737.png",
-    "Attachments/Pasted image 20250320022420.png",
-    "Attachments/Pasted image 20250320022244.png",
-    "Attachments/Pasted image 20250320021949.png",
     "Notes/Quantization.md",
-    "Notes/LoRA.md",
-    "Notes/Sentence Transformers.md",
-    "Notes/code.md",
-    "Notes/Scaling RAG.md",
-    "Notes/SentenceBERT.md",
-    "Tracker/12-03-25.md",
-    "Tracker/13-03-25.md",
-    "Notes/Supervised Finetuning.md",
-    "Notes/Finetuning.md",
-    "Notes/Untitled.md",
-    "Notes/Self-supervised Finetuning.md",
-    "Notes/Reinforcement Learning Finetuning.md",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",

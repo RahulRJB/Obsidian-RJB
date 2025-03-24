@@ -1,12 +1,80 @@
 {
   "recentFiles": [
     {
+      "basename": "Multithreading vs Multiprocessing",
+      "path": "Notes/Multithreading vs Multiprocessing.md"
+    },
+    {
+      "basename": "Finetuning",
+      "path": "Notes/Finetuning.md"
+    },
+    {
+      "basename": "Supervised Finetuning",
+      "path": "Notes/Supervised Finetuning.md"
+    },
+    {
+      "basename": "Self-supervised Finetuning",
+      "path": "Notes/Self-supervised Finetuning.md"
+    },
+    {
+      "basename": "Reinforcement Learning Finetuning",
+      "path": "Notes/Reinforcement Learning Finetuning.md"
+    },
+    {
+      "basename": "24-03-25",
+      "path": "Tracker/24-03-25.md"
+    },
+    {
       "basename": "Decorators",
       "path": "Notes/Decorators.md"
     },
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "Encoder",
+      "path": "Notes/Encoder.md"
+    },
+    {
+      "basename": "Pasted image 20240606131617",
+      "path": "Attachments/Pasted image 20240606131617.png"
+    },
+    {
+      "basename": "LLMs",
+      "path": "Notes/LLMs.md"
+    },
+    {
+      "basename": "Lets build GPT Tokenizer, Andrej Karpathy",
+      "path": "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md"
+    },
+    {
+      "basename": "Andrej Karpathy",
+      "path": "Notes/Andrej Karpathy.md"
+    },
+    {
       "basename": "Hugging Face",
       "path": "Notes/Hugging Face.md"
+    },
+    {
+      "basename": "Dreams",
+      "path": "Tracker/Dreams.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "Decoder",
+      "path": "Notes/Decoder.md"
+    },
+    {
+      "basename": "Closures",
+      "path": "Notes/Closures.md"
+    },
+    {
+      "basename": "12-03-25",
+      "path": "Tracker/12-03-25.md"
     },
     {
       "basename": "QLoRA",
@@ -19,14 +87,6 @@
     {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
-    },
-    {
-      "basename": "Decoder",
-      "path": "Notes/Decoder.md"
-    },
-    {
-      "basename": "Encoder",
-      "path": "Notes/Encoder.md"
     },
     {
       "basename": "Pasted image 20240608034514",
@@ -47,18 +107,6 @@
     {
       "basename": "SQL",
       "path": "Notes/SQL.md"
-    },
-    {
-      "basename": "24-03-25",
-      "path": "Tracker/24-03-25.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Class",
@@ -89,32 +137,8 @@
       "path": "Notes/SentenceBERT.md"
     },
     {
-      "basename": "12-03-25",
-      "path": "Tracker/12-03-25.md"
-    },
-    {
       "basename": "13-03-25",
       "path": "Tracker/13-03-25.md"
-    },
-    {
-      "basename": "Supervised Finetuning",
-      "path": "Notes/Supervised Finetuning.md"
-    },
-    {
-      "basename": "Finetuning",
-      "path": "Notes/Finetuning.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Notes/Untitled.md"
-    },
-    {
-      "basename": "Self-supervised Finetuning",
-      "path": "Notes/Self-supervised Finetuning.md"
-    },
-    {
-      "basename": "Reinforcement Learning Finetuning",
-      "path": "Notes/Reinforcement Learning Finetuning.md"
     },
     {
       "basename": "06-03-25",
@@ -165,40 +189,12 @@
       "path": "Notes/RAG.md"
     },
     {
-      "basename": "Dreams",
-      "path": "Tracker/Dreams.md"
-    },
-    {
       "basename": "28-01-25",
       "path": "Tracker/28-01-25.md"
     },
     {
       "basename": "25-02-25",
       "path": "Tracker/25-02-25.md"
-    },
-    {
-      "basename": "24-01-25",
-      "path": "Tracker/24-01-25.md"
-    },
-    {
-      "basename": "23-01-25",
-      "path": "Tracker/23-01-25.md"
-    },
-    {
-      "basename": "22-01-25",
-      "path": "Tracker/22-01-25.md"
-    },
-    {
-      "basename": "21-01-25",
-      "path": "Tracker/21-01-25.md"
-    },
-    {
-      "basename": "19-01-25",
-      "path": "Tracker/19-01-25.md"
-    },
-    {
-      "basename": "18-01-25",
-      "path": "Tracker/18-01-25.md"
     }
   ],
   "omittedPaths": [],
