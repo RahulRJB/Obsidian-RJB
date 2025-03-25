@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Overfitting",
+      "path": "Notes/Overfitting.md"
+    },
+    {
+      "basename": "Statistical ML",
+      "path": "Notes/Statistical ML.md"
+    },
+    {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Cohen's Kappa",
       "path": "Notes/Cohen's Kappa.md"
-    },
-    {
-      "basename": "Exponential Weighted Average",
-      "path": "Notes/Exponential Weighted Average.md"
-    },
-    {
-      "basename": "Microservices",
-      "path": "Notes/Microservices.md"
     }
   ],
   "omittedPaths": [],

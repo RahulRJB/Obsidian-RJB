@@ -323,9 +323,33 @@
               "icon": "lucide-file",
               "title": "Agentic RAG"
             }
+          },
+          {
+            "id": "867e040698a15217",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Overfitting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Overfitting"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -520,8 +544,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a506043e04bace55",
+  "active": "867e040698a15217",
   "lastOpenFiles": [
+    "Notes/Statistical ML.md",
+    "Notes/Overfitting.md",
+    "Tracker/Projects Details.md",
     "Notes/LLM Agents.md",
     "Notes/VLM.md",
     "Notes/Agentic RAG.md",
@@ -530,7 +557,6 @@
     "Tracker/Lists.md",
     "Notes/Finetuning.md",
     "Notes/Multithreading vs Multiprocessing.md",
-    "Tracker/Projects Details.md",
     "Attachments/Pasted image 20250324225403.png",
     "Notes/CPython.md",
     "Attachments/Pasted image 20250324224440.png",
@@ -556,8 +582,6 @@
     "Notes/Hugging Face.md",
     "Attachments/Pasted image 20250324203735.png",
     "Tracker/Dreams.md",
-    "Notes/Decoder.md",
-    "Notes/Closures.md",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",
