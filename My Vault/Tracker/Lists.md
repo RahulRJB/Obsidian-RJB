@@ -6,6 +6,7 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Regularization
 - [ ] ViTs
 - [ ] KV cache
 - [ ] CLIP

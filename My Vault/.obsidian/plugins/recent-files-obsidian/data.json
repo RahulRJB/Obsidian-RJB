@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Overfitting",
-      "path": "Notes/Overfitting.md"
+      "basename": "CLIP",
+      "path": "Notes/CLIP.md"
     },
     {
-      "basename": "Statistical ML",
-      "path": "Notes/Statistical ML.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
+      "basename": "ViT",
+      "path": "Notes/ViT.md"
     },
     {
       "basename": "LLM Agents",
@@ -25,16 +21,36 @@
       "path": "Notes/Agentic RAG.md"
     },
     {
-      "basename": "ViT",
-      "path": "Notes/ViT.md"
+      "basename": "underfitting",
+      "path": "Notes/underfitting.md"
     },
     {
-      "basename": "CLIP",
-      "path": "Notes/CLIP.md"
+      "basename": "Overfitting",
+      "path": "Notes/Overfitting.md"
     },
     {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "Variance",
+      "path": "Notes/Variance.md"
+    },
+    {
+      "basename": "Bias",
+      "path": "Notes/Bias.md"
+    },
+    {
+      "basename": "NLP - UT Austin",
+      "path": "Notes/NLP - UT Austin.md"
+    },
+    {
+      "basename": "Statistical ML",
+      "path": "Notes/Statistical ML.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "Finetuning",
@@ -145,10 +161,6 @@
       "path": "Attachments/Pasted image 20240608033720.png"
     },
     {
-      "basename": "NLP - UT Austin",
-      "path": "Notes/NLP - UT Austin.md"
-    },
-    {
       "basename": "SQL",
       "path": "Notes/SQL.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "06-03-25",
       "path": "Tracker/06-03-25.md"
-    },
-    {
-      "basename": "08-03-25",
-      "path": "Tracker/08-03-25.md"
-    },
-    {
-      "basename": "Vanishing-Exploding Gradients",
-      "path": "Notes/Vanishing-Exploding Gradients.md"
-    },
-    {
-      "basename": "Cohen's Kappa",
-      "path": "Notes/Cohen's Kappa.md"
     }
   ],
   "omittedPaths": [],

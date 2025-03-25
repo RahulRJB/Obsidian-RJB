@@ -323,33 +323,9 @@
               "icon": "lucide-file",
               "title": "Agentic RAG"
             }
-          },
-          {
-            "id": "867e040698a15217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Overfitting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Overfitting"
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -544,17 +520,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "867e040698a15217",
+  "active": "f02b7c184917323a",
   "lastOpenFiles": [
-    "Notes/Statistical ML.md",
-    "Notes/Overfitting.md",
-    "Tracker/Projects Details.md",
+    "Notes/ViT.md",
     "Notes/LLM Agents.md",
     "Notes/VLM.md",
-    "Notes/Agentic RAG.md",
-    "Notes/ViT.md",
     "Notes/CLIP.md",
+    "Notes/Agentic RAG.md",
+    "Notes/underfitting.md",
+    "Notes/Overfitting.md",
     "Tracker/Lists.md",
+    "Notes/Variance.md",
+    "Notes/Bias.md",
+    "Notes/NLP - UT Austin.md",
+    "Notes/Statistical ML.md",
+    "Tracker/Projects Details.md",
     "Notes/Finetuning.md",
     "Notes/Multithreading vs Multiprocessing.md",
     "Attachments/Pasted image 20250324225403.png",
@@ -577,11 +557,7 @@
     "Notes/Encoder.md",
     "Attachments/Pasted image 20240606131617.png",
     "Notes/LLMs.md",
-    "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md",
-    "Notes/Andrej Karpathy.md",
-    "Notes/Hugging Face.md",
     "Attachments/Pasted image 20250324203735.png",
-    "Tracker/Dreams.md",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",
