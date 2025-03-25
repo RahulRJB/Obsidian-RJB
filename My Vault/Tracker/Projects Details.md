@@ -484,11 +484,11 @@
 | EXL                  |            |      |          |                                     |         |
 | Persistant           |            |      |          | Dumb interviewer(L1 select)         |         |
 | Morgan Stanley       |            |      |          | L1 select                           |         |
-| LTTS                 |            |      |          | Inteviewer did not join             |         |
+| LTTS                 |            |      |          | L1 done                             |         |
 | Society Generale     |            |      |          | Inteviewer did not join             |         |
 | Berribot(Mindsprint) |            |      |          |                                     |         |
 | NTT Data             |            |      |          | 20 March                            |         |
-| Newpage              |            |      | remote   |                                     |         |
+| Newpage              |            |      | remote   | Coding round failed                 |         |
 | Syncronium           |            |      |          |                                     |         |
 | Chubb                |            |      |          |                                     |         |
 | Rakuten              |            |      |          |                                     |         |

@@ -325,7 +325,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -520,13 +520,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f02b7c184917323a",
+  "active": "1319f21d8c8a4dd9",
   "lastOpenFiles": [
+    "Notes/Class.md",
+    "Notes/Agentic RAG.md",
+    "Tracker/Projects Details.md",
+    "Notes/CLIP.md",
     "Notes/ViT.md",
     "Notes/LLM Agents.md",
     "Notes/VLM.md",
-    "Notes/CLIP.md",
-    "Notes/Agentic RAG.md",
     "Notes/underfitting.md",
     "Notes/Overfitting.md",
     "Tracker/Lists.md",
@@ -534,7 +536,6 @@
     "Notes/Bias.md",
     "Notes/NLP - UT Austin.md",
     "Notes/Statistical ML.md",
-    "Tracker/Projects Details.md",
     "Notes/Finetuning.md",
     "Notes/Multithreading vs Multiprocessing.md",
     "Attachments/Pasted image 20250324225403.png",
@@ -556,7 +557,6 @@
     "Notes/Decorators.md",
     "Notes/Encoder.md",
     "Attachments/Pasted image 20240606131617.png",
-    "Notes/LLMs.md",
     "Attachments/Pasted image 20250324203735.png",
     "Tracker/2024",
     "Tracker/New folder",
