@@ -476,7 +476,7 @@
 | Deloitte             |            |      |          | **Selected**                        | Venu    |
 | EPAM                 |            |      |          | L2 reject                           |         |
 | Lowe's               |            |      |          | Diff role                           |         |
-| Jaeggar              |            |      |          | L1 select (Hyd)                     |         |
+| Jaeggar              |            |      | Hyd      | L1 select (Hyd)                     |         |
 | IT Convergence       |            |      |          | L3 reject (System design interview) |         |
 | Quantiphi            |            |      |          | Not selected(agent, finetune)       |         |
 | Tiger Analytics      |            |      |          | Test                                |         |
@@ -484,13 +484,16 @@
 | EXL                  |            |      |          |                                     |         |
 | Persistant           |            |      |          | Dumb interviewer(L1 select)         |         |
 | Morgan Stanley       |            |      |          | L1 select                           |         |
-| LTTS                 |            |      |          | 24                                  |         |
-| Society Generale     |            |      |          | 21March                             |         |
+| LTTS                 |            |      |          | Inteviewer did not join             |         |
+| Society Generale     |            |      |          | Inteviewer did not join             |         |
 | Berribot(Mindsprint) |            |      |          |                                     |         |
 | NTT Data             |            |      |          | 20 March                            |         |
 | Newpage              |            |      | remote   |                                     |         |
 | Syncronium           |            |      |          |                                     |         |
 | Chubb                |            |      |          |                                     |         |
+| Rakuten              |            |      |          |                                     |         |
+| Cybage               |            |      | remote   |                                     |         |
+|                      |            |      |          |                                     |         |
 
 
 
