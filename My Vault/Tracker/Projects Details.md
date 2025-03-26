@@ -473,7 +473,7 @@
 | Hurmonics Global     |            | 30   |          | L1 reject! <sob  sob>               |         |
 | Maaze(Chandigarh)    |            |      |          | L2 vanish                           |         |
 | HCLTech              |            | 28.5 |          | **Selected**                        |         |
-| Deloitte             |            |      |          | **Selected**                        | Venu    |
+| Deloitte             |            | 31   |          | **Selected**                        | Venu    |
 | EPAM                 |            |      |          | L2 reject                           |         |
 | Lowe's               |            |      |          | Diff role                           |         |
 | Jaeggar              |            |      | Hyd      | L1 select (Hyd)                     |         |
@@ -493,6 +493,7 @@
 | Chubb                |            |      |          |                                     |         |
 | Rakuten              |            |      |          |                                     |         |
 | Cybage               |            |      | remote   |                                     |         |
+| Harman               |            |      |          |                                     |         |
 |                      |            |      |          |                                     |         |
 
 

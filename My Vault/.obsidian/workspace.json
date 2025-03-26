@@ -325,7 +325,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -520,11 +520,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1319f21d8c8a4dd9",
+  "active": "de3d28d6a65c8f61",
   "lastOpenFiles": [
-    "Notes/Class.md",
-    "Notes/Agentic RAG.md",
     "Tracker/Projects Details.md",
+    "Notes/Agentic RAG.md",
+    "Notes/Class.md",
     "Notes/CLIP.md",
     "Notes/ViT.md",
     "Notes/LLM Agents.md",

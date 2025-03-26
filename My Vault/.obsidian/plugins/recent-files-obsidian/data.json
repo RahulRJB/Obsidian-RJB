@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "LLM Agents",
+      "path": "Notes/LLM Agents.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
       "basename": "Agentic RAG",
       "path": "Notes/Agentic RAG.md"
     },
@@ -9,20 +17,12 @@
       "path": "Notes/Class.md"
     },
     {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
-    },
-    {
       "basename": "CLIP",
       "path": "Notes/CLIP.md"
     },
     {
       "basename": "ViT",
       "path": "Notes/ViT.md"
-    },
-    {
-      "basename": "LLM Agents",
-      "path": "Notes/LLM Agents.md"
     },
     {
       "basename": "VLM",
