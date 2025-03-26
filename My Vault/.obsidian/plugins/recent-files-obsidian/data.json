@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "SentenceBERT",
+      "path": "Notes/SentenceBERT.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "Notes/SQL.md"
+    },
+    {
+      "basename": "Sentence Transformers",
+      "path": "Notes/Sentence Transformers.md"
+    },
+    {
       "basename": "LLM Agents",
       "path": "Notes/LLM Agents.md"
     },
@@ -165,10 +177,6 @@
       "path": "Attachments/Pasted image 20240608033720.png"
     },
     {
-      "basename": "SQL",
-      "path": "Notes/SQL.md"
-    },
-    {
       "basename": "Quantization",
       "path": "Notes/Quantization.md"
     },
@@ -177,20 +185,12 @@
       "path": "Notes/LoRA.md"
     },
     {
-      "basename": "Sentence Transformers",
-      "path": "Notes/Sentence Transformers.md"
-    },
-    {
       "basename": "code",
       "path": "Notes/code.md"
     },
     {
       "basename": "Scaling RAG",
       "path": "Notes/Scaling RAG.md"
-    },
-    {
-      "basename": "SentenceBERT",
-      "path": "Notes/SentenceBERT.md"
     },
     {
       "basename": "13-03-25",

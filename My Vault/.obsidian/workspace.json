@@ -323,9 +323,33 @@
               "icon": "lucide-file",
               "title": "Agentic RAG"
             }
+          },
+          {
+            "id": "23751ef33bbfe2b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/SentenceBERT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SentenceBERT"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -520,14 +544,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "de3d28d6a65c8f61",
+  "active": "23751ef33bbfe2b2",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250326203830.png",
+    "Notes/SQL.md",
+    "Notes/SentenceBERT.md",
+    "Attachments/Pasted image 20250326203231.png",
+    "Notes/Sentence Transformers.md",
+    "Notes/LLM Agents.md",
     "Tracker/Projects Details.md",
     "Notes/Agentic RAG.md",
     "Notes/Class.md",
     "Notes/CLIP.md",
     "Notes/ViT.md",
-    "Notes/LLM Agents.md",
     "Notes/VLM.md",
     "Notes/underfitting.md",
     "Notes/Overfitting.md",
@@ -552,12 +581,7 @@
     "Attachments/Pasted image 20250324221401.png",
     "Notes/Supervised Finetuning.md",
     "Notes/Self-supervised Finetuning.md",
-    "Notes/Reinforcement Learning Finetuning.md",
-    "Tracker/24-03-25.md",
-    "Notes/Decorators.md",
-    "Notes/Encoder.md",
     "Attachments/Pasted image 20240606131617.png",
-    "Attachments/Pasted image 20250324203735.png",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",

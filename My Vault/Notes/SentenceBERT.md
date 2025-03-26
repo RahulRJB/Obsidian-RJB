@@ -46,4 +46,6 @@ https://www.youtube.com/watch?v=O3xbVmpdJwU&t=950s
 		- ![[Attachments/Pasted image 20240830205626.png]]
 	- Sentence text similarity (STS):
 		- Given 2 sentences, output the rating of how similar they are. Just like natural language inference this is also trained with a siamese network. During training we pass the 2 sentences to compare through different sentence transformers to get these sentence vectors and then we compute the cosine similarity between these sentences to get a number between -1 and +1. These are then compared to an actual labeled similarity rating so this could be on a scale of 1 to 5 which we normalize to be comparable. We minimize the square difference between the two so that the model can be trained.![[Attachments/Pasted image 20240830210022.png]]
+	- Triplet Loss:
+		- ![[Attachments/Pasted image 20250326203231.png]]![[Attachments/Pasted image 20250326203830.png]]
 - ![[Attachments/Pasted image 20240830210447.png]]
