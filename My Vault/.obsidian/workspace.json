@@ -181,30 +181,6 @@
             }
           },
           {
-            "id": "c53dbae21aba7c4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Finetuning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Finetuning"
-            }
-          },
-          {
             "id": "f02b7c184917323a",
             "type": "leaf",
             "state": {
@@ -323,33 +299,9 @@
               "icon": "lucide-file",
               "title": "Agentic RAG"
             }
-          },
-          {
-            "id": "23751ef33bbfe2b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/SentenceBERT.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SentenceBERT"
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -544,18 +496,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "23751ef33bbfe2b2",
+  "active": "1319f21d8c8a4dd9",
   "lastOpenFiles": [
+    "Notes/Matryoshka Loss.md",
+    "Notes/Agentic RAG.md",
+    "Notes/Callbacks.md",
+    "Notes/DL.md",
+    "Notes/CLIP.md",
+    "Tracker/24-03-25.md",
+    "Notes/Finetuning.md",
+    "Notes/Scheduler.md",
+    "Tracker/Projects Details.md",
+    "Notes/Warmup.md",
+    "Notes/SentenceBERT.md",
+    "Notes/LLM Training.md",
     "Attachments/Pasted image 20250326203830.png",
     "Notes/SQL.md",
-    "Notes/SentenceBERT.md",
     "Attachments/Pasted image 20250326203231.png",
     "Notes/Sentence Transformers.md",
     "Notes/LLM Agents.md",
-    "Tracker/Projects Details.md",
-    "Notes/Agentic RAG.md",
     "Notes/Class.md",
-    "Notes/CLIP.md",
     "Notes/ViT.md",
     "Notes/VLM.md",
     "Notes/underfitting.md",
@@ -565,23 +525,15 @@
     "Notes/Bias.md",
     "Notes/NLP - UT Austin.md",
     "Notes/Statistical ML.md",
-    "Notes/Finetuning.md",
     "Notes/Multithreading vs Multiprocessing.md",
     "Attachments/Pasted image 20250324225403.png",
-    "Notes/CPython.md",
     "Attachments/Pasted image 20250324224440.png",
     "Attachments/Pasted image 20250324224351.png",
     "Attachments/Pasted image 20250324224328.png",
     "Attachments/Pasted image 20250324223638.png",
     "Attachments/Pasted image 20250324223456.png",
-    "Notes/Global Interpreter Lock.md",
     "Attachments/Pasted image 20250324222057.png",
-    "Notes/Parallelism.md",
-    "Notes/Concurrency.md",
     "Attachments/Pasted image 20250324221401.png",
-    "Notes/Supervised Finetuning.md",
-    "Notes/Self-supervised Finetuning.md",
-    "Attachments/Pasted image 20240606131617.png",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",

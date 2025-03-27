@@ -14,13 +14,14 @@
 	- We process the documents, create raw, markdown, normalised text from the HTML, get nested URLs, lowercase the audience_tags and create a list.
 	- We create 2 separate indexes, 1 for the title and other for the body(contents) of the documents, chunked(200 words/chunk, no overlap).
 	- We use ada_002 embedding model from OpenAI to embed the title/chunks and then ingest all of these into the 2 diff indexes.
-	- We experimented with all-MiniLM-L6-v2 sentence transformer embedding model.
+	- We experimented with **all-MiniLM-L6-v2 sentence transformer** embedding model.
 		- Got the model from Sagemaker Jumpstart/HuggingFace.
 		- Create the model. Create Sagemaker endpoint configuration. Using the configuration, create Sagemaker endpoint and deploy the model.
 		- We also finetuned this model before deploying it. Used all the queries/response from the pilot available and synthetic data for the finetuning.
 		- For fine-tuning used the Sagemaker hyper-parameter tuner and HyperOpt.
 		- Saved the fine-tuned model in Model Registry.
 		- Recall improved, cost effective and lower latency.
+		- **384dims, MultipleNegativeRankingLoss and Matryoksha Loss; 50 epochs with early stopping**
 	- For the index we used [[HNSW]] from nmslib engine to get the approx. nearest-neighbour. Other Options for ANN were ANNOY, ivf. Other engine options: faiss, lucene. We used cosine_similarity for the distance metrics. Other distance metrics: l2, l1, hamming, inner_product etc.
 	- Delta logic:
 		- The i-exchange documents get updated very frequently(weekly/daily). We can create a new/fresh index everytime, but that would involve downtime in Production, so instead we employ the delta logic.
@@ -485,16 +486,16 @@
 | Persistant           |            |      |          | Dumb interviewer(L1 select)         |         |
 | Morgan Stanley       |            |      |          | L1 select                           |         |
 | LTTS                 |            |      |          | L1 done                             |         |
-| Society Generale     |            |      |          | Inteviewer did not join             |         |
+| Society Generale     |            |      |          | L1 done                             |         |
 | Berribot(Mindsprint) |            |      |          |                                     |         |
 | NTT Data             |            |      |          | 20 March                            |         |
 | Newpage              |            |      | remote   | Coding round failed                 |         |
-| Syncronium           |            |      |          |                                     |         |
+| Syncronium           |            |      |          | L1 select                           |         |
 | Chubb                |            |      |          |                                     |         |
 | Rakuten              |            |      |          |                                     |         |
 | Cybage               |            |      | remote   |                                     |         |
 | Harman               |            |      |          |                                     |         |
-|                      |            |      |          |                                     |         |
+| UST                  |            |      |          |                                     |         |
 
 
 
