@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "Maximum Likelihood",
+      "path": "Notes/Maximum Likelihood.md"
+    },
+    {
       "basename": "Agentic RAG",
       "path": "Notes/Agentic RAG.md"
     },
@@ -79,10 +87,6 @@
     {
       "basename": "Overfitting",
       "path": "Notes/Overfitting.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Variance",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20240608035407",
       "path": "Attachments/Pasted image 20240608035407.png"
-    },
-    {
-      "basename": "Pasted image 20240608033720",
-      "path": "Attachments/Pasted image 20240608033720.png"
     }
   ],
   "omittedPaths": [],

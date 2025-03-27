@@ -301,7 +301,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -325,23 +325,6 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "e152c11bad3d4e50",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
             }
           },
           {
@@ -496,10 +479,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1319f21d8c8a4dd9",
+  "active": "64ec11214a331f60",
   "lastOpenFiles": [
-    "Notes/Matryoshka Loss.md",
+    "Notes/Maximum Likelihood.md",
+    "Tracker/Lists.md",
     "Notes/Agentic RAG.md",
+    "Notes/Matryoshka Loss.md",
     "Notes/Callbacks.md",
     "Notes/DL.md",
     "Notes/CLIP.md",
@@ -520,12 +505,10 @@
     "Notes/VLM.md",
     "Notes/underfitting.md",
     "Notes/Overfitting.md",
-    "Tracker/Lists.md",
     "Notes/Variance.md",
     "Notes/Bias.md",
     "Notes/NLP - UT Austin.md",
     "Notes/Statistical ML.md",
-    "Notes/Multithreading vs Multiprocessing.md",
     "Attachments/Pasted image 20250324225403.png",
     "Attachments/Pasted image 20250324224440.png",
     "Attachments/Pasted image 20250324224351.png",

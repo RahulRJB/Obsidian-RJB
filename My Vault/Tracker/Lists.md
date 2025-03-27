@@ -6,6 +6,7 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Markov chains
 - [ ] Regularization
 - [ ] ViTs
 - [ ] KV cache
@@ -40,12 +41,11 @@ kanban-plugin: []
 - [ ] SQL questions
 - [ ] NLP
 - [ ] Revise Pytorch
-- [ ] Diffusion Models
 - [ ] GAN
 - [ ] AWS Processing Job
 - [ ] AWS Step Functions
 - [ ] JumpStart Models
-- [ ] Amazon Athena
+- [x] Amazon Athena
 - [ ] Deployments of Models
 - [ ] Andrej Karpathy gpt
 - [ ] Eigenvals

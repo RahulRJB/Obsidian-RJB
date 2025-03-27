@@ -7,12 +7,13 @@ DATE:  16-01-25
 
 Tags: [[Statistics]]
 
-# References:  https://www.youtube.com/watch?v=VOIhswqFWVc
+# References:  
 
+https://www.youtube.com/watch?v=VOIhswqFWVc
 
 # Content:
 
-Lets aim to demystify maximum likelihood by building up the logic through a concrete example: predicting students' acceptance into their top-choice medical school.
+Demystifying maximum likelihood by building up the logic through a concrete example: predicting students' acceptance into their top-choice medical school.
 
 **Problem Setup: Binary Classification with Logistic Regression**
 
