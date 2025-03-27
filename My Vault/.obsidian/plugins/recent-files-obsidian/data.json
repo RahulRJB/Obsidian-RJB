@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Gradient Boost",
+      "path": "Notes/Gradient Boost.md"
+    },
+    {
+      "basename": "ROC-AUC",
+      "path": "Notes/ROC-AUC.md"
+    },
+    {
+      "basename": "Byte-Pair Encoding",
+      "path": "Notes/Byte-Pair Encoding.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
     },
@@ -11,14 +27,6 @@
     {
       "basename": "KV cache",
       "path": "Notes/KV cache.md"
-    },
-    {
-      "basename": "Gradient Boost",
-      "path": "Notes/Gradient Boost.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Multi-Head Attention",
@@ -191,14 +199,6 @@
     {
       "basename": "Dreams",
       "path": "Tracker/Dreams.md"
-    },
-    {
-      "basename": "Decoder",
-      "path": "Notes/Decoder.md"
-    },
-    {
-      "basename": "Closures",
-      "path": "Notes/Closures.md"
     }
   ],
   "omittedPaths": [],

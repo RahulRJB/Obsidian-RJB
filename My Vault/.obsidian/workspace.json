@@ -325,7 +325,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -503,13 +503,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a506043e04bace55",
+  "active": "3a17cec9bf3d10c2",
   "lastOpenFiles": [
+    "Notes/ROC-AUC.md",
+    "Notes/Gradient Boost.md",
+    "Notes/Byte-Pair Encoding.md",
+    "Tracker/Lists.md",
+    "Tracker/Projects Details.md",
     "Notes/Agentic RAG.md",
     "Notes/KV cache.md",
-    "Notes/Gradient Boost.md",
-    "Tracker/Projects Details.md",
-    "Tracker/Lists.md",
     "Notes/Multi-Head Attention.md",
     "Notes/Transformers.md",
     "Notes/Cross Attention.md",
@@ -531,8 +533,6 @@
     "Notes/Sentence Transformers.md",
     "Notes/LLM Agents.md",
     "Notes/Class.md",
-    "Notes/ViT.md",
-    "Notes/VLM.md",
     "Attachments/Pasted image 20250324225403.png",
     "Attachments/Pasted image 20250324224440.png",
     "Attachments/Pasted image 20250324224351.png",
