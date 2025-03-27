@@ -299,6 +299,30 @@
               "icon": "lucide-file",
               "title": "Agentic RAG"
             }
+          },
+          {
+            "id": "ce87beacae58cdbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/KV cache.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "KV cache"
+            }
           }
         ],
         "currentTab": 3
@@ -481,9 +505,14 @@
   },
   "active": "64ec11214a331f60",
   "lastOpenFiles": [
-    "Notes/Maximum Likelihood.md",
-    "Tracker/Lists.md",
+    "Notes/KV cache.md",
     "Notes/Agentic RAG.md",
+    "Notes/Multi-Head Attention.md",
+    "Notes/Transformers.md",
+    "Notes/Cross Attention.md",
+    "Tracker/Lists.md",
+    "Notes/Self Attention.md",
+    "Notes/Maximum Likelihood.md",
     "Notes/Matryoshka Loss.md",
     "Notes/Callbacks.md",
     "Notes/DL.md",
@@ -504,11 +533,6 @@
     "Notes/ViT.md",
     "Notes/VLM.md",
     "Notes/underfitting.md",
-    "Notes/Overfitting.md",
-    "Notes/Variance.md",
-    "Notes/Bias.md",
-    "Notes/NLP - UT Austin.md",
-    "Notes/Statistical ML.md",
     "Attachments/Pasted image 20250324225403.png",
     "Attachments/Pasted image 20250324224440.png",
     "Attachments/Pasted image 20250324224351.png",

@@ -5,12 +5,32 @@
       "path": "Tracker/Lists.md"
     },
     {
-      "basename": "Maximum Likelihood",
-      "path": "Notes/Maximum Likelihood.md"
+      "basename": "KV cache",
+      "path": "Notes/KV cache.md"
     },
     {
       "basename": "Agentic RAG",
       "path": "Notes/Agentic RAG.md"
+    },
+    {
+      "basename": "Multi-Head Attention",
+      "path": "Notes/Multi-Head Attention.md"
+    },
+    {
+      "basename": "Transformers",
+      "path": "Notes/Transformers.md"
+    },
+    {
+      "basename": "Cross Attention",
+      "path": "Notes/Cross Attention.md"
+    },
+    {
+      "basename": "Self Attention",
+      "path": "Notes/Self Attention.md"
+    },
+    {
+      "basename": "Maximum Likelihood",
+      "path": "Notes/Maximum Likelihood.md"
     },
     {
       "basename": "Matryoshka Loss",
@@ -179,26 +199,6 @@
     {
       "basename": "12-03-25",
       "path": "Tracker/12-03-25.md"
-    },
-    {
-      "basename": "QLoRA",
-      "path": "Notes/QLoRA.md"
-    },
-    {
-      "basename": "Generators",
-      "path": "Notes/Generators.md"
-    },
-    {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
-    },
-    {
-      "basename": "Pasted image 20240608034514",
-      "path": "Attachments/Pasted image 20240608034514.png"
-    },
-    {
-      "basename": "Pasted image 20240608035407",
-      "path": "Attachments/Pasted image 20240608035407.png"
     }
   ],
   "omittedPaths": [],

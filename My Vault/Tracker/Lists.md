@@ -6,14 +6,14 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Diffusion models
+- [x] KV cache
+- [ ] local vs Global attention
 - [ ] Markov chains
 - [ ] Regularization
 - [ ] ViTs
-- [ ] KV cache
 - [ ] CLIP
-- [ ] local vs Global attention
 - [ ] VLMs
-- [ ] Diffusion models
 - [ ] SigLIP
 - [ ] Asyncio
 - [ ] Segregate all the bookmarks!
