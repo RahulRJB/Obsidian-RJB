@@ -432,7 +432,7 @@
 ## Application:
 
 - Permanent Add:  29/8, Purbachal North, Kalitala Main Road, Preyashi Building, 1st floor
-  Kolkata 700078
+  Kolkata 700078,   Behind Rohini Cooperative Housing Society
 
 - Address:  007, Soumya Sankalp Apartment, Kodigehalli, Kadugodi
   Whitefield, Bengaluru - 560067
