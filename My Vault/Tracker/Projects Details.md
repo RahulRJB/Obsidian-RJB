@@ -488,14 +488,14 @@
 | LTTS                 |            |      |          | L1 done                             |         |
 | Society Generale     |            |      |          | L1 done                             |         |
 | Berribot(Mindsprint) |            |      |          |                                     |         |
-| NTT Data             |            |      |          | 20 March                            |         |
+| NTT Data             |            |      |          | Rejected                            |         |
 | Newpage              |            |      | remote   | Coding round failed                 |         |
 | Syncronium           |            |      |          | L1 select                           |         |
 | Chubb                |            |      |          | L1 reject                           |         |
 | Rakuten              |            |      |          |                                     |         |
 | Cybage               |            |      | remote   |                                     |         |
 | Harman               |            |      |          |                                     |         |
-| UST                  |            |      |          |                                     |         |
+| UST                  |            |      |          | L1 select?                          |         |
 
 
 

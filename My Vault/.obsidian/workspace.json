@@ -323,33 +323,9 @@
               "icon": "lucide-file",
               "title": "Gradient Boost"
             }
-          },
-          {
-            "id": "eeff17b5ec441685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Normalization.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Normalization"
-            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -527,12 +503,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eeff17b5ec441685",
+  "active": "64ec11214a331f60",
   "lastOpenFiles": [
-    "Notes/Standardization.md",
-    "Notes/Normalization.md",
     "Tracker/Projects Details.md",
     "Notes/Gradient Boost.md",
+    "Notes/Normalization.md",
+    "Notes/Standardization.md",
     "Notes/Precision-Recall curve.md",
     "Notes/ROC-AUC.md",
     "Notes/Byte-Pair Encoding.md",

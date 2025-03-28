@@ -6,6 +6,10 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Statistics like Hypothesis testing
+- [ ] Improve
+	- Coding
+	- Infrastructure
 - [ ] Diffusion models
 - [x] KV cache
 - [ ] local vs Global attention
