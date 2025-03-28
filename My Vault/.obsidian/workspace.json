@@ -83,19 +83,24 @@
             "id": "64ec11214a331f60",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tracker/Lists.md",
-                "kanbanViewState": {
-                  "kanban-plugin": [],
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
+                "file": "Tracker/DSA-Leetcode.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Lists"
+              "icon": "lucide-file",
+              "title": "DSA-Leetcode"
             }
           },
           {
@@ -505,6 +510,9 @@
   },
   "active": "64ec11214a331f60",
   "lastOpenFiles": [
+    "Tracker/QUOTES OF THE DAY.md",
+    "Tracker/DSA-Leetcode.md",
+    "Tracker/Lists.md",
     "Tracker/Projects Details.md",
     "Notes/Gradient Boost.md",
     "Notes/Normalization.md",
@@ -512,7 +520,6 @@
     "Notes/Precision-Recall curve.md",
     "Notes/ROC-AUC.md",
     "Notes/Byte-Pair Encoding.md",
-    "Tracker/Lists.md",
     "Notes/Agentic RAG.md",
     "Notes/KV cache.md",
     "Notes/Multi-Head Attention.md",
@@ -529,9 +536,7 @@
     "Notes/Scheduler.md",
     "Notes/Warmup.md",
     "Notes/SentenceBERT.md",
-    "Notes/LLM Training.md",
     "Attachments/Pasted image 20250326203830.png",
-    "Notes/SQL.md",
     "Attachments/Pasted image 20250326203231.png",
     "Attachments/Pasted image 20250324225403.png",
     "Attachments/Pasted image 20250324224440.png",

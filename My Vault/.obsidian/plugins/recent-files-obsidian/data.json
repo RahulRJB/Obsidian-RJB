@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "DSA-Leetcode",
+      "path": "Tracker/DSA-Leetcode.md"
+    },
+    {
+      "basename": "QUOTES OF THE DAY",
+      "path": "Tracker/QUOTES OF THE DAY.md"
+    },
+    {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20240606131617",
       "path": "Attachments/Pasted image 20240606131617.png"
-    },
-    {
-      "basename": "LLMs",
-      "path": "Notes/LLMs.md"
-    },
-    {
-      "basename": "Lets build GPT Tokenizer, Andrej Karpathy",
-      "path": "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md"
     }
   ],
   "omittedPaths": [],
