@@ -480,8 +480,8 @@
 | Jaeggar              |            |      | Hyd      | L1 select (Hyd)                     |         |
 | IT Convergence       |            |      |          | L3 reject (System design interview) |         |
 | Quantiphi            |            |      |          | Not selected(agent, finetune)       |         |
-| Tiger Analytics      |            |      |          | Test                                |         |
-| Publicis Sapient     |            |      |          | Test link expired                   |         |
+| Tiger Analytics      |            |      |          | Test pending                        |         |
+| Publicis Sapient     |            |      |          | Test done                           |         |
 | EXL                  |            |      |          |                                     |         |
 | Persistant           |            |      |          | Dumb interviewer(L1 select)         |         |
 | Morgan Stanley       |            |      |          | L1 select                           |         |
@@ -491,7 +491,7 @@
 | NTT Data             |            |      |          | 20 March                            |         |
 | Newpage              |            |      | remote   | Coding round failed                 |         |
 | Syncronium           |            |      |          | L1 select                           |         |
-| Chubb                |            |      |          |                                     |         |
+| Chubb                |            |      |          | L1 reject                           |         |
 | Rakuten              |            |      |          |                                     |         |
 | Cybage               |            |      | remote   |                                     |         |
 | Harman               |            |      |          |                                     |         |

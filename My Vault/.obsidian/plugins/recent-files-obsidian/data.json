@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
       "basename": "Gradient Boost",
       "path": "Notes/Gradient Boost.md"
+    },
+    {
+      "basename": "Precision-Recall curve",
+      "path": "Notes/Precision-Recall curve.md"
     },
     {
       "basename": "ROC-AUC",
@@ -15,10 +23,6 @@
     {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "Agentic RAG",
@@ -195,10 +199,6 @@
     {
       "basename": "Hugging Face",
       "path": "Notes/Hugging Face.md"
-    },
-    {
-      "basename": "Dreams",
-      "path": "Tracker/Dreams.md"
     }
   ],
   "omittedPaths": [],

@@ -325,7 +325,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -503,10 +503,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3a17cec9bf3d10c2",
+  "active": "a506043e04bace55",
   "lastOpenFiles": [
-    "Notes/ROC-AUC.md",
     "Notes/Gradient Boost.md",
+    "Notes/Precision-Recall curve.md",
+    "Notes/ROC-AUC.md",
     "Notes/Byte-Pair Encoding.md",
     "Tracker/Lists.md",
     "Tracker/Projects Details.md",
@@ -532,7 +533,6 @@
     "Attachments/Pasted image 20250326203231.png",
     "Notes/Sentence Transformers.md",
     "Notes/LLM Agents.md",
-    "Notes/Class.md",
     "Attachments/Pasted image 20250324225403.png",
     "Attachments/Pasted image 20250324224440.png",
     "Attachments/Pasted image 20250324224351.png",
