@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Normalization",
+      "path": "Notes/Normalization.md"
+    },
+    {
+      "basename": "Standardization",
+      "path": "Notes/Standardization.md"
+    },
+    {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Lets build GPT Tokenizer, Andrej Karpathy",
       "path": "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md"
-    },
-    {
-      "basename": "Andrej Karpathy",
-      "path": "Notes/Andrej Karpathy.md"
-    },
-    {
-      "basename": "Hugging Face",
-      "path": "Notes/Hugging Face.md"
     }
   ],
   "omittedPaths": [],
