@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/DSA-Leetcode.md",
+                "file": "Tracker/01-04-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DSA-Leetcode"
+              "title": "01-04-25"
             }
           },
           {
@@ -365,6 +365,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "6ed5462323c82368",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
           }
         ]
       }
@@ -504,14 +521,14 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "remotely-save:Remotely Save": false,
-      "periodic-notes:Open today": false
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "64ec11214a331f60",
   "lastOpenFiles": [
-    "Tracker/QUOTES OF THE DAY.md",
     "Tracker/DSA-Leetcode.md",
+    "Tracker/01-04-25.md",
+    "Tracker/QUOTES OF THE DAY.md",
     "Tracker/Lists.md",
     "Tracker/Projects Details.md",
     "Notes/Gradient Boost.md",
@@ -535,7 +552,6 @@
     "Notes/Finetuning.md",
     "Notes/Scheduler.md",
     "Notes/Warmup.md",
-    "Notes/SentenceBERT.md",
     "Attachments/Pasted image 20250326203830.png",
     "Attachments/Pasted image 20250326203231.png",
     "Attachments/Pasted image 20250324225403.png",

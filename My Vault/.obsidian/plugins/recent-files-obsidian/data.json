@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "01-04-25",
+      "path": "Tracker/01-04-25.md"
+    },
+    {
       "basename": "DSA-Leetcode",
       "path": "Tracker/DSA-Leetcode.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Encoder",
       "path": "Notes/Encoder.md"
-    },
-    {
-      "basename": "Pasted image 20240606131617",
-      "path": "Attachments/Pasted image 20240606131617.png"
     }
   ],
   "omittedPaths": [],
