@@ -491,9 +491,10 @@
 | NTT Data             |            |      |          | Rejected                            |         |
 | Newpage              |            |      | remote   | Coding round failed                 |         |
 | Syncronium           |            |      |          | L1 select                           |         |
-| Chubb                |            |      |          | L1 reject                           |         |
-| Rakuten              |            |      |          |                                     |         |
-| Cybage               |            |      | remote   |                                     |         |
+| Chubb                |            |      |          | L1 select                           |         |
+| Impetus              |            |      |          |                                     |         |
+|                      |            |      |          |                                     |         |
+|                      |            |      |          |                                     |         |
 | Harman               |            |      |          |                                     |         |
 | UST                  |            |      |          | L1 select?                          |         |
 
