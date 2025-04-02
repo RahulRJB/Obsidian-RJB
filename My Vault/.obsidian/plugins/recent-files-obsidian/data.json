@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "02-04-25",
+      "path": "Tracker/02-04-25.md"
+    },
+    {
+      "basename": "Dreams",
+      "path": "Tracker/Dreams.md"
+    },
+    {
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
       "basename": "Gradient Boost",
       "path": "Notes/Gradient Boost.md"
     },
     {
       "basename": "GBTs",
       "path": "Notes/GBTs.md"
+    },
+    {
+      "basename": "24-03-25",
+      "path": "Tracker/24-03-25.md"
     },
     {
       "basename": "DSA-Leetcode",
@@ -29,16 +53,8 @@
       "path": "Notes/Llama.cpp.md"
     },
     {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
-    },
-    {
       "basename": "QUOTES OF THE DAY",
       "path": "Tracker/QUOTES OF THE DAY.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Normalization",
@@ -99,10 +115,6 @@
     {
       "basename": "CLIP",
       "path": "Notes/CLIP.md"
-    },
-    {
-      "basename": "24-03-25",
-      "path": "Tracker/24-03-25.md"
     },
     {
       "basename": "Finetuning",
@@ -187,18 +199,6 @@
     {
       "basename": "Parallelism",
       "path": "Notes/Parallelism.md"
-    },
-    {
-      "basename": "Concurrency",
-      "path": "Notes/Concurrency.md"
-    },
-    {
-      "basename": "Supervised Finetuning",
-      "path": "Notes/Supervised Finetuning.md"
-    },
-    {
-      "basename": "Self-supervised Finetuning",
-      "path": "Notes/Self-supervised Finetuning.md"
     }
   ],
   "omittedPaths": [],
