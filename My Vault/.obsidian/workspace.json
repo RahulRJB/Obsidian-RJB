@@ -330,7 +330,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -525,20 +525,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a506043e04bace55",
+  "active": "3a17cec9bf3d10c2",
   "lastOpenFiles": [
+    "Notes/Agentic RAG.md",
     "Tracker/DSA-Leetcode.md",
+    "Notes/Llama.cpp.md",
+    "Tracker/Projects Details.md",
     "Tracker/01-04-25.md",
     "Tracker/QUOTES OF THE DAY.md",
     "Tracker/Lists.md",
-    "Tracker/Projects Details.md",
     "Notes/Gradient Boost.md",
     "Notes/Normalization.md",
     "Notes/Standardization.md",
     "Notes/Precision-Recall curve.md",
     "Notes/ROC-AUC.md",
     "Notes/Byte-Pair Encoding.md",
-    "Notes/Agentic RAG.md",
     "Notes/KV cache.md",
     "Notes/Multi-Head Attention.md",
     "Notes/Transformers.md",
@@ -552,7 +553,6 @@
     "Tracker/24-03-25.md",
     "Notes/Finetuning.md",
     "Notes/Scheduler.md",
-    "Notes/Warmup.md",
     "Attachments/Pasted image 20250326203830.png",
     "Attachments/Pasted image 20250326203231.png",
     "Attachments/Pasted image 20250324225403.png",

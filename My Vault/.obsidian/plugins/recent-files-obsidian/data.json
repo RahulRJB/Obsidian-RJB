@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
+      "basename": "Gradient Boost",
+      "path": "Notes/Gradient Boost.md"
+    },
+    {
+      "basename": "Agentic RAG",
+      "path": "Notes/Agentic RAG.md"
     },
     {
       "basename": "DSA-Leetcode",
       "path": "Tracker/DSA-Leetcode.md"
+    },
+    {
+      "basename": "Llama.cpp",
+      "path": "Notes/Llama.cpp.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "01-04-25",
@@ -19,10 +31,6 @@
     {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
-    },
-    {
-      "basename": "Gradient Boost",
-      "path": "Notes/Gradient Boost.md"
     },
     {
       "basename": "Normalization",
@@ -43,10 +51,6 @@
     {
       "basename": "Byte-Pair Encoding",
       "path": "Notes/Byte-Pair Encoding.md"
-    },
-    {
-      "basename": "Agentic RAG",
-      "path": "Notes/Agentic RAG.md"
     },
     {
       "basename": "KV cache",
@@ -195,10 +199,6 @@
     {
       "basename": "Decorators",
       "path": "Notes/Decorators.md"
-    },
-    {
-      "basename": "Encoder",
-      "path": "Notes/Encoder.md"
     }
   ],
   "omittedPaths": [],
