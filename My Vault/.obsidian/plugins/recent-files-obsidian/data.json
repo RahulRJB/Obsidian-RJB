@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
       "basename": "Agentic RAG",
       "path": "Notes/Agentic RAG.md"
+    },
+    {
+      "basename": "Rate Limit",
+      "path": "Notes/Rate Limit.md"
     },
     {
       "basename": "LLM hyperparameters",
@@ -19,10 +27,6 @@
     {
       "basename": "Gradient Boost",
       "path": "Notes/Gradient Boost.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "02-04-25",
@@ -195,10 +199,6 @@
     {
       "basename": "Multithreading vs Multiprocessing",
       "path": "Notes/Multithreading vs Multiprocessing.md"
-    },
-    {
-      "basename": "CPython",
-      "path": "Notes/CPython.md"
     }
   ],
   "omittedPaths": [],

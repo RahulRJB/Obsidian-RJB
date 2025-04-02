@@ -301,7 +301,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -496,14 +496,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1319f21d8c8a4dd9",
+  "active": "793781750b5ccde7",
   "lastOpenFiles": [
+    "Notes/Agentic RAG.md",
+    "Notes/Rate Limit.md",
+    "Tracker/Lists.md",
     "Notes/LLM hyperparameters.md",
     "Notes/hyperparameters.md",
-    "Notes/Agentic RAG.md",
     "Notes/GBTs.md",
     "Notes/Gradient Boost.md",
-    "Tracker/Lists.md",
     "Tracker/02-04-25.md",
     "Tracker/Dreams.md",
     "Tracker/GOALS 2025.md",
@@ -527,7 +528,6 @@
     "Notes/Transformers.md",
     "Notes/Cross Attention.md",
     "Notes/Self Attention.md",
-    "Notes/Maximum Likelihood.md",
     "Attachments/Pasted image 20250326203830.png",
     "Attachments/Pasted image 20250326203231.png",
     "Attachments/Pasted image 20250324225403.png",

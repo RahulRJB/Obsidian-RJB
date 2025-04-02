@@ -6,6 +6,7 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Table
 - [ ] Statistics like Hypothesis testing
 - [ ] Improve
 	- Coding
