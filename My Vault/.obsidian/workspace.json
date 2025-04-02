@@ -301,7 +301,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -464,8 +464,19 @@
               "icon": "lucide-list",
               "title": "Outline of Projects Details"
             }
+          },
+          {
+            "id": "e1ccfae62387996e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -489,18 +500,20 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "793781750b5ccde7",
+  "active": "1319f21d8c8a4dd9",
   "lastOpenFiles": [
     "Notes/Agentic RAG.md",
-    "Notes/Rate Limit.md",
+    "Notes/Decorators.md",
+    "Tracker/Projects Details.md",
     "Tracker/Lists.md",
+    "Notes/Rate Limit.md",
     "Notes/LLM hyperparameters.md",
     "Notes/hyperparameters.md",
     "Notes/GBTs.md",
@@ -508,7 +521,6 @@
     "Tracker/02-04-25.md",
     "Tracker/Dreams.md",
     "Tracker/GOALS 2025.md",
-    "Tracker/Projects Details.md",
     "Tracker/24-03-25.md",
     "Tracker/DSA-Leetcode.md",
     "Tracker/01-04-25.md",
@@ -527,7 +539,6 @@
     "Notes/Multi-Head Attention.md",
     "Notes/Transformers.md",
     "Notes/Cross Attention.md",
-    "Notes/Self Attention.md",
     "Attachments/Pasted image 20250326203830.png",
     "Attachments/Pasted image 20250326203231.png",
     "Attachments/Pasted image 20250324225403.png",

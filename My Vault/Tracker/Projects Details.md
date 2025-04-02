@@ -472,7 +472,7 @@
 | John Deere           | GenAI      | 26   | MG Road  | <center>**Selected**</center>       | Priti   |
 | Rocket Softwares     |            |      |          | Finish mail questions               |         |
 | Hurmonics Global     |            | 30   |          | L1 reject! <sob  sob>               |         |
-| Maaze(Chandigarh)    |            |      |          | L2 vanish                           |         |
+| Maaze(Chandigarh)    |            |      |          | L1 Select; L2 dropped               |         |
 | HCLTech              |            | 28.5 |          | **Selected**                        |         |
 | Deloitte             |            | 31   |          | **Selected**                        | Venu    |
 | EPAM                 |            |      |          | L2 reject                           |         |
@@ -481,22 +481,22 @@
 | IT Convergence       |            |      |          | L3 reject (System design interview) |         |
 | Quantiphi            |            |      |          | Not selected(agent, finetune)       |         |
 | Tiger Analytics      |            |      |          | Test pending                        |         |
-| Publicis Sapient     |            |      |          | Test done                           |         |
+| Publicis Sapient     |            |      |          | Test pending                        |         |
 | EXL                  |            |      |          |                                     |         |
-| Persistant           |            |      |          | Dumb interviewer(L1 select)         |         |
+| Persistant           |            |      |          | L1 select                           |         |
 | Morgan Stanley       |            |      |          | L3 select?                          |         |
 | LTTS                 |            |      |          | L1 done                             |         |
 | Society Generale     |            |      |          | L1 done                             |         |
 | Berribot(Mindsprint) |            |      |          |                                     |         |
 | NTT Data             |            |      |          | Rejected                            |         |
 | Newpage              |            |      | remote   | Coding round failed                 |         |
-| Syncronium           |            |      |          | L1 select                           |         |
+| Syncronium           |            | 33   |          | **Selected**                        | Mounika |
 | Chubb                |            |      |          | L1 select                           |         |
-| Impetus              |            |      |          |                                     |         |
+| Impetus              |            |      |          | L1 reject, LOL                      |         |
 |                      |            |      |          |                                     |         |
 |                      |            |      |          |                                     |         |
 | Harman               |            |      |          |                                     |         |
-| UST                  |            |      |          | L1 select                           |         |
+| UST                  |            |      |          | L1 select; L2 dropped               |         |
 
 
 
