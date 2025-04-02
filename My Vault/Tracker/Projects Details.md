@@ -484,7 +484,7 @@
 | Publicis Sapient     |            |      |          | Test done                           |         |
 | EXL                  |            |      |          |                                     |         |
 | Persistant           |            |      |          | Dumb interviewer(L1 select)         |         |
-| Morgan Stanley       |            |      |          | L1 select                           |         |
+| Morgan Stanley       |            |      |          | L3 select?                          |         |
 | LTTS                 |            |      |          | L1 done                             |         |
 | Society Generale     |            |      |          | L1 done                             |         |
 | Berribot(Mindsprint) |            |      |          |                                     |         |
@@ -496,7 +496,7 @@
 |                      |            |      |          |                                     |         |
 |                      |            |      |          |                                     |         |
 | Harman               |            |      |          |                                     |         |
-| UST                  |            |      |          | L1 select?                          |         |
+| UST                  |            |      |          | L1 select                           |         |
 
 
 
