@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Agentic RAG",
+      "path": "Notes/Agentic RAG.md"
+    },
+    {
+      "basename": "LLM hyperparameters",
+      "path": "Notes/LLM hyperparameters.md"
+    },
+    {
+      "basename": "hyperparameters",
+      "path": "Notes/hyperparameters.md"
+    },
+    {
+      "basename": "GBTs",
+      "path": "Notes/GBTs.md"
+    },
+    {
+      "basename": "Gradient Boost",
+      "path": "Notes/Gradient Boost.md"
+    },
+    {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
@@ -21,14 +41,6 @@
       "path": "Tracker/Projects Details.md"
     },
     {
-      "basename": "Gradient Boost",
-      "path": "Notes/Gradient Boost.md"
-    },
-    {
-      "basename": "GBTs",
-      "path": "Notes/GBTs.md"
-    },
-    {
       "basename": "24-03-25",
       "path": "Tracker/24-03-25.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "01-04-25",
       "path": "Tracker/01-04-25.md"
-    },
-    {
-      "basename": "Agentic RAG",
-      "path": "Notes/Agentic RAG.md"
     },
     {
       "basename": "seg-10",
@@ -191,14 +199,6 @@
     {
       "basename": "CPython",
       "path": "Notes/CPython.md"
-    },
-    {
-      "basename": "Global Interpreter Lock",
-      "path": "Notes/Global Interpreter Lock.md"
-    },
-    {
-      "basename": "Parallelism",
-      "path": "Notes/Parallelism.md"
     }
   ],
   "omittedPaths": [],

@@ -299,33 +299,9 @@
               "icon": "lucide-file",
               "title": "Agentic RAG"
             }
-          },
-          {
-            "id": "64ec11214a331f60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Gradient Boost.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gradient Boost"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -520,25 +496,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "86b01602b1c1be4d",
+  "active": "1319f21d8c8a4dd9",
   "lastOpenFiles": [
+    "Notes/LLM hyperparameters.md",
+    "Notes/hyperparameters.md",
+    "Notes/Agentic RAG.md",
+    "Notes/GBTs.md",
+    "Notes/Gradient Boost.md",
+    "Tracker/Lists.md",
     "Tracker/02-04-25.md",
     "Tracker/Dreams.md",
     "Tracker/GOALS 2025.md",
     "Tracker/Projects Details.md",
-    "Notes/Gradient Boost.md",
-    "Notes/GBTs.md",
     "Tracker/24-03-25.md",
     "Tracker/DSA-Leetcode.md",
     "Tracker/01-04-25.md",
-    "Notes/Agentic RAG.md",
     "Attachments/seg-10.pdf",
     "Attachments/Recording 20250402162601.webm",
     "Attachments/Recording 20250402163008.webm",
     "Attachments/Recording 20250402162153.webm",
     "Notes/Llama.cpp.md",
     "Tracker/QUOTES OF THE DAY.md",
-    "Tracker/Lists.md",
     "Notes/Normalization.md",
     "Notes/Standardization.md",
     "Notes/Precision-Recall curve.md",
@@ -550,8 +528,6 @@
     "Notes/Cross Attention.md",
     "Notes/Self Attention.md",
     "Notes/Maximum Likelihood.md",
-    "Notes/Matryoshka Loss.md",
-    "Notes/Callbacks.md",
     "Attachments/Pasted image 20250326203830.png",
     "Attachments/Pasted image 20250326203231.png",
     "Attachments/Pasted image 20250324225403.png",
