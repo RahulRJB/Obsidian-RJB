@@ -301,7 +301,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -507,13 +507,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0463d612c2a20098",
+  "active": "a506043e04bace55",
   "lastOpenFiles": [
+    "Tracker/Lists.md",
     "Notes/Markov Chains.md",
     "Notes/RoPE.md",
     "Notes/Positional Embedding.md",
     "Notes/Embedding.md",
-    "Tracker/Lists.md",
     "Notes/Warmup.md",
     "Notes/VLM.md",
     "Notes/LLM Agents.md",

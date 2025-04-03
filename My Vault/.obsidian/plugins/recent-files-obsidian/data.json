@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
       "basename": "Markov Chains",
       "path": "Notes/Markov Chains.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Embedding",
       "path": "Notes/Embedding.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Warmup",
@@ -47,10 +51,6 @@
     {
       "basename": "Decorators",
       "path": "Notes/Decorators.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "Rate Limit",

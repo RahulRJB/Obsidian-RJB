@@ -485,7 +485,7 @@
 | EXL                  |            |      |          |                                     |         |
 | Persistant           |            |      |          | L1 select                           |         |
 | Morgan Stanley       |            |      |          | L3 select?                          |         |
-| LTTS                 |            |      |          | L1 done                             |         |
+| LTTS                 |            |      |          | L1 select                           |         |
 | Society Generale     |            |      |          | L1 done                             |         |
 | Berribot(Mindsprint) |            |      |          |                                     |         |
 | NTT Data             |            |      |          | Rejected                            |         |
