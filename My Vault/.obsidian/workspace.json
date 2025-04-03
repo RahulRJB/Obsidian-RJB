@@ -232,10 +232,24 @@
             "id": "f873fa2138344191",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/ViLBERT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ViLBERT"
             }
           }
         ],
@@ -447,6 +461,7 @@
   },
   "active": "f873fa2138344191",
   "lastOpenFiles": [
+    "Notes/ViLBERT.md",
     "Tracker/02-04-25.md",
     "Notes/ViT.md",
     "Notes/CLIP.md",
@@ -474,7 +489,6 @@
     "Notes/Grouped-Query Attention.md",
     "Notes/Markov Chains.md",
     "Notes/RoPE.md",
-    "Notes/Positional Embedding.md",
     "Attachments/seg-10.pdf",
     "Attachments/Recording 20250402162601.webm",
     "Attachments/Recording 20250402163008.webm",

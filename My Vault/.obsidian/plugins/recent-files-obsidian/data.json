@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ViLBERT",
+      "path": "Notes/ViLBERT.md"
+    },
+    {
       "basename": "02-04-25",
       "path": "Tracker/02-04-25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ROC-AUC",
       "path": "Notes/ROC-AUC.md"
-    },
-    {
-      "basename": "Byte-Pair Encoding",
-      "path": "Notes/Byte-Pair Encoding.md"
     }
   ],
   "omittedPaths": [],
