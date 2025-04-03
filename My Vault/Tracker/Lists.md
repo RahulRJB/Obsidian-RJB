@@ -6,9 +6,7 @@ kanban-plugin: []
 
 ## TO study
 
-- [ ] Diffusion models
-- [ ] CLIP
-- [ ] ViTs
+- [x] Diffusion models
 - [ ] VLMs
 - [ ] SigLIP
 - [ ] Statistics like Hypothesis testing

@@ -5,20 +5,32 @@
       "path": "Notes/ViLBERT.md"
     },
     {
-      "basename": "02-04-25",
-      "path": "Tracker/02-04-25.md"
+      "basename": "Generators",
+      "path": "Notes/Generators.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "Diffusion Models",
+      "path": "Notes/Diffusion Models.md"
+    },
+    {
+      "basename": "VLM",
+      "path": "Notes/VLM.md"
     },
     {
       "basename": "ViT",
       "path": "Notes/ViT.md"
     },
     {
-      "basename": "CLIP",
-      "path": "Notes/CLIP.md"
+      "basename": "02-04-25",
+      "path": "Tracker/02-04-25.md"
     },
     {
-      "basename": "Diffusion Models",
-      "path": "Notes/Diffusion Models.md"
+      "basename": "CLIP",
+      "path": "Notes/CLIP.md"
     },
     {
       "basename": "SentenceBERT",
@@ -31,10 +43,6 @@
     {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Partial Dependency Plot (pdp)",
@@ -75,10 +83,6 @@
     {
       "basename": "Generative AI",
       "path": "Notes/Generative AI.md"
-    },
-    {
-      "basename": "VLM",
-      "path": "Notes/VLM.md"
     },
     {
       "basename": "Overfitting",
@@ -195,10 +199,6 @@
     {
       "basename": "Precision-Recall curve",
       "path": "Notes/Precision-Recall curve.md"
-    },
-    {
-      "basename": "ROC-AUC",
-      "path": "Notes/ROC-AUC.md"
     }
   ],
   "omittedPaths": [],

@@ -10,7 +10,7 @@ Tags: [[Notes/Transformers|Transformers]]  [[CNN]]
 # References:
 
 https://www.youtube.com/watch?v=DVoHvmww2lQ
-
+https://www.youtube.com/watch?v=j3VNqtJUoz0&list=WL&index=92
 
 # Content:
 
