@@ -5,10 +5,8 @@
 DATE:  24-01-25
 
 
-Tags:
-
-# References: [[Notes/SentenceBERT|SentenceBERT]]
-
+Tags: [[Notes/SentenceBERT|SentenceBERT]]  [[Notes/BERT|BERT]]
+# References: 
 
 
 

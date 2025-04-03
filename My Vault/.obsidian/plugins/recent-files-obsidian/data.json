@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "02-04-25",
+      "path": "Tracker/02-04-25.md"
+    },
+    {
       "basename": "ViT",
       "path": "Notes/ViT.md"
     },
@@ -13,8 +17,20 @@
       "path": "Notes/Diffusion Models.md"
     },
     {
+      "basename": "SentenceBERT",
+      "path": "Notes/SentenceBERT.md"
+    },
+    {
+      "basename": "Sentence Transformers",
+      "path": "Notes/Sentence Transformers.md"
+    },
+    {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Partial Dependency Plot (pdp)",
@@ -47,10 +63,6 @@
     {
       "basename": "VIF",
       "path": "Notes/VIF.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "LLMs",
@@ -137,10 +149,6 @@
       "path": "Notes/Gradient Boost.md"
     },
     {
-      "basename": "02-04-25",
-      "path": "Tracker/02-04-25.md"
-    },
-    {
       "basename": "Dreams",
       "path": "Tracker/Dreams.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Byte-Pair Encoding",
       "path": "Notes/Byte-Pair Encoding.md"
-    },
-    {
-      "basename": "KV cache",
-      "path": "Notes/KV cache.md"
-    },
-    {
-      "basename": "Multi-Head Attention",
-      "path": "Notes/Multi-Head Attention.md"
     }
   ],
   "omittedPaths": [],
