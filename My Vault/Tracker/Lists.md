@@ -11,8 +11,6 @@ kanban-plugin: []
 	- Coding
 	- Infrastructure
 - [ ] Diffusion models
-- [x] KV cache
-- [ ] local vs Global attention
 - [ ] Markov chains
 - [ ] Regularization
 - [ ] ViTs
@@ -28,7 +26,6 @@ kanban-plugin: []
 - [ ] Application take 10mins to run a data input and multiple users are using it. Best way to go abut it
 - [ ] Creating an embedding model
 - [ ] Deployment
-- [ ] Testings strategies, A/B etc
 - [ ] Agents
 - [ ] AWS
 - [ ] Langchain
@@ -49,7 +46,6 @@ kanban-plugin: []
 - [ ] AWS Processing Job
 - [ ] AWS Step Functions
 - [ ] JumpStart Models
-- [x] Amazon Athena
 - [ ] Deployments of Models
 - [ ] Andrej Karpathy gpt
 - [ ] Eigenvals

@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Markov Chains",
+      "path": "Notes/Markov Chains.md"
+    },
+    {
+      "basename": "RoPE",
+      "path": "Notes/RoPE.md"
+    },
+    {
+      "basename": "Positional Embedding",
+      "path": "Notes/Positional Embedding.md"
+    },
+    {
+      "basename": "Embedding",
+      "path": "Notes/Embedding.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "Warmup",
+      "path": "Notes/Warmup.md"
+    },
+    {
+      "basename": "VLM",
+      "path": "Notes/VLM.md"
+    },
+    {
+      "basename": "LLM Agents",
+      "path": "Notes/LLM Agents.md"
+    },
+    {
       "basename": "Agentic RAG",
       "path": "Notes/Agentic RAG.md"
+    },
+    {
+      "basename": "Global-Local Attention",
+      "path": "Notes/Global-Local Attention.md"
+    },
+    {
+      "basename": "Grouped-Query Attention",
+      "path": "Notes/Grouped-Query Attention.md"
     },
     {
       "basename": "Decorators",
@@ -11,10 +51,6 @@
     {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Rate Limit",
@@ -141,10 +177,6 @@
       "path": "Notes/Scheduler.md"
     },
     {
-      "basename": "Warmup",
-      "path": "Notes/Warmup.md"
-    },
-    {
       "basename": "SentenceBERT",
       "path": "Notes/SentenceBERT.md"
     },
@@ -161,44 +193,12 @@
       "path": "Notes/Sentence Transformers.md"
     },
     {
-      "basename": "LLM Agents",
-      "path": "Notes/LLM Agents.md"
-    },
-    {
       "basename": "Class",
       "path": "Notes/Class.md"
     },
     {
       "basename": "ViT",
       "path": "Notes/ViT.md"
-    },
-    {
-      "basename": "VLM",
-      "path": "Notes/VLM.md"
-    },
-    {
-      "basename": "underfitting",
-      "path": "Notes/underfitting.md"
-    },
-    {
-      "basename": "Overfitting",
-      "path": "Notes/Overfitting.md"
-    },
-    {
-      "basename": "Variance",
-      "path": "Notes/Variance.md"
-    },
-    {
-      "basename": "Bias",
-      "path": "Notes/Bias.md"
-    },
-    {
-      "basename": "NLP - UT Austin",
-      "path": "Notes/NLP - UT Austin.md"
-    },
-    {
-      "basename": "Statistical ML",
-      "path": "Notes/Statistical ML.md"
     }
   ],
   "omittedPaths": [],

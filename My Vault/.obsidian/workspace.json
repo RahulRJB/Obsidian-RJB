@@ -253,12 +253,12 @@
             }
           },
           {
-            "id": "de3d28d6a65c8f61",
+            "id": "af1658def8587556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/LLM Agents.md",
+                "file": "Notes/RoPE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -273,16 +273,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LLM Agents"
+              "title": "RoPE"
             }
           },
           {
-            "id": "1319f21d8c8a4dd9",
+            "id": "0463d612c2a20098",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Agentic RAG.md",
+                "file": "Notes/Markov Chains.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -297,7 +297,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Agentic RAG"
+              "title": "Markov Chains"
             }
           }
         ],
@@ -507,12 +507,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1319f21d8c8a4dd9",
+  "active": "0463d612c2a20098",
   "lastOpenFiles": [
+    "Notes/Markov Chains.md",
+    "Notes/RoPE.md",
+    "Notes/Positional Embedding.md",
+    "Notes/Embedding.md",
+    "Tracker/Lists.md",
+    "Notes/Warmup.md",
+    "Notes/VLM.md",
+    "Notes/LLM Agents.md",
     "Notes/Agentic RAG.md",
+    "Notes/Global-Local Attention.md",
+    "Notes/Grouped-Query Attention.md",
     "Notes/Decorators.md",
     "Tracker/Projects Details.md",
-    "Tracker/Lists.md",
     "Notes/Rate Limit.md",
     "Notes/LLM hyperparameters.md",
     "Notes/hyperparameters.md",
@@ -530,15 +539,6 @@
     "Attachments/Recording 20250402162153.webm",
     "Notes/Llama.cpp.md",
     "Tracker/QUOTES OF THE DAY.md",
-    "Notes/Normalization.md",
-    "Notes/Standardization.md",
-    "Notes/Precision-Recall curve.md",
-    "Notes/ROC-AUC.md",
-    "Notes/Byte-Pair Encoding.md",
-    "Notes/KV cache.md",
-    "Notes/Multi-Head Attention.md",
-    "Notes/Transformers.md",
-    "Notes/Cross Attention.md",
     "Attachments/Pasted image 20250326203830.png",
     "Attachments/Pasted image 20250326203231.png",
     "Attachments/Pasted image 20250324225403.png",
