@@ -253,12 +253,12 @@
             }
           },
           {
-            "id": "af1658def8587556",
+            "id": "dcb608c799661732",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/RoPE.md",
+                "file": "Notes/Diffusion Models.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -273,35 +273,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "RoPE"
-            }
-          },
-          {
-            "id": "0463d612c2a20098",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Markov Chains.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Markov Chains"
+              "title": "Diffusion Models"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -507,38 +483,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a506043e04bace55",
+  "active": "62c45850634ee750",
   "lastOpenFiles": [
+    "Notes/CLIP.md",
+    "Attachments/Pasted image 20250403154801.png",
+    "Attachments/Pasted image 20250403154533.png",
+    "Notes/ViT.md",
+    "Notes/Diffusion Models.md",
+    "Tracker/Projects Details.md",
+    "Notes/Partial Dependency Plot (pdp).md",
+    "Notes/RAG.md",
+    "Notes/SHAPRFECV.md",
+    "Notes/SHAP.md",
+    "Notes/Stacking.md",
+    "Notes/Information Value(IV).md",
+    "Notes/WOE.md",
+    "Notes/VIF.md",
     "Tracker/Lists.md",
+    "Notes/LLMs.md",
+    "Notes/Generative AI.md",
+    "Notes/VLM.md",
+    "Notes/Overfitting.md",
+    "Notes/Variance.md",
+    "Notes/Bias.md",
+    "Notes/Grouped-Query Attention.md",
     "Notes/Markov Chains.md",
     "Notes/RoPE.md",
     "Notes/Positional Embedding.md",
     "Notes/Embedding.md",
     "Notes/Warmup.md",
-    "Notes/VLM.md",
-    "Notes/LLM Agents.md",
-    "Notes/Agentic RAG.md",
-    "Notes/Global-Local Attention.md",
-    "Notes/Grouped-Query Attention.md",
-    "Notes/Decorators.md",
-    "Tracker/Projects Details.md",
-    "Notes/Rate Limit.md",
-    "Notes/LLM hyperparameters.md",
-    "Notes/hyperparameters.md",
-    "Notes/GBTs.md",
-    "Notes/Gradient Boost.md",
-    "Tracker/02-04-25.md",
-    "Tracker/Dreams.md",
-    "Tracker/GOALS 2025.md",
-    "Tracker/24-03-25.md",
-    "Tracker/DSA-Leetcode.md",
-    "Tracker/01-04-25.md",
     "Attachments/seg-10.pdf",
     "Attachments/Recording 20250402162601.webm",
     "Attachments/Recording 20250402163008.webm",
     "Attachments/Recording 20250402162153.webm",
-    "Notes/Llama.cpp.md",
-    "Tracker/QUOTES OF THE DAY.md",
     "Attachments/Pasted image 20250326203830.png",
     "Attachments/Pasted image 20250326203231.png",
     "Attachments/Pasted image 20250324225403.png",
@@ -547,8 +524,6 @@
     "Attachments/Pasted image 20250324224328.png",
     "Attachments/Pasted image 20250324223638.png",
     "Attachments/Pasted image 20250324223456.png",
-    "Attachments/Pasted image 20250324222057.png",
-    "Attachments/Pasted image 20250324221401.png",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",

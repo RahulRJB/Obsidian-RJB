@@ -149,7 +149,7 @@
 		- Out-of-time validation: Testing on newer data to check for concept drift
 	- Model Interpretability Tests:
 		- SHAP values: To explain feature importance
-		- Partial Dependence Plots: Show relationship between features and decumulation probability
+		- [[Notes/Partial Dependency Plot (pdp)|Partial Dependency Plot (pdp)]]: Show relationship between features and decumulation probability
 		- Feature Importance Rankings: From XGBoost
 	- We also performed segmented Performance Metrics:
 		- Model accuracy across different age bands (e.g., 55-60, 60-65, 65+)
@@ -288,7 +288,7 @@
 		- [[SHAPRFECV]] (16 feats)
 	- ##### Modelling:
 		- All the cont variables were binned using optbinning to make a all cat variable dataset
-		- We tried out both LightGBM and RandomForest, and also tried to use stacking on these 2 models. Optuna was used to finetune the models
+		- We tried out both LightGBM and RandomForest, and also tried to use [[Notes/Stacking|stacking]] on these 2 models. Optuna was used to finetune the models
 		- The data was from 2019, was divided in train, test and validation sets. 
 		- 5 fold Cross-validation was done to prevent overfitting
 		- We also had data from Sept-Nov 2021 as out-of-time test set
@@ -493,8 +493,8 @@
 | Syncronium           |            | 33   |          | **Selected**                        | Mounika |
 | Chubb                |            |      |          | L1 select                           |         |
 | Impetus              |            |      |          | L1 reject, LOL                      |         |
-|                      |            |      |          |                                     |         |
-|                      |            |      |          |                                     |         |
+| Grid Dynamics        |            |      |          |                                     |         |
+| Rakuten              |            |      |          |                                     |         |
 | Harman               |            |      |          |                                     |         |
 | UST                  |            |      |          | L1 select; L2 dropped               |         |
 

@@ -6,27 +6,25 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Diffusion models
+- [ ] CLIP
+- [ ] ViTs
+- [ ] VLMs
+- [ ] SigLIP
 - [ ] Statistics like Hypothesis testing
+- [ ] Asyncio
 - [ ] Improve
 	- Coding
 	- Infrastructure
-- [ ] Diffusion models
-- [ ] Markov chains
 - [ ] Regularization
-- [ ] ViTs
-- [ ] CLIP
-- [ ] VLMs
-- [ ] SigLIP
-- [ ] Asyncio
+- [ ] Agents
 - [ ] Segregate all the bookmarks!
 - [ ] Explainable AI
 - [ ] COT
 - [ ] Kubernetes
 - [ ] Containerization
 - [ ] Application take 10mins to run a data input and multiple users are using it. Best way to go abut it
-- [ ] Creating an embedding model
 - [ ] Deployment
-- [ ] Agents
 - [ ] AWS
 - [ ] Langchain
 - [ ] Profiler for code bottleneck?

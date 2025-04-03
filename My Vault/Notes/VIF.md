@@ -5,10 +5,9 @@
 DATE:  13-12-24
 
 
-Tags:
+Tags:  [[Notes/Statistical ML|Statistical ML]]
 
 # References:
-
 
 
 

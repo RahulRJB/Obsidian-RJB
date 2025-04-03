@@ -5,11 +5,9 @@
 DATE:  29-12-24
 
 
-Tags: [[Ensemble]]
+Tags: [[Ensemble]] [[Notes/Statistical ML|Statistical ML]] [[Notes/Blending|Blending]]
 
-# References:
-
-
+# References: 
 
 
 # Content:

@@ -14,7 +14,7 @@ Tags: [[Notes/Feature Selection|Feature Selection]]
 
 # Content:
 
-This is a more advanced technique that combines SHAP (SHapley Additive exPlanations) values with RFECV (Recursive Feature Elimination with Cross-Validation) to provide a powerful and insightful approach to feature selection.
+This is a more advanced technique that combines [[SHAP]] (SHapley Additive exPlanations) values with RFECV (Recursive Feature Elimination with Cross-Validation) to provide a powerful and insightful approach to feature selection.
 
 **Understanding the Components**
 

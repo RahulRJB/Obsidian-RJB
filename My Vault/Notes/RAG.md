@@ -61,7 +61,7 @@ https://github.com/RahulRJB/RAG-from-scratch
 
 - ### RAG_Fusion: ^4d4660
 	
-	- RAG fusion aspires to bridge the gap between what uses explicitly asked and what they intend to ask.
+	- RAG fusion aspires to bridge the gap between what users explicitly asked and what they intend to ask.
 	- We apply a ranking step to our retrieved documents which we call reciprocal rank Fusion. That's really the only difference. The input stage of taking a question breaking it out into a few kind of differently worded questions remains the same.
 	- ![[Attachments/Pasted image 20240622015308.png]]![[Attachments/Pasted image 20240622015413.png]]![[Attachments/Pasted image 20240622015707.png]]
 	- This is convenient particularly when we're operating across different vector stores or we want to do retrieval across a large number of differently worded questions. It is also helpful in cases if we wanted to only take the top 3 documents or something. It can be really nice to build that consolidated ranking across all these independent retrievals then pass that to the LLM for the final generation.

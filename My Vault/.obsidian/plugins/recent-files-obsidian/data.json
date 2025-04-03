@@ -1,12 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "ViT",
+      "path": "Notes/ViT.md"
+    },
+    {
+      "basename": "CLIP",
+      "path": "Notes/CLIP.md"
+    },
+    {
+      "basename": "Diffusion Models",
+      "path": "Notes/Diffusion Models.md"
+    },
+    {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
     },
     {
+      "basename": "Partial Dependency Plot (pdp)",
+      "path": "Notes/Partial Dependency Plot (pdp).md"
+    },
+    {
+      "basename": "RAG",
+      "path": "Notes/RAG.md"
+    },
+    {
+      "basename": "SHAPRFECV",
+      "path": "Notes/SHAPRFECV.md"
+    },
+    {
+      "basename": "SHAP",
+      "path": "Notes/SHAP.md"
+    },
+    {
+      "basename": "Stacking",
+      "path": "Notes/Stacking.md"
+    },
+    {
+      "basename": "Information Value(IV)",
+      "path": "Notes/Information Value(IV).md"
+    },
+    {
+      "basename": "WOE",
+      "path": "Notes/WOE.md"
+    },
+    {
+      "basename": "VIF",
+      "path": "Notes/VIF.md"
+    },
+    {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "LLMs",
+      "path": "Notes/LLMs.md"
+    },
+    {
+      "basename": "Generative AI",
+      "path": "Notes/Generative AI.md"
+    },
+    {
+      "basename": "VLM",
+      "path": "Notes/VLM.md"
+    },
+    {
+      "basename": "Overfitting",
+      "path": "Notes/Overfitting.md"
+    },
+    {
+      "basename": "Variance",
+      "path": "Notes/Variance.md"
+    },
+    {
+      "basename": "Bias",
+      "path": "Notes/Bias.md"
+    },
+    {
+      "basename": "Grouped-Query Attention",
+      "path": "Notes/Grouped-Query Attention.md"
     },
     {
       "basename": "Markov Chains",
@@ -29,10 +101,6 @@
       "path": "Notes/Warmup.md"
     },
     {
-      "basename": "VLM",
-      "path": "Notes/VLM.md"
-    },
-    {
       "basename": "LLM Agents",
       "path": "Notes/LLM Agents.md"
     },
@@ -43,10 +111,6 @@
     {
       "basename": "Global-Local Attention",
       "path": "Notes/Global-Local Attention.md"
-    },
-    {
-      "basename": "Grouped-Query Attention",
-      "path": "Notes/Grouped-Query Attention.md"
     },
     {
       "basename": "Decorators",
@@ -135,70 +199,6 @@
     {
       "basename": "Multi-Head Attention",
       "path": "Notes/Multi-Head Attention.md"
-    },
-    {
-      "basename": "Transformers",
-      "path": "Notes/Transformers.md"
-    },
-    {
-      "basename": "Cross Attention",
-      "path": "Notes/Cross Attention.md"
-    },
-    {
-      "basename": "Self Attention",
-      "path": "Notes/Self Attention.md"
-    },
-    {
-      "basename": "Maximum Likelihood",
-      "path": "Notes/Maximum Likelihood.md"
-    },
-    {
-      "basename": "Matryoshka Loss",
-      "path": "Notes/Matryoshka Loss.md"
-    },
-    {
-      "basename": "Callbacks",
-      "path": "Notes/Callbacks.md"
-    },
-    {
-      "basename": "DL",
-      "path": "Notes/DL.md"
-    },
-    {
-      "basename": "CLIP",
-      "path": "Notes/CLIP.md"
-    },
-    {
-      "basename": "Finetuning",
-      "path": "Notes/Finetuning.md"
-    },
-    {
-      "basename": "Scheduler",
-      "path": "Notes/Scheduler.md"
-    },
-    {
-      "basename": "SentenceBERT",
-      "path": "Notes/SentenceBERT.md"
-    },
-    {
-      "basename": "LLM Training",
-      "path": "Notes/LLM Training.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Notes/SQL.md"
-    },
-    {
-      "basename": "Sentence Transformers",
-      "path": "Notes/Sentence Transformers.md"
-    },
-    {
-      "basename": "Class",
-      "path": "Notes/Class.md"
-    },
-    {
-      "basename": "ViT",
-      "path": "Notes/ViT.md"
     }
   ],
   "omittedPaths": [],
