@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
       "basename": "ViLBERT",
       "path": "Notes/ViLBERT.md"
+    },
+    {
+      "basename": "SigLIP",
+      "path": "Notes/SigLIP.md"
+    },
+    {
+      "basename": "CLIP",
+      "path": "Notes/CLIP.md"
+    },
+    {
+      "basename": "VLM",
+      "path": "Notes/VLM.md"
+    },
+    {
+      "basename": "Multimodal",
+      "path": "Notes/Multimodal.md"
     },
     {
       "basename": "Generators",
       "path": "Notes/Generators.md"
     },
     {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
-    },
-    {
       "basename": "Diffusion Models",
       "path": "Notes/Diffusion Models.md"
-    },
-    {
-      "basename": "VLM",
-      "path": "Notes/VLM.md"
     },
     {
       "basename": "ViT",
@@ -27,10 +39,6 @@
     {
       "basename": "02-04-25",
       "path": "Tracker/02-04-25.md"
-    },
-    {
-      "basename": "CLIP",
-      "path": "Notes/CLIP.md"
     },
     {
       "basename": "SentenceBERT",
@@ -191,14 +199,6 @@
     {
       "basename": "Normalization",
       "path": "Notes/Normalization.md"
-    },
-    {
-      "basename": "Standardization",
-      "path": "Notes/Standardization.md"
-    },
-    {
-      "basename": "Precision-Recall curve",
-      "path": "Notes/Precision-Recall curve.md"
     }
   ],
   "omittedPaths": [],

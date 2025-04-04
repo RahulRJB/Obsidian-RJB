@@ -6,16 +6,15 @@ kanban-plugin: []
 
 ## TO study
 
-- [x] Diffusion models
+- [ ] Agents
+- [ ] Diffusion models
 - [ ] VLMs
-- [ ] SigLIP
 - [ ] Statistics like Hypothesis testing
 - [ ] Asyncio
 - [ ] Improve
 	- Coding
 	- Infrastructure
 - [ ] Regularization
-- [ ] Agents
 - [ ] Segregate all the bookmarks!
 - [ ] Explainable AI
 - [ ] COT

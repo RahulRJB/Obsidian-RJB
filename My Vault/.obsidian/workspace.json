@@ -253,7 +253,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -459,16 +459,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f873fa2138344191",
+  "active": "793781750b5ccde7",
   "lastOpenFiles": [
-    "Notes/Generators.md",
     "Notes/ViLBERT.md",
+    "Notes/SigLIP.md",
+    "Attachments/Pasted image 20250404161256.png",
+    "Notes/CLIP.md",
+    "Attachments/Pasted image 20250404155943.png",
+    "Notes/VLM.md",
+    "Notes/Multimodal.md",
+    "Notes/Generators.md",
     "Tracker/Lists.md",
     "Notes/Diffusion Models.md",
-    "Notes/VLM.md",
     "Notes/ViT.md",
     "Tracker/02-04-25.md",
-    "Notes/CLIP.md",
     "Notes/SentenceBERT.md",
     "Notes/Sentence Transformers.md",
     "Tracker/Projects Details.md",
@@ -486,9 +490,6 @@
     "Notes/Generative AI.md",
     "Notes/Overfitting.md",
     "Notes/Variance.md",
-    "Notes/Bias.md",
-    "Notes/Grouped-Query Attention.md",
-    "Notes/Markov Chains.md",
     "Attachments/seg-10.pdf",
     "Attachments/Recording 20250402162601.webm",
     "Attachments/Recording 20250402163008.webm",
@@ -499,8 +500,6 @@
     "Attachments/Pasted image 20250324224440.png",
     "Attachments/Pasted image 20250324224351.png",
     "Attachments/Pasted image 20250324224328.png",
-    "Attachments/Pasted image 20250324223638.png",
-    "Attachments/Pasted image 20250324223456.png",
     "Tracker/2024",
     "Tracker/New folder",
     "Attachments/Recording 20240608031932.webm",

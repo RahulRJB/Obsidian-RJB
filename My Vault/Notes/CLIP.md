@@ -5,12 +5,12 @@
 DATE:  25-03-25
 
 
-Tags: [[OpenAI]]  [[VIT]] 
+Tags: [[OpenAI]]  [[VIT]] [[SigLIP]] [[Notes/Multimodal|Multimodal]]
 
 # References:
 https://www.youtube.com/watch?v=dh8Rxhf7cLU
 
-
+https://www.alphaxiv.org/abs/2103.00020
 
 
 # Content:
@@ -44,3 +44,8 @@ The architecture of the CLIP model is a crucial element enabling its ability to 
 
 - INFERENCE:
 ![[Attachments/Pasted image 20250403154801.png]]
+
+
+### Loss:
+
+![[Attachments/Pasted image 20250404155943.png]]
