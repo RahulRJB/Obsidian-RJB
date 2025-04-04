@@ -11,6 +11,7 @@ kanban-plugin: []
 - [ ] VLMs
 - [ ] Statistics like Hypothesis testing
 - [ ] Asyncio
+- [ ] pydantic
 - [ ] Improve
 	- Coding
 	- Infrastructure
