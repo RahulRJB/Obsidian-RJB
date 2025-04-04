@@ -8,7 +8,7 @@
 
 
 
-Tags: [[Notes/LLMs]], [[Notes/Andrej Karpathy|Andrej Karpathy]]
+Tags: [[Notes/LLMs]], [[Course]]
 
 
 

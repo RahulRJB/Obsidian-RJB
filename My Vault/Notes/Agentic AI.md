@@ -1,5 +1,5 @@
 
-# LLM Agents
+# Agentic AI
 
 
 DATE:  13-12-24
@@ -14,6 +14,8 @@ https://youtube.com/watch?v=5CLNoPiMbUc
 
 
 # Content:
+
+## Overview:
 
  - **LLM agents are systems that use Large Language Models (LLMs) at its core to perform high level tasks and interact with their environment.** They go beyond simply responding to prompts by integrating with tools and decision-making processes. It achieves this by leveraging additional modules including memory planning and action.
 - **Environment** This is everything the agent can interact with – including the user, the tools, data sources, and the internet.
@@ -57,6 +59,4 @@ https://youtube.com/watch?v=5CLNoPiMbUc
 	- **LLM Agent:** Uses an LLM as its brain and can perform tasks in an environment by using tools, making plans, and taking actions based on feedback and memory.
 
 - ![[Attachments/Pasted image 20241213131524.png]]![[Attachments/Pasted image 20241213131548.png]]![[Attachments/Pasted image 20241213131708.png]]![[Attachments/Pasted image 20241213134431.png]]
-
-
 

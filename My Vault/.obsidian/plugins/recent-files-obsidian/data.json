@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Multi AI Agent systems with CrewAI",
+      "path": "Notes/Multi AI Agent systems with CrewAI.md"
+    },
+    {
+      "basename": "Agentic AI",
+      "path": "Notes/Agentic AI.md"
+    },
+    {
+      "basename": "Intro into LLMs, Andrej Karpathy",
+      "path": "Notes/Intro into LLMs, Andrej Karpathy.md"
+    },
+    {
+      "basename": "Lets build GPT, from scratch, in code, spelled out, Andrej Karpathy",
+      "path": "Notes/Lets build GPT, from scratch, in code, spelled out, Andrej Karpathy.md"
+    },
+    {
+      "basename": "Lets build GPT Tokenizer, Andrej Karpathy",
+      "path": "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md"
+    },
+    {
+      "basename": "Course",
+      "path": "Notes/Course.md"
+    },
+    {
+      "basename": "02-04-25",
+      "path": "Tracker/02-04-25.md"
+    },
+    {
+      "basename": "VLM",
+      "path": "Notes/VLM.md"
+    },
+    {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
@@ -17,10 +49,6 @@
       "path": "Notes/CLIP.md"
     },
     {
-      "basename": "VLM",
-      "path": "Notes/VLM.md"
-    },
-    {
       "basename": "Multimodal",
       "path": "Notes/Multimodal.md"
     },
@@ -35,10 +63,6 @@
     {
       "basename": "ViT",
       "path": "Notes/ViT.md"
-    },
-    {
-      "basename": "02-04-25",
-      "path": "Tracker/02-04-25.md"
     },
     {
       "basename": "SentenceBERT",
@@ -129,10 +153,6 @@
       "path": "Notes/Warmup.md"
     },
     {
-      "basename": "LLM Agents",
-      "path": "Notes/LLM Agents.md"
-    },
-    {
       "basename": "Agentic RAG",
       "path": "Notes/Agentic RAG.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "DSA-Leetcode",
       "path": "Tracker/DSA-Leetcode.md"
-    },
-    {
-      "basename": "01-04-25",
-      "path": "Tracker/01-04-25.md"
-    },
-    {
-      "basename": "seg-10",
-      "path": "Attachments/seg-10.pdf"
-    },
-    {
-      "basename": "Llama.cpp",
-      "path": "Notes/Llama.cpp.md"
-    },
-    {
-      "basename": "QUOTES OF THE DAY",
-      "path": "Tracker/QUOTES OF THE DAY.md"
-    },
-    {
-      "basename": "Normalization",
-      "path": "Notes/Normalization.md"
     }
   ],
   "omittedPaths": [],
