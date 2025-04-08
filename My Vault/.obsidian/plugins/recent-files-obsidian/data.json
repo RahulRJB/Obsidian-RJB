@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
       "basename": "Multi AI Agent systems with CrewAI",
       "path": "Notes/Multi AI Agent systems with CrewAI.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "Sentence Transformers",
       "path": "Notes/Sentence Transformers.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "Partial Dependency Plot (pdp)",

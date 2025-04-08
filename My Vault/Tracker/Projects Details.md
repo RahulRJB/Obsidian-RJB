@@ -481,22 +481,22 @@
 | IT Convergence       |            |      |          | L3 reject (System design interview) |         |
 | Quantiphi            |            |      |          | Not selected(agent, finetune)       |         |
 | Tiger Analytics      |            |      |          | Test pending                        |         |
-| Publicis Sapient     |            |      |          | Test pending                        |         |
+| Publicis Sapient     |            |      |          | L1 Select, Test pending             |         |
 | EXL                  |            |      |          |                                     |         |
 | Persistant           |            |      |          | L1 select                           |         |
-| Morgan Stanley       |            |      |          | L3 select?                          |         |
+| Morgan Stanley       |            |      |          | L3 select                           |         |
 | LTTS                 |            |      |          | L1 select                           |         |
-| Society Generale     |            |      |          | L1 done                             |         |
+| Society Generale     |            |      |          | L1 select; L2 dropped (budget)      |         |
 | Berribot(Mindsprint) |            |      |          |                                     |         |
 | NTT Data             |            |      |          | Rejected                            |         |
 | Newpage              |            |      | remote   | Coding round failed                 |         |
 | Syncronium           |            | 33   |          | **Selected**                        | Mounika |
-| Chubb                |            |      |          | L1 select                           |         |
+| Chubb                |            |      |          | **Selected**                        | Jay     |
 | Impetus              |            |      |          | L1 reject, LOL                      |         |
 | Grid Dynamics        |            |      |          |                                     |         |
 | Rakuten              |            |      |          |                                     |         |
 | Harman               |            |      |          |                                     |         |
-| UST                  |            |      |          | L1 select; L2 dropped               |         |
+| UST                  |            |      |          | L1 select; L2 dropped(Budget)       |         |
 
 
 

@@ -229,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -435,10 +435,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f0395a05a217a27",
+  "active": "a506043e04bace55",
   "lastOpenFiles": [
-    "Notes/Agentic AI.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
+    "Notes/Agentic AI.md",
     "Attachments/Pasted image 20250404193420.png",
     "Attachments/Pasted image 20250404192401.png",
     "Notes/Intro into LLMs, Andrej Karpathy.md",
