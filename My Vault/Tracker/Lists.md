@@ -6,7 +6,8 @@ kanban-plugin: []
 
 ## TO study
 
-- [ ] Agents
+- [ ] Ragas
+- [ ] Agents course
 - [ ] Diffusion models
 - [ ] VLMs
 - [ ] Statistics like Hypothesis testing

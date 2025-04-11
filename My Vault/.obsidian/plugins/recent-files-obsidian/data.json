@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "VLM",
       "path": "Notes/VLM.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "ViLBERT",
