@@ -9,6 +9,10 @@
       "path": "Notes/Multithreading vs Multiprocessing.md"
     },
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
       "basename": "Multi AI Agent systems with CrewAI",
       "path": "Notes/Multi AI Agent systems with CrewAI.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Projects Details",

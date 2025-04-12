@@ -6,12 +6,12 @@ kanban-plugin: []
 
 ## TO study
 
-- [ ] Ragas
+- [ ] Asyncio
 - [ ] Agents course
+- [ ] Ragas
 - [ ] Diffusion models
 - [ ] VLMs
 - [ ] Statistics like Hypothesis testing
-- [ ] Asyncio
 - [ ] pydantic
 - [ ] Improve
 	- Coding
