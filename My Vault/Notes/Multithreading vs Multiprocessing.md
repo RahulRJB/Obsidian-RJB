@@ -72,7 +72,7 @@ To understand this better, we first need to differentiate between Processes and 
 	- ![[Attachments/Pasted image 20250324222057.png]]
 
 - Parallelism: 
-	- Processes in Python can execute truly simultaneously (in parallel), especially on multi-core CPUs. As the video illustrates, threads from different processes (process 0 and process 1 in their example) can run at the same time because they belong to separate memory spaces of 2 diff processes and are managed independently by the operating system.
+	- Processes in Python can execute truly simultaneously (in parallel), especially on multi-core CPUs. Threads from different processes (process 0 and process 1 in their example) can run at the same time because they belong to separate memory spaces of 2 diff processes and are managed independently by the operating system.
 
 
 - [[Global Interpreter Lock]] (GIL):

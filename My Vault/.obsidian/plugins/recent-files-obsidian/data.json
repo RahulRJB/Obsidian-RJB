@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
+      "basename": "Asynchronous Programming",
+      "path": "Notes/Asynchronous Programming.md"
     },
     {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
+      "basename": "Multithreading vs Multiprocessing",
+      "path": "Notes/Multithreading vs Multiprocessing.md"
     },
     {
       "basename": "Multi AI Agent systems with CrewAI",
@@ -15,6 +15,26 @@
     {
       "basename": "Agentic AI",
       "path": "Notes/Agentic AI.md"
+    },
+    {
+      "basename": "02-04-25",
+      "path": "Tracker/02-04-25.md"
+    },
+    {
+      "basename": "Dreams",
+      "path": "Tracker/Dreams.md"
+    },
+    {
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "Intro into LLMs, Andrej Karpathy",
@@ -31,10 +51,6 @@
     {
       "basename": "Course",
       "path": "Notes/Course.md"
-    },
-    {
-      "basename": "02-04-25",
-      "path": "Tracker/02-04-25.md"
     },
     {
       "basename": "VLM",
@@ -183,22 +199,6 @@
     {
       "basename": "Gradient Boost",
       "path": "Notes/Gradient Boost.md"
-    },
-    {
-      "basename": "Dreams",
-      "path": "Tracker/Dreams.md"
-    },
-    {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
-    },
-    {
-      "basename": "24-03-25",
-      "path": "Tracker/24-03-25.md"
-    },
-    {
-      "basename": "DSA-Leetcode",
-      "path": "Tracker/DSA-Leetcode.md"
     }
   ],
   "omittedPaths": [],
