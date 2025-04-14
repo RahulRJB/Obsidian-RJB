@@ -277,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -483,11 +483,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "604f43297d3741fb",
+  "active": "793781750b5ccde7",
   "lastOpenFiles": [
+    "Notes/Asynchronous Programming.md",
     "Notes/Multithreading vs Multiprocessing.md",
     "Tracker/Lists.md",
-    "Notes/Asynchronous Programming.md",
     "Attachments/Pasted image 20250411174210.png",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Agentic AI.md",

@@ -6,6 +6,8 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] RLHF finetuning PPO DPO
+- [ ] KL Divergence
 - [ ] Asyncio
 - [ ] Agents course
 - [ ] Ragas
