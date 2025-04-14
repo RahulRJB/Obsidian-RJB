@@ -6,10 +6,12 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] System Design
+- [ ] Book
+- [ ] Agents course
 - [ ] RLHF finetuning PPO DPO
 - [ ] KL Divergence
 - [ ] Asyncio
-- [ ] Agents course
 - [ ] Ragas
 - [ ] Diffusion models
 - [ ] VLMs
