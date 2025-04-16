@@ -277,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -479,21 +479,23 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "793781750b5ccde7",
+  "active": "604f43297d3741fb",
   "lastOpenFiles": [
+    "Tracker/Projects Details.md",
+    "Tracker/Lists.md",
+    "Tracker/16-04-25.md",
     "Notes/Asynchronous Programming.md",
     "Notes/Multithreading vs Multiprocessing.md",
-    "Tracker/Lists.md",
     "Attachments/Pasted image 20250411174210.png",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Agentic AI.md",
     "Tracker/02-04-25.md",
     "Tracker/Dreams.md",
     "Tracker/GOALS 2025.md",
-    "Tracker/Projects Details.md",
     "Attachments/Pasted image 20250404193420.png",
     "Attachments/Pasted image 20250404192401.png",
     "Notes/Intro into LLMs, Andrej Karpathy.md",

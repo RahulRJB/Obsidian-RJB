@@ -484,7 +484,7 @@
 | Publicis Sapient  |            |      |          | L1 Select, Test pending; Dropped    |         |
 | EXL               |            |      |          |                                     |         |
 | Persistant        |            |      |          | L1 select                           |         |
-| Morgan Stanley    |            |      |          | **Selected**                        |         |
+| Morgan Stanley    |            | 35   |          | **Selected**                        | Khushbu |
 | LTTS              |            |      |          | L1 select; L2 dropped               |         |
 | Society Generale  |            |      |          | L1 select; L2 dropped               |         |
 | NTT Data          |            |      |          | Rejected                            |         |

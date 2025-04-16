@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "16-04-25",
-      "path": "Tracker/16-04-25.md"
+      "basename": "Asynchronous Programming",
+      "path": "Notes/Asynchronous Programming.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
     {
-      "basename": "Asynchronous Programming",
-      "path": "Notes/Asynchronous Programming.md"
+      "basename": "16-04-25",
+      "path": "Tracker/16-04-25.md"
     },
     {
       "basename": "Multithreading vs Multiprocessing",
@@ -35,10 +39,6 @@
     {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "Intro into LLMs, Andrej Karpathy",
