@@ -6,10 +6,12 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Book chap2-7; 13
+- [ ] Gemma3 training
+- [ ] GBTs revise
 - [ ] Linear Algebra
 - [ ] Pytorch
 - [ ] System Design
-- [ ] Book
 - [ ] Agents course
 - [ ] RLHF finetuning PPO DPO
 - [ ] KL Divergence
