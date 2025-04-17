@@ -6,6 +6,8 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Linear Algebra
+- [ ] Pytorch
 - [ ] System Design
 - [ ] Book
 - [ ] Agents course

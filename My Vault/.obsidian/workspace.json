@@ -277,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -483,12 +483,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "604f43297d3741fb",
+  "active": "793781750b5ccde7",
   "lastOpenFiles": [
     "Tracker/Projects Details.md",
+    "Notes/Asynchronous Programming.md",
     "Tracker/Lists.md",
     "Tracker/16-04-25.md",
-    "Notes/Asynchronous Programming.md",
     "Notes/Multithreading vs Multiprocessing.md",
     "Attachments/Pasted image 20250411174210.png",
     "Notes/Multi AI Agent systems with CrewAI.md",
