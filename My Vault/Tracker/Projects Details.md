@@ -489,7 +489,7 @@
 | Society Generale  |            |      |          | L1 select; L2 dropped               |         |
 | NTT Data          |            |      |          | Rejected                            |         |
 | Newpage           |            |      | remote   | Coding round failed                 |         |
-| Syncronium        |            | 33   |          | **Selected**                        | Mounika |
+| Synechron         |            | 33   |          | **Selected**                        | Mounika |
 | Chubb             |            |      |          | **Selected**                        | Jay     |
 | Impetus           |            |      |          | L1 reject, LOL                      |         |
 | Grid Dynamics     |            |      |          | Dropped                             |         |
