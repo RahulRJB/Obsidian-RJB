@@ -7,15 +7,16 @@ kanban-plugin: []
 ## TO study
 
 - [ ] Book chap2-7; 13
-- [ ] Gemma3 training
-- [ ] GBTs revise
 - [ ] Linear Algebra
 - [ ] Pytorch
-- [ ] System Design
 - [ ] Agents course
+- [ ] Asyncio
+- [ ] NLP UT Austin
+- [ ] Gemma3 training
+- [ ] GBTs revise
+- [ ] System Design
 - [ ] RLHF finetuning PPO DPO
 - [ ] KL Divergence
-- [ ] Asyncio
 - [ ] Ragas
 - [ ] Diffusion models
 - [ ] VLMs

@@ -490,7 +490,7 @@
 | NTT Data          |            |      |          | Rejected                            |         |
 | Newpage           |            |      | remote   | Coding round failed                 |         |
 | Synechron         |            | 33   |          | **Selected**                        | Mounika |
-| Chubb             |            |      |          | **Selected**                        | Jay     |
+| Chubb             |            | 32   |          | **Selected**                        | Jay     |
 | Impetus           |            |      |          | L1 reject, LOL                      |         |
 | Grid Dynamics     |            |      |          | Dropped                             |         |
 | UST               |            |      |          | L1 select; L2 dropped(Budget)       |         |
