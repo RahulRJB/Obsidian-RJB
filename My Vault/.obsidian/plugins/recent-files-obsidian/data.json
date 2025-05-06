@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "06-05-25",
+      "path": "Tracker/06-05-25.md"
+    },
+    {
       "basename": "22-04-25",
       "path": "Tracker/22-04-25.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "Notes/SQL.md"
+    },
+    {
+      "basename": "Marriage Plan",
+      "path": "Tracker/Marriage Plan.md"
+    },
+    {
+      "basename": "Dreams",
+      "path": "Tracker/Dreams.md"
     },
     {
       "basename": "Asynchronous Programming",
@@ -21,20 +45,8 @@
       "path": "Notes/Agentic AI.md"
     },
     {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
-    },
-    {
-      "basename": "Dreams",
-      "path": "Tracker/Dreams.md"
-    },
-    {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "16-04-25",
@@ -187,14 +199,6 @@
     {
       "basename": "Rate Limit",
       "path": "Notes/Rate Limit.md"
-    },
-    {
-      "basename": "LLM hyperparameters",
-      "path": "Notes/LLM hyperparameters.md"
-    },
-    {
-      "basename": "hyperparameters",
-      "path": "Notes/hyperparameters.md"
     }
   ],
   "omittedPaths": [],

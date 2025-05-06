@@ -258,7 +258,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/22-04-25.md",
+                "file": "Tracker/06-05-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -273,7 +273,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "22-04-25"
+              "title": "06-05-25"
             }
           }
         ],
@@ -486,16 +486,19 @@
   "active": "a7c361f2120b3866",
   "lastOpenFiles": [
     "Tracker/22-04-25.md",
+    "Tracker/06-05-25.md",
+    "Tracker/Lists.md",
+    "Tracker/Projects Details.md",
+    "Notes/SQL.md",
+    "Tracker/Marriage Plan.md",
+    "Tracker/Dreams.md",
     "Notes/Asynchronous Programming.md",
     "Notes/Multithreading vs Multiprocessing.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Agentic AI.md",
-    "Tracker/Lists.md",
     "Tracker/01-04-25.md",
     "Tracker/02-04-25.md",
-    "Tracker/Dreams.md",
     "Tracker/GOALS 2025.md",
-    "Tracker/Projects Details.md",
     "Tracker/16-04-25.md",
     "Attachments/Pasted image 20250411174210.png",
     "Attachments/Pasted image 20250404193420.png",
@@ -513,9 +516,6 @@
     "Attachments/Pasted image 20250404155943.png",
     "Notes/Multimodal.md",
     "Notes/Generators.md",
-    "Notes/Diffusion Models.md",
-    "Notes/ViT.md",
-    "Notes/SentenceBERT.md",
     "Attachments/Pasted image 20250403154801.png",
     "Attachments/Pasted image 20250403154533.png",
     "Attachments/seg-10.pdf",
