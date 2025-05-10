@@ -157,6 +157,30 @@
             }
           },
           {
+            "id": "a7c361f2120b3866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/06-05-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "06-05-25"
+            }
+          },
+          {
             "id": "17e4f2b51d508be0",
             "type": "leaf",
             "state": {
@@ -205,30 +229,6 @@
             }
           },
           {
-            "id": "c65bb181740e0c0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Multithreading vs Multiprocessing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Multithreading vs Multiprocessing"
-            }
-          },
-          {
             "id": "604f43297d3741fb",
             "type": "leaf",
             "state": {
@@ -253,12 +253,12 @@
             }
           },
           {
-            "id": "a7c361f2120b3866",
+            "id": "d2d2554fa9811c36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/06-05-25.md",
+                "file": "Notes/SVD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -273,7 +273,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "06-05-25"
+              "title": "SVD"
             }
           }
         ],
@@ -483,19 +483,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a7c361f2120b3866",
+  "active": "d2d2554fa9811c36",
   "lastOpenFiles": [
-    "Tracker/22-04-25.md",
+    "Notes/SVD.md",
+    "Notes/Asynchronous Programming.md",
+    "Notes/Agentic AI.md",
+    "Notes/Multi AI Agent systems with CrewAI.md",
+    "Notes/Multithreading vs Multiprocessing.md",
     "Tracker/06-05-25.md",
+    "Tracker/22-04-25.md",
     "Tracker/Lists.md",
     "Tracker/Projects Details.md",
     "Notes/SQL.md",
     "Tracker/Marriage Plan.md",
     "Tracker/Dreams.md",
-    "Notes/Asynchronous Programming.md",
-    "Notes/Multithreading vs Multiprocessing.md",
-    "Notes/Multi AI Agent systems with CrewAI.md",
-    "Notes/Agentic AI.md",
     "Tracker/01-04-25.md",
     "Tracker/02-04-25.md",
     "Tracker/GOALS 2025.md",
@@ -515,7 +516,6 @@
     "Notes/CLIP.md",
     "Attachments/Pasted image 20250404155943.png",
     "Notes/Multimodal.md",
-    "Notes/Generators.md",
     "Attachments/Pasted image 20250403154801.png",
     "Attachments/Pasted image 20250403154533.png",
     "Attachments/seg-10.pdf",

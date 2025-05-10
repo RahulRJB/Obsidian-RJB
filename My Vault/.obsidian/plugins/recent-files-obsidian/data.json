@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "SVD",
+      "path": "Notes/SVD.md"
+    },
+    {
+      "basename": "Asynchronous Programming",
+      "path": "Notes/Asynchronous Programming.md"
+    },
+    {
+      "basename": "Agentic AI",
+      "path": "Notes/Agentic AI.md"
+    },
+    {
+      "basename": "Multi AI Agent systems with CrewAI",
+      "path": "Notes/Multi AI Agent systems with CrewAI.md"
+    },
+    {
+      "basename": "Multithreading vs Multiprocessing",
+      "path": "Notes/Multithreading vs Multiprocessing.md"
+    },
+    {
       "basename": "06-05-25",
       "path": "Tracker/06-05-25.md"
     },
@@ -27,22 +47,6 @@
     {
       "basename": "Dreams",
       "path": "Tracker/Dreams.md"
-    },
-    {
-      "basename": "Asynchronous Programming",
-      "path": "Notes/Asynchronous Programming.md"
-    },
-    {
-      "basename": "Multithreading vs Multiprocessing",
-      "path": "Notes/Multithreading vs Multiprocessing.md"
-    },
-    {
-      "basename": "Multi AI Agent systems with CrewAI",
-      "path": "Notes/Multi AI Agent systems with CrewAI.md"
-    },
-    {
-      "basename": "Agentic AI",
-      "path": "Notes/Agentic AI.md"
     },
     {
       "basename": "GOALS 2025",
@@ -195,10 +199,6 @@
     {
       "basename": "Decorators",
       "path": "Notes/Decorators.md"
-    },
-    {
-      "basename": "Rate Limit",
-      "path": "Notes/Rate Limit.md"
     }
   ],
   "omittedPaths": [],
