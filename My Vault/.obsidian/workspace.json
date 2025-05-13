@@ -253,7 +253,7 @@
             }
           },
           {
-            "id": "d2d2554fa9811c36",
+            "id": "f3829380ba62c8e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -304,17 +304,7 @@
             }
           },
           {
-            "id": "9ab5681af579f79b",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "6ed5462323c82368",
+            "id": "c4945abdabcf251a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -328,6 +318,16 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "dc2e7cfdf61f163e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -365,26 +365,12 @@
             }
           },
           {
-            "id": "c54757e6fb4f7b88",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "c8558d5a6854b571",
+            "id": "167ef4e06c301df4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracker/Projects Details.md",
+                "file": "Notes/SVD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -394,25 +380,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Projects Details"
+              "title": "Backlinks for SVD"
             }
           },
           {
-            "id": "1011f353b78b6c27",
+            "id": "5a1863be41929360",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tracker/Projects Details.md",
+                "file": "Notes/SVD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Projects Details"
+              "title": "Outgoing links from SVD"
             }
           },
           {
-            "id": "457297133425106a",
+            "id": "c494d60cc4dfaef5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -427,28 +413,32 @@
             }
           },
           {
-            "id": "f5f9734ba8f38d98",
+            "id": "8d1b04adce7ac9ad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "dd0bede3258fe158",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tracker/Projects Details.md",
+                "file": "Notes/SVD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Projects Details"
-            }
-          },
-          {
-            "id": "e1ccfae62387996e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of SVD"
             }
           }
         ],
@@ -456,7 +446,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -473,8 +463,8 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian-kanban:Create new board": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
@@ -483,14 +473,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d2d2554fa9811c36",
+  "active": "f3829380ba62c8e3",
   "lastOpenFiles": [
+    "Tracker/06-05-25.md",
+    "Tracker/13-05-25.md",
     "Notes/SVD.md",
     "Notes/Asynchronous Programming.md",
+    "Notes/202505131440.md",
+    "Notes/202505131443.md",
+    "Notes/202505131442.md",
+    "Notes/202505131441.md",
+    "Excalidraw/Drawing 2025-05-13 14.38.51.excalidraw.md",
+    "Notes/202505131438.md",
     "Notes/Agentic AI.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Multithreading vs Multiprocessing.md",
-    "Tracker/06-05-25.md",
     "Tracker/22-04-25.md",
     "Tracker/Lists.md",
     "Tracker/Projects Details.md",
@@ -507,15 +504,8 @@
     "Notes/Intro into LLMs, Andrej Karpathy.md",
     "Notes/Lets build GPT, from scratch, in code, spelled out, Andrej Karpathy.md",
     "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md",
-    "Notes/Andrej Karpathy.md",
-    "Notes/Course.md",
-    "Notes/VLM.md",
-    "Notes/ViLBERT.md",
-    "Notes/SigLIP.md",
     "Attachments/Pasted image 20250404161256.png",
-    "Notes/CLIP.md",
     "Attachments/Pasted image 20250404155943.png",
-    "Notes/Multimodal.md",
     "Attachments/Pasted image 20250403154801.png",
     "Attachments/Pasted image 20250403154533.png",
     "Attachments/seg-10.pdf",
