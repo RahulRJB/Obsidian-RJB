@@ -9,7 +9,7 @@ Tags:
 
 # References:
 
-https://gregorygundersen.com/blog/2018/12/10/svd/
+https://gregorygundersen.com/blog/2018/12/10/svd/x
 
 
 # Content:
