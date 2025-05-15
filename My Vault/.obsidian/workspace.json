@@ -267,7 +267,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -360,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Linear Algebra.md",
+                "file": "Tracker/Dreams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -370,7 +370,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Linear Algebra"
+              "title": "Backlinks for Dreams"
             }
           },
           {
@@ -379,12 +379,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Linear Algebra.md",
+                "file": "Tracker/Dreams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Linear Algebra"
+              "title": "Outgoing links from Dreams"
             }
           },
           {
@@ -422,13 +422,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Linear Algebra.md",
+                "file": "Tracker/Dreams.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linear Algebra"
+              "title": "Outline of Dreams"
             }
           }
         ],
@@ -464,14 +464,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bdf4f01e712edf2c",
+  "active": "e0d0f5fdcd52eebd",
   "lastOpenFiles": [
-    "Tracker/15-05-25.md",
-    "Tracker/Dreams.md",
     "Tracker/GOALS 2025.md",
+    "Tracker/Dreams.md",
+    "Notes/Linear Algebra.md",
+    "Tracker/15-05-25.md",
     "Tracker/DSA-Leetcode.md",
     "Tracker/Lists.md",
-    "Notes/Linear Algebra.md",
     "Notes/Maths.md",
     "Notes/SVD.md",
     "Notes/Asynchronous Programming.md",

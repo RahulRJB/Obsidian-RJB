@@ -59,6 +59,9 @@ Cold Shower, Run
 
 
 
+6 March-    Value+ debit card annual fee:   885/-
+7 March-    Zomato Biryani:   852/- Half Ruchira
+
 
 
 
