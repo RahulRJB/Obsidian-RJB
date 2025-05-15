@@ -6,29 +6,26 @@ kanban-plugin: []
 
 ## TO study
 
-- [ ] Book chap2-7; 13
 - [ ] Linear Algebra
+- [ ] SVD
+- [ ] Eigenvals
+- [ ] Book chap2-7; 13
 - [ ] Pytorch
-- [ ] Agents course
 - [ ] Asyncio
+- [ ] Agents course
 - [ ] NLP UT Austin
 - [ ] Gemma3 training
 - [ ] GBTs revise
 - [ ] System Design
 - [ ] RLHF finetuning PPO DPO
 - [ ] KL Divergence
-- [ ] Ragas
 - [ ] Diffusion models
 - [ ] VLMs
 - [ ] Statistics like Hypothesis testing
 - [ ] pydantic
-- [ ] Improve
-	- Coding
-	- Infrastructure
 - [ ] Regularization
 - [ ] Segregate all the bookmarks!
 - [ ] Explainable AI
-- [ ] COT
 - [ ] Kubernetes
 - [ ] Containerization
 - [ ] Application take 10mins to run a data input and multiple users are using it. Best way to go abut it
@@ -45,27 +42,16 @@ kanban-plugin: []
 - [ ] Revise The models like XgBoost
 - [ ] Chatbot
 - [ ] Challenges in Projects
-- [ ] SQL questions
 - [ ] NLP
 - [ ] Revise Pytorch
 - [ ] GAN
 - [ ] AWS Processing Job
 - [ ] AWS Step Functions
-- [ ] JumpStart Models
 - [ ] Deployments of Models
 - [ ] Andrej Karpathy gpt
-- [ ] Eigenvals
-- [ ] SVD
 - [ ] PCA
 - [x] Finetuning e2e example
 - [x] LORA implement
-- [x] SQL
-	- [x] Section 3, 4, 5
-	- [x] Section 6, 7
-	- [x] Section 8, 9, 10
-- [x] Stacking, blending, AK ✅ 2025-01-05
-- [x] Revision of Projects ✅ 2025-01-04
-- [x] Basics algos ✅ 2025-01-05
 
 
 ## Study Materials

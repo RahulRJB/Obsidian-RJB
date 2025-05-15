@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "e5ee0a26cd4b2efc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/SQL.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SQL"
-            }
-          },
-          {
             "id": "a506043e04bace55",
             "type": "leaf",
             "state": {
@@ -77,107 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Projects Details"
-            }
-          },
-          {
-            "id": "793781750b5ccde7",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Tracker/Lists.md",
-                "kanbanViewState": {
-                  "kanban-plugin": [],
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Lists"
-            }
-          },
-          {
-            "id": "2a63324f6116bf7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/GOALS 2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "GOALS 2025"
-            }
-          },
-          {
-            "id": "e0d0f5fdcd52eebd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/Dreams.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dreams"
-            }
-          },
-          {
-            "id": "9661b32f179a01aa",
-            "type": "leaf",
-            "state": {
-              "type": "planner-weekly",
-              "state": {},
-              "icon": "table-2",
-              "title": "Apr, 21–Apr, 27"
-            }
-          },
-          {
-            "id": "a7c361f2120b3866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/06-05-25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "06-05-25"
             }
           },
           {
@@ -275,9 +150,124 @@
               "icon": "lucide-file",
               "title": "SVD"
             }
+          },
+          {
+            "id": "bdf4f01e712edf2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Linear Algebra.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linear Algebra"
+            }
+          },
+          {
+            "id": "485afea106f385c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/15-05-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "15-05-25"
+            }
+          },
+          {
+            "id": "793781750b5ccde7",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Tracker/Lists.md",
+                "kanbanViewState": {
+                  "kanban-plugin": [],
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Lists"
+            }
+          },
+          {
+            "id": "2a63324f6116bf7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/GOALS 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "GOALS 2025"
+            }
+          },
+          {
+            "id": "e0d0f5fdcd52eebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/Dreams.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dreams"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -370,7 +360,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/SVD.md",
+                "file": "Notes/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -380,7 +370,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SVD"
+              "title": "Backlinks for Linear Algebra"
             }
           },
           {
@@ -389,12 +379,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/SVD.md",
+                "file": "Notes/Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SVD"
+              "title": "Outgoing links from Linear Algebra"
             }
           },
           {
@@ -432,13 +422,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/SVD.md",
+                "file": "Notes/Linear Algebra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SVD"
+              "title": "Outline of Linear Algebra"
             }
           }
         ],
@@ -470,40 +460,41 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f3829380ba62c8e3",
+  "active": "bdf4f01e712edf2c",
   "lastOpenFiles": [
-    "Tracker/06-05-25.md",
-    "Tracker/13-05-25.md",
+    "Tracker/15-05-25.md",
+    "Tracker/Dreams.md",
+    "Tracker/GOALS 2025.md",
+    "Tracker/DSA-Leetcode.md",
+    "Tracker/Lists.md",
+    "Notes/Linear Algebra.md",
+    "Notes/Maths.md",
     "Notes/SVD.md",
     "Notes/Asynchronous Programming.md",
+    "Notes/Multi AI Agent systems with CrewAI.md",
+    "Notes/Agentic AI.md",
+    "Tracker/13-05-25.md",
+    "Tracker/06-05-25.md",
+    "Tracker/Projects Details.md",
+    "Notes/NLP - UT Austin.md",
+    "Notes/SQL.md",
     "Notes/202505131440.md",
     "Notes/202505131443.md",
     "Notes/202505131442.md",
     "Notes/202505131441.md",
     "Excalidraw/Drawing 2025-05-13 14.38.51.excalidraw.md",
     "Notes/202505131438.md",
-    "Notes/Agentic AI.md",
-    "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Multithreading vs Multiprocessing.md",
     "Tracker/22-04-25.md",
-    "Tracker/Lists.md",
-    "Tracker/Projects Details.md",
-    "Notes/SQL.md",
     "Tracker/Marriage Plan.md",
-    "Tracker/Dreams.md",
     "Tracker/01-04-25.md",
-    "Tracker/02-04-25.md",
-    "Tracker/GOALS 2025.md",
-    "Tracker/16-04-25.md",
     "Attachments/Pasted image 20250411174210.png",
     "Attachments/Pasted image 20250404193420.png",
     "Attachments/Pasted image 20250404192401.png",
-    "Notes/Intro into LLMs, Andrej Karpathy.md",
-    "Notes/Lets build GPT, from scratch, in code, spelled out, Andrej Karpathy.md",
-    "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md",
     "Attachments/Pasted image 20250404161256.png",
     "Attachments/Pasted image 20250404155943.png",
     "Attachments/Pasted image 20250403154801.png",
