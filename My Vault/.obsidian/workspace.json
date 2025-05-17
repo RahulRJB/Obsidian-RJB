@@ -248,7 +248,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/17-05-25.md",
+                "file": "Tracker/Dreams.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -263,11 +263,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "17-05-25"
+              "title": "Dreams"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -463,7 +463,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e0d0f5fdcd52eebd",
+  "active": "bdf4f01e712edf2c",
   "lastOpenFiles": [
     "Tracker/Dreams.md",
     "Tracker/17-05-25.md",
