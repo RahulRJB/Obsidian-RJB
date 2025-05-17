@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "17-05-25",
+      "path": "Tracker/17-05-25.md"
+    },
+    {
       "basename": "Dreams",
       "path": "Tracker/Dreams.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "RoPE",
       "path": "Notes/RoPE.md"
-    },
-    {
-      "basename": "Positional Embedding",
-      "path": "Notes/Positional Embedding.md"
     }
   ],
   "omittedPaths": [],

@@ -248,7 +248,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/Dreams.md",
+                "file": "Tracker/17-05-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -263,7 +263,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dreams"
+              "title": "17-05-25"
             }
           }
         ],
@@ -453,21 +453,21 @@
       "workspaces:Manage workspace layouts": false,
       "obsidian-kanban:Create new board": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "e0d0f5fdcd52eebd",
   "lastOpenFiles": [
-    "Tracker/GOALS 2025.md",
     "Tracker/Dreams.md",
+    "Tracker/17-05-25.md",
+    "Tracker/GOALS 2025.md",
     "Notes/Linear Algebra.md",
     "Tracker/15-05-25.md",
     "Tracker/DSA-Leetcode.md",
@@ -491,7 +491,6 @@
     "Notes/Multithreading vs Multiprocessing.md",
     "Tracker/22-04-25.md",
     "Tracker/Marriage Plan.md",
-    "Tracker/01-04-25.md",
     "Attachments/Pasted image 20250411174210.png",
     "Attachments/Pasted image 20250404193420.png",
     "Attachments/Pasted image 20250404192401.png",
