@@ -1,4 +1,8 @@
 
+
+
+# TCS
+
 ## Santander(Nov23-Oct24):
 
 - #### Problem Statement:
@@ -429,26 +433,6 @@
 
 
 
-## Application:
-
-- Permanent Add:  29/8, Purbachal North, Kalitala Main Road, Preyashi Building, 1st floor
-  Kolkata 700078,   Behind Rohini Cooperative Housing Society
-
-- Address:  007, Soumya Sankalp Apartment, Kodigehalli, Kadugodi
-  Whitefield, Bengaluru - 560067
-
-- Institute:  Heritage Institute Of Technology, Kolkata
-- UAN - 101330659295
-  
-## Queries:
-
-- Salary?
-- Location?
-- Hybrid? How many times a week?
-- Kolkata?
-- HR name
-- Save name and number
-
 
 ## Summary:
 
@@ -465,7 +449,10 @@
 
 
 
-## Process:
+
+
+
+# 2025 Switch:
 
 | Applied           | Role(Work) | Pay  | Location | <center>Status</center>             | HR, num |
 | ----------------- | ---------- | ---- | -------- | ----------------------------------- | ------- |
@@ -496,5 +483,17 @@
 | UST               |            |      |          | L1 select; L2 dropped(Budget)       |         |
 
 
+
+# Details:
+
+
+- Permanent Add:  29/8, Purbachal North, Kalitala Main Road, Kolkata 700078,   
+  Preyashi Building, 1st floor, Behind Rohini Cooperative Housing Society
+
+- Address:  007, Soumya Sankalp Apartment, Kodigehalli, Kadugodi
+  Whitefield, Bengaluru - 560067
+
+- Institute:  Heritage Institute Of Technology, Kolkata
+- UAN - 101330659295
 
 

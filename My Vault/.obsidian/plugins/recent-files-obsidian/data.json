@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "22-05-25",
+      "path": "Tracker/22-05-25.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "21-05-25",
+      "path": "Tracker/21-05-25.md"
+    },
+    {
+      "basename": "SVD",
+      "path": "Notes/SVD.md"
+    },
+    {
+      "basename": "19-05-25",
+      "path": "Tracker/19-05-25.md"
+    },
+    {
       "basename": "Linear Algebra",
       "path": "Notes/Linear Algebra.md"
     },
@@ -33,10 +53,6 @@
       "path": "Notes/Maths.md"
     },
     {
-      "basename": "SVD",
-      "path": "Notes/SVD.md"
-    },
-    {
       "basename": "Asynchronous Programming",
       "path": "Notes/Asynchronous Programming.md"
     },
@@ -47,10 +63,6 @@
     {
       "basename": "Agentic AI",
       "path": "Notes/Agentic AI.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "NLP - UT Austin",
@@ -187,18 +199,6 @@
     {
       "basename": "Bias",
       "path": "Notes/Bias.md"
-    },
-    {
-      "basename": "Grouped-Query Attention",
-      "path": "Notes/Grouped-Query Attention.md"
-    },
-    {
-      "basename": "Markov Chains",
-      "path": "Notes/Markov Chains.md"
-    },
-    {
-      "basename": "RoPE",
-      "path": "Notes/RoPE.md"
     }
   ],
   "omittedPaths": [],

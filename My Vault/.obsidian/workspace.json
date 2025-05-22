@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/SVD.md",
+                "file": "Tracker/22-05-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SVD"
+              "title": "22-05-25"
             }
           },
           {
@@ -267,7 +267,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -463,23 +463,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bdf4f01e712edf2c",
+  "active": "f3829380ba62c8e3",
   "lastOpenFiles": [
+    "Tracker/Projects Details.md",
+    "Tracker/22-05-25.md",
+    "Tracker/21-05-25.md",
+    "Notes/SVD.md",
+    "Tracker/19-05-25.md",
+    "Notes/Linear Algebra.md",
     "Tracker/Dreams.md",
     "Tracker/17-05-25.md",
     "Tracker/GOALS 2025.md",
-    "Notes/Linear Algebra.md",
     "Tracker/15-05-25.md",
     "Tracker/DSA-Leetcode.md",
     "Tracker/Lists.md",
     "Notes/Maths.md",
-    "Notes/SVD.md",
     "Notes/Asynchronous Programming.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Agentic AI.md",
     "Tracker/13-05-25.md",
     "Tracker/06-05-25.md",
-    "Tracker/Projects Details.md",
     "Notes/NLP - UT Austin.md",
     "Notes/SQL.md",
     "Notes/202505131440.md",
@@ -488,9 +491,6 @@
     "Notes/202505131441.md",
     "Excalidraw/Drawing 2025-05-13 14.38.51.excalidraw.md",
     "Notes/202505131438.md",
-    "Notes/Multithreading vs Multiprocessing.md",
-    "Tracker/22-04-25.md",
-    "Tracker/Marriage Plan.md",
     "Attachments/Pasted image 20250411174210.png",
     "Attachments/Pasted image 20250404193420.png",
     "Attachments/Pasted image 20250404192401.png",
