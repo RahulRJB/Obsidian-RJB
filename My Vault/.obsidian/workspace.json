@@ -224,7 +224,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/Dreams.md",
+                "file": "Tracker/22-05-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -239,7 +239,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dreams"
+              "title": "22-05-25"
             }
           }
         ],
@@ -368,6 +368,54 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "fc7e9424397353b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tracker/22-05-25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 22-05-25"
+            }
+          },
+          {
+            "id": "0feb3e71362f8d56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tracker/22-05-25.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 22-05-25"
+            }
+          },
+          {
+            "id": "0d32eabfaa3ead4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
           }
         ],
         "currentTab": 1
@@ -403,13 +451,13 @@
   },
   "active": "e0d0f5fdcd52eebd",
   "lastOpenFiles": [
+    "Tracker/Dreams.md",
     "Notes/Linear Algebra.md",
     "Tracker/22-05-25.md",
     "Tracker/Projects Details.md",
     "Tracker/21-05-25.md",
     "Notes/SVD.md",
     "Tracker/19-05-25.md",
-    "Tracker/Dreams.md",
     "Tracker/17-05-25.md",
     "Tracker/GOALS 2025.md",
     "Tracker/15-05-25.md",
