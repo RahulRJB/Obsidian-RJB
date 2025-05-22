@@ -128,30 +128,6 @@
             }
           },
           {
-            "id": "f3829380ba62c8e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/22-05-25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "22-05-25"
-            }
-          },
-          {
             "id": "bdf4f01e712edf2c",
             "type": "leaf",
             "state": {
@@ -267,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -355,54 +331,6 @@
             }
           },
           {
-            "id": "167ef4e06c301df4",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Tracker/Dreams.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Dreams"
-            }
-          },
-          {
-            "id": "5a1863be41929360",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Tracker/Dreams.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Dreams"
-            }
-          },
-          {
-            "id": "c494d60cc4dfaef5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "8d1b04adce7ac9ad",
             "type": "leaf",
             "state": {
@@ -429,6 +357,16 @@
               },
               "icon": "lucide-list",
               "title": "Outline of Dreams"
+            }
+          },
+          {
+            "id": "28c4916ddc28601f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -463,14 +401,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f3829380ba62c8e3",
+  "active": "e0d0f5fdcd52eebd",
   "lastOpenFiles": [
-    "Tracker/Projects Details.md",
+    "Notes/Linear Algebra.md",
     "Tracker/22-05-25.md",
+    "Tracker/Projects Details.md",
     "Tracker/21-05-25.md",
     "Notes/SVD.md",
     "Tracker/19-05-25.md",
-    "Notes/Linear Algebra.md",
     "Tracker/Dreams.md",
     "Tracker/17-05-25.md",
     "Tracker/GOALS 2025.md",
