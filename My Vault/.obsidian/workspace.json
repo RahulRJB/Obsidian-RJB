@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/15-05-25.md",
+                "file": "Tracker/22-05-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "15-05-25"
+              "title": "22-05-25"
             }
           },
           {
@@ -219,12 +219,12 @@
             }
           },
           {
-            "id": "e0d0f5fdcd52eebd",
+            "id": "ca5b10b374271688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/22-05-25.md",
+                "file": "Tracker/Dreams.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -239,7 +239,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "22-05-25"
+              "title": "Dreams"
             }
           }
         ],
@@ -375,7 +375,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracker/22-05-25.md",
+                "file": "Tracker/Dreams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -385,7 +385,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 22-05-25"
+              "title": "Backlinks for Dreams"
             }
           },
           {
@@ -394,12 +394,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tracker/22-05-25.md",
+                "file": "Tracker/Dreams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 22-05-25"
+              "title": "Outgoing links from Dreams"
             }
           },
           {
@@ -449,18 +449,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e0d0f5fdcd52eebd",
+  "active": "ca5b10b374271688",
   "lastOpenFiles": [
+    "Tracker/GOALS 2025.md",
     "Tracker/Dreams.md",
-    "Notes/Linear Algebra.md",
     "Tracker/22-05-25.md",
+    "Tracker/15-05-25.md",
+    "Tracker/19-05-25.md",
+    "Tracker/17-05-25.md",
+    "Notes/Linear Algebra.md",
     "Tracker/Projects Details.md",
     "Tracker/21-05-25.md",
     "Notes/SVD.md",
-    "Tracker/19-05-25.md",
-    "Tracker/17-05-25.md",
-    "Tracker/GOALS 2025.md",
-    "Tracker/15-05-25.md",
     "Tracker/DSA-Leetcode.md",
     "Tracker/Lists.md",
     "Notes/Maths.md",
