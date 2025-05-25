@@ -9,6 +9,10 @@
       "path": "Tracker/GOALS 2025.md"
     },
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
       "basename": "22-05-25",
       "path": "Tracker/22-05-25.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "DSA-Leetcode",
       "path": "Tracker/DSA-Leetcode.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Maths",
