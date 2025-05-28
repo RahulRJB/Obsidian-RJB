@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "ARES",
+      "path": "Papers/ARES.pdf"
+    },
+    {
+      "basename": "ares",
+      "path": "Notes/ares.md"
+    },
+    {
+      "basename": "Asynchronous Programming",
+      "path": "Notes/Asynchronous Programming.md"
+    },
+    {
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
+    },
+    {
       "basename": "27-05-25",
       "path": "Tracker/27-05-25.md"
     },
     {
       "basename": "Dreams",
       "path": "Tracker/Dreams.md"
-    },
-    {
-      "basename": "ARES",
-      "path": "Papers/ARES.pdf"
-    },
-    {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
     },
     {
       "basename": "Lists",
@@ -51,10 +59,6 @@
     {
       "basename": "Maths",
       "path": "Notes/Maths.md"
-    },
-    {
-      "basename": "Asynchronous Programming",
-      "path": "Notes/Asynchronous Programming.md"
     },
     {
       "basename": "Multi AI Agent systems with CrewAI",
@@ -195,10 +199,6 @@
     {
       "basename": "Variance",
       "path": "Notes/Variance.md"
-    },
-    {
-      "basename": "Bias",
-      "path": "Notes/Bias.md"
     }
   ],
   "omittedPaths": [],
