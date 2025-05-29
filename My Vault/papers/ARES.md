@@ -1,5 +1,59 @@
 
-[[Papers/ARES.pdf|ARES]]
+# ARES
+
+
+DATE:  29-05-25
+
+
+Tags:  [[papers]]
+
+
+# References:
+
+https://www.alphaxiv.org/abs/2311.09476
+
+# Content:
+
+
+This paper introduces **ARES (Automated RAG Evaluation System)**, a novel framework designed to automatically evaluate Retrieval-Augmented Generation ([[RAG]]) systems.
+
+
+
+2 main issues with traditional methods of tuning RAG systems are:
+
+1. **High Expertise Demand:** Both creating hand annotations for specific domains and evaluating systems in production by collecting human preferences require a significant level of expertise. This means it's not a task that can be easily done by anyone; it needs skilled individuals.
+2. **Considerable Annotation Costs:** Both strategies are expensive. Hand-annotating data is time-consuming and thus costly, and collecting human preferences in production also incurs substantial costs.
+
+
+
+Model-based evaluation (LLMs as a judge), like that used in the RAGAS framework, lacks adaptability to various evaluation contexts and offers no guarantees about quality because it relies on a fixed set of heuristically hand-written prompts.
+
+
+
+RAG system need to be evaluated on 3 dimensions:
+1. **Context Relevance**: Is the retrieved information pertinent to the input query?
+2. **Answer Faithfulness**: Is the generated answer well-grounded in the retrieved context, without hallucination?
+3. **Answer Relevance**: Is the generated answer relevant to the query, given the context?
+
+ARES aims to automate this evaluation process efficiently and accurately.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Now let me explain the query filtering approach in detail based on the ARES paper and the cited works:
 

@@ -39,9 +39,7 @@ kanban-plugin: []
 - [ ] Optimizers(Adam)
 - [ ] Statistical analysis
 - [ ] SORT and SEARCH
-- [ ] Revise The models like XgBoost
 - [ ] Chatbot
-- [ ] Challenges in Projects
 - [ ] NLP
 - [ ] Revise Pytorch
 - [ ] GAN

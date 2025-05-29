@@ -454,33 +454,33 @@
 
 # 2025 Switch:
 
-| Applied           | Role(Work) | Pay  | Location | <center>Status</center>             | HR, num |
-| ----------------- | ---------- | ---- | -------- | ----------------------------------- | ------- |
-| John Deere        | GenAI      | 26   | MG Road  | <center>**Selected**</center>       | Priti   |
-| Rocket Softwares  |            |      |          | Finish mail questions               |         |
-| Hurmonics Global  |            | 30   |          | L1 reject! <sob  sob>               |         |
-| Maaze(Chandigarh) |            |      |          | L1 Select; L2 dropped               |         |
-| HCLTech           |            | 28.5 |          | **Selected**                        |         |
-| Deloitte          |            | 31   |          | **Selected**                        | Venu    |
-| EPAM              |            |      |          | L2 reject                           |         |
-| Lowe's            |            |      |          | Diff role                           |         |
-| Jaeggar           |            |      | Hyd      | L1 select (Hyd)                     |         |
-| IT Convergence    |            |      |          | L3 reject (System design interview) |         |
-| Quantiphi         |            |      |          | Not selected(agent, finetune)       |         |
-| Tiger Analytics   |            |      |          | Test pending; Dropped               |         |
-| Publicis Sapient  |            |      |          | L1 Select, Test pending; Dropped    |         |
-| EXL               |            |      |          |                                     |         |
-| Persistant        |            |      |          | L1 select                           |         |
-| Morgan Stanley    |            | 35   |          | **Selected**                        | Khushbu |
-| LTTS              |            |      |          | L1 select; L2 dropped               |         |
-| Society Generale  |            |      |          | L1 select; L2 dropped               |         |
-| NTT Data          |            |      |          | Rejected                            |         |
-| Newpage           |            |      | remote   | Coding round failed                 |         |
-| Synechron         |            | 33   |          | **Selected**                        | Mounika |
-| Chubb             |            | 32   |          | **Selected**                        | Jay     |
-| Impetus           |            |      |          | L1 reject, LOL                      |         |
-| Grid Dynamics     |            |      |          | Dropped                             |         |
-| UST               |            |      |          | L1 select; L2 dropped(Budget)       |         |
+| Applied            | Role(Work) | Pay    | Location | <center>Status</center>             | HR, num     |
+| ------------------ | ---------- | ------ | -------- | ----------------------------------- | ----------- |
+| John Deere         | GenAI      | 26     | MG Road  | <center>**Selected**</center>       | Priti       |
+| Rocket Softwares   |            |        |          | Finish mail questions               |             |
+| Hurmonics Global   |            | 30     |          | L1 reject! <sob  sob>               |             |
+| Maaze(Chandigarh)  |            |        |          | L1 Select; L2 dropped               |             |
+| HCLTech            |            | 28.5   |          | **Selected**                        |             |
+| Deloitte           |            | 31     |          | **Selected**                        | Venu        |
+| EPAM               |            |        |          | L2 reject                           |             |
+| Lowe's             |            |        |          | Diff role                           |             |
+| Jaeggar            |            |        | Hyd      | L1 select (Hyd)                     |             |
+| IT Convergence     |            |        |          | L3 reject (System design interview) |             |
+| Quantiphi          |            |        |          | Not selected(agent, finetune)       |             |
+| Tiger Analytics    |            |        |          | Test pending; Dropped               |             |
+| Publicis Sapient   |            |        |          | L1 Select, Test pending; Dropped    |             |
+| EXL                |            |        |          |                                     |             |
+| Persistant         |            |        |          | L1 select                           |             |
+| **Morgan Stanley** |            | **35** |          | **Selected**                        | **Khushbu** |
+| LTTS               |            |        |          | L1 select; L2 dropped               |             |
+| Society Generale   |            |        |          | L1 select; L2 dropped               |             |
+| NTT Data           |            |        |          | Rejected                            |             |
+| Newpage            |            |        | remote   | Coding round failed                 |             |
+| Synechron          |            | 33     |          | **Selected**                        | Mounika     |
+| Chubb              |            | 32     |          | **Selected**                        | Jay         |
+| Impetus            |            |        |          | L1 reject, LOL                      |             |
+| Grid Dynamics      |            |        |          | Dropped                             |             |
+| UST                |            |        |          | L1 select; L2 dropped(Budget)       |             |
 
 
 

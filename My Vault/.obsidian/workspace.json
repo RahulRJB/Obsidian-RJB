@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "a506043e04bace55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/Projects Details.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Projects Details"
-            }
-          },
-          {
             "id": "17e4f2b51d508be0",
             "type": "leaf",
             "state": {
@@ -152,6 +128,30 @@
             }
           },
           {
+            "id": "ca5b10b374271688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/ARES.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ARES"
+            }
+          },
+          {
             "id": "485afea106f385c3",
             "type": "leaf",
             "state": {
@@ -217,45 +217,9 @@
               "icon": "lucide-file",
               "title": "GOALS 2025"
             }
-          },
-          {
-            "id": "ca5b10b374271688",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Papers/ARES.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ARES"
-            }
-          },
-          {
-            "id": "a8a2bf4f015d75bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/ares.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ares"
-            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -461,37 +425,40 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a8a2bf4f015d75bb",
+  "active": "ca5b10b374271688",
   "lastOpenFiles": [
-    "Papers/ARES.pdf",
-    "Notes/ares.md",
-    "Notes/Asynchronous Programming.md",
+    "Notes/RAG.md",
+    "papers/ARES.md",
+    "Notes/papers.md",
+    "papers",
+    "Tracker/Lists.md",
+    "Tracker/22-05-25.md",
     "Tracker/GOALS 2025.md",
+    "Papers/ARES.pdf",
+    "Excalidraw/Drawing 2025-05-13 14.38.51.excalidraw.md",
+    "Attachments/Photo3.jpg",
+    "Notes/Linear Algebra.md",
+    "Notes/Asynchronous Programming.md",
+    "Notes/Multi AI Agent systems with CrewAI.md",
+    "Notes/NLP - UT Austin.md",
+    "Tracker/Projects Details.md",
     "Tracker/27-05-25.md",
     "Tracker/Dreams.md",
     "Papers/ARES.pdf.crdownload",
     "Papers",
     "New folder",
-    "Tracker/Lists.md",
-    "Tracker/22-05-25.md",
     "Tracker/15-05-25.md",
     "Tracker/19-05-25.md",
     "Tracker/17-05-25.md",
-    "Notes/Linear Algebra.md",
-    "Tracker/Projects Details.md",
     "Tracker/21-05-25.md",
     "Notes/SVD.md",
     "Tracker/DSA-Leetcode.md",
     "Notes/Maths.md",
-    "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Agentic AI.md",
     "Tracker/13-05-25.md",
     "Tracker/06-05-25.md",
-    "Notes/NLP - UT Austin.md",
     "Notes/SQL.md",
     "Notes/202505131440.md",
-    "Notes/202505131443.md",
-    "Notes/202505131442.md",
     "Attachments/Pasted image 20250411174210.png",
     "Attachments/Pasted image 20250404193420.png",
     "Attachments/Pasted image 20250404192401.png",
@@ -505,9 +472,7 @@
     "Attachments/Recording 20250402162153.webm",
     "Attachments/Pasted image 20250326203830.png",
     "Attachments/Pasted image 20250326203231.png",
-    "Attachments/Pasted image 20250324225403.png",
     "Tracker/2024",
-    "Tracker/New folder",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

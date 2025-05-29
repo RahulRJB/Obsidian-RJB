@@ -1,28 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "ares",
-      "path": "Notes/ares.md"
-    },
-    {
       "basename": "ARES",
-      "path": "Papers/ARES.pdf"
+      "path": "papers/ARES.md"
     },
     {
-      "basename": "Asynchronous Programming",
-      "path": "Notes/Asynchronous Programming.md"
+      "basename": "RAG",
+      "path": "Notes/RAG.md"
     },
     {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
-    },
-    {
-      "basename": "27-05-25",
-      "path": "Tracker/27-05-25.md"
-    },
-    {
-      "basename": "Dreams",
-      "path": "Tracker/Dreams.md"
+      "basename": "papers",
+      "path": "Notes/papers.md"
     },
     {
       "basename": "Lists",
@@ -33,16 +21,40 @@
       "path": "Tracker/22-05-25.md"
     },
     {
-      "basename": "15-05-25",
-      "path": "Tracker/15-05-25.md"
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
     },
     {
       "basename": "Linear Algebra",
       "path": "Notes/Linear Algebra.md"
     },
     {
+      "basename": "Asynchronous Programming",
+      "path": "Notes/Asynchronous Programming.md"
+    },
+    {
+      "basename": "Multi AI Agent systems with CrewAI",
+      "path": "Notes/Multi AI Agent systems with CrewAI.md"
+    },
+    {
+      "basename": "NLP - UT Austin",
+      "path": "Notes/NLP - UT Austin.md"
+    },
+    {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "27-05-25",
+      "path": "Tracker/27-05-25.md"
+    },
+    {
+      "basename": "Dreams",
+      "path": "Tracker/Dreams.md"
+    },
+    {
+      "basename": "15-05-25",
+      "path": "Tracker/15-05-25.md"
     },
     {
       "basename": "21-05-25",
@@ -61,24 +73,12 @@
       "path": "Notes/Maths.md"
     },
     {
-      "basename": "Multi AI Agent systems with CrewAI",
-      "path": "Notes/Multi AI Agent systems with CrewAI.md"
-    },
-    {
       "basename": "Agentic AI",
       "path": "Notes/Agentic AI.md"
     },
     {
-      "basename": "NLP - UT Austin",
-      "path": "Notes/NLP - UT Austin.md"
-    },
-    {
       "basename": "SQL",
       "path": "Notes/SQL.md"
-    },
-    {
-      "basename": "Drawing 2025-05-13 14.38.51.excalidraw",
-      "path": "Excalidraw/Drawing 2025-05-13 14.38.51.excalidraw.md"
     },
     {
       "basename": "Multithreading vs Multiprocessing",
@@ -155,10 +155,6 @@
     {
       "basename": "Partial Dependency Plot (pdp)",
       "path": "Notes/Partial Dependency Plot (pdp).md"
-    },
-    {
-      "basename": "RAG",
-      "path": "Notes/RAG.md"
     },
     {
       "basename": "SHAPRFECV",
