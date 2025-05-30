@@ -75,7 +75,7 @@ Bus- 16.4k, me
 Band - 8k, paid me
 Pandit- 25k
 Wedding Shoes- 1.4k
-Juta chori- 25k?
+Juta chori- 27.5k?
 Given Papa - 20k
 cosmetics - 17171/- paid me
 Wedding shoe - 1861/-, paid me
