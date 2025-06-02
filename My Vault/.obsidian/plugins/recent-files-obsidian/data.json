@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Prediction-Powered Inference",
-      "path": "Notes/Prediction-Powered Inference.md"
+      "basename": "02-06-25",
+      "path": "Tracker/02-06-25.md"
     },
     {
       "basename": "ARES",
       "path": "papers/ARES.md"
     },
     {
+      "basename": "Prediction-Powered Inference",
+      "path": "Notes/Prediction-Powered Inference.md"
+    },
+    {
+      "basename": "Statistics",
+      "path": "Notes/Statistics.md"
+    },
+    {
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
+    },
+    {
       "basename": "Marriage Plan",
       "path": "Tracker/Marriage Plan.md"
-    },
-    {
-      "basename": "RAG",
-      "path": "Notes/RAG.md"
-    },
-    {
-      "basename": "papers",
-      "path": "Notes/papers.md"
     },
     {
       "basename": "Lists",
@@ -29,8 +33,12 @@
       "path": "Tracker/22-05-25.md"
     },
     {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
+      "basename": "RAG",
+      "path": "Notes/RAG.md"
+    },
+    {
+      "basename": "papers",
+      "path": "Notes/papers.md"
     },
     {
       "basename": "Linear Algebra",
@@ -191,14 +199,6 @@
     {
       "basename": "Generative AI",
       "path": "Notes/Generative AI.md"
-    },
-    {
-      "basename": "Overfitting",
-      "path": "Notes/Overfitting.md"
-    },
-    {
-      "basename": "Variance",
-      "path": "Notes/Variance.md"
     }
   ],
   "omittedPaths": [],
