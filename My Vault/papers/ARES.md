@@ -17,18 +17,39 @@ https://www.alphaxiv.org/abs/2311.09476
 
 - This paper introduces **ARES (Automated RAG Evaluation System)**, a novel framework designed to automatically evaluate Retrieval-Augmented Generation ([[RAG]]) systems.
 
+
 - 2 main issues with traditional methods of tuning RAG systems are:
 1. **High Expertise Demand:** Both creating hand annotations for specific domains and evaluating systems in production by collecting human preferences require a significant level of expertise. This means it's not a task that can be easily done by anyone; it needs skilled individuals.
 2. **Considerable Annotation Costs:** Both strategies are expensive. Hand-annotating data is time-consuming and thus costly, and collecting human preferences in production also incurs substantial costs.
 
+
 - Model-based evaluation (LLMs as a judge), like that used in the RAGAS framework, lacks adaptability to various evaluation contexts and offers no guarantees about quality because it relies on a fixed set of heuristically hand-written prompts.
+
 
 - RAG system need to be evaluated on 3 dimensions:
 1. **Context Relevance**: Is the retrieved information pertinent to the input query? (Overlap with the ground context)
 2. **Answer Faithfulness**: Is the generated answer well-grounded in the retrieved context, without hallucination? (Answer is all from the context itself or hallucination)
 3. **Answer Relevance**: Is the generated answer relevant to the query, given the context? (Is the generated answer correct)
 
-- 
+
+- ARES evaluates RAG systems through a three-stage process:
+**1. Synthetic Dataset Construction:**
+
+- ARES begins with a corpus of in-domain passages (the text the RAG system will retrieve from).
+- It leverages a Language Model (LM) to generate a synthetic dataset of question-answer pairs derived from these passages. This is done automatically, reducing the need for humans to create these Q&A pairs.
+
+**2. Judge Model Definition and Training:**
+
+- ARES defines three separate "judge" models. These are classification models specifically designed to evaluate the RAG system along three key dimensions:
+    - Context Relevance: Is the retrieved passage relevant to the question?
+    - Answer Faithfulness: Is the generated answer faithful to the retrieved passage (i.e., not hallucinated)?
+    - Answer Relevance: Is the generated answer relevant to the original question?
+- These judge models are lightweight LMs fine-tuned using the synthetic dataset created in the first stage. They are trained with a contrastive learning objective, meaning they learn to distinguish between positive (good) and negative (bad) examples of each evaluation dimension.
+
+**3. Scoring with [[Prediction-Powered Inference]] (PPI):**
+
+- ARES scores the RAG systems using Prediction-Powered Inference (PPI). This is where the "human preference validation set" comes in. This set consists of a small number (around 150) of human-annotated data points, labeled for the three evaluation dimensions.
+- PPI uses these human annotations to improve the accuracy of the model-based evaluation and, crucially, to provide statistical confidence intervals for the RAG system's scores. In essence, PPI uses the human-labeled data to calibrate the predictions of the LM judges on a much larger set of unlabeled data, leading to more reliable and trustworthy evaluation metrics.
 
 
 

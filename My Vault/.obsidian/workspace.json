@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/ARES.md",
+                "file": "Notes/Prediction-Powered Inference.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ARES"
+              "title": "Prediction-Powered Inference"
             }
           },
           {
@@ -451,8 +451,9 @@
   },
   "active": "ca5b10b374271688",
   "lastOpenFiles": [
-    "Tracker/Marriage Plan.md",
     "papers/ARES.md",
+    "Notes/Prediction-Powered Inference.md",
+    "Tracker/Marriage Plan.md",
     "Notes/RAG.md",
     "Notes/papers.md",
     "papers",
@@ -482,7 +483,6 @@
     "Notes/Agentic AI.md",
     "Tracker/13-05-25.md",
     "Tracker/06-05-25.md",
-    "Notes/SQL.md",
     "Attachments/Pasted image 20250411174210.png",
     "Attachments/Pasted image 20250404193420.png",
     "Attachments/Pasted image 20250404192401.png",
