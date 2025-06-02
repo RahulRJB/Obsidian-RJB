@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "02-06-25",
-      "path": "Tracker/02-06-25.md"
-    },
-    {
       "basename": "ARES",
       "path": "papers/ARES.md"
+    },
+    {
+      "basename": "FLAN-T5",
+      "path": "Notes/FLAN-T5.md"
+    },
+    {
+      "basename": "Models",
+      "path": "Notes/Models.md"
+    },
+    {
+      "basename": "02-06-25",
+      "path": "Tracker/02-06-25.md"
     },
     {
       "basename": "Prediction-Powered Inference",
@@ -191,14 +199,6 @@
     {
       "basename": "VIF",
       "path": "Notes/VIF.md"
-    },
-    {
-      "basename": "LLMs",
-      "path": "Notes/LLMs.md"
-    },
-    {
-      "basename": "Generative AI",
-      "path": "Notes/Generative AI.md"
     }
   ],
   "omittedPaths": [],

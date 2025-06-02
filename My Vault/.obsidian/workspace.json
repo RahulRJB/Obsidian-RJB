@@ -421,14 +421,18 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "ca5b10b374271688",
   "lastOpenFiles": [
+    "Notes/FLAN-T5.md",
+    "Notes/Models.md",
+    "papers/ARES.md",
+    "Tracker/02-06-25.md",
     "Notes/Prediction-Powered Inference.md",
     "Notes/Statistics.md",
-    "papers/ARES.md",
     "Tracker/GOALS 2025.md",
     "Tracker/Marriage Plan.md",
     "Tracker/Lists.md",
@@ -455,9 +459,6 @@
     "Tracker/21-05-25.md",
     "Notes/SVD.md",
     "Tracker/DSA-Leetcode.md",
-    "Notes/Maths.md",
-    "Notes/Agentic AI.md",
-    "Tracker/13-05-25.md",
     "Attachments/Pasted image 20250411174210.png",
     "Attachments/Pasted image 20250404193420.png",
     "Attachments/Pasted image 20250404192401.png",

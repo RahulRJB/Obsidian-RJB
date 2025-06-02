@@ -33,23 +33,34 @@ https://www.alphaxiv.org/abs/2311.09476
 
 
 - ARES evaluates RAG systems through a three-stage process:
-**1. Synthetic Dataset Construction:**
+	**1. Synthetic Dataset Construction:**
+	- ARES begins with a corpus of in-domain passages (the text the RAG system will retrieve from).
+	- It leverages a Language Model (LM) to generate a synthetic dataset of question-answer pairs derived from these passages. This is done automatically, reducing the need for humans to create these Q&A pairs.
+	
+	**2. Judge Model Definition and Training:**
+	- ARES defines three separate "judge" models. These are classification models specifically designed to evaluate the RAG system along three key dimensions:
+	    - Context Relevance: Is the retrieved passage relevant to the question?
+	    - Answer Faithfulness: Is the generated answer faithful to the retrieved passage (i.e., not hallucinated)?
+	    - Answer Relevance: Is the generated answer relevant to the original question?
+	- These judge models are lightweight LMs fine-tuned using the synthetic dataset created in the first stage. They are trained with a contrastive learning objective, meaning they learn to distinguish between positive (good) and negative (bad) examples of each evaluation dimension.
+	
+	**3. Scoring with [[Prediction-Powered Inference]] (PPI):**
+	- ARES scores the RAG systems using Prediction-Powered Inference (PPI). This is where the "human preference validation set" comes in. This set consists of a small number (around 150) of human-annotated data points, labeled for the three evaluation dimensions.
+	- PPI uses these human annotations to improve the accuracy of the model-based evaluation and, crucially, to provide statistical confidence intervals for the RAG system's scores. In essence, PPI uses the human-labeled data to calibrate the predictions of the LM judges on a much larger set of unlabeled data, leading to more reliable and trustworthy evaluation metrics.
 
-- ARES begins with a corpus of in-domain passages (the text the RAG system will retrieve from).
-- It leverages a Language Model (LM) to generate a synthetic dataset of question-answer pairs derived from these passages. This is done automatically, reducing the need for humans to create these Q&A pairs.
 
-**2. Judge Model Definition and Training:**
+- LLM Generation of Synthetic Datasets:
+	- **Data Type:** The generated data includes both positive and negative examples of query-passage-answer triples (e.g., relevant/irrelevant passages and correct/incorrect answers).
+	- **Model Used:** Primarily [[FLAN-T5]] XXL, though ARES is flexible and can use other high-quality models.
+	- **Few-Shot Learning:** The LLM uses few-shot examples with in-domain passages mapped to in-domain queries and answers to generate the synthetic data.
+	- **Negative Generation:** Two novel strategies are used to generate negatives:
+	    - _Weak Negative Generation_: For context relevance negatives, we randomly sample in-domain passages unrelated to a given synthetic query. For answer faithfulness and answer relevance negatives, we randomly sample synthetically-generated answers from other passages, which were created using FLAN-T5 XXL.
+	    - _Strong Negative Generation_: For context relevance negatives, we randomly sample in-domain passages from the same document as the gold passage. For datasets in which multiple passages are not available for the same document, we use BM25 to retrieve the top10 passages similar to the passage and sample from them for our context relevance strong negatives. For answer faithfulness and answer relevance negatives, we prompt FLANT5 XXL to generate a contradictory answer using the few-shot prompt.
+	- **Equal Positives and Negatives:** The number of negatives generated equals the number of positives.
+	- **Filtering Low-Quality Queries:** Poor quality queries are filtered out if they cannot retrieve their original passage as the top result using the system's retriever.
 
-- ARES defines three separate "judge" models. These are classification models specifically designed to evaluate the RAG system along three key dimensions:
-    - Context Relevance: Is the retrieved passage relevant to the question?
-    - Answer Faithfulness: Is the generated answer faithful to the retrieved passage (i.e., not hallucinated)?
-    - Answer Relevance: Is the generated answer relevant to the original question?
-- These judge models are lightweight LMs fine-tuned using the synthetic dataset created in the first stage. They are trained with a contrastive learning objective, meaning they learn to distinguish between positive (good) and negative (bad) examples of each evaluation dimension.
 
-**3. Scoring with [[Prediction-Powered Inference]] (PPI):**
-
-- ARES scores the RAG systems using Prediction-Powered Inference (PPI). This is where the "human preference validation set" comes in. This set consists of a small number (around 150) of human-annotated data points, labeled for the three evaluation dimensions.
-- PPI uses these human annotations to improve the accuracy of the model-based evaluation and, crucially, to provide statistical confidence intervals for the RAG system's scores. In essence, PPI uses the human-labeled data to calibrate the predictions of the LM judges on a much larger set of unlabeled data, leading to more reliable and trustworthy evaluation metrics.
+- 
 
 
 
