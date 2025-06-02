@@ -49,7 +49,7 @@ https://www.alphaxiv.org/abs/2311.09476
 	- PPI uses these human annotations to improve the accuracy of the model-based evaluation and, crucially, to provide statistical confidence intervals for the RAG system's scores. In essence, PPI uses the human-labeled data to calibrate the predictions of the LM judges on a much larger set of unlabeled data, leading to more reliable and trustworthy evaluation metrics.
 
 
-- LLM Generation of Synthetic Datasets:
+- #### 3.1  LLM Generation of Synthetic Datasets:
 	- **Data Type:** The generated data includes both positive and negative examples of query-passage-answer triples (e.g., relevant/irrelevant passages and correct/incorrect answers).
 	- **Model Used:** Primarily [[FLAN-T5]] XXL, though ARES is flexible and can use other high-quality models.
 	- **Few-Shot Learning:** The LLM uses few-shot examples with in-domain passages mapped to in-domain queries and answers to generate the synthetic data.
@@ -60,7 +60,8 @@ https://www.alphaxiv.org/abs/2311.09476
 	- **Filtering Low-Quality Queries:** Poor quality queries are filtered out if they cannot retrieve their original passage as the top result using the system's retriever.
 
 
-- 
+- #### 3.2 Preparing LLM Judges:
+	- 
 
 
 
