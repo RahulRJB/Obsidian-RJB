@@ -49,7 +49,7 @@ https://www.alphaxiv.org/abs/2311.09476
 	- PPI uses these human annotations to improve the accuracy of the model-based evaluation and, crucially, to provide statistical confidence intervals for the RAG system's scores. In essence, PPI uses the human-labeled data to calibrate the predictions of the LM judges on a much larger set of unlabeled data, leading to more reliable and trustworthy evaluation metrics.
 
 
-- #### 3.1  LLM Generation of Synthetic Datasets:
+- ## 3.1  LLM Generation of Synthetic Datasets:
 	- **Data Type:** The generated data includes both positive and negative examples of query-passage-answer triples (e.g., relevant/irrelevant passages and correct/incorrect answers).
 	- **Model Used:** Primarily [[FLAN-T5]] XXL, though ARES is flexible and can use other high-quality models.
 	- **Few-Shot Learning:** The LLM uses few-shot examples with in-domain passages mapped to in-domain queries and answers to generate the synthetic data.
@@ -60,8 +60,55 @@ https://www.alphaxiv.org/abs/2311.09476
 	- **Filtering Low-Quality Queries:** Poor quality queries are filtered out if they cannot retrieve their original passage as the top result using the system's retriever.
 
 
-- #### 3.2 Preparing LLM Judges:
-	- 
+- ## 3.2 Preparing LLM Judges: 
+	## Three Evaluation Dimensions
+	
+	### 1. Context Relevance
+	
+	- **Question**: Is the passage returned relevant for answering the given query?
+	- **Purpose**: Evaluates the retriever component of the RAG system
+	
+	### 2. Answer Faithfulness
+	
+	- **Question**: Is the answer generated faithful to the retrieved passage, or does it contain hallucinated or extrapolated statements beyond the passage?
+	- **Purpose**: Evaluates whether the generator stays grounded in the provided context
+	
+	### 3. Answer Relevance
+	
+	- **Question**: Is the answer generated relevant given the query and retrieved passage?
+	- **Purpose**: Evaluates the overall quality and appropriateness of the generated response
+	
+	## Technical Implementation
+	
+	### Model Architecture
+	
+	- **Base Model**: DeBERTa-v3-Large (304M parameters)
+	- **Task**: Binary classification for each dimension
+	- **Input Format**: Concatenated query-document-answer triples
+	- **Output**: Positive/negative classification for each metric
+	
+	### Training Process
+	
+	- **Objective**: Contrastive learning framework
+	- **Data**: Uses synthetic positive and negative examples from Section 3.1
+	- **Separate Judges**: One fine-tuned model for each of the three evaluation dimensions
+	- **Early Stopping**: Uses human preference validation set to monitor improvement, stops after 3 epochs with no loss improvement
+	
+	### Training Configuration Details
+	
+	- **Loss Function**: Cross-entropy loss with Adam optimizer
+	- **Classification Head**: Single linear layer with 0.1 dropout on [CLS] token
+	- **Learning Rate**: 5e-6
+	- **Batch Size**: 32
+	- **Learning Schedule**: Linear warmup and linear decay
+	
+	## Key Features
+	
+	- **Lightweight**: Uses relatively small models (304M parameters) that can run on commercial GPUs
+	- **Domain-Adaptive**: Judges are fine-tuned on domain-specific synthetic data
+	- **Independent Evaluation**: Each component of the RAG pipeline can be evaluated separately
+	- **Validation-Guided**: Training process uses human preference validation set to prevent overfitting
+
 
 
 
