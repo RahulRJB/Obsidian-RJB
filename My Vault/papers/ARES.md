@@ -111,6 +111,77 @@ https://www.alphaxiv.org/abs/2311.09476
 
 
 
+- ## Section 3.3: Ranking RAG Systems with Confidence Intervals
+	## Core Process
+	
+	### Step 1: Judge Application
+	
+	- ARES samples in-domain query-document-answer triples from each RAG system being evaluated
+	- The three trained judges (context relevance, answer faithfulness, answer relevance) label each triple
+	- Individual predictions are averaged to calculate RAG system performance across the three metrics
+	
+	### Step 2: Challenge with Pure Model-Based Scoring
+	
+	- **Problem**: Scores from synthetically-trained LLM judges may not be entirely accurate
+	- **Alternative considered**: Using only human preference validation set for evaluation
+	- **Limitation**: Would require labeling substantially more outputs from each RAG system separately (costly in time and money)
+	
+	## Prediction-Powered Inference (PPI) Solution
+	
+	### What is PPI?
+	
+	- Recent statistical method that provides tighter confidence intervals
+	- Combines small set of annotated datapoints (validation set) with larger set of non-annotated datapoints
+	- Uses LLM judge predictions on both sets to construct confidence intervals
+	
+	### How PPI Works in ARES
+	
+	1. **Rectifier Function**: PPI uses LLM judges on the human preference validation set to learn a rectifier function
+	2. **Confidence Set Construction**: Creates confidence set for ML model performance using each ML prediction in the larger non-annotated dataset
+	3. **Interval Generation**: Produces tighter confidence intervals compared to using only annotated outputs
+	
+	### Benefits of PPI
+	
+	- **Enhanced Precision**: Bolsters human preference validation set with much larger set of ML predictions
+	- **Statistical Guarantees**: Develops reliable confidence intervals that outperform classical inference approaches
+	- **Error Estimation**: Allows estimation of LLM judge errors and generates confidence bounds for success/failure rates
+	
+	## Implementation Details
+	
+	### Confidence Level
+	
+	- Uses standard 95% alpha (probability) for confidence intervals
+	
+	### Ranking Method
+	
+	- Finds midpoint of each confidence interval for each RAG component
+	- Uses midpoints to rank RAG systems
+	- Enables comparison of different RAG systems and configurations
+	
+	### Practical Applications
+	
+	- Compare different RAG systems
+	- Compare different configurations of the same RAG system
+	- Identify best-performing approach for a given domain
+	
+	## Key Advantages
+	
+	1. **Combines Benefits**: Merges advantages of model-based evaluation with human annotation accuracy
+	2. **Cost Effective**: Reduces need for extensive human annotations while maintaining precision
+	3. **Statistical Rigor**: Provides confidence intervals rather than point estimates
+	4. **Scalable**: Works with large datasets while requiring minimal human input
+	
+	## Technical Requirements
+	
+	- Human preference validation set (~150-300 datapoints)
+	- Trained LLM judges from previous stages
+	- Sample of query-document-answer triples from RAG systems being evaluated
+
+
+- 
+
+
+
 
 
 
