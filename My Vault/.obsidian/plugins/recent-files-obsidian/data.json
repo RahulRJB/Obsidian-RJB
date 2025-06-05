@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "Maximum Likelihood",
+      "path": "Notes/Maximum Likelihood.md"
+    },
+    {
+      "basename": "22-05-25",
+      "path": "Tracker/22-05-25.md"
+    },
+    {
       "basename": "ARES",
       "path": "papers/ARES.md"
+    },
+    {
+      "basename": "Linear Algebra",
+      "path": "Notes/Linear Algebra.md"
+    },
+    {
+      "basename": "Multi AI Agent systems with CrewAI",
+      "path": "Notes/Multi AI Agent systems with CrewAI.md"
+    },
+    {
+      "basename": "Asynchronous Programming",
+      "path": "Notes/Asynchronous Programming.md"
+    },
+    {
+      "basename": "Agentic AI",
+      "path": "Notes/Agentic AI.md"
+    },
+    {
+      "basename": "NLP - UT Austin",
+      "path": "Notes/NLP - UT Austin.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
     },
     {
       "basename": "FLAN-T5",
@@ -25,20 +61,8 @@
       "path": "Notes/Statistics.md"
     },
     {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
-    },
-    {
       "basename": "Marriage Plan",
       "path": "Tracker/Marriage Plan.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
-    },
-    {
-      "basename": "22-05-25",
-      "path": "Tracker/22-05-25.md"
     },
     {
       "basename": "RAG",
@@ -47,22 +71,6 @@
     {
       "basename": "papers",
       "path": "Notes/papers.md"
-    },
-    {
-      "basename": "Linear Algebra",
-      "path": "Notes/Linear Algebra.md"
-    },
-    {
-      "basename": "Asynchronous Programming",
-      "path": "Notes/Asynchronous Programming.md"
-    },
-    {
-      "basename": "Multi AI Agent systems with CrewAI",
-      "path": "Notes/Multi AI Agent systems with CrewAI.md"
-    },
-    {
-      "basename": "NLP - UT Austin",
-      "path": "Notes/NLP - UT Austin.md"
     },
     {
       "basename": "Projects Details",
@@ -95,10 +103,6 @@
     {
       "basename": "Maths",
       "path": "Notes/Maths.md"
-    },
-    {
-      "basename": "Agentic AI",
-      "path": "Notes/Agentic AI.md"
     },
     {
       "basename": "SQL",
@@ -195,10 +199,6 @@
     {
       "basename": "WOE",
       "path": "Notes/WOE.md"
-    },
-    {
-      "basename": "VIF",
-      "path": "Notes/VIF.md"
     }
   ],
   "omittedPaths": [],

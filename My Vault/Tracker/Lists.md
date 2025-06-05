@@ -6,6 +6,8 @@ kanban-plugin: []
 
 ## TO study
 
+- [ ] Elo rating
+- [ ] Statistics like Hypothesis testing
 - [ ] Linear Algebra
 - [ ] SVD
 - [ ] Eigenvals
@@ -21,7 +23,6 @@ kanban-plugin: []
 - [ ] KL Divergence
 - [ ] Diffusion models
 - [ ] VLMs
-- [ ] Statistics like Hypothesis testing
 - [ ] pydantic
 - [ ] Regularization
 - [ ] Segregate all the bookmarks!
