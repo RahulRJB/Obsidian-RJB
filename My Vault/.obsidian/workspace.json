@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17e4f2b51d508be0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Agentic AI.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Agentic AI"
-            }
-          },
-          {
-            "id": "5f0395a05a217a27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Multi AI Agent systems with CrewAI.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Multi AI Agent systems with CrewAI"
-            }
-          },
-          {
             "id": "bdf4f01e712edf2c",
             "type": "leaf",
             "state": {
@@ -169,33 +121,9 @@
               "icon": "lucide-file",
               "title": "GOALS 2025"
             }
-          },
-          {
-            "id": "df27a0e15c9b526f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Maximum Likelihood.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Maximum Likelihood"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -401,14 +329,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "df27a0e15c9b526f",
+  "active": "2a63324f6116bf7d",
   "lastOpenFiles": [
-    "Tracker/22-05-25.md",
+    "Notes/Maximum Likelihood.md",
     "papers/ARES.md",
     "Notes/Linear Algebra.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
-    "Notes/Asynchronous Programming.md",
     "Notes/Agentic AI.md",
+    "Tracker/22-05-25.md",
+    "Notes/Asynchronous Programming.md",
     "Notes/NLP - UT Austin.md",
     "Tracker/Lists.md",
     "Tracker/GOALS 2025.md",
@@ -435,7 +364,6 @@
     "Tracker/19-05-25.md",
     "Tracker/17-05-25.md",
     "Tracker/21-05-25.md",
-    "Notes/SVD.md",
     "Attachments/Pasted image 20250411174210.png",
     "Attachments/Pasted image 20250404193420.png",
     "Attachments/Pasted image 20250404192401.png",

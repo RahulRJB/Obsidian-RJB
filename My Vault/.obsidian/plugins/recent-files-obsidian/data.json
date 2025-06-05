@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Maximum Likelihood",
-      "path": "Notes/Maximum Likelihood.md"
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
     },
     {
-      "basename": "22-05-25",
-      "path": "Tracker/22-05-25.md"
+      "basename": "Maximum Likelihood",
+      "path": "Notes/Maximum Likelihood.md"
     },
     {
       "basename": "ARES",
@@ -21,12 +21,16 @@
       "path": "Notes/Multi AI Agent systems with CrewAI.md"
     },
     {
-      "basename": "Asynchronous Programming",
-      "path": "Notes/Asynchronous Programming.md"
-    },
-    {
       "basename": "Agentic AI",
       "path": "Notes/Agentic AI.md"
+    },
+    {
+      "basename": "22-05-25",
+      "path": "Tracker/22-05-25.md"
+    },
+    {
+      "basename": "Asynchronous Programming",
+      "path": "Notes/Asynchronous Programming.md"
     },
     {
       "basename": "NLP - UT Austin",
@@ -35,10 +39,6 @@
     {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
-    },
-    {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
     },
     {
       "basename": "FLAN-T5",
