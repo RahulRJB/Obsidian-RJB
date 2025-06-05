@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
-    },
-    {
       "basename": "Maximum Likelihood",
       "path": "Notes/Maximum Likelihood.md"
+    },
+    {
+      "basename": "Bradley-Terry Model",
+      "path": "Notes/Bradley-Terry Model.md"
+    },
+    {
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
     },
     {
       "basename": "ARES",
@@ -195,10 +199,6 @@
     {
       "basename": "Information Value(IV)",
       "path": "Notes/Information Value(IV).md"
-    },
-    {
-      "basename": "WOE",
-      "path": "Notes/WOE.md"
     }
   ],
   "omittedPaths": [],
