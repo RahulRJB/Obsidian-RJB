@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
       "basename": "Text Summarization",
       "path": "Work/Text Summarization.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "NLP - UT Austin",
       "path": "Notes/NLP - UT Austin.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "FLAN-T5",

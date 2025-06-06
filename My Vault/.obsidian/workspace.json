@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -353,10 +353,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7993bd42e0bdec74",
+  "active": "793781750b5ccde7",
   "lastOpenFiles": [
-    "Notes/BLEU.md",
     "Work/Text Summarization.md",
+    "Notes/BLEU.md",
     "Work",
     "papers/ARES.md",
     "Tracker/GOALS 2025.md",

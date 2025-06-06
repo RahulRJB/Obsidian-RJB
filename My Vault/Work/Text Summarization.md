@@ -19,3 +19,5 @@ summarization_metric = SummarizationMetric()
 evaluate([test_case], [summarization_metric])
 ```
 
+Deepeval summarization score
+https://deepeval.com/docs/metrics-summarization
