@@ -4,6 +4,7 @@ https://www.confident-ai.com/blog/a-step-by-step-guide-to-evaluating-an-llm-text
 
 https://neptune.ai/blog/llm-evaluation-text-summarization
 
+https://medium.com/data-science/how-to-evaluate-llm-summarization-18a040c3905d
 
 ```python
 from deepeval import evaluate
