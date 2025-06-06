@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -353,8 +353,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "793781750b5ccde7",
+  "active": "7993bd42e0bdec74",
   "lastOpenFiles": [
+    "Tracker/Lists.md",
     "Work/Text Summarization.md",
     "Notes/BLEU.md",
     "Work",
@@ -369,7 +370,6 @@
     "Tracker/22-05-25.md",
     "Notes/Asynchronous Programming.md",
     "Notes/NLP - UT Austin.md",
-    "Tracker/Lists.md",
     "desktop.ini",
     "Notes/FLAN-T5.md",
     "Notes/Models.md",
