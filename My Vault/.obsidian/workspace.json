@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "7993bd42e0bdec74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/Text Summarization.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Text Summarization"
+            }
+          },
+          {
             "id": "485afea106f385c3",
             "type": "leaf",
             "state": {
@@ -121,33 +145,9 @@
               "icon": "lucide-file",
               "title": "GOALS 2025"
             }
-          },
-          {
-            "id": "e40be564494cbd67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Maximum Likelihood.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Maximum Likelihood"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -353,12 +353,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e40be564494cbd67",
+  "active": "7993bd42e0bdec74",
   "lastOpenFiles": [
-    "Notes/Bradley-Terry Model.md",
-    "Tracker/GOALS 2025.md",
-    "Notes/Maximum Likelihood.md",
+    "Notes/BLEU.md",
+    "Work/Text Summarization.md",
+    "Work",
     "papers/ARES.md",
+    "Tracker/GOALS 2025.md",
+    "Notes/Bradley-Terry Model.md",
+    "Notes/Maximum Likelihood.md",
+    "Notes/ROUGE.md",
     "Notes/Linear Algebra.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Agentic AI.md",
@@ -385,9 +389,6 @@
     "Papers/ARES.pdf.crdownload",
     "Papers",
     "New folder",
-    "Tracker/15-05-25.md",
-    "Tracker/19-05-25.md",
-    "Tracker/17-05-25.md",
     "Attachments/Pasted image 20250411174210.png",
     "Attachments/Pasted image 20250404193420.png",
     "Attachments/Pasted image 20250404192401.png",
@@ -398,7 +399,6 @@
     "Attachments/seg-10.pdf",
     "Attachments/Recording 20250402162601.webm",
     "Attachments/Recording 20250402163008.webm",
-    "Attachments/Recording 20250402162153.webm",
     "Attachments/Pasted image 20250326203830.png",
     "Attachments/Pasted image 20250326203231.png",
     "Untitled.canvas",

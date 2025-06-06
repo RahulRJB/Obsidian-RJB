@@ -14,40 +14,79 @@ Tags: [[Notes/RAG|RAG]] [[Notes/Evaluation|Evaluation]]
 
 # Content:
 
-- **ROUGE** is based on n-gram overlap and is more focused on surface-level similarity.
-First, let's understand why we need ROUGE. When we generate text (like in your RAG system's responses), we need a way to measure how good that text is compared to what a human would write. But measuring text quality automatically is tricky - there are many ways to say the same thing! This is where ROUGE comes in.
 
-Think of ROUGE like a teacher comparing a student's essay to a model answer. The teacher looks for matching words and phrases between the two. That's essentially what ROUGE does, but in a systematic way.
+ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a set of metrics used to evaluate the quality of automatically generated summaries by comparing them to one or more reference summaries. It measures the overlap between the generated text and reference text(s) using n-gram matching.
 
-The most common ROUGE variants are:
+## Core ROUGE Variants
 
-ROUGE-N: This looks at matching sequences of N words (called n-grams) between the generated text and the reference text. Let's break this down with an example:
+**ROUGE-N** measures n-gram overlap between generated and reference texts. The most common variants are:
 
-Reference: "The cat sat on the mat" Generated: "The cat lay on the mat"
+- **ROUGE-1**: Compares individual words (unigrams)
+- **ROUGE-2**: Compares word pairs (bigrams)
+- **ROUGE-3**: Compares word triplets (trigrams)
 
-For ROUGE-1 (single words):
+The formula for ROUGE-N is:
 
-- Matching words: "the", "cat", "on", "the", "mat"
-- Precision: 5/6 (5 matches out of 6 words generated)
-- Recall: 5/6 (5 matches out of 6 words in reference)
-- F1-score: The harmonic mean of precision and recall
+```
+ROUGE-N = (Count of matching n-grams) / (Count of n-grams in reference)
+```
 
-ROUGE-L: This looks at the Longest Common Subsequence (LCS) between the texts. It's more flexible because words don't need to be consecutive to match. For example:
+**ROUGE-L** measures the longest common subsequence (LCS) between texts. Unlike ROUGE-N, it doesn't require consecutive matches, making it more flexible for capturing structural similarity while maintaining word order.
 
-Reference: "The quick brown fox jumps" Generated: "The brown fox quickly jumps"
+**ROUGE-W** is a weighted version of ROUGE-L that gives higher scores to longer consecutive matches, rewarding coherent phrases over scattered word matches.
 
-Even though "quick" and "quickly" aren't in the same position, ROUGE-L can capture that they're part of a common sequence.
+**ROUGE-S** measures skip-bigram overlap, allowing for gaps between words in the bigrams. This captures longer-distance relationships between words.
 
-In your RAG system, ROUGE would be particularly useful for:
+## How ROUGE Works
 
-1. Testing System Quality: You could compare your system's responses to human-written "golden" responses and use ROUGE scores to measure how well your system performs.
-2. Comparing Versions: When you make changes to your retrieval or generation strategy, ROUGE scores can help you quantify if the changes actually improved output quality.
-3. Continuous Monitoring: You could set ROUGE score thresholds that your system's responses must meet before being shown to users.
+For each variant, ROUGE typically calculates three scores:
 
-However, it's important to understand ROUGE's limitations. Like all automatic metrics, it focuses on surface-level text similarity and might miss semantic similarities. For instance, if your system generates "The feline rested on the carpet" for our earlier example, ROUGE would show low scores despite the meaning being very similar.
+1. **Precision**: What fraction of n-grams in the generated text appear in the reference?
+2. **Recall**: What fraction of n-grams in the reference appear in the generated text?
+3. **F1-Score**: Harmonic mean of precision and recall
 
-That's why in practice, ROUGE is often used alongside other metrics like BERTScore (which captures semantic similarity better) and human evaluation. This creates a more complete picture of system performance.
+## Example Calculation
 
+Consider:
+
+- Reference: "The cat sat on the mat"
+- Generated: "A cat sat on a mat"
+
+For ROUGE-1:
+
+- Reference unigrams: {the, cat, sat, on, the, mat} → {the:2, cat:1, sat:1, on:1, mat:1}
+- Generated unigrams: {a, cat, sat, on, a, mat} → {a:2, cat:1, sat:1, on:1, mat:1}
+- Matching unigrams: cat, sat, on, mat (4 matches)
+- ROUGE-1 Recall: 4/6 = 0.67
+- ROUGE-1 Precision: 4/6 = 0.67
+- ROUGE-1 F1: 0.67
+
+## Strengths and Limitations
+
+**Strengths:**
+
+- Simple and intuitive to understand
+- Correlates reasonably well with human judgments
+- Fast to compute
+- Language-independent (works with any tokenizable text)
+
+**Limitations:**
+
+- Only measures lexical overlap, not semantic similarity
+- Doesn't account for synonyms or paraphrasing
+- Can miss cases where different words convey the same meaning
+- Sensitive to exact word matching rather than conceptual accuracy
+
+## Practical Applications
+
+ROUGE is widely used in:
+
+- Automatic text summarization evaluation
+- Machine translation quality assessment
+- Document comparison tasks
+- Natural language generation evaluation
+
+While ROUGE remains a standard benchmark, modern evaluation often combines it with semantic similarity metrics like BERTScore or human evaluation to get a more comprehensive assessment of text quality.
 
 
 

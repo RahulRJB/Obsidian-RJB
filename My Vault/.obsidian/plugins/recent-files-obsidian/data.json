@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Maximum Likelihood",
-      "path": "Notes/Maximum Likelihood.md"
+      "basename": "Text Summarization",
+      "path": "Work/Text Summarization.md"
     },
     {
-      "basename": "Bradley-Terry Model",
-      "path": "Notes/Bradley-Terry Model.md"
+      "basename": "BLEU",
+      "path": "Notes/BLEU.md"
+    },
+    {
+      "basename": "ARES",
+      "path": "papers/ARES.md"
     },
     {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
     },
     {
-      "basename": "ARES",
-      "path": "papers/ARES.md"
+      "basename": "Bradley-Terry Model",
+      "path": "Notes/Bradley-Terry Model.md"
+    },
+    {
+      "basename": "Maximum Likelihood",
+      "path": "Notes/Maximum Likelihood.md"
+    },
+    {
+      "basename": "ROUGE",
+      "path": "Notes/ROUGE.md"
     },
     {
       "basename": "Linear Algebra",
@@ -187,18 +199,6 @@
     {
       "basename": "SHAPRFECV",
       "path": "Notes/SHAPRFECV.md"
-    },
-    {
-      "basename": "SHAP",
-      "path": "Notes/SHAP.md"
-    },
-    {
-      "basename": "Stacking",
-      "path": "Notes/Stacking.md"
-    },
-    {
-      "basename": "Information Value(IV)",
-      "path": "Notes/Information Value(IV).md"
     }
   ],
   "omittedPaths": [],
