@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/10-06-25.md",
+                "file": "Work/Text Summarization.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10-06-25"
+              "title": "Text Summarization"
             }
           },
           {
@@ -355,10 +355,10 @@
   },
   "active": "7993bd42e0bdec74",
   "lastOpenFiles": [
-    "Work/Text Summarization.md",
-    "Tracker/10-06-25.md",
-    "Tracker/GOALS 2025.md",
     "desktop.ini",
+    "Tracker/10-06-25.md",
+    "Work/Text Summarization.md",
+    "Tracker/GOALS 2025.md",
     "Notes/Environment packaging.md",
     "Notes/venv.md",
     "Notes/CONDA.md",
@@ -382,7 +382,6 @@
     "Notes/Prediction-Powered Inference.md",
     "Notes/Statistics.md",
     "Tracker/Marriage Plan.md",
-    "Notes/RAG.md",
     "papers",
     "Papers/ARES.pdf",
     "Attachments/Photo3.jpg",
