@@ -5,20 +5,36 @@
       "path": "Work/Text Summarization.md"
     },
     {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
     },
     {
-      "basename": "BLEU",
-      "path": "Notes/BLEU.md"
+      "basename": "Environment packaging",
+      "path": "Notes/Environment packaging.md"
+    },
+    {
+      "basename": "venv",
+      "path": "Notes/venv.md"
+    },
+    {
+      "basename": "CONDA",
+      "path": "Notes/CONDA.md"
     },
     {
       "basename": "ARES",
       "path": "papers/ARES.md"
     },
     {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "BLEU",
+      "path": "Notes/BLEU.md"
     },
     {
       "basename": "Bradley-Terry Model",
@@ -87,10 +103,6 @@
     {
       "basename": "papers",
       "path": "Notes/papers.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "27-05-25",
@@ -187,18 +199,6 @@
     {
       "basename": "SentenceBERT",
       "path": "Notes/SentenceBERT.md"
-    },
-    {
-      "basename": "Sentence Transformers",
-      "path": "Notes/Sentence Transformers.md"
-    },
-    {
-      "basename": "Partial Dependency Plot (pdp)",
-      "path": "Notes/Partial Dependency Plot (pdp).md"
-    },
-    {
-      "basename": "SHAPRFECV",
-      "path": "Notes/SHAPRFECV.md"
     }
   ],
   "omittedPaths": [],
