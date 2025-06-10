@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Text Summarization.md",
+                "file": "Tracker/10-06-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Text Summarization"
+              "title": "10-06-25"
             }
           },
           {
@@ -355,13 +355,14 @@
   },
   "active": "7993bd42e0bdec74",
   "lastOpenFiles": [
+    "Work/Text Summarization.md",
+    "Tracker/10-06-25.md",
     "Tracker/GOALS 2025.md",
     "desktop.ini",
     "Notes/Environment packaging.md",
     "Notes/venv.md",
     "Notes/CONDA.md",
     "papers/ARES.md",
-    "Work/Text Summarization.md",
     "Tracker/Projects Details.md",
     "Tracker/Lists.md",
     "Notes/BLEU.md",

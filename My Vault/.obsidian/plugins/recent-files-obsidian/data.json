@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "10-06-25",
+      "path": "Tracker/10-06-25.md"
+    },
+    {
       "basename": "Text Summarization",
       "path": "Work/Text Summarization.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ViT",
       "path": "Notes/ViT.md"
-    },
-    {
-      "basename": "SentenceBERT",
-      "path": "Notes/SentenceBERT.md"
     }
   ],
   "omittedPaths": [],
