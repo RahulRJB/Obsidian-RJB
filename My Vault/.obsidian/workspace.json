@@ -152,7 +152,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/METEOR.md",
+                "file": "Tracker/12-06-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -167,7 +167,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "METEOR"
+              "title": "12-06-25"
             }
           }
         ],
@@ -373,14 +373,13 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "b950ed6bf7211d18",
   "lastOpenFiles": [
-    "Notes/ROUGE.md",
     "Notes/METEOR.md",
+    "Notes/ROUGE.md",
     "Work/Text Summarization.md",
     "Tracker/12-06-25.md",
     "Tracker/GOALS 2025.md",
