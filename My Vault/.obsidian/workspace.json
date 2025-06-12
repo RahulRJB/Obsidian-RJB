@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Text Summarization.md",
+                "file": "Notes/ROUGE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,31 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Text Summarization"
-            }
-          },
-          {
-            "id": "485afea106f385c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/22-05-25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "22-05-25"
+              "title": "ROUGE"
             }
           },
           {
@@ -145,9 +121,57 @@
               "icon": "lucide-file",
               "title": "GOALS 2025"
             }
+          },
+          {
+            "id": "8410764e58295ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/12-06-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "12-06-25"
+            }
+          },
+          {
+            "id": "b950ed6bf7211d18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/METEOR.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "METEOR"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -353,35 +377,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7993bd42e0bdec74",
+  "active": "b950ed6bf7211d18",
   "lastOpenFiles": [
+    "Notes/ROUGE.md",
+    "Notes/METEOR.md",
+    "Work/Text Summarization.md",
+    "Tracker/12-06-25.md",
+    "Tracker/GOALS 2025.md",
+    "Tracker/15-05-25.md",
+    "Tracker/Lists.md",
+    "Tracker/27-05-25.md",
+    "Tracker/21-05-25.md",
+    "Tracker/22-05-25.md",
     "desktop.ini",
     "Tracker/10-06-25.md",
-    "Work/Text Summarization.md",
-    "Tracker/GOALS 2025.md",
     "Notes/Environment packaging.md",
     "Notes/venv.md",
     "Notes/CONDA.md",
     "papers/ARES.md",
     "Tracker/Projects Details.md",
-    "Tracker/Lists.md",
     "Notes/BLEU.md",
     "Work",
     "Notes/Bradley-Terry Model.md",
     "Notes/Maximum Likelihood.md",
-    "Notes/ROUGE.md",
     "Notes/Linear Algebra.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Agentic AI.md",
-    "Tracker/22-05-25.md",
     "Notes/Asynchronous Programming.md",
     "Notes/NLP - UT Austin.md",
     "Notes/FLAN-T5.md",
     "Notes/Models.md",
-    "Tracker/02-06-25.md",
-    "Notes/Prediction-Powered Inference.md",
-    "Notes/Statistics.md",
-    "Tracker/Marriage Plan.md",
     "papers",
     "Papers/ARES.pdf",
     "Attachments/Photo3.jpg",

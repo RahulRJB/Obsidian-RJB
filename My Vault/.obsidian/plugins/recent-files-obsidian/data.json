@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "METEOR",
+      "path": "Notes/METEOR.md"
+    },
+    {
+      "basename": "ROUGE",
+      "path": "Notes/ROUGE.md"
+    },
+    {
       "basename": "Text Summarization",
       "path": "Work/Text Summarization.md"
     },
     {
-      "basename": "10-06-25",
-      "path": "Tracker/10-06-25.md"
+      "basename": "12-06-25",
+      "path": "Tracker/12-06-25.md"
     },
     {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
+    },
+    {
+      "basename": "15-05-25",
+      "path": "Tracker/15-05-25.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "10-06-25",
+      "path": "Tracker/10-06-25.md"
     },
     {
       "basename": "Environment packaging",
@@ -33,10 +53,6 @@
       "path": "Tracker/Projects Details.md"
     },
     {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
-    },
-    {
       "basename": "BLEU",
       "path": "Notes/BLEU.md"
     },
@@ -49,10 +65,6 @@
       "path": "Notes/Maximum Likelihood.md"
     },
     {
-      "basename": "ROUGE",
-      "path": "Notes/ROUGE.md"
-    },
-    {
       "basename": "Linear Algebra",
       "path": "Notes/Linear Algebra.md"
     },
@@ -63,10 +75,6 @@
     {
       "basename": "Agentic AI",
       "path": "Notes/Agentic AI.md"
-    },
-    {
-      "basename": "22-05-25",
-      "path": "Tracker/22-05-25.md"
     },
     {
       "basename": "Asynchronous Programming",
@@ -109,20 +117,8 @@
       "path": "Notes/papers.md"
     },
     {
-      "basename": "27-05-25",
-      "path": "Tracker/27-05-25.md"
-    },
-    {
       "basename": "Dreams",
       "path": "Tracker/Dreams.md"
-    },
-    {
-      "basename": "15-05-25",
-      "path": "Tracker/15-05-25.md"
-    },
-    {
-      "basename": "21-05-25",
-      "path": "Tracker/21-05-25.md"
     },
     {
       "basename": "SVD",
