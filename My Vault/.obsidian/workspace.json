@@ -8,6 +8,73 @@
         "type": "tabs",
         "children": [
           {
+            "id": "793781750b5ccde7",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Tracker/Lists.md",
+                "kanbanViewState": {
+                  "kanban-plugin": [],
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Lists"
+            }
+          },
+          {
+            "id": "8410764e58295ff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/12-06-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "12-06-25"
+            }
+          },
+          {
+            "id": "2a63324f6116bf7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/GOALS 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "GOALS 2025"
+            }
+          },
+          {
             "id": "bdf4f01e712edf2c",
             "type": "leaf",
             "state": {
@@ -80,79 +147,12 @@
             }
           },
           {
-            "id": "793781750b5ccde7",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Tracker/Lists.md",
-                "kanbanViewState": {
-                  "kanban-plugin": [],
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Lists"
-            }
-          },
-          {
-            "id": "2a63324f6116bf7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/GOALS 2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "GOALS 2025"
-            }
-          },
-          {
-            "id": "8410764e58295ff7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/12-06-25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "12-06-25"
-            }
-          },
-          {
             "id": "b950ed6bf7211d18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/12-06-25.md",
+                "file": "Notes/METEOR.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -167,7 +167,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "12-06-25"
+              "title": "METEOR"
             }
           }
         ],
@@ -373,15 +373,18 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "b950ed6bf7211d18",
   "lastOpenFiles": [
+    "Notes/BLEU.md",
+    "Notes/Untitled.md",
     "Notes/METEOR.md",
+    "Tracker/12-06-25.md",
     "Notes/ROUGE.md",
     "Work/Text Summarization.md",
-    "Tracker/12-06-25.md",
     "Tracker/GOALS 2025.md",
     "Tracker/15-05-25.md",
     "Tracker/Lists.md",
@@ -395,7 +398,6 @@
     "Notes/CONDA.md",
     "papers/ARES.md",
     "Tracker/Projects Details.md",
-    "Notes/BLEU.md",
     "Work",
     "Notes/Bradley-Terry Model.md",
     "Notes/Maximum Likelihood.md",
@@ -405,7 +407,6 @@
     "Notes/Asynchronous Programming.md",
     "Notes/NLP - UT Austin.md",
     "Notes/FLAN-T5.md",
-    "Notes/Models.md",
     "papers",
     "Papers/ARES.pdf",
     "Attachments/Photo3.jpg",

@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "12-06-25",
-      "path": "Tracker/12-06-25.md"
-    },
-    {
       "basename": "METEOR",
       "path": "Notes/METEOR.md"
+    },
+    {
+      "basename": "BLEU",
+      "path": "Notes/BLEU.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Notes/Untitled.md"
+    },
+    {
+      "basename": "12-06-25",
+      "path": "Tracker/12-06-25.md"
     },
     {
       "basename": "ROUGE",
@@ -51,10 +59,6 @@
     {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
-    },
-    {
-      "basename": "BLEU",
-      "path": "Notes/BLEU.md"
     },
     {
       "basename": "Bradley-Terry Model",
