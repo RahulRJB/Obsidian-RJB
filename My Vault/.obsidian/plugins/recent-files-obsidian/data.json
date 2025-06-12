@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Text Summarization",
+      "path": "Work/Text Summarization.md"
+    },
+    {
+      "basename": "METEOR",
+      "path": "Notes/METEOR.md"
+    },
+    {
+      "basename": "ARES",
+      "path": "papers/ARES.md"
+    },
+    {
       "basename": "BLEU",
       "path": "Notes/BLEU.md"
     },
@@ -9,20 +21,12 @@
       "path": "Notes/ROUGE.md"
     },
     {
-      "basename": "METEOR",
-      "path": "Notes/METEOR.md"
-    },
-    {
       "basename": "Untitled",
       "path": "Notes/Untitled.md"
     },
     {
       "basename": "12-06-25",
       "path": "Tracker/12-06-25.md"
-    },
-    {
-      "basename": "Text Summarization",
-      "path": "Work/Text Summarization.md"
     },
     {
       "basename": "GOALS 2025",
@@ -51,10 +55,6 @@
     {
       "basename": "CONDA",
       "path": "Notes/CONDA.md"
-    },
-    {
-      "basename": "ARES",
-      "path": "papers/ARES.md"
     },
     {
       "basename": "Projects Details",
