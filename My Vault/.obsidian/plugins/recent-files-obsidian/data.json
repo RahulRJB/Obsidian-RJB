@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "METEOR",
-      "path": "Notes/METEOR.md"
-    },
-    {
       "basename": "BLEU",
       "path": "Notes/BLEU.md"
+    },
+    {
+      "basename": "ROUGE",
+      "path": "Notes/ROUGE.md"
+    },
+    {
+      "basename": "METEOR",
+      "path": "Notes/METEOR.md"
     },
     {
       "basename": "Untitled",
@@ -15,10 +19,6 @@
     {
       "basename": "12-06-25",
       "path": "Tracker/12-06-25.md"
-    },
-    {
-      "basename": "ROUGE",
-      "path": "Notes/ROUGE.md"
     },
     {
       "basename": "Text Summarization",
