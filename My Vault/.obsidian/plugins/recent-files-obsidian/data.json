@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "ARES",
+      "path": "papers/ARES.md"
+    },
+    {
       "basename": "Text Summarization",
       "path": "Work/Text Summarization.md"
     },
     {
-      "basename": "METEOR",
-      "path": "Notes/METEOR.md"
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
     },
     {
-      "basename": "ARES",
-      "path": "papers/ARES.md"
+      "basename": "METEOR",
+      "path": "Notes/METEOR.md"
     },
     {
       "basename": "BLEU",
@@ -55,10 +59,6 @@
     {
       "basename": "CONDA",
       "path": "Notes/CONDA.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "Bradley-Terry Model",

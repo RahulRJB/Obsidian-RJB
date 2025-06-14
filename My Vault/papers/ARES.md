@@ -67,7 +67,7 @@ https://www.alphaxiv.org/abs/2311.09476
 	
 	- **Question**: Is the passage returned relevant for answering the given query?
 	- **Purpose**: Evaluates the retriever component of the RAG system
-	
+	.
 	### 2. Answer Faithfulness
 	
 	- **Question**: Is the answer generated faithful to the retrieved passage, or does it contain hallucinated or extrapolated statements beyond the passage?
