@@ -5,6 +5,14 @@
       "path": "papers/ARES.md"
     },
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "12-06-25",
+      "path": "Tracker/12-06-25.md"
+    },
+    {
       "basename": "Text Summarization",
       "path": "Work/Text Summarization.md"
     },
@@ -29,20 +37,12 @@
       "path": "Notes/Untitled.md"
     },
     {
-      "basename": "12-06-25",
-      "path": "Tracker/12-06-25.md"
-    },
-    {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
     },
     {
       "basename": "15-05-25",
       "path": "Tracker/15-05-25.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "10-06-25",

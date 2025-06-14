@@ -6,15 +6,15 @@ kanban-plugin: []
 
 ## TO study
 
-- [ ] Elo rating
 - [ ] Statistics like Hypothesis testing
+- [ ] Agents course
 - [ ] Linear Algebra
 - [ ] SVD
 - [ ] Eigenvals
+- [ ] Elo rating
 - [ ] Book chap2-7; 13
 - [ ] Pytorch
 - [ ] Asyncio
-- [ ] Agents course
 - [ ] NLP UT Austin
 - [ ] Gemma3 training
 - [ ] GBTs revise
