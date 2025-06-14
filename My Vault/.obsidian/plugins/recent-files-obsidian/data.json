@@ -5,6 +5,10 @@
       "path": "papers/ARES.md"
     },
     {
+      "basename": "Kendall’s τ",
+      "path": "Notes/Kendall’s τ.md"
+    },
+    {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Diffusion Models",
       "path": "Notes/Diffusion Models.md"
-    },
-    {
-      "basename": "ViT",
-      "path": "Notes/ViT.md"
     }
   ],
   "omittedPaths": [],
