@@ -27,12 +27,12 @@
             }
           },
           {
-            "id": "8410764e58295ff7",
+            "id": "b901444b747f360e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/12-06-25.md",
+                "file": "Tracker/16-06-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -47,7 +47,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "12-06-25"
+              "title": "16-06-25"
             }
           },
           {
@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/15-06-25.md",
+                "file": "papers/ARES.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -119,7 +119,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "15-06-25"
+              "title": "ARES"
             }
           },
           {
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -353,14 +353,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ca5b10b374271688",
+  "active": "b901444b747f360e",
   "lastOpenFiles": [
-    "papers/ARES.md",
     "Tracker/15-06-25.md",
+    "Tracker/16-06-25.md",
+    "Tracker/12-06-25.md",
+    "papers/ARES.md",
     "Attachments/Pasted image 20250614175032.png",
     "Notes/Kendall’s τ.md",
     "Tracker/Lists.md",
-    "Tracker/12-06-25.md",
     "Work/Text Summarization.md",
     "Tracker/Projects Details.md",
     "Notes/METEOR.md",
@@ -383,7 +384,6 @@
     "Notes/Linear Algebra.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Agentic AI.md",
-    "Notes/Asynchronous Programming.md",
     "papers",
     "Papers/ARES.pdf",
     "Attachments/Photo3.jpg",
