@@ -359,6 +359,21 @@ Section 6 provides a summary of the contributions and key outcomes of the ARES f
 ARES constitutes a powerful, data-efficient, and extensible solution for automated RAG evaluation, with demonstrated empirical advantages and strong potential for further advancement in the field.
 
 
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Now let me explain the query filtering approach in detail based on the ARES paper and the cited works:
 
 ## Query Filtering for Synthetic Data Quality
