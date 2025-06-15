@@ -283,11 +283,58 @@ Section 5.2 evaluates ARES’s ability to measure **answer faithfulness** in r
 - Successful faithfulness detection in AIS demonstrates ARES’s promise for use in tasks where controlling factual accuracy is critical, such as fact-checking or complex QA.
 
 
-- 
+- ## **Section 5.3: ARES Ranking of Existing RAG Systems**
+
+Section 5.3 tests ARES on real, existing RAG systems to evaluate its practical ranking performance outside of synthetic mock-ups. The focus is on how accurately and reliably ARES can score and differentiate commercial or research RAG pipelines across context relevance and answer relevance, using publicly available datasets.
+
+**Experimental Setup:**
+
+- Datasets used: Natural Questions (NQ), Wizards of Wikipedia (WoW), and FEVER—all from the KILT benchmark.
+- Existing RAG systems compared include combinations of three different retrievers (BM25, OpenAI Ada embeddings, ColBERTv2) and three generative LLMs (MPT-7b-Instruct, GPT-3.5-Turbo, GPT-4), plus the Facebook RAG model (DPR retriever + BART generator).
+- Each RAG system retrieves one passage per query to support answer generation.
+- System outputs are scored for context relevance and answer relevance. An answer is considered correct if it includes the ground truth KILT answer.
+
+**Results:**
+
+- **ARES achieves high ranking accuracy:** The average Kendall’s τ is 0.91 for context relevance and 0.97 for answer relevance, showing that ARES ranks RAG systems nearly identically to ground truth.
+- **ARES vs. RAGAS:** ARES’s Kendall’s τ is 0.16 higher (context) and 0.15 higher (answer relevance) than RAGAS, and ARES consistently provides more accurate system rankings.
+- **ARES provides accurate confidence intervals** using PPI (Prediction-Powered Inference), with intervals typically 6–7 percentage points wide and covering the true ground-truth system scores more than 95% of the time.
+- Among retrievers, ColBERTv2 performs best; among generators, GPT-4 performs best in the tested configuration.
+
+**Conclusion:**  
+ARES can reliably score and rank both new and established RAG systems in real-world applications, giving practitioners both accurate rankings and meaningful statistical confidence. This enables more informed decisions when comparing pipeline architectures, components, or parameterizations.
 
 
 
+- ## **Section 5.4: Strengths and Limits of Cross-Domain Applications – Reference Notes**
 
+Section 5.4 investigates how well the ARES framework generalizes to new domains—specifically, how the fine-tuned LLM judges used by ARES perform when the type of query, document, or both, changes from the training data to the evaluation data.
+
+**Cross-Domain Testing Setup:**
+
+- The authors consider several types of domain shift:
+    - Change in query type (e.g., trained on NQ, tested on FEVER)
+    - Change in document type (e.g., trained on NQ, tested on MultiRC)
+    - Change in both query and document types (e.g., trained on NQ, tested on ReCoRD)
+- They evaluate ARES's fine-tuned judges across these cross-domain conditions using KILT and SuperGLUE benchmarks.
+- Prediction-Powered Inference (PPI) is employed with 300 human-annotated points to mitigate drops in out-of-domain accuracy.
+
+**Key Findings:**
+
+- **ARES shows strong cross-domain generalizability** for both context relevance and answer relevance: the fine-tuned judges retain high ranking accuracy (Kendall’s τ values remain high) even when facing substantial domain shifts within English-language, text-based settings.
+- **PPI helps stabilize cross-domain performance:** Even when LLM judge accuracy dips out-of-domain, adding more validation examples improves results, and PPI keeps ranking reliability high.
+- **Limits to generalization:** ARES judges do not generalize well when faced with extreme domain shifts, such as:
+    - Switching languages (e.g., English to Spanish or German)
+    - Switching modalities (e.g., from text retrieval to code or entity extraction tasks)
+    - Non-text domains or highly specialized domains without in-domain tuning and examples
+- Example cross-domain tests:
+    - On the XGLUE cross-lingual dataset, a judge fine-tuned on NQ achieves much lower Kendall’s τ (about 0.33).
+    - For code retrieval (CodeSearchNet), τ drops to around 0.28.
+    - For entity extraction (T-Rex), τ is about 0.38.
+- To adapt to new domains or modalities, ARES requires new in-domain passages and a small set of in-domain query examples for effective reconfiguration.
+
+**Practical Implication:**  
+ARES is dependable for cross-domain RAG evaluation within natural language, English text settings, especially when modest in-domain labeling is feasible. However, direct transfer to fundamentally new tasks (cross-lingual, code, extraction) demands retraining or adaptation with domain-specific data.
 
 
 
