@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "15-06-25",
+      "path": "Tracker/15-06-25.md"
+    },
+    {
       "basename": "ARES",
       "path": "papers/ARES.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Generators",
       "path": "Notes/Generators.md"
-    },
-    {
-      "basename": "Diffusion Models",
-      "path": "Notes/Diffusion Models.md"
     }
   ],
   "omittedPaths": [],

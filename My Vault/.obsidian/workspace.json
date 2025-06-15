@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/ARES.md",
+                "file": "Tracker/15-06-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -119,7 +119,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ARES"
+              "title": "15-06-25"
             }
           },
           {
@@ -355,9 +355,10 @@
   },
   "active": "ca5b10b374271688",
   "lastOpenFiles": [
+    "papers/ARES.md",
+    "Tracker/15-06-25.md",
     "Attachments/Pasted image 20250614175032.png",
     "Notes/Kendall’s τ.md",
-    "papers/ARES.md",
     "Tracker/Lists.md",
     "Tracker/12-06-25.md",
     "Work/Text Summarization.md",
@@ -400,7 +401,6 @@
     "Attachments/Recording 20250402162601.webm",
     "Attachments/Recording 20250402163008.webm",
     "Attachments/Pasted image 20250326203830.png",
-    "Attachments/Pasted image 20250326203231.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
