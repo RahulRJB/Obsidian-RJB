@@ -11,7 +11,7 @@ kanban-plugin: []
 - [ ] Linear Algebra
 - [ ] SVD
 - [ ] Eigenvals
-- [ ] Elo rating
+- [ ] Sebastian Raschaka Book - LLM
 - [ ] Book chap2-7; 13
 - [ ] Pytorch
 - [ ] Asyncio

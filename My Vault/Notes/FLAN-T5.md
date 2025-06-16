@@ -14,9 +14,9 @@ Tags: [[Notes/LLMs|LLMs]] [[Models]]
 
 # Content:
 
-- **Powerful, open-source language model** developed by Google.
-- Undergoes extensive instruction fine-tuning which makes it particularly adept at **zero-shot and few-shot learning**.  
-- It demonstrates strong performance across a wide range of tasks, including translation, question answering, reasoning, and text generation, and supports multiple languages like English, German, and French.
+FLAN-T5 XXL is a **powerful, open-source language model** developed by Google. It's an enhanced version of the T5 (Text-to-Text Transfer Transformer) model, specifically fine-tuned on a massive collection of over 1000 diverse NLP tasks using an instruction-tuning approach. The "XXL" denotes its size, indicating it has **11 billion parameters**, making it one of the largest and most capable variants in the FLAN-T5 family.
+
+This extensive instruction fine-tuning makes FLAN-T5 XXL particularly adept at **zero-shot and few-shot learning**. This means it can often perform tasks it hasn't been explicitly trained on, or with very few examples, by understanding natural language instructions. It demonstrates strong performance across a wide range of tasks, including translation, question answering, reasoning, and text generation, and supports multiple languages like English, German, and French
 
 ---
 

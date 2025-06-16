@@ -145,9 +145,33 @@
               "icon": "lucide-file",
               "title": "Text Summarization"
             }
+          },
+          {
+            "id": "2251d1eca9d8d9f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/venv.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "venv"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -353,15 +377,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b901444b747f360e",
+  "active": "2251d1eca9d8d9f1",
   "lastOpenFiles": [
-    "Tracker/15-06-25.md",
+    "Notes/FLAN-T5.md",
+    "Tracker/Lists.md",
+    "Notes/Encoder Models.md",
+    "Notes/BERT.md",
+    "Notes/GLUE.md",
+    "Notes/Encoder.md",
     "Tracker/16-06-25.md",
+    "Tracker/15-06-25.md",
     "Tracker/12-06-25.md",
     "papers/ARES.md",
     "Attachments/Pasted image 20250614175032.png",
     "Notes/Kendall’s τ.md",
-    "Tracker/Lists.md",
     "Work/Text Summarization.md",
     "Tracker/Projects Details.md",
     "Notes/METEOR.md",
@@ -379,11 +408,6 @@
     "Notes/venv.md",
     "Notes/CONDA.md",
     "Work",
-    "Notes/Bradley-Terry Model.md",
-    "Notes/Maximum Likelihood.md",
-    "Notes/Linear Algebra.md",
-    "Notes/Multi AI Agent systems with CrewAI.md",
-    "Notes/Agentic AI.md",
     "papers",
     "Papers/ARES.pdf",
     "Attachments/Photo3.jpg",

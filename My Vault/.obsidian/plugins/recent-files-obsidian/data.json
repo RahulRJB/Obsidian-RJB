@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "venv",
+      "path": "Notes/venv.md"
+    },
+    {
+      "basename": "FLAN-T5",
+      "path": "Notes/FLAN-T5.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "Encoder Models",
+      "path": "Notes/Encoder Models.md"
+    },
+    {
+      "basename": "BERT",
+      "path": "Notes/BERT.md"
+    },
+    {
+      "basename": "GLUE",
+      "path": "Notes/GLUE.md"
+    },
+    {
+      "basename": "Encoder",
+      "path": "Notes/Encoder.md"
+    },
+    {
       "basename": "16-06-25",
       "path": "Tracker/16-06-25.md"
     },
@@ -15,10 +43,6 @@
     {
       "basename": "Kendall’s τ",
       "path": "Notes/Kendall’s τ.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "Text Summarization",
@@ -61,10 +85,6 @@
       "path": "Notes/Environment packaging.md"
     },
     {
-      "basename": "venv",
-      "path": "Notes/venv.md"
-    },
-    {
       "basename": "CONDA",
       "path": "Notes/CONDA.md"
     },
@@ -95,10 +115,6 @@
     {
       "basename": "NLP - UT Austin",
       "path": "Notes/NLP - UT Austin.md"
-    },
-    {
-      "basename": "FLAN-T5",
-      "path": "Notes/FLAN-T5.md"
     },
     {
       "basename": "Models",
@@ -183,22 +199,6 @@
     {
       "basename": "ViLBERT",
       "path": "Notes/ViLBERT.md"
-    },
-    {
-      "basename": "SigLIP",
-      "path": "Notes/SigLIP.md"
-    },
-    {
-      "basename": "CLIP",
-      "path": "Notes/CLIP.md"
-    },
-    {
-      "basename": "Multimodal",
-      "path": "Notes/Multimodal.md"
-    },
-    {
-      "basename": "Generators",
-      "path": "Notes/Generators.md"
     }
   ],
   "omittedPaths": [],

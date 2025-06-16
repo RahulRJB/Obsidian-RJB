@@ -20,9 +20,8 @@ The `venv` module comes built into Python 3.3 and later, so you don't need to in
 
 Let's start with the basic command to create a virtual environment. Navigate to your project directory in your terminal and run:
 
-bash
 
-```bash
+```
 python -m venv myproject_env
 ```
 
@@ -36,9 +35,7 @@ Creating the environment is just the first step. To actually use it, you need to
 
 **On Windows:**
 
-bash
-
-```bash
+```
 myproject_env\Scripts\activate
 ```
 

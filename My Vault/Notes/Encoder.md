@@ -5,7 +5,7 @@
 DATE:  06-06-24
 
 
-Tags: [[Notes/Transformers|Transformers]]  [[Notes/Decoder|Decoder]]
+Tags: [[Encoder Models]] [[Notes/Transformers|Transformers]]  [[Notes/Decoder|Decoder]] 
 
 # References:
 
