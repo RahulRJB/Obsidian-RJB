@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Encoder Models",
-      "path": "Notes/Encoder Models.md"
+      "basename": "vLLM",
+      "path": "Notes/vLLM.md"
+    },
+    {
+      "basename": "inferencing",
+      "path": "Notes/inferencing.md"
     },
     {
       "basename": "ARES",
       "path": "papers/ARES.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
+    },
+    {
+      "basename": "Encoder Models",
+      "path": "Notes/Encoder Models.md"
     },
     {
       "basename": "16-06-25",
@@ -23,10 +39,6 @@
     {
       "basename": "venv",
       "path": "Notes/venv.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "BERT",
@@ -67,10 +79,6 @@
     {
       "basename": "Untitled",
       "path": "Notes/Untitled.md"
-    },
-    {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
     },
     {
       "basename": "15-05-25",
@@ -191,10 +199,6 @@
     {
       "basename": "VLM",
       "path": "Notes/VLM.md"
-    },
-    {
-      "basename": "ViLBERT",
-      "path": "Notes/ViLBERT.md"
     }
   ],
   "omittedPaths": [],
