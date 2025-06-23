@@ -27,30 +27,6 @@
             }
           },
           {
-            "id": "b901444b747f360e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/23-06-25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "23-06-25"
-            }
-          },
-          {
             "id": "2a63324f6116bf7d",
             "type": "leaf",
             "state": {
@@ -98,8 +74,7 @@
               "title": "ARES"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,10 +280,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b901444b747f360e",
+  "active": "86b01602b1c1be4d",
   "lastOpenFiles": [
-    "Tracker/16-06-25.md",
     "Tracker/23-06-25.md",
+    "Tracker/16-06-25.md",
     "papers/ARES.md",
     "Notes/vLLM.md",
     "Notes/inferencing.md",
