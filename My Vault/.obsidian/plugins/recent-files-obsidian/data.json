@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "23-06-25",
+      "path": "Tracker/23-06-25.md"
+    },
+    {
+      "basename": "16-06-25",
+      "path": "Tracker/16-06-25.md"
+    },
+    {
+      "basename": "ARES",
+      "path": "papers/ARES.md"
+    },
+    {
       "basename": "vLLM",
       "path": "Notes/vLLM.md"
     },
     {
       "basename": "inferencing",
       "path": "Notes/inferencing.md"
-    },
-    {
-      "basename": "ARES",
-      "path": "papers/ARES.md"
     },
     {
       "basename": "Lists",
@@ -23,10 +31,6 @@
     {
       "basename": "Encoder Models",
       "path": "Notes/Encoder Models.md"
-    },
-    {
-      "basename": "16-06-25",
-      "path": "Tracker/16-06-25.md"
     },
     {
       "basename": "Linear Algebra",
@@ -195,10 +199,6 @@
     {
       "basename": "Course",
       "path": "Notes/Course.md"
-    },
-    {
-      "basename": "VLM",
-      "path": "Notes/VLM.md"
     }
   ],
   "omittedPaths": [],
