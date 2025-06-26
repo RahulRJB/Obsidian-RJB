@@ -7,11 +7,11 @@ kanban-plugin: []
 ## TO study
 
 - [ ] Statistics like Hypothesis testing
+- [ ] Sebastian Raschaka Book - LLM
 - [ ] Agents course
 - [ ] Linear Algebra
 - [ ] SVD
 - [ ] Eigenvals
-- [ ] Sebastian Raschaka Book - LLM
 - [ ] Book chap2-7; 13
 - [ ] Pytorch
 - [ ] Asyncio

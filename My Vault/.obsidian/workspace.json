@@ -75,31 +75,16 @@
             }
           },
           {
-            "id": "2a1298cfe4e9bfcf",
+            "id": "e013b1d4ebce68e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/HDBSCAN.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "HDBSCAN"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,12 +290,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2a1298cfe4e9bfcf",
+  "active": "793781750b5ccde7",
   "lastOpenFiles": [
+    "papers/ARES.md",
+    "Notes/HDBSCAN.md",
     "desktop.ini",
     "Tracker/16-06-25.md",
     "Tracker/23-06-25.md",
-    "papers/ARES.md",
     "Notes/vLLM.md",
     "Notes/inferencing.md",
     "Tracker/Lists.md",

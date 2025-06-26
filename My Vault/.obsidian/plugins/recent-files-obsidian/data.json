@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
+    },
+    {
+      "basename": "ARES",
+      "path": "papers/ARES.md"
+    },
+    {
       "basename": "HDBSCAN",
       "path": "Notes/HDBSCAN.md"
     },
@@ -9,20 +17,12 @@
       "path": "Tracker/23-06-25.md"
     },
     {
-      "basename": "ARES",
-      "path": "papers/ARES.md"
-    },
-    {
       "basename": "vLLM",
       "path": "Notes/vLLM.md"
     },
     {
       "basename": "inferencing",
       "path": "Notes/inferencing.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "GOALS 2025",
