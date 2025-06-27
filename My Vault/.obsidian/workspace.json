@@ -11,19 +11,24 @@
             "id": "793781750b5ccde7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tracker/Lists.md",
-                "kanbanViewState": {
-                  "kanban-plugin": [],
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
+                "file": "Tracker/27-06-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Lists"
+              "icon": "lucide-file",
+              "title": "27-06-25"
             }
           },
           {
@@ -292,6 +297,8 @@
   },
   "active": "793781750b5ccde7",
   "lastOpenFiles": [
+    "Tracker/Lists.md",
+    "Tracker/27-06-25.md",
     "papers/ARES.md",
     "Notes/HDBSCAN.md",
     "desktop.ini",
@@ -299,7 +306,6 @@
     "Tracker/23-06-25.md",
     "Notes/vLLM.md",
     "Notes/inferencing.md",
-    "Tracker/Lists.md",
     "Tracker/GOALS 2025.md",
     "Notes/Encoder Models.md",
     "Work/Text Summarization.md",
@@ -319,7 +325,6 @@
     "Notes/ROUGE.md",
     "Notes/Untitled.md",
     "Tracker/15-05-25.md",
-    "Tracker/27-05-25.md",
     "Work",
     "papers",
     "Papers/ARES.pdf",

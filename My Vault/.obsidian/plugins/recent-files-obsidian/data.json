@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "27-06-25",
+      "path": "Tracker/27-06-25.md"
+    },
+    {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Lets build GPT Tokenizer, Andrej Karpathy",
       "path": "Notes/Lets build GPT Tokenizer, Andrej Karpathy.md"
-    },
-    {
-      "basename": "Course",
-      "path": "Notes/Course.md"
     }
   ],
   "omittedPaths": [],
