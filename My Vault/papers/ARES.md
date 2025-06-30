@@ -372,10 +372,6 @@ ARES constitutes a powerful, data-efficient, and extensible solution for automat
 
 
 
-
-
-Now let me explain the query filtering approach in detail based on the ARES paper and the cited works:
-
 ## Query Filtering for Synthetic Data Quality
 
 The query filtering approach mentioned in ARES is a **quality control mechanism** used to ensure that synthetically generated queries are actually useful for training retrieval systems. Here's how it works:

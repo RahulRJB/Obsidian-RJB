@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "27-06-25",
-      "path": "Tracker/27-06-25.md"
+      "basename": "ARES",
+      "path": "papers/ARES.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
     },
     {
       "basename": "Lists",
       "path": "Tracker/Lists.md"
     },
     {
-      "basename": "ARES",
-      "path": "papers/ARES.md"
+      "basename": "27-06-25",
+      "path": "Tracker/27-06-25.md"
     },
     {
       "basename": "HDBSCAN",
@@ -27,10 +35,6 @@
     {
       "basename": "inferencing",
       "path": "Notes/inferencing.md"
-    },
-    {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
     },
     {
       "basename": "Encoder Models",
@@ -67,10 +71,6 @@
     {
       "basename": "Kendall’s τ",
       "path": "Notes/Kendall’s τ.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "METEOR",
