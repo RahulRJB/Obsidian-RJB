@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/ARES.md",
+                "file": "Tracker/03-07-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,7 +71,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ARES"
+              "title": "03-07-25"
             }
           }
         ],
@@ -283,9 +283,10 @@
   },
   "active": "ca5b10b374271688",
   "lastOpenFiles": [
+    "papers/ARES.md",
+    "Tracker/03-07-25.md",
     "desktop.ini",
     "Tracker/Projects Details.md",
-    "papers/ARES.md",
     "Tracker/GOALS 2025.md",
     "Tracker/Lists.md",
     "Tracker/27-06-25.md",
