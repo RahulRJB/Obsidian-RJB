@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "03-07-25",
-      "path": "Tracker/03-07-25.md"
+      "basename": "10-07-25",
+      "path": "Tracker/10-07-25.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Tracker/Lists.md"
     },
     {
       "basename": "ARES",
       "path": "papers/ARES.md"
+    },
+    {
+      "basename": "03-07-25",
+      "path": "Tracker/03-07-25.md"
     },
     {
       "basename": "Projects Details",
@@ -15,10 +23,6 @@
     {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
-    },
-    {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
     },
     {
       "basename": "27-06-25",
@@ -195,10 +199,6 @@
     {
       "basename": "Intro into LLMs, Andrej Karpathy",
       "path": "Notes/Intro into LLMs, Andrej Karpathy.md"
-    },
-    {
-      "basename": "Lets build GPT, from scratch, in code, spelled out, Andrej Karpathy",
-      "path": "Notes/Lets build GPT, from scratch, in code, spelled out, Andrej Karpathy.md"
     }
   ],
   "omittedPaths": [],

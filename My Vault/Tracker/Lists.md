@@ -1,14 +1,11 @@
 ---
 
-kanban-plugin: []
+kanban-plugin: board
 
 ---
 
 ## TO study
 
-- [ ] Statistics like Hypothesis testing
-- [ ] Sebastian Raschaka Book - LLM
-- [ ] Agents course
 - [ ] Linear Algebra
 - [ ] SVD
 - [ ] Eigenvals
@@ -78,10 +75,17 @@ kanban-plugin: []
 - [ ] AAAMP 15pages, 3 hrs
 
 
+## Daily
+
+- [ ] Statistics like Hypothesis testing
+- [ ] Sebastian Raschaka Book - LLM
+- [ ] Agents course
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":[],"list-collapse":[false,false],"show-checkboxes":true,"lane-width":400,"full-list-lane-width":true,"new-note-template":"Templates/Template 1.md","new-card-insertion-method":"prepend"}
+{"kanban-plugin":"board","list-collapse":[false,false,false],"show-checkboxes":true,"lane-width":400,"full-list-lane-width":true,"new-note-template":"Templates/Template 1.md","new-card-insertion-method":"prepend"}
 ```
 %%
