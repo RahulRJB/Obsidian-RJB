@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Lists",
-      "path": "Tracker/Lists.md"
+      "basename": "10-07-25",
+      "path": "Tracker/10-07-25.md"
     },
     {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
     },
     {
-      "basename": "ARES",
-      "path": "papers/ARES.md"
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
     },
     {
-      "basename": "10-07-25",
-      "path": "Tracker/10-07-25.md"
+      "basename": "Dreams",
+      "path": "Tracker/Dreams.md"
     },
     {
-      "basename": "03-07-25",
-      "path": "Tracker/03-07-25.md"
+      "basename": "QUOTES OF THE DAY",
+      "path": "Tracker/QUOTES OF THE DAY.md"
     },
     {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "Marriage Plan",
+      "path": "Tracker/Marriage Plan.md"
+    },
+    {
+      "basename": "ARES",
+      "path": "papers/ARES.md"
+    },
+    {
+      "basename": "03-07-25",
+      "path": "Tracker/03-07-25.md"
     },
     {
       "basename": "27-06-25",
@@ -153,20 +165,12 @@
       "path": "Notes/Statistics.md"
     },
     {
-      "basename": "Marriage Plan",
-      "path": "Tracker/Marriage Plan.md"
-    },
-    {
       "basename": "RAG",
       "path": "Notes/RAG.md"
     },
     {
       "basename": "papers",
       "path": "Notes/papers.md"
-    },
-    {
-      "basename": "Dreams",
-      "path": "Tracker/Dreams.md"
     },
     {
       "basename": "SVD",
@@ -195,10 +199,6 @@
     {
       "basename": "16-04-25",
       "path": "Tracker/16-04-25.md"
-    },
-    {
-      "basename": "Intro into LLMs, Andrej Karpathy",
-      "path": "Notes/Intro into LLMs, Andrej Karpathy.md"
     }
   ],
   "omittedPaths": [],

@@ -17,16 +17,15 @@ kanban-plugin: board
 - [ ] SVD
 - [ ] Book chap2-7; 13
 - [ ] Pytorch
+- [ ] RLHF finetuning PPO DPO
+- [ ] VLMs
+- [ ] Andrej Karpathy gpt
+- [ ] Diffusion models
+- [ ] KL Divergence
+- [ ] pydantic
 - [ ] Asyncio
 - [ ] NLP UT Austin
-- [ ] Gemma3 training
-- [ ] GBTs revise
 - [ ] System Design
-- [ ] RLHF finetuning PPO DPO
-- [ ] KL Divergence
-- [ ] Diffusion models
-- [ ] VLMs
-- [ ] pydantic
 - [ ] Regularization
 - [ ] Segregate all the bookmarks!
 - [ ] Explainable AI
@@ -48,7 +47,6 @@ kanban-plugin: board
 - [ ] AWS Processing Job
 - [ ] AWS Step Functions
 - [ ] Deployments of Models
-- [ ] Andrej Karpathy gpt
 - [ ] PCA
 
 
@@ -73,7 +71,6 @@ kanban-plugin: board
 	CS224N- NLP  
 	CS224U- NLU  
 	CS224W- GraphML
-- [ ] fast ai
 - [ ] AAAMP 15pages, 3 hrs
 
 

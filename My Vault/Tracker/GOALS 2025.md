@@ -8,3 +8,11 @@
 - [ ] Try nomad life
 - [ ] Bike
 - [ ] Car
+
+
+
+| Time Schedule                                                                                                                                                                                                                                                                                                                                           | Days     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------- |
+| <br>07:30 - 08:00 --> Get ready (Brush/Shower/Plants/Bed theek/coffee) <br>08:00 - 10:00 --> Swimming / **STUDY** <br>10:00 - 11:00 --> Brunch<br>11:00 - 13:00 --> **READ** (CAB GO)<br>13:00 - 21:15 --> **WORK** (OFFICE)<br>21:15 - 22:30 --> **READ** (CAB COME)<br>22:30 - 00:00 --> get fresh/dinner/time spent/sleep<br>00:00 - 07:30 --> Sleep | WFO days |
+| <br>07:30 - 08:00 --> Get ready (Brush/Shower/Plants/Bed theek/coffee) <br>08:00 - 10:00 --> Swimming / **STUDY** <br>10:00 - 12:00 --> **STUDY**<br>12:00 - 13:00 --> Brunch<br>13:00 - 21:30 --> **WORK**<br>21:30 - 22:30 --> **READ**<br>22:30 - 00:00 --> get fresh/dinner/time spent/sleep<br>00:00 - 07:30 --> Sleep                             | WFH days |
+| <br>09:30 - 10:00 --> Get ready (Brush/Shower/Plants/Bed theek/coffee) <br>08:00 - 10:00 --> Swimming / **STUDY** <br>10:00 - 11:00 --> Brunch<br>11:00 - 13:00 --> **READ**<br>13:00 - 21:15 --> **WORK**<br>21:15 - 22:30 --> **READ**<br>22:30 - 00:00 --> get fresh/dinner/time spent/sleep<br>01:30 - 09:00 --> Sleep                              | Weekends |
