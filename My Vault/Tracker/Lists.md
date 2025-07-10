@@ -4,11 +4,17 @@ kanban-plugin: board
 
 ---
 
+## Daily
+
+- [ ] Statistics like Hypothesis testing
+- [ ] Sebastian Raschaka Book - LLM
+- [ ] Agents course
+
+
 ## TO study
 
 - [ ] Linear Algebra
 - [ ] SVD
-- [ ] Eigenvals
 - [ ] Book chap2-7; 13
 - [ ] Pytorch
 - [ ] Asyncio
@@ -24,13 +30,11 @@ kanban-plugin: board
 - [ ] Regularization
 - [ ] Segregate all the bookmarks!
 - [ ] Explainable AI
-- [ ] Kubernetes
 - [ ] Containerization
 - [ ] Application take 10mins to run a data input and multiple users are using it. Best way to go abut it
 - [ ] Deployment
 - [ ] AWS
 - [ ] Langchain
-- [ ] Profiler for code bottleneck?
 - [ ] Customer using rag problem
 - [ ] AI Safety for NSFW and PII and sensitive data
 - [ ] LLM loss functions
@@ -46,8 +50,6 @@ kanban-plugin: board
 - [ ] Deployments of Models
 - [ ] Andrej Karpathy gpt
 - [ ] PCA
-- [x] Finetuning e2e example
-- [x] LORA implement
 
 
 ## Study Materials
@@ -73,13 +75,6 @@ kanban-plugin: board
 	CS224W- GraphML
 - [ ] fast ai
 - [ ] AAAMP 15pages, 3 hrs
-
-
-## Daily
-
-- [ ] Statistics like Hypothesis testing
-- [ ] Sebastian Raschaka Book - LLM
-- [ ] Agents course
 
 
 
