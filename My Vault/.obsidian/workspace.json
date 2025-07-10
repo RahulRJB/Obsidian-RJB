@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/10-07-25.md",
+                "file": "Tracker/GOALS 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -48,7 +48,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10-07-25"
+              "title": "GOALS 2025"
             }
           },
           {
@@ -326,18 +326,19 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "2a63324f6116bf7d",
   "lastOpenFiles": [
-    "Tracker/GOALS 2025.md",
     "Tracker/Planner.md",
+    "Tracker/GOALS 2025.md",
+    "Tracker/10-07-25.md",
     "Tracker/Dreams.md",
     "Tracker/QUOTES OF THE DAY.md",
     "Tracker/Projects Details.md",
     "Tracker/Marriage Plan.md",
-    "Tracker/10-07-25.md",
     "papers/ARES.md",
     "Tracker/03-07-25.md",
     "desktop.ini",
