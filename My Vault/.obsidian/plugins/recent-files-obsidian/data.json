@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
+      "basename": "Inferential Statistics",
+      "path": "Notes/Inferential Statistics.md"
+    },
+    {
+      "basename": "ARES",
+      "path": "papers/ARES.md"
+    },
+    {
+      "basename": "Statistics",
+      "path": "Notes/Statistics.md"
     },
     {
       "basename": "Planner",
       "path": "Tracker/Planner.md"
+    },
+    {
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
     },
     {
       "basename": "10-07-25",
@@ -27,10 +39,6 @@
     {
       "basename": "Marriage Plan",
       "path": "Tracker/Marriage Plan.md"
-    },
-    {
-      "basename": "ARES",
-      "path": "papers/ARES.md"
     },
     {
       "basename": "03-07-25",
@@ -161,10 +169,6 @@
       "path": "Notes/Prediction-Powered Inference.md"
     },
     {
-      "basename": "Statistics",
-      "path": "Notes/Statistics.md"
-    },
-    {
       "basename": "RAG",
       "path": "Notes/RAG.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "22-04-25",
       "path": "Tracker/22-04-25.md"
-    },
-    {
-      "basename": "16-04-25",
-      "path": "Tracker/16-04-25.md"
     }
   ],
   "omittedPaths": [],
