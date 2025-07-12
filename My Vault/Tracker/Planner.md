@@ -13,8 +13,8 @@ kanban-plugin: board
 
 ## TO study
 
-- [ ] Linear Algebra
-- [ ] SVD
+- [ ] dspy
+- [ ] Linear Algebra/ SVD / eigen val / PCA
 - [ ] Book chap2-7; 13
 - [ ] Pytorch
 - [ ] RLHF finetuning PPO DPO
@@ -43,11 +43,9 @@ kanban-plugin: board
 - [ ] Chatbot
 - [ ] NLP
 - [ ] Revise Pytorch
-- [ ] GAN
 - [ ] AWS Processing Job
 - [ ] AWS Step Functions
 - [ ] Deployments of Models
-- [ ] PCA
 
 
 ## Study Materials

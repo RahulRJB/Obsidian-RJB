@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
+    },
+    {
+      "basename": "Multi AI Agent systems with CrewAI",
+      "path": "Notes/Multi AI Agent systems with CrewAI.md"
+    },
+    {
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
+    },
+    {
       "basename": "Inferential Statistics",
       "path": "Notes/Inferential Statistics.md"
     },
@@ -9,24 +21,16 @@
       "path": "papers/ARES.md"
     },
     {
-      "basename": "Statistics",
-      "path": "Notes/Statistics.md"
-    },
-    {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
-    },
-    {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
-    },
-    {
       "basename": "10-07-25",
       "path": "Tracker/10-07-25.md"
     },
     {
       "basename": "Dreams",
       "path": "Tracker/Dreams.md"
+    },
+    {
+      "basename": "Statistics",
+      "path": "Notes/Statistics.md"
     },
     {
       "basename": "QUOTES OF THE DAY",
@@ -139,10 +143,6 @@
     {
       "basename": "Maximum Likelihood",
       "path": "Notes/Maximum Likelihood.md"
-    },
-    {
-      "basename": "Multi AI Agent systems with CrewAI",
-      "path": "Notes/Multi AI Agent systems with CrewAI.md"
     },
     {
       "basename": "Agentic AI",

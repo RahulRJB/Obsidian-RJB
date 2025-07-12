@@ -146,9 +146,32 @@
               "icon": "lucide-file",
               "title": "Inferential Statistics"
             }
+          },
+          {
+            "id": "444ec1c73bfaae25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Multi AI Agent systems with CrewAI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Multi AI Agent systems with CrewAI"
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -354,15 +377,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "308b75e2a2b364ae",
+  "active": "793781750b5ccde7",
   "lastOpenFiles": [
+    "Notes/Multi AI Agent systems with CrewAI.md",
+    "Tracker/GOALS 2025.md",
     "Notes/Inferential Statistics.md",
     "papers/ARES.md",
-    "Notes/Statistics.md",
-    "Tracker/Planner.md",
-    "Tracker/GOALS 2025.md",
     "Tracker/10-07-25.md",
     "Tracker/Dreams.md",
+    "Tracker/Planner.md",
+    "Notes/Statistics.md",
     "Tracker/QUOTES OF THE DAY.md",
     "Tracker/Projects Details.md",
     "Tracker/Marriage Plan.md",
@@ -382,7 +406,6 @@
     "Notes/BERT.md",
     "Notes/GLUE.md",
     "Notes/Encoder.md",
-    "Tracker/15-06-25.md",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
     "papers",
