@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
-    },
-    {
       "basename": "Multi AI Agent systems with CrewAI",
       "path": "Notes/Multi AI Agent systems with CrewAI.md"
+    },
+    {
+      "basename": "nDCG",
+      "path": "Notes/nDCG.md"
+    },
+    {
+      "basename": "10-07-25",
+      "path": "Tracker/10-07-25.md"
+    },
+    {
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
     },
     {
       "basename": "GOALS 2025",
@@ -19,10 +27,6 @@
     {
       "basename": "ARES",
       "path": "papers/ARES.md"
-    },
-    {
-      "basename": "10-07-25",
-      "path": "Tracker/10-07-25.md"
     },
     {
       "basename": "Dreams",
@@ -195,10 +199,6 @@
     {
       "basename": "Multithreading vs Multiprocessing",
       "path": "Notes/Multithreading vs Multiprocessing.md"
-    },
-    {
-      "basename": "22-04-25",
-      "path": "Tracker/22-04-25.md"
     }
   ],
   "omittedPaths": [],
