@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "16-07-25",
+      "path": "Tracker/16-07-25.md"
+    },
+    {
       "basename": "Multi AI Agent systems with CrewAI",
       "path": "Notes/Multi AI Agent systems with CrewAI.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SQL",
       "path": "Notes/SQL.md"
-    },
-    {
-      "basename": "Multithreading vs Multiprocessing",
-      "path": "Notes/Multithreading vs Multiprocessing.md"
     }
   ],
   "omittedPaths": [],
