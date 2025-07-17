@@ -76,30 +76,6 @@
             }
           },
           {
-            "id": "fc2f7cbb495757f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/10-07-25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "10-07-25"
-            }
-          },
-          {
             "id": "ca5b10b374271688",
             "type": "leaf",
             "state": {
@@ -153,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/16-07-25.md",
+                "file": "Notes/Multi AI Agent systems with CrewAI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -168,11 +144,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "16-07-25"
+              "title": "Multi AI Agent systems with CrewAI"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -374,14 +350,15 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "444ec1c73bfaae25",
+  "active": "86b01602b1c1be4d",
   "lastOpenFiles": [
+    "desktop.ini",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Tracker/16-07-25.md",
-    "desktop.ini",
     "Notes/nDCG.md",
     "Tracker/10-07-25.md",
     "Tracker/14-07-25.md",
@@ -405,7 +382,6 @@
     "Work/Text Summarization.md",
     "Notes/Linear Algebra.md",
     "Notes/FLAN-T5.md",
-    "Notes/venv.md",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
     "papers",
