@@ -16,6 +16,7 @@ kanban-plugin: board
 - [ ] uv
 - [ ] dspy
 - [ ] Pytorch
+- [ ] Hugging Face
 - [ ] Book chap2-7; 13
 - [ ] Linear Algebra/ SVD / eigen val / PCA
 - [ ] Andrej Karpathy gpt
