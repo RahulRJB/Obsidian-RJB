@@ -13,6 +13,7 @@ kanban-plugin: board
 
 ## TO study
 
+- [ ] uv
 - [ ] dspy
 - [ ] Pytorch
 - [ ] Book chap2-7; 13

@@ -5,12 +5,12 @@
       "path": "Tracker/Planner.md"
     },
     {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
-    },
-    {
       "basename": "Dreams",
       "path": "Tracker/Dreams.md"
+    },
+    {
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
     },
     {
       "basename": "Inferential Statistics",
@@ -195,10 +195,6 @@
     {
       "basename": "DSA-Leetcode",
       "path": "Tracker/DSA-Leetcode.md"
-    },
-    {
-      "basename": "Maths",
-      "path": "Notes/Maths.md"
     }
   ],
   "omittedPaths": [],
