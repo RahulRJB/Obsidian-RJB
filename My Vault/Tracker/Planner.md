@@ -14,12 +14,12 @@ kanban-plugin: board
 ## TO study
 
 - [ ] dspy
-- [ ] Linear Algebra/ SVD / eigen val / PCA
-- [ ] Book chap2-7; 13
 - [ ] Pytorch
+- [ ] Book chap2-7; 13
+- [ ] Linear Algebra/ SVD / eigen val / PCA
+- [ ] Andrej Karpathy gpt
 - [ ] RLHF finetuning PPO DPO
 - [ ] VLMs
-- [ ] Andrej Karpathy gpt
 - [ ] Diffusion models
 - [ ] KL Divergence
 - [ ] pydantic

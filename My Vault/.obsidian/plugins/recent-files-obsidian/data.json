@@ -1,24 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Multi AI Agent systems with CrewAI",
-      "path": "Notes/Multi AI Agent systems with CrewAI.md"
-    },
-    {
-      "basename": "16-07-25",
-      "path": "Tracker/16-07-25.md"
-    },
-    {
-      "basename": "nDCG",
-      "path": "Notes/nDCG.md"
-    },
-    {
       "basename": "Planner",
       "path": "Tracker/Planner.md"
     },
     {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
+    },
+    {
+      "basename": "Dreams",
+      "path": "Tracker/Dreams.md"
     },
     {
       "basename": "Inferential Statistics",
@@ -29,8 +21,24 @@
       "path": "papers/ARES.md"
     },
     {
-      "basename": "Dreams",
-      "path": "Tracker/Dreams.md"
+      "basename": "Multi AI Agent systems with CrewAI",
+      "path": "Notes/Multi AI Agent systems with CrewAI.md"
+    },
+    {
+      "basename": "ONNX",
+      "path": "Notes/ONNX.md"
+    },
+    {
+      "basename": "Framework",
+      "path": "Notes/Framework.md"
+    },
+    {
+      "basename": "16-07-25",
+      "path": "Tracker/16-07-25.md"
+    },
+    {
+      "basename": "nDCG",
+      "path": "Notes/nDCG.md"
     },
     {
       "basename": "Statistics",
@@ -191,10 +199,6 @@
     {
       "basename": "Maths",
       "path": "Notes/Maths.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "Notes/SQL.md"
     }
   ],
   "omittedPaths": [],
