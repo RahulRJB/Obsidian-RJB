@@ -11,20 +11,24 @@
             "id": "793781750b5ccde7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tracker/Planner.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Tracker/19-07-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Planner"
+              "icon": "lucide-file",
+              "title": "19-07-25"
             }
           },
           {
@@ -355,10 +359,10 @@
   },
   "active": "793781750b5ccde7",
   "lastOpenFiles": [
-    "Tracker/Dreams.md",
-    "Tracker/19-07-25.md",
-    "Tracker/GOALS 2025.md",
     "Tracker/Planner.md",
+    "Tracker/19-07-25.md",
+    "Tracker/Dreams.md",
+    "Tracker/GOALS 2025.md",
     "Tracker/18-07-25.md",
     "Tracker/17-07-25.md",
     "Notes/Inferential Statistics.md",
