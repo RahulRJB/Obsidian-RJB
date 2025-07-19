@@ -349,8 +349,7 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "793781750b5ccde7",
