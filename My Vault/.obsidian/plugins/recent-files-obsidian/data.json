@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "19-07-25",
-      "path": "Tracker/19-07-25.md"
+      "basename": "uv",
+      "path": "Notes/uv.md"
+    },
+    {
+      "basename": "CONDA",
+      "path": "Notes/CONDA.md"
+    },
+    {
+      "basename": "venv",
+      "path": "Notes/venv.md"
+    },
+    {
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
     },
     {
       "basename": "Planner",
       "path": "Tracker/Planner.md"
     },
     {
-      "basename": "Dreams",
-      "path": "Tracker/Dreams.md"
+      "basename": "19-07-25",
+      "path": "Tracker/19-07-25.md"
     },
     {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
+      "basename": "Dreams",
+      "path": "Tracker/Dreams.md"
     },
     {
       "basename": "Inferential Statistics",
@@ -97,10 +109,6 @@
       "path": "Notes/FLAN-T5.md"
     },
     {
-      "basename": "venv",
-      "path": "Notes/venv.md"
-    },
-    {
       "basename": "BERT",
       "path": "Notes/BERT.md"
     },
@@ -149,10 +157,6 @@
       "path": "Notes/Environment packaging.md"
     },
     {
-      "basename": "CONDA",
-      "path": "Notes/CONDA.md"
-    },
-    {
       "basename": "Bradley-Terry Model",
       "path": "Notes/Bradley-Terry Model.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "SVD",
       "path": "Notes/SVD.md"
-    },
-    {
-      "basename": "DSA-Leetcode",
-      "path": "Tracker/DSA-Leetcode.md"
     }
   ],
   "omittedPaths": [],
