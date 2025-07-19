@@ -349,13 +349,14 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "793781750b5ccde7",
+  "active": "86b01602b1c1be4d",
   "lastOpenFiles": [
-    "Tracker/19-07-25.md",
     "Tracker/Planner.md",
+    "Tracker/19-07-25.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/uv.md",
     "Notes/CONDA.md",
