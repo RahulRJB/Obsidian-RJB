@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
+    },
+    {
+      "basename": "Multi AI Agent systems with CrewAI",
+      "path": "Notes/Multi AI Agent systems with CrewAI.md"
+    },
+    {
       "basename": "uv",
       "path": "Notes/uv.md"
     },
@@ -17,10 +25,6 @@
       "path": "Tracker/GOALS 2025.md"
     },
     {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
-    },
-    {
       "basename": "19-07-25",
       "path": "Tracker/19-07-25.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "ARES",
       "path": "papers/ARES.md"
-    },
-    {
-      "basename": "Multi AI Agent systems with CrewAI",
-      "path": "Notes/Multi AI Agent systems with CrewAI.md"
     },
     {
       "basename": "ONNX",

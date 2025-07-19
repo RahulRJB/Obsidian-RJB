@@ -146,33 +146,8 @@
               "icon": "lucide-file",
               "title": "Multi AI Agent systems with CrewAI"
             }
-          },
-          {
-            "id": "26a882a124d55ca0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/uv.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "uv"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -378,10 +353,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "26a882a124d55ca0",
+  "active": "793781750b5ccde7",
   "lastOpenFiles": [
-    "Notes/CONDA.md",
+    "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/uv.md",
+    "Notes/CONDA.md",
     "Notes/venv.md",
     "Tracker/GOALS 2025.md",
     "Tracker/Planner.md",
@@ -391,7 +367,6 @@
     "Tracker/17-07-25.md",
     "Notes/Inferential Statistics.md",
     "papers/ARES.md",
-    "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/ONNX.md",
     "Notes/Framework.md",
     "Tracker/10-07-25.md",

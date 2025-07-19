@@ -13,7 +13,7 @@ kanban-plugin: board
 
 ## TO study
 
-- [ ] uv
+- [x] uv
 - [ ] dspy
 - [ ] Pytorch
 - [ ] Hugging Face
