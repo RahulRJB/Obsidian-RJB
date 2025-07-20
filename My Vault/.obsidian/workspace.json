@@ -129,7 +129,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Multi AI Agent systems with CrewAI.md",
+                "file": "Tracker/20-07-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -144,7 +144,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Multi AI Agent systems with CrewAI"
+              "title": "20-07-25"
             }
           }
         ],
@@ -350,16 +350,16 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "444ec1c73bfaae25",
   "lastOpenFiles": [
+    "Notes/Multi AI Agent systems with CrewAI.md",
+    "Tracker/20-07-25.md",
     "Notes/uv.md",
     "Tracker/19-07-25.md",
     "Tracker/Planner.md",
-    "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/CONDA.md",
     "Notes/venv.md",
     "Tracker/GOALS 2025.md",
@@ -382,7 +382,6 @@
     "Tracker/03-07-25.md",
     "Tracker/27-06-25.md",
     "Notes/HDBSCAN.md",
-    "Tracker/16-06-25.md",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
     "papers",
