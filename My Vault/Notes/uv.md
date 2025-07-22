@@ -5,7 +5,7 @@
 DATE:  19-07-25
 
 
-Tags:  [[Notes/Environment packaging|Environment packaging]]
+Tags:  [[Notes/Environment packaging|Environment packaging]] [[Notes/python|python]]
 
 
 # References:
