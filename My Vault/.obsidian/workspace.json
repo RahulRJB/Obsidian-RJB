@@ -170,33 +170,9 @@
               "icon": "lucide-file",
               "title": "ruff"
             }
-          },
-          {
-            "id": "626e22b17002b99a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/uv.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "uv"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -402,11 +378,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "626e22b17002b99a",
+  "active": "3e8c4d877281ae57",
   "lastOpenFiles": [
-    "Notes/ruff.md",
-    "Notes/uv.md",
     "desktop.ini",
+    "Notes/uv.md",
+    "Notes/ruff.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Tracker/20-07-25.md",
     "Tracker/19-07-25.md",
@@ -430,7 +406,6 @@
     "Tracker/Projects Details.md",
     "Tracker/Marriage Plan.md",
     "Tracker/03-07-25.md",
-    "Tracker/27-06-25.md",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
     "papers",
