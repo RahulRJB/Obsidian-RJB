@@ -170,9 +170,33 @@
               "icon": "lucide-file",
               "title": "ruff"
             }
+          },
+          {
+            "id": "40fe3b9a795b9e53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/uv.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "uv"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -378,23 +402,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "308b75e2a2b364ae",
+  "active": "40fe3b9a795b9e53",
   "lastOpenFiles": [
+    "Notes/Untitled.md",
+    "Notes/Untitled 2.md",
+    "Notes/uv.md",
+    "Notes/ruff.md",
+    "Notes/Untitled 1.md",
+    "Notes/Multi AI Agent systems with CrewAI.md",
+    "Notes/Inferential Statistics.md",
+    "papers/ARES.md",
     "Tracker/Planner.md",
     "Tracker/GOALS 2025.md",
     "Tracker/Dreams.md",
-    "Notes/ruff.md",
     "desktop.ini",
-    "Notes/uv.md",
-    "Notes/Multi AI Agent systems with CrewAI.md",
     "Tracker/20-07-25.md",
     "Tracker/19-07-25.md",
     "Notes/CONDA.md",
     "Notes/venv.md",
     "Tracker/18-07-25.md",
     "Tracker/17-07-25.md",
-    "Notes/Inferential Statistics.md",
-    "papers/ARES.md",
     "Notes/ONNX.md",
     "Notes/Framework.md",
     "Tracker/10-07-25.md",
@@ -404,8 +431,6 @@
     "Notes/Statistics.md",
     "Tracker/QUOTES OF THE DAY.md",
     "Tracker/Projects Details.md",
-    "Tracker/Marriage Plan.md",
-    "Tracker/03-07-25.md",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
     "papers",

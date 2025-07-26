@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "uv",
+      "path": "Notes/uv.md"
+    },
+    {
+      "basename": "ruff",
+      "path": "Notes/ruff.md"
+    },
+    {
+      "basename": "Multi AI Agent systems with CrewAI",
+      "path": "Notes/Multi AI Agent systems with CrewAI.md"
+    },
+    {
       "basename": "Inferential Statistics",
       "path": "Notes/Inferential Statistics.md"
+    },
+    {
+      "basename": "ARES",
+      "path": "papers/ARES.md"
     },
     {
       "basename": "Planner",
@@ -17,28 +33,12 @@
       "path": "Tracker/Dreams.md"
     },
     {
-      "basename": "ruff",
-      "path": "Notes/ruff.md"
-    },
-    {
-      "basename": "uv",
-      "path": "Notes/uv.md"
-    },
-    {
-      "basename": "Multi AI Agent systems with CrewAI",
-      "path": "Notes/Multi AI Agent systems with CrewAI.md"
-    },
-    {
       "basename": "CONDA",
       "path": "Notes/CONDA.md"
     },
     {
       "basename": "venv",
       "path": "Notes/venv.md"
-    },
-    {
-      "basename": "ARES",
-      "path": "papers/ARES.md"
     },
     {
       "basename": "ONNX",
@@ -141,10 +141,6 @@
       "path": "Notes/ROUGE.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Notes/Untitled.md"
-    },
-    {
       "basename": "15-05-25",
       "path": "Tracker/15-05-25.md"
     },
@@ -191,14 +187,6 @@
     {
       "basename": "RAG",
       "path": "Notes/RAG.md"
-    },
-    {
-      "basename": "papers",
-      "path": "Notes/papers.md"
-    },
-    {
-      "basename": "SVD",
-      "path": "Notes/SVD.md"
     }
   ],
   "omittedPaths": [],
