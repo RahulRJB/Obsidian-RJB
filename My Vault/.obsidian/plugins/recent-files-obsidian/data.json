@@ -5,6 +5,10 @@
       "path": "Notes/uv.md"
     },
     {
+      "basename": "SentencePiece",
+      "path": "Notes/SentencePiece.md"
+    },
+    {
       "basename": "ruff",
       "path": "Notes/ruff.md"
     },
