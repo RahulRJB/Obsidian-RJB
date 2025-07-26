@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -378,19 +378,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3e8c4d877281ae57",
+  "active": "308b75e2a2b364ae",
   "lastOpenFiles": [
+    "Tracker/Planner.md",
+    "Tracker/GOALS 2025.md",
+    "Tracker/Dreams.md",
+    "Notes/ruff.md",
     "desktop.ini",
     "Notes/uv.md",
-    "Notes/ruff.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Tracker/20-07-25.md",
     "Tracker/19-07-25.md",
-    "Tracker/Planner.md",
     "Notes/CONDA.md",
     "Notes/venv.md",
-    "Tracker/GOALS 2025.md",
-    "Tracker/Dreams.md",
     "Tracker/18-07-25.md",
     "Tracker/17-07-25.md",
     "Notes/Inferential Statistics.md",
