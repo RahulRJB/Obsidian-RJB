@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/GOALS 2025.md",
+                "file": "Tracker/04-08-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -48,7 +48,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GOALS 2025"
+              "title": "04-08-25"
             }
           },
           {
@@ -146,57 +146,9 @@
               "icon": "lucide-file",
               "title": "Multi AI Agent systems with CrewAI"
             }
-          },
-          {
-            "id": "3e8c4d877281ae57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/ruff.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ruff"
-            }
-          },
-          {
-            "id": "40fe3b9a795b9e53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/uv.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "uv"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -398,22 +350,25 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "40fe3b9a795b9e53",
+  "active": "2a63324f6116bf7d",
   "lastOpenFiles": [
-    "Notes/SentencePiece.md",
-    "Notes/uv.md",
-    "Notes/Untitled 2.md",
-    "Notes/ruff.md",
-    "Notes/Untitled 1.md",
+    "Tracker/GOALS 2025.md",
+    "Tracker/04-08-25.md",
+    "Tracker/Dreams.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
+    "Notes/ruff.md",
+    "Notes/uv.md",
+    "Tracker/28-07-25.md",
+    "Notes/SentencePiece.md",
+    "Notes/Untitled 2.md",
+    "Notes/Untitled 1.md",
     "Notes/Inferential Statistics.md",
     "papers/ARES.md",
     "Tracker/Planner.md",
-    "Tracker/GOALS 2025.md",
-    "Tracker/Dreams.md",
     "desktop.ini",
     "Tracker/20-07-25.md",
     "Tracker/19-07-25.md",
@@ -428,8 +383,6 @@
     "Notes/nDCG.md",
     "Tracker/14-07-25.md",
     "Notes/Statistics.md",
-    "Tracker/QUOTES OF THE DAY.md",
-    "Tracker/Projects Details.md",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
     "papers",
