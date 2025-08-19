@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/GOALS 2025.md",
+                "file": "Tracker/20-08-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -48,7 +48,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GOALS 2025"
+              "title": "20-08-25"
             }
           },
           {
@@ -356,9 +356,10 @@
   },
   "active": "2a63324f6116bf7d",
   "lastOpenFiles": [
+    "Tracker/GOALS 2025.md",
+    "Tracker/20-08-25.md",
     "desktop.ini",
     "Tracker/04-08-25.md",
-    "Tracker/GOALS 2025.md",
     "Tracker/Dreams.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/ruff.md",
