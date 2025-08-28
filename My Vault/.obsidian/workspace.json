@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/20-08-25.md",
+                "file": "Tracker/GOALS 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -48,7 +48,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20-08-25"
+              "title": "GOALS 2025"
             }
           },
           {
@@ -147,8 +147,7 @@
               "title": "Multi AI Agent systems with CrewAI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -354,22 +353,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2a63324f6116bf7d",
+  "active": "793781750b5ccde7",
   "lastOpenFiles": [
-    "Tracker/GOALS 2025.md",
-    "Tracker/20-08-25.md",
     "desktop.ini",
-    "Tracker/04-08-25.md",
+    "Tracker/GOALS 2025.md",
     "Tracker/Dreams.md",
+    "papers/ARES.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
+    "Notes/Inferential Statistics.md",
+    "Tracker/20-08-25.md",
+    "Tracker/04-08-25.md",
     "Notes/ruff.md",
     "Notes/uv.md",
     "Tracker/28-07-25.md",
     "Notes/SentencePiece.md",
     "Notes/Untitled 2.md",
     "Notes/Untitled 1.md",
-    "Notes/Inferential Statistics.md",
-    "papers/ARES.md",
     "Tracker/Planner.md",
     "Tracker/20-07-25.md",
     "Tracker/19-07-25.md",
@@ -382,7 +381,6 @@
     "Tracker/10-07-25.md",
     "Tracker/16-07-25.md",
     "Notes/nDCG.md",
-    "Tracker/14-07-25.md",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
     "papers",

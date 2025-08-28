@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "20-08-25",
-      "path": "Tracker/20-08-25.md"
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
     },
     {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
     },
     {
-      "basename": "04-08-25",
-      "path": "Tracker/04-08-25.md"
-    },
-    {
       "basename": "Dreams",
       "path": "Tracker/Dreams.md"
     },
     {
+      "basename": "ARES",
+      "path": "papers/ARES.md"
+    },
+    {
       "basename": "Multi AI Agent systems with CrewAI",
       "path": "Notes/Multi AI Agent systems with CrewAI.md"
+    },
+    {
+      "basename": "Inferential Statistics",
+      "path": "Notes/Inferential Statistics.md"
+    },
+    {
+      "basename": "20-08-25",
+      "path": "Tracker/20-08-25.md"
+    },
+    {
+      "basename": "04-08-25",
+      "path": "Tracker/04-08-25.md"
     },
     {
       "basename": "ruff",
@@ -35,18 +47,6 @@
     {
       "basename": "SentencePiece",
       "path": "Notes/SentencePiece.md"
-    },
-    {
-      "basename": "Inferential Statistics",
-      "path": "Notes/Inferential Statistics.md"
-    },
-    {
-      "basename": "ARES",
-      "path": "papers/ARES.md"
-    },
-    {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
     },
     {
       "basename": "CONDA",
