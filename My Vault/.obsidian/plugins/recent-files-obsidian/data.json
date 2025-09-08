@@ -1,20 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
-    },
-    {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
     },
     {
-      "basename": "Dreams",
-      "path": "Tracker/Dreams.md"
-    },
-    {
-      "basename": "ARES",
-      "path": "papers/ARES.md"
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
     },
     {
       "basename": "Multi AI Agent systems with CrewAI",
@@ -23,6 +15,14 @@
     {
       "basename": "Inferential Statistics",
       "path": "Notes/Inferential Statistics.md"
+    },
+    {
+      "basename": "ARES",
+      "path": "papers/ARES.md"
+    },
+    {
+      "basename": "Dreams",
+      "path": "Tracker/Dreams.md"
     },
     {
       "basename": "20-08-25",

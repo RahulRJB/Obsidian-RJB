@@ -147,7 +147,8 @@
               "title": "Multi AI Agent systems with CrewAI"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -353,14 +354,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "793781750b5ccde7",
+  "active": "2a63324f6116bf7d",
   "lastOpenFiles": [
-    "desktop.ini",
+    "Tracker/Planner.md",
     "Tracker/GOALS 2025.md",
-    "Tracker/Dreams.md",
-    "papers/ARES.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Inferential Statistics.md",
+    "papers/ARES.md",
+    "Tracker/Dreams.md",
+    "desktop.ini",
     "Tracker/20-08-25.md",
     "Tracker/04-08-25.md",
     "Notes/ruff.md",
@@ -369,7 +371,6 @@
     "Notes/SentencePiece.md",
     "Notes/Untitled 2.md",
     "Notes/Untitled 1.md",
-    "Tracker/Planner.md",
     "Tracker/20-07-25.md",
     "Tracker/19-07-25.md",
     "Notes/CONDA.md",
