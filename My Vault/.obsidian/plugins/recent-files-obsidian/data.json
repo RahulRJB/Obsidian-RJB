@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "08-09-25",
+      "path": "Tracker/08-09-25.md"
+    },
+    {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "02-06-25",
       "path": "Tracker/02-06-25.md"
-    },
-    {
-      "basename": "Prediction-Powered Inference",
-      "path": "Notes/Prediction-Powered Inference.md"
     }
   ],
   "omittedPaths": [],

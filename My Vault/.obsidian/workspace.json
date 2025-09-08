@@ -52,6 +52,30 @@
             }
           },
           {
+            "id": "6e779dd048e02120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/08-09-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "08-09-25"
+            }
+          },
+          {
             "id": "fb0f82dfdd78cf0e",
             "type": "leaf",
             "state": {
@@ -148,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -331,6 +355,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -354,8 +379,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2a63324f6116bf7d",
+  "active": "6e779dd048e02120",
   "lastOpenFiles": [
+    "Tracker/08-09-25.md",
     "Tracker/Planner.md",
     "Tracker/GOALS 2025.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
