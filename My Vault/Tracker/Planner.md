@@ -7,13 +7,12 @@ kanban-plugin: board
 ## Daily
 
 - [ ] CAB GO -- Statistics like Hypothesis testing
-- [ ] Sebastian Raschaka Book - LLM
+- [ ] **CAB COME** --  Sebastian Raschaka Book - LLM
 - [ ] Agents course
 
 
 ## TO study
 
-- [x] uv
 - [ ] dspy
 - [ ] Pytorch
 - [ ] Hugging Face
