@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Daily
 
+- [ ] Papers
 - [ ] CAB GO -- Statistics like Hypothesis testing
 - [ ] **CAB COME** --  Sebastian Raschaka Book - LLM
 - [ ] Agents course
