@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "16-09-25",
+      "path": "Tracker/16-09-25.md"
+    },
+    {
       "basename": "Planner",
       "path": "Tracker/Planner.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Models",
       "path": "Notes/Models.md"
-    },
-    {
-      "basename": "02-06-25",
-      "path": "Tracker/02-06-25.md"
     }
   ],
   "omittedPaths": [],

@@ -11,20 +11,24 @@
             "id": "793781750b5ccde7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tracker/Planner.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Tracker/16-09-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Planner"
+              "icon": "lucide-file",
+              "title": "16-09-25"
             }
           },
           {
@@ -302,16 +306,16 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "793781750b5ccde7",
   "lastOpenFiles": [
+    "Tracker/Planner.md",
+    "Tracker/16-09-25.md",
     "Tracker/GOALS 2025.md",
     "papers/ARES.md",
     "Tracker/Dreams.md",
-    "Tracker/Planner.md",
     "Tracker/08-09-25.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Inferential Statistics.md",
@@ -334,7 +338,6 @@
     "Notes/Framework.md",
     "Tracker/10-07-25.md",
     "Tracker/16-07-25.md",
-    "Notes/nDCG.md",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
     "papers",
