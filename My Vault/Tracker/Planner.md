@@ -14,6 +14,7 @@ kanban-plugin: board
 
 ## TO study
 
+- [ ] pydantic
 - [ ] dspy
 - [ ] Pytorch
 - [ ] Hugging Face
@@ -24,7 +25,6 @@ kanban-plugin: board
 - [ ] VLMs
 - [ ] Diffusion models
 - [ ] KL Divergence
-- [ ] pydantic
 - [ ] Asyncio
 - [ ] NLP UT Austin
 - [ ] System Design
