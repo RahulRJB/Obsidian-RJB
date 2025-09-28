@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "28-09-25",
+      "path": "Tracker/28-09-25.md"
+    },
+    {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "NLP - UT Austin",
       "path": "Notes/NLP - UT Austin.md"
-    },
-    {
-      "basename": "Models",
-      "path": "Notes/Models.md"
     }
   ],
   "omittedPaths": [],

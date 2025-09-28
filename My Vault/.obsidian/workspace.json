@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/GOALS 2025.md",
+                "file": "Tracker/28-09-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -48,7 +48,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GOALS 2025"
+              "title": "28-09-25"
             }
           },
           {
@@ -309,8 +309,9 @@
   },
   "active": "2a63324f6116bf7d",
   "lastOpenFiles": [
-    "Tracker/Planner.md",
     "Tracker/GOALS 2025.md",
+    "Tracker/28-09-25.md",
+    "Tracker/Planner.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Inferential Statistics.md",
     "Tracker/16-09-25.md",
@@ -335,7 +336,6 @@
     "Notes/ONNX.md",
     "Notes/Framework.md",
     "Tracker/10-07-25.md",
-    "Tracker/16-07-25.md",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
     "papers",
