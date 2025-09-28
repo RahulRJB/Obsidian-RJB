@@ -1,16 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "28-09-25",
-      "path": "Tracker/28-09-25.md"
-    },
-    {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
-    },
-    {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
     },
     {
       "basename": "Multi AI Agent systems with CrewAI",
@@ -19,6 +11,10 @@
     {
       "basename": "Inferential Statistics",
       "path": "Notes/Inferential Statistics.md"
+    },
+    {
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
     },
     {
       "basename": "16-09-25",
