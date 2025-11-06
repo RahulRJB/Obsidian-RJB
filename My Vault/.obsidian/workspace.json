@@ -52,30 +52,6 @@
             }
           },
           {
-            "id": "236ebfc894310188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/06-11-25.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "06-11-25"
-            }
-          },
-          {
             "id": "308b75e2a2b364ae",
             "type": "leaf",
             "state": {
@@ -124,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -327,13 +303,14 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "236ebfc894310188",
+  "active": "2a63324f6116bf7d",
   "lastOpenFiles": [
-    "Tracker/06-11-25.md",
     "desktop.ini",
+    "Tracker/06-11-25.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Tracker/GOALS 2025.md",
     "Notes/Inferential Statistics.md",
@@ -358,7 +335,6 @@
     "Tracker/18-07-25.md",
     "Tracker/17-07-25.md",
     "Notes/ONNX.md",
-    "Notes/Framework.md",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
     "papers",
