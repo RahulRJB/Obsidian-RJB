@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
+      "basename": "12-11-25",
+      "path": "Tracker/12-11-25.md"
     },
     {
-      "basename": "06-11-25",
-      "path": "Tracker/06-11-25.md"
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
     },
     {
       "basename": "Multi AI Agent systems with CrewAI",
@@ -17,8 +17,16 @@
       "path": "Notes/Inferential Statistics.md"
     },
     {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
+      "basename": "GOALS 2025",
+      "path": "Tracker/GOALS 2025.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "06-11-25",
+      "path": "Tracker/06-11-25.md"
     },
     {
       "basename": "16-09-25",
@@ -91,10 +99,6 @@
     {
       "basename": "QUOTES OF THE DAY",
       "path": "Tracker/QUOTES OF THE DAY.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "Marriage Plan",
@@ -195,10 +199,6 @@
     {
       "basename": "Asynchronous Programming",
       "path": "Notes/Asynchronous Programming.md"
-    },
-    {
-      "basename": "NLP - UT Austin",
-      "path": "Notes/NLP - UT Austin.md"
     }
   ],
   "omittedPaths": [],

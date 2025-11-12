@@ -98,9 +98,53 @@
               "icon": "lucide-file",
               "title": "Multi AI Agent systems with CrewAI"
             }
+          },
+          {
+            "id": "03e3a2c088fc7ec7",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Tracker/Planner.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Planner"
+            }
+          },
+          {
+            "id": "ebfc06cc65ece2e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/12-11-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "12-11-25"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -303,18 +347,19 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2a63324f6116bf7d",
+  "active": "ebfc06cc65ece2e4",
   "lastOpenFiles": [
+    "Tracker/12-11-25.md",
+    "Notes/Multi AI Agent systems with CrewAI.md",
+    "Notes/Inferential Statistics.md",
+    "Tracker/GOALS 2025.md",
+    "Tracker/Planner.md",
+    "Tracker/Projects Details.md",
     "desktop.ini",
     "Tracker/06-11-25.md",
-    "Notes/Multi AI Agent systems with CrewAI.md",
-    "Tracker/GOALS 2025.md",
-    "Notes/Inferential Statistics.md",
-    "Tracker/Planner.md",
     "Tracker/28-09-25.md",
     "Tracker/16-09-25.md",
     "papers/ARES.md",
@@ -334,7 +379,6 @@
     "Notes/venv.md",
     "Tracker/18-07-25.md",
     "Tracker/17-07-25.md",
-    "Notes/ONNX.md",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
     "papers",
