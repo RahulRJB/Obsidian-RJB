@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "14-11-25",
+      "path": "Tracker/14-11-25.md"
+    },
+    {
       "basename": "12-11-25",
       "path": "Tracker/12-11-25.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Agentic AI",
       "path": "Notes/Agentic AI.md"
-    },
-    {
-      "basename": "Asynchronous Programming",
-      "path": "Notes/Asynchronous Programming.md"
     }
   ],
   "omittedPaths": [],
