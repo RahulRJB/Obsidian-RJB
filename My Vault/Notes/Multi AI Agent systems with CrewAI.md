@@ -20,7 +20,7 @@ https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/
 	- Focus
 	- tool use
 	- memory
-	- guardails
+	- guardrails
 	- collaboration
 - Can collaborate not only sequentially and hierarchically, but also asynchronously ![[Attachments/Pasted image 20250404192401.png]]
 - ![[Attachments/Pasted image 20250404193420.png]]

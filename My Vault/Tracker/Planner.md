@@ -1,7 +1,5 @@
 ---
-
 kanban-plugin: board
-
 ---
 
 ## Daily
@@ -15,6 +13,7 @@ kanban-plugin: board
 ## TO study
 
 - [ ] Asyncio
+- [ ] Langchain
 - [ ] pydantic
 - [ ] dspy
 - [ ] Pytorch
@@ -35,7 +34,6 @@ kanban-plugin: board
 - [ ] Application take 10mins to run a data input and multiple users are using it. Best way to go abut it
 - [ ] Deployment
 - [ ] AWS
-- [ ] Langchain
 - [ ] Customer using rag problem
 - [ ] AI Safety for NSFW and PII and sensitive data
 - [ ] LLM loss functions
@@ -43,11 +41,8 @@ kanban-plugin: board
 - [ ] Statistical analysis
 - [ ] SORT and SEARCH
 - [ ] Chatbot
-- [ ] NLP
-- [ ] Revise Pytorch
 - [ ] AWS Processing Job
 - [ ] AWS Step Functions
-- [ ] Deployments of Models
 
 
 ## Study Materials

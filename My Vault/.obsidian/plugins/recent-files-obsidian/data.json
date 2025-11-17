@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "18-11-25",
+      "path": "Tracker/18-11-25.md"
+    },
+    {
       "basename": "Planner",
       "path": "Tracker/Planner.md"
     },
     {
-      "basename": "17-11-25",
-      "path": "Tracker/17-11-25.md"
+      "basename": "MCP",
+      "path": "Notes/MCP.md"
+    },
+    {
+      "basename": "Langchain",
+      "path": "Notes/Langchain.md"
     },
     {
       "basename": "Multi AI Agent systems with CrewAI",
@@ -17,8 +25,20 @@
       "path": "Notes/Inferential Statistics.md"
     },
     {
+      "basename": "Agentic AI",
+      "path": "Notes/Agentic AI.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Notes/Untitled.base"
+    },
+    {
       "basename": "GOALS 2025",
       "path": "Tracker/GOALS 2025.md"
+    },
+    {
+      "basename": "17-11-25",
+      "path": "Tracker/17-11-25.md"
     },
     {
       "basename": "Projects Details",
@@ -179,18 +199,6 @@
     {
       "basename": "Environment packaging",
       "path": "Notes/Environment packaging.md"
-    },
-    {
-      "basename": "Bradley-Terry Model",
-      "path": "Notes/Bradley-Terry Model.md"
-    },
-    {
-      "basename": "Maximum Likelihood",
-      "path": "Notes/Maximum Likelihood.md"
-    },
-    {
-      "basename": "Agentic AI",
-      "path": "Notes/Agentic AI.md"
     }
   ],
   "omittedPaths": [],
