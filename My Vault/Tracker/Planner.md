@@ -14,6 +14,7 @@ kanban-plugin: board
 
 ## TO study
 
+- [ ] Asyncio
 - [ ] pydantic
 - [ ] dspy
 - [ ] Pytorch
@@ -25,7 +26,6 @@ kanban-plugin: board
 - [ ] VLMs
 - [ ] Diffusion models
 - [ ] KL Divergence
-- [ ] Asyncio
 - [ ] NLP UT Austin
 - [ ] System Design
 - [ ] Regularization

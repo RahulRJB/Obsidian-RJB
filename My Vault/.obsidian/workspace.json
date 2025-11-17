@@ -118,9 +118,18 @@
               "icon": "lucide-trello",
               "title": "Planner"
             }
+          },
+          {
+            "id": "1c67f738d2eba550",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -323,18 +332,20 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "86b01602b1c1be4d",
+  "active": "793781750b5ccde7",
   "lastOpenFiles": [
+    "Tracker/Planner.md",
+    "Tracker/17-11-25.md",
     "Tracker/14-11-25.md",
     "desktop.ini",
     "Tracker/12-11-25.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Inferential Statistics.md",
     "Tracker/GOALS 2025.md",
-    "Tracker/Planner.md",
     "Tracker/Projects Details.md",
     "Tracker/06-11-25.md",
     "Tracker/28-09-25.md",
@@ -354,7 +365,6 @@
     "Tracker/19-07-25.md",
     "Notes/CONDA.md",
     "Notes/venv.md",
-    "Tracker/18-07-25.md",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
     "papers",
