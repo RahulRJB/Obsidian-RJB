@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Daily
@@ -16,12 +18,13 @@ kanban-plugin: board
 - [ ] Langchain
 - [ ] pydantic
 - [ ] dspy
+- [ ] RL (PPO, DPO, GRPO)
+- [ ] DeepSeek
 - [ ] Pytorch
 - [ ] Hugging Face
 - [ ] Book chap2-7; 13
 - [ ] Linear Algebra/ SVD / eigen val / PCA
 - [ ] Andrej Karpathy gpt
-- [ ] RLHF finetuning PPO DPO
 - [ ] VLMs
 - [ ] Diffusion models
 - [ ] KL Divergence

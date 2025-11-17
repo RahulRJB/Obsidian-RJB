@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "MCP",
-      "path": "Notes/MCP.md"
+      "basename": "ReAct",
+      "path": "Notes/ReAct.md"
+    },
+    {
+      "basename": "Tree-of-Thoughts",
+      "path": "Notes/Tree-of-Thoughts.md"
+    },
+    {
+      "basename": "Reasoning Models",
+      "path": "Notes/Reasoning Models.md"
+    },
+    {
+      "basename": "CoT",
+      "path": "Notes/CoT.md"
+    },
+    {
+      "basename": "18-11-25",
+      "path": "Tracker/18-11-25.md"
     },
     {
       "basename": "Planner",
       "path": "Tracker/Planner.md"
     },
     {
-      "basename": "18-11-25",
-      "path": "Tracker/18-11-25.md"
+      "basename": "MCP",
+      "path": "Notes/MCP.md"
     },
     {
       "basename": "Langchain",
@@ -183,22 +199,6 @@
     {
       "basename": "BLEU",
       "path": "Notes/BLEU.md"
-    },
-    {
-      "basename": "ROUGE",
-      "path": "Notes/ROUGE.md"
-    },
-    {
-      "basename": "15-05-25",
-      "path": "Tracker/15-05-25.md"
-    },
-    {
-      "basename": "10-06-25",
-      "path": "Tracker/10-06-25.md"
-    },
-    {
-      "basename": "Environment packaging",
-      "path": "Notes/Environment packaging.md"
     }
   ],
   "omittedPaths": [],
