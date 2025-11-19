@@ -51,7 +51,7 @@ Standard Chain-of-Thought allows a model to _talk_ to itself. ReAct allows a mod
 
 Modern reasoning models (like OpenAI's o1 or DeepSeek-R1) effectively **internalize** these patterns.
 
-- They act like **ToT** by generating many internal "thought tokens" to explore different paths and discarding the bad ones before showing you the answer.
+- They act like **ToT** by generating many internal "thought tokens" to explore di2025*Sepsepfferent paths and discarding the bad ones before showing you the answer.
 - They act like **ReAct** by having built-in tools (like Python interpreters) that they can call internally to verify their own code or math before finalizing the output.
 
 
