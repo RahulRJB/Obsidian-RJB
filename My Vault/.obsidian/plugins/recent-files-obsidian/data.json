@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MCP",
+      "path": "Notes/MCP.md"
+    },
+    {
       "basename": "ReAct",
       "path": "Notes/ReAct.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Planner",
       "path": "Tracker/Planner.md"
-    },
-    {
-      "basename": "MCP",
-      "path": "Notes/MCP.md"
     },
     {
       "basename": "Langchain",

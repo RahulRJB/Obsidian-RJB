@@ -203,8 +203,7 @@
               "title": "Tree-of-Thoughts"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -413,11 +412,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "20034751f83e2149",
+  "active": "df34ad13661d0293",
   "lastOpenFiles": [
     "desktop.ini",
-    "Notes/Tree-of-Thoughts.md",
     "Notes/ReAct.md",
+    "Notes/Tree-of-Thoughts.md",
     "Notes/Reasoning Models.md",
     "Notes/CoT.md",
     "Tracker/18-11-25.md",
