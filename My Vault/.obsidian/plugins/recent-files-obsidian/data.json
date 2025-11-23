@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "MCP",
-      "path": "Notes/MCP.md"
+      "basename": "GOALS",
+      "path": "Tracker/GOALS.md"
+    },
+    {
+      "basename": "Tree-of-Thoughts",
+      "path": "Notes/Tree-of-Thoughts.md"
     },
     {
       "basename": "ReAct",
       "path": "Notes/ReAct.md"
     },
     {
-      "basename": "Tree-of-Thoughts",
-      "path": "Notes/Tree-of-Thoughts.md"
+      "basename": "Langchain",
+      "path": "Notes/Langchain.md"
+    },
+    {
+      "basename": "Inferential Statistics",
+      "path": "Notes/Inferential Statistics.md"
+    },
+    {
+      "basename": "Multi AI Agent systems with CrewAI",
+      "path": "Notes/Multi AI Agent systems with CrewAI.md"
+    },
+    {
+      "basename": "MCP",
+      "path": "Notes/MCP.md"
     },
     {
       "basename": "Reasoning Models",
@@ -29,28 +45,12 @@
       "path": "Tracker/Planner.md"
     },
     {
-      "basename": "Langchain",
-      "path": "Notes/Langchain.md"
-    },
-    {
-      "basename": "Multi AI Agent systems with CrewAI",
-      "path": "Notes/Multi AI Agent systems with CrewAI.md"
-    },
-    {
-      "basename": "Inferential Statistics",
-      "path": "Notes/Inferential Statistics.md"
-    },
-    {
       "basename": "Agentic AI",
       "path": "Notes/Agentic AI.md"
     },
     {
       "basename": "Untitled",
       "path": "Notes/Untitled.base"
-    },
-    {
-      "basename": "GOALS 2025",
-      "path": "Tracker/GOALS 2025.md"
     },
     {
       "basename": "17-11-25",

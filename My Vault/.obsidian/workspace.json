@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/GOALS 2025.md",
+                "file": "Tracker/GOALS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,10 +49,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GOALS 2025"
+              "title": "GOALS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ce9e7eecbec340d0",
@@ -203,7 +204,8 @@
               "title": "Tree-of-Thoughts"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -412,22 +414,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "df34ad13661d0293",
+  "active": "2a63324f6116bf7d",
   "lastOpenFiles": [
-    "desktop.ini",
-    "Notes/ReAct.md",
     "Notes/Tree-of-Thoughts.md",
+    "Notes/ReAct.md",
+    "Notes/Langchain.md",
+    "Notes/Inferential Statistics.md",
+    "Notes/Multi AI Agent systems with CrewAI.md",
+    "Notes/MCP.md",
+    "desktop.ini",
     "Notes/Reasoning Models.md",
     "Notes/CoT.md",
     "Tracker/18-11-25.md",
     "Tracker/Planner.md",
-    "Notes/MCP.md",
-    "Notes/Langchain.md",
-    "Notes/Multi AI Agent systems with CrewAI.md",
-    "Notes/Inferential Statistics.md",
     "Notes/Agentic AI.md",
     "Notes/Untitled.base",
-    "Tracker/GOALS 2025.md",
+    "Tracker/GOALS.md",
     "Tracker/17-11-25.md",
     "Tracker/14-11-25.md",
     "Tracker/12-11-25.md",
