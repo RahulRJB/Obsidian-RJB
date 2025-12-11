@@ -186,7 +186,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Tree-of-Thoughts.md",
+                "file": "Tracker/12-12-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -201,7 +201,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tree-of-Thoughts"
+              "title": "12-12-25"
             }
           }
         ],
@@ -414,22 +414,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2a63324f6116bf7d",
+  "active": "52a338cfc917d392",
   "lastOpenFiles": [
     "Notes/Tree-of-Thoughts.md",
-    "Notes/ReAct.md",
+    "Tracker/12-12-25.md",
+    "desktop.ini",
     "Notes/Langchain.md",
     "Notes/Inferential Statistics.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
+    "Tracker/GOALS.md",
+    "Tracker/Planner.md",
     "Notes/MCP.md",
-    "desktop.ini",
+    "Notes/ReAct.md",
     "Notes/Reasoning Models.md",
     "Notes/CoT.md",
     "Tracker/18-11-25.md",
-    "Tracker/Planner.md",
     "Notes/Agentic AI.md",
     "Notes/Untitled.base",
-    "Tracker/GOALS.md",
     "Tracker/17-11-25.md",
     "Tracker/14-11-25.md",
     "Tracker/12-11-25.md",

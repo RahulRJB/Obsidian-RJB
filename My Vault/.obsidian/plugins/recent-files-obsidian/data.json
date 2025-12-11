@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "GOALS",
-      "path": "Tracker/GOALS.md"
+      "basename": "12-12-25",
+      "path": "Tracker/12-12-25.md"
     },
     {
       "basename": "Tree-of-Thoughts",
@@ -25,6 +25,14 @@
       "path": "Notes/Multi AI Agent systems with CrewAI.md"
     },
     {
+      "basename": "GOALS",
+      "path": "Tracker/GOALS.md"
+    },
+    {
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
+    },
+    {
       "basename": "MCP",
       "path": "Notes/MCP.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "18-11-25",
       "path": "Tracker/18-11-25.md"
-    },
-    {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
     },
     {
       "basename": "Agentic AI",
@@ -195,10 +199,6 @@
     {
       "basename": "METEOR",
       "path": "Notes/METEOR.md"
-    },
-    {
-      "basename": "BLEU",
-      "path": "Notes/BLEU.md"
     }
   ],
   "omittedPaths": [],
