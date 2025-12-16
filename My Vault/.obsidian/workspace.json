@@ -185,7 +185,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Tree-of-Thoughts.md",
+                "file": "Tracker/16-12-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -200,7 +200,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tree-of-Thoughts"
+              "title": "16-12-25"
             }
           }
         ],
@@ -415,9 +415,9 @@
   },
   "active": "52a338cfc917d392",
   "lastOpenFiles": [
-    "Notes/Untitled 1.base",
     "Notes/Tree-of-Thoughts.md",
     "Tracker/16-12-25.md",
+    "Notes/Untitled 1.base",
     "Tracker/Planner.md",
     "Tracker/12-12-25.md",
     "desktop.ini",
