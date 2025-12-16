@@ -52,8 +52,7 @@
               "title": "GOALS"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ce9e7eecbec340d0",
@@ -186,7 +185,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/12-12-25.md",
+                "file": "Notes/Tree-of-Thoughts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -201,7 +200,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "12-12-25"
+              "title": "Tree-of-Thoughts"
             }
           }
         ],
@@ -410,12 +409,12 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "52a338cfc917d392",
   "lastOpenFiles": [
+    "Tracker/Planner.md",
     "Notes/Tree-of-Thoughts.md",
     "Tracker/12-12-25.md",
     "desktop.ini",
@@ -423,7 +422,6 @@
     "Notes/Inferential Statistics.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Tracker/GOALS.md",
-    "Tracker/Planner.md",
     "Notes/MCP.md",
     "Notes/ReAct.md",
     "Notes/Reasoning Models.md",

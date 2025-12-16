@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "12-12-25",
-      "path": "Tracker/12-12-25.md"
+      "basename": "16-12-25",
+      "path": "Tracker/16-12-25.md"
     },
     {
       "basename": "Tree-of-Thoughts",
       "path": "Notes/Tree-of-Thoughts.md"
+    },
+    {
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
+    },
+    {
+      "basename": "12-12-25",
+      "path": "Tracker/12-12-25.md"
     },
     {
       "basename": "ReAct",
@@ -27,10 +35,6 @@
     {
       "basename": "GOALS",
       "path": "Tracker/GOALS.md"
-    },
-    {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
     },
     {
       "basename": "MCP",
@@ -195,10 +199,6 @@
     {
       "basename": "Kendall’s τ",
       "path": "Notes/Kendall’s τ.md"
-    },
-    {
-      "basename": "METEOR",
-      "path": "Notes/METEOR.md"
     }
   ],
   "omittedPaths": [],
