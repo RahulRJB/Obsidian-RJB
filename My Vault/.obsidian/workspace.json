@@ -178,33 +178,9 @@
               "icon": "lucide-file",
               "title": "ReAct"
             }
-          },
-          {
-            "id": "52a338cfc917d392",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "papers/ARES.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ARES"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -261,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 217.5,
+    "collapsed": true
   },
   "right": {
     "id": "c7c09c75a428bb68",
@@ -422,10 +399,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "52a338cfc917d392",
+  "active": "20034751f83e2149",
   "lastOpenFiles": [
-    "Notes/Tree-of-Thoughts.md",
+    "conflict-files-obsidian-git.md",
+    "papers/ARES.md",
     "Tracker/16-12-25.md",
+    "Notes/Tree-of-Thoughts.md",
     "Notes/Untitled 1.base",
     "Tracker/Planner.md",
     "Tracker/12-12-25.md",
@@ -448,7 +427,6 @@
     "Tracker/06-11-25.md",
     "Tracker/28-09-25.md",
     "Tracker/16-09-25.md",
-    "papers/ARES.md",
     "Tracker/Dreams.md",
     "Tracker/08-09-25.md",
     "Tracker/20-08-25.md",
