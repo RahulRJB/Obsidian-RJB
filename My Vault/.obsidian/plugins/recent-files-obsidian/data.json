@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ARES",
+      "path": "papers/ARES.md"
+    },
+    {
       "basename": "Tree-of-Thoughts",
       "path": "Notes/Tree-of-Thoughts.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "16-09-25",
       "path": "Tracker/16-09-25.md"
-    },
-    {
-      "basename": "ARES",
-      "path": "papers/ARES.md"
     },
     {
       "basename": "Dreams",

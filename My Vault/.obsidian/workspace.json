@@ -185,7 +185,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Tree-of-Thoughts.md",
+                "file": "papers/ARES.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -200,7 +200,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tree-of-Thoughts"
+              "title": "ARES"
             }
           }
         ],
@@ -261,8 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5,
-    "collapsed": true
+    "width": 217.5
   },
   "right": {
     "id": "c7c09c75a428bb68",
@@ -278,8 +277,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
             }
           },
           {
@@ -288,8 +287,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -327,8 +326,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -378,6 +377,16 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "c5973676055c1c18",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
         ],
         "currentTab": 1
@@ -390,7 +399,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -401,23 +409,24 @@
       "publish:Publish changes...": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-kanban:Create new board": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false,
+      "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "52a338cfc917d392",
   "lastOpenFiles": [
-    "Notes/Untitled 1.base",
     "Notes/Tree-of-Thoughts.md",
     "Tracker/16-12-25.md",
+    "Notes/Untitled 1.base",
     "Tracker/Planner.md",
     "Tracker/12-12-25.md",
     "desktop.ini",
