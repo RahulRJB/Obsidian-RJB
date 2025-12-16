@@ -409,13 +409,16 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "52a338cfc917d392",
   "lastOpenFiles": [
-    "Tracker/Planner.md",
+    "Notes/Untitled 1.base",
     "Notes/Tree-of-Thoughts.md",
+    "Tracker/16-12-25.md",
+    "Tracker/Planner.md",
     "Tracker/12-12-25.md",
     "desktop.ini",
     "Notes/Langchain.md",
@@ -440,8 +443,6 @@
     "Tracker/Dreams.md",
     "Tracker/08-09-25.md",
     "Tracker/20-08-25.md",
-    "Tracker/04-08-25.md",
-    "Notes/ruff.md",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
     "papers",
@@ -458,7 +459,6 @@
     "Attachments/Pasted image 20250403154801.png",
     "Attachments/Pasted image 20250403154533.png",
     "Attachments/seg-10.pdf",
-    "Attachments/Recording 20250402162601.webm",
     "Attachments/Pasted image 20250326203830.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
