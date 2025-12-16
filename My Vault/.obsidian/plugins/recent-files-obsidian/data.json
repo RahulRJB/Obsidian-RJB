@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "ReAct",
-      "path": "Notes/ReAct.md"
-    },
-    {
-      "basename": "ARES",
-      "path": "papers/ARES.md"
+      "basename": "16-12-25",
+      "path": "Tracker/16-12-25.md"
     },
     {
       "basename": "Tree-of-Thoughts",
@@ -19,6 +15,10 @@
     {
       "basename": "Planner",
       "path": "Tracker/Planner.md"
+    },
+    {
+      "basename": "ReAct",
+      "path": "Notes/ReAct.md"
     },
     {
       "basename": "Langchain",
@@ -71,6 +71,10 @@
     {
       "basename": "16-09-25",
       "path": "Tracker/16-09-25.md"
+    },
+    {
+      "basename": "ARES",
+      "path": "papers/ARES.md"
     },
     {
       "basename": "Dreams",
