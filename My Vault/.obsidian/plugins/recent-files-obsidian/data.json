@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ReAct",
+      "path": "Notes/ReAct.md"
+    },
+    {
       "basename": "ARES",
       "path": "papers/ARES.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "Planner",
       "path": "Tracker/Planner.md"
-    },
-    {
-      "basename": "ReAct",
-      "path": "Notes/ReAct.md"
     },
     {
       "basename": "Langchain",
