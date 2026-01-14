@@ -1,48 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Inferential Statistics",
+      "path": "Notes/Inferential Statistics.md"
+    },
+    {
+      "basename": "02-01-25",
+      "path": "Tracker/2025/02-01-25.md"
+    },
+    {
       "basename": "12-01-26",
       "path": "Tracker/12-01-26.md"
     },
     {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
+      "basename": "Dreams",
+      "path": "Tracker/Dreams.md"
     },
     {
-      "basename": "Tree-of-Thoughts",
-      "path": "Notes/Tree-of-Thoughts.md"
+      "basename": "Untitled 2",
+      "path": "Notes/Untitled 2.base"
     },
     {
-      "basename": "16-12-25",
-      "path": "Tracker/16-12-25.md"
-    },
-    {
-      "basename": "ReAct",
-      "path": "Notes/ReAct.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Notes/Untitled 1.base"
-    },
-    {
-      "basename": "Langchain",
-      "path": "Notes/Langchain.md"
-    },
-    {
-      "basename": "Inferential Statistics",
-      "path": "Notes/Inferential Statistics.md"
+      "basename": "MCP",
+      "path": "Notes/MCP.md"
     },
     {
       "basename": "Multi AI Agent systems with CrewAI",
       "path": "Notes/Multi AI Agent systems with CrewAI.md"
     },
     {
-      "basename": "GOALS",
-      "path": "Tracker/GOALS.md"
+      "basename": "Tree-of-Thoughts",
+      "path": "Notes/Tree-of-Thoughts.md"
     },
     {
-      "basename": "MCP",
-      "path": "Notes/MCP.md"
+      "basename": "ReAct",
+      "path": "Notes/ReAct.md"
+    },
+    {
+      "basename": "Langchain",
+      "path": "Notes/Langchain.md"
+    },
+    {
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
+    },
+    {
+      "basename": "16-12-25",
+      "path": "Tracker/2025/16-12-25.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Notes/Untitled 1.base"
+    },
+    {
+      "basename": "GOALS",
+      "path": "Tracker/GOALS.md"
     },
     {
       "basename": "Reasoning Models",
@@ -54,7 +66,7 @@
     },
     {
       "basename": "18-11-25",
-      "path": "Tracker/18-11-25.md"
+      "path": "Tracker/2025/18-11-25.md"
     },
     {
       "basename": "Agentic AI",
@@ -74,15 +86,11 @@
     },
     {
       "basename": "16-09-25",
-      "path": "Tracker/16-09-25.md"
+      "path": "Tracker/2025/16-09-25.md"
     },
     {
       "basename": "ARES",
       "path": "papers/ARES.md"
-    },
-    {
-      "basename": "Dreams",
-      "path": "Tracker/Dreams.md"
     },
     {
       "basename": "08-09-25",
@@ -90,11 +98,11 @@
     },
     {
       "basename": "20-08-25",
-      "path": "Tracker/20-08-25.md"
+      "path": "Tracker/2025/20-08-25.md"
     },
     {
       "basename": "04-08-25",
-      "path": "Tracker/04-08-25.md"
+      "path": "Tracker/2025/04-08-25.md"
     },
     {
       "basename": "ruff",
@@ -106,7 +114,7 @@
     },
     {
       "basename": "28-07-25",
-      "path": "Tracker/28-07-25.md"
+      "path": "Tracker/2025/28-07-25.md"
     },
     {
       "basename": "SentencePiece",
@@ -130,7 +138,7 @@
     },
     {
       "basename": "16-07-25",
-      "path": "Tracker/16-07-25.md"
+      "path": "Tracker/2025/16-07-25.md"
     },
     {
       "basename": "nDCG",
@@ -150,11 +158,11 @@
     },
     {
       "basename": "03-07-25",
-      "path": "Tracker/03-07-25.md"
+      "path": "Tracker/2025/03-07-25.md"
     },
     {
       "basename": "27-06-25",
-      "path": "Tracker/27-06-25.md"
+      "path": "Tracker/2025/27-06-25.md"
     },
     {
       "basename": "HDBSCAN",
@@ -162,7 +170,7 @@
     },
     {
       "basename": "23-06-25",
-      "path": "Tracker/23-06-25.md"
+      "path": "Tracker/2025/23-06-25.md"
     },
     {
       "basename": "vLLM",
@@ -191,14 +199,6 @@
     {
       "basename": "GLUE",
       "path": "Notes/GLUE.md"
-    },
-    {
-      "basename": "Encoder",
-      "path": "Notes/Encoder.md"
-    },
-    {
-      "basename": "15-06-25",
-      "path": "Tracker/15-06-25.md"
     }
   ],
   "omittedPaths": [],

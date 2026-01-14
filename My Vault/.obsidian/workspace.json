@@ -12,24 +12,20 @@
             "id": "793781750b5ccde7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Tracker/12-01-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Tracker/Planner.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-file",
-              "title": "12-01-26"
+              "icon": "lucide-trello",
+              "title": "Planner"
             }
           },
           {
@@ -63,30 +59,6 @@
         "type": "tabs",
         "dimension": 77.61194029850746,
         "children": [
-          {
-            "id": "df34ad13661d0293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/MCP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MCP"
-            }
-          },
           {
             "id": "444ec1c73bfaae25",
             "type": "leaf",
@@ -136,27 +108,15 @@
             }
           },
           {
-            "id": "82f37c481e3738ed",
+            "id": "13dbc86a89a25e08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Notes/Langchain.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "currentVersion": "1.11.4"
               },
-              "icon": "lucide-file",
-              "title": "Langchain"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
             }
           },
           {
@@ -208,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,8 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5,
-    "collapsed": true
+    "width": 217.5
   },
   "right": {
     "id": "c7c09c75a428bb68",
@@ -413,41 +372,42 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "793781750b5ccde7",
+  "active": "13dbc86a89a25e08",
   "lastOpenFiles": [
-    "Tracker/Planner.md",
+    "Tracker/2025/02-01-25.md",
     "Tracker/12-01-26.md",
+    "Tracker/Dreams.md",
+    "Notes/Inferential Statistics.md",
+    "Tracker/2025",
+    "Notes/Untitled 2.base",
+    "Notes/MCP.md",
+    "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Tree-of-Thoughts.md",
-    "Tracker/16-12-25.md",
     "Notes/ReAct.md",
+    "Notes/Langchain.md",
+    "Tracker/Planner.md",
+    "Tracker/2025/16-12-25.md",
     "conflict-files-obsidian-git.md",
     "Notes/Untitled 1.base",
     "Tracker/12-12-25.md",
     "desktop.ini",
-    "Notes/Langchain.md",
-    "Notes/Inferential Statistics.md",
-    "Notes/Multi AI Agent systems with CrewAI.md",
     "Tracker/GOALS.md",
-    "Notes/MCP.md",
     "Notes/Reasoning Models.md",
     "Notes/CoT.md",
-    "Tracker/18-11-25.md",
+    "Tracker/2025/18-11-25.md",
     "Notes/Agentic AI.md",
     "Notes/Untitled.base",
-    "Tracker/17-11-25.md",
+    "Tracker/2025/17-11-25.md",
     "Tracker/14-11-25.md",
     "Tracker/12-11-25.md",
     "Tracker/Projects Details.md",
     "Tracker/06-11-25.md",
     "Tracker/28-09-25.md",
-    "Tracker/16-09-25.md",
+    "Tracker/2025/16-09-25.md",
     "papers/ARES.md",
-    "Tracker/Dreams.md",
-    "Tracker/08-09-25.md",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
     "papers",
@@ -455,7 +415,6 @@
     "Attachments/Photo3.jpg",
     "Papers/ARES.pdf.crdownload",
     "Papers",
-    "New folder",
     "Attachments/Pasted image 20250411174210.png",
     "Attachments/Pasted image 20250404193420.png",
     "Attachments/Pasted image 20250404192401.png",
@@ -463,7 +422,6 @@
     "Attachments/Pasted image 20250404155943.png",
     "Attachments/Pasted image 20250403154801.png",
     "Attachments/Pasted image 20250403154533.png",
-    "Attachments/seg-10.pdf",
     "Attachments/Pasted image 20250326203830.png",
     "Untitled.canvas",
     "Untitled 1.canvas"

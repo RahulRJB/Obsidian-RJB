@@ -12,7 +12,7 @@
 	- [ ] Aurora Borialis  
 	- [ ] Iceland, Faroe Islands  
 	- [ ] Imagine Dragons Live  
-	- [ ] PADI open water diver  
+	- [x] PADI open water diver
 	- [ ] Bungee Jumping  
 	- [ ] Bike Ride(Blr to Bom)  
 	- [ ] Bike Ride (20+hrs)  
