@@ -108,18 +108,6 @@
             }
           },
           {
-            "id": "13dbc86a89a25e08",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
-          },
-          {
             "id": "20034751f83e2149",
             "type": "leaf",
             "state": {
@@ -166,9 +154,33 @@
               "icon": "lucide-file",
               "title": "Tree-of-Thoughts"
             }
+          },
+          {
+            "id": "53253ca25f2e31c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Knowledge Graphs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Knowledge Graphs"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -372,11 +384,14 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "13dbc86a89a25e08",
+  "active": "53253ca25f2e31c6",
   "lastOpenFiles": [
+    "Notes/Knowledge Graphs.md",
+    "Notes/ReAct.md",
     "Tracker/2025/02-01-25.md",
     "Tracker/12-01-26.md",
     "Tracker/Dreams.md",
@@ -386,7 +401,6 @@
     "Notes/MCP.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Tree-of-Thoughts.md",
-    "Notes/ReAct.md",
     "Notes/Langchain.md",
     "Tracker/Planner.md",
     "Tracker/2025/16-12-25.md",
@@ -407,7 +421,6 @@
     "Tracker/06-11-25.md",
     "Tracker/28-09-25.md",
     "Tracker/2025/16-09-25.md",
-    "papers/ARES.md",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
     "papers",

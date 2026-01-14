@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Knowledge Graphs",
+      "path": "Notes/Knowledge Graphs.md"
+    },
+    {
+      "basename": "ReAct",
+      "path": "Notes/ReAct.md"
+    },
+    {
       "basename": "Inferential Statistics",
       "path": "Notes/Inferential Statistics.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Tree-of-Thoughts",
       "path": "Notes/Tree-of-Thoughts.md"
-    },
-    {
-      "basename": "ReAct",
-      "path": "Notes/ReAct.md"
     },
     {
       "basename": "Langchain",
@@ -195,10 +199,6 @@
     {
       "basename": "BERT",
       "path": "Notes/BERT.md"
-    },
-    {
-      "basename": "GLUE",
-      "path": "Notes/GLUE.md"
     }
   ],
   "omittedPaths": [],

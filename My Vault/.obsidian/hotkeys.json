@@ -94,10 +94,9 @@
   "insert-template": [
     {
       "modifiers": [
-        "Alt",
         "Shift"
       ],
-      "key": "T"
+      "key": " "
     }
   ]
 }
