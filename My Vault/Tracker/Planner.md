@@ -9,13 +9,10 @@ kanban-plugin: board
 - [ ] Papers
 - [ ] CAB GO -- Statistics like Hypothesis testing
 - [ ] **CAB COME** --  Sebastian Raschaka Book - LLM
-- [ ] Agents course
 
 
 ## TO study
 
-- [ ] Asyncio
-- [ ] Langchain
 - [ ] pydantic
 - [ ] dspy
 - [ ] RL (PPO, DPO, GRPO)

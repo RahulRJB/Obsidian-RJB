@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "QUOTES OF THE DAY",
+      "path": "Tracker/QUOTES OF THE DAY.md"
+    },
+    {
+      "basename": "Schedule",
+      "path": "Tracker/Schedule.md"
+    },
+    {
+      "basename": "Inferential Statistics",
+      "path": "Notes/Inferential Statistics.md"
+    },
+    {
+      "basename": "GOALS",
+      "path": "Tracker/GOALS.md"
+    },
+    {
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
+    },
+    {
+      "basename": "DSA-Leetcode",
+      "path": "Tracker/DSA-Leetcode.md"
+    },
+    {
+      "basename": "Dreams",
+      "path": "Tracker/Dreams.md"
+    },
+    {
+      "basename": "12-01-26",
+      "path": "Tracker/12-01-26.md"
+    },
+    {
+      "basename": "Projects Details",
+      "path": "Tracker/Projects Details.md"
+    },
+    {
+      "basename": "Marriage Plan",
+      "path": "Tracker/Marriage Plan.md"
+    },
+    {
       "basename": "Knowledge Graphs",
       "path": "Notes/Knowledge Graphs.md"
     },
@@ -9,20 +49,8 @@
       "path": "Notes/ReAct.md"
     },
     {
-      "basename": "Inferential Statistics",
-      "path": "Notes/Inferential Statistics.md"
-    },
-    {
       "basename": "02-01-25",
       "path": "Tracker/2025/02-01-25.md"
-    },
-    {
-      "basename": "12-01-26",
-      "path": "Tracker/12-01-26.md"
-    },
-    {
-      "basename": "Dreams",
-      "path": "Tracker/Dreams.md"
     },
     {
       "basename": "Untitled 2",
@@ -45,20 +73,12 @@
       "path": "Notes/Langchain.md"
     },
     {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
-    },
-    {
       "basename": "16-12-25",
       "path": "Tracker/2025/16-12-25.md"
     },
     {
       "basename": "Untitled 1",
       "path": "Notes/Untitled 1.base"
-    },
-    {
-      "basename": "GOALS",
-      "path": "Tracker/GOALS.md"
     },
     {
       "basename": "Reasoning Models",
@@ -83,10 +103,6 @@
     {
       "basename": "17-11-25",
       "path": "Tracker/17-11-25.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "16-09-25",
@@ -153,14 +169,6 @@
       "path": "Notes/Statistics.md"
     },
     {
-      "basename": "QUOTES OF THE DAY",
-      "path": "Tracker/QUOTES OF THE DAY.md"
-    },
-    {
-      "basename": "Marriage Plan",
-      "path": "Tracker/Marriage Plan.md"
-    },
-    {
       "basename": "03-07-25",
       "path": "Tracker/2025/03-07-25.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Linear Algebra",
       "path": "Notes/Linear Algebra.md"
-    },
-    {
-      "basename": "FLAN-T5",
-      "path": "Notes/FLAN-T5.md"
-    },
-    {
-      "basename": "BERT",
-      "path": "Notes/BERT.md"
     }
   ],
   "omittedPaths": [],

@@ -6,10 +6,34 @@
       {
         "id": "91e219131ac0abbf",
         "type": "tabs",
-        "dimension": 22.388059701492537,
+        "dimension": 46.38118214716526,
         "children": [
           {
             "id": "793781750b5ccde7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/GOALS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "GOALS"
+            }
+          },
+          {
+            "id": "eed2e9045e02b196",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -34,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/GOALS.md",
+                "file": "Tracker/QUOTES OF THE DAY.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,15 +73,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GOALS"
+              "title": "QUOTES OF THE DAY"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "ce9e7eecbec340d0",
         "type": "tabs",
-        "dimension": 77.61194029850746,
+        "dimension": 53.618817852834745,
         "children": [
           {
             "id": "444ec1c73bfaae25",
@@ -180,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -384,30 +409,36 @@
       "obsidian-day-planner:Open Multi-Day View": false,
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "53253ca25f2e31c6",
+  "active": "2a63324f6116bf7d",
   "lastOpenFiles": [
+    "Tracker/Schedule.md",
+    "Notes/Inferential Statistics.md",
+    "Tracker/GOALS.md",
+    "Tracker/Planner.md",
+    "Tracker/DSA-Leetcode.md",
+    "Tracker/Dreams.md",
+    "Tracker/12-01-26.md",
+    "Tracker/Projects Details.md",
+    "Tracker/Marriage Plan.md",
+    "Tracker/QUOTES OF THE DAY.md",
     "Notes/Knowledge Graphs.md",
     "Notes/ReAct.md",
     "Tracker/2025/02-01-25.md",
-    "Tracker/12-01-26.md",
-    "Tracker/Dreams.md",
-    "Notes/Inferential Statistics.md",
     "Tracker/2025",
     "Notes/Untitled 2.base",
     "Notes/MCP.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Tree-of-Thoughts.md",
     "Notes/Langchain.md",
-    "Tracker/Planner.md",
     "Tracker/2025/16-12-25.md",
     "conflict-files-obsidian-git.md",
     "Notes/Untitled 1.base",
     "Tracker/12-12-25.md",
     "desktop.ini",
-    "Tracker/GOALS.md",
     "Notes/Reasoning Models.md",
     "Notes/CoT.md",
     "Tracker/2025/18-11-25.md",
@@ -415,11 +446,6 @@
     "Notes/Untitled.base",
     "Tracker/2025/17-11-25.md",
     "Tracker/14-11-25.md",
-    "Tracker/12-11-25.md",
-    "Tracker/Projects Details.md",
-    "Tracker/06-11-25.md",
-    "Tracker/28-09-25.md",
-    "Tracker/2025/16-09-25.md",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
     "papers",
