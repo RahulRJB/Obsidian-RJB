@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "QUOTES OF THE DAY",
-      "path": "Tracker/QUOTES OF THE DAY.md"
+      "basename": "Hindsight is 20_20",
+      "path": "papers/Hindsight is 20_20.pdf"
+    },
+    {
+      "basename": "Drawing 2026-01-21 02.02.14.excalidraw",
+      "path": "papers/Drawing 2026-01-21 02.02.14.excalidraw.md"
+    },
+    {
+      "basename": "ARES",
+      "path": "papers/ARES.md"
     },
     {
       "basename": "Schedule",
       "path": "Tracker/Schedule.md"
+    },
+    {
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
+    },
+    {
+      "basename": "QUOTES OF THE DAY",
+      "path": "Tracker/QUOTES OF THE DAY.md"
     },
     {
       "basename": "Inferential Statistics",
@@ -15,10 +31,6 @@
     {
       "basename": "GOALS",
       "path": "Tracker/GOALS.md"
-    },
-    {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
     },
     {
       "basename": "DSA-Leetcode",
@@ -109,10 +121,6 @@
       "path": "Tracker/2025/16-09-25.md"
     },
     {
-      "basename": "ARES",
-      "path": "papers/ARES.md"
-    },
-    {
       "basename": "08-09-25",
       "path": "Tracker/08-09-25.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "inferencing",
       "path": "Notes/inferencing.md"
-    },
-    {
-      "basename": "Encoder Models",
-      "path": "Notes/Encoder Models.md"
-    },
-    {
-      "basename": "Linear Algebra",
-      "path": "Notes/Linear Algebra.md"
     }
   ],
   "omittedPaths": [],
