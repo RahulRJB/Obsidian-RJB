@@ -11,5 +11,6 @@
   "userIgnoreFilters": [
     "Tracker/",
     "Templates/"
-  ]
+  ],
+  "openBehavior": "daily"
 }

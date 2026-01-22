@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Drawing 2026-01-22 01.56.31.excalidraw",
+      "path": "papers/Drawing 2026-01-22 01.56.31.excalidraw.md"
+    },
+    {
       "basename": "Hindsight is 20_20",
       "path": "papers/Hindsight is 20_20.pdf"
+    },
+    {
+      "basename": "22-01-26",
+      "path": "Tracker/22-01-26.md"
     },
     {
       "basename": "Drawing 2026-01-21 02.02.14.excalidraw",
@@ -191,14 +199,6 @@
     {
       "basename": "23-06-25",
       "path": "Tracker/2025/23-06-25.md"
-    },
-    {
-      "basename": "vLLM",
-      "path": "Notes/vLLM.md"
-    },
-    {
-      "basename": "inferencing",
-      "path": "Notes/inferencing.md"
     }
   ],
   "omittedPaths": [],
