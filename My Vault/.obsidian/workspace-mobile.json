@@ -13,26 +13,13 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "papers/Hindsight is 20_20.pdf"
+                "file": "papers/ARES.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Hindsight is 20_20"
-            }
-          },
-          {
-            "id": "d45df6d7754dd1be",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "papers/Drawing 2026-01-22 01.56.31.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-22 01.56.31.excalidraw"
+              "title": "ARES"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,17 +214,18 @@
       "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "remotely-save:Remotely Save": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "d45df6d7754dd1be",
+  "active": "9e92ce32b086ebd1",
   "lastOpenFiles": [
+    "Tracker/25-01-26.md",
     "papers/Hindsight is 20_20.pdf",
+    "Tracker/24-01-26.md",
+    "papers/ARES.md",
     "papers/Drawing 2026-01-22 01.56.31.excalidraw.md",
     "Tracker/22-01-26.md",
     "papers/Drawing 2026-01-21 02.02.14.excalidraw.md",
-    "papers/ARES.md",
     "Tracker/Schedule.md",
     "Tracker/Planner.md"
   ]

@@ -53,15 +53,27 @@
             }
           },
           {
-            "id": "2a63324f6116bf7d",
+            "id": "cd5af37c8e7f6930",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "papers/Drawing 2026-01-22 01.56.31.excalidraw.md"
+                "file": "Tracker/Schedule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-01-22 01.56.31.excalidraw"
+              "icon": "lucide-file",
+              "title": "Schedule"
             }
           }
         ],
@@ -400,16 +412,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8720ad22cb60b2c6",
+  "active": "cd5af37c8e7f6930",
   "lastOpenFiles": [
+    "Tracker/Planner.md",
+    "Tracker/Schedule.md",
+    "Tracker/GOALS.md",
     "papers/Drawing 2026-01-22 01.56.31.excalidraw.md",
+    "papers/ARES.md",
     "papers/Drawing 2026-01-21 02.02.14.excalidraw.md",
     "Tracker/QUOTES OF THE DAY.md",
     "papers/Hindsight is 20_20.pdf",
-    "Tracker/Schedule.md",
     "Notes/Inferential Statistics.md",
-    "Tracker/GOALS.md",
-    "Tracker/Planner.md",
     "Tracker/DSA-Leetcode.md",
     "Tracker/Dreams.md",
     "Tracker/12-01-26.md",
@@ -432,7 +445,6 @@
     "Notes/Reasoning Models.md",
     "Notes/CoT.md",
     "Tracker/2025/18-11-25.md",
-    "Notes/Agentic AI.md",
     "Notes/Untitled.base",
     "Attachments/Pasted image 20250614175032.png",
     "Work",
