@@ -6,7 +6,7 @@
       {
         "id": "91e219131ac0abbf",
         "type": "tabs",
-        "dimension": 46.38118214716526,
+        "dimension": 43.31896551724138,
         "children": [
           {
             "id": "793781750b5ccde7",
@@ -82,7 +82,7 @@
       {
         "id": "ce9e7eecbec340d0",
         "type": "tabs",
-        "dimension": 53.618817852834745,
+        "dimension": 56.68103448275862,
         "children": [
           {
             "id": "444ec1c73bfaae25",
@@ -181,12 +181,12 @@
             }
           },
           {
-            "id": "53253ca25f2e31c6",
+            "id": "9aa3215dc756ff91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Knowledge Graphs.md",
+                "file": "Notes/Knowledge Distillation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -201,7 +201,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Knowledge Graphs"
+              "title": "Knowledge Distillation"
             }
           }
         ],
@@ -412,8 +412,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "53253ca25f2e31c6",
+  "active": "9aa3215dc756ff91",
   "lastOpenFiles": [
+    "Notes/Knowledge Distillation.md",
+    "Notes/Tree-of-Thoughts.md",
+    "Notes/Sentence Transformers.md",
+    "Notes/Backpropagation.md",
+    "Notes/Knowledge Graphs.md",
     "Tracker/Schedule.md",
     "papers/ARES.pdf",
     "Tracker/Planner.md",
@@ -429,22 +434,18 @@
     "Tracker/12-01-26.md",
     "Tracker/Projects Details.md",
     "Tracker/Marriage Plan.md",
-    "Notes/Knowledge Graphs.md",
     "Notes/ReAct.md",
     "Tracker/2025/02-01-25.md",
     "Tracker/2025",
     "Notes/Untitled 2.base",
     "Notes/MCP.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
-    "Notes/Tree-of-Thoughts.md",
     "Notes/Langchain.md",
     "Tracker/2025/16-12-25.md",
     "conflict-files-obsidian-git.md",
     "Notes/Untitled 1.base",
     "Tracker/12-12-25.md",
     "desktop.ini",
-    "Notes/Reasoning Models.md",
-    "Notes/CoT.md",
     "Notes/Untitled.base",
     "Attachments/Pasted image 20250614175032.png",
     "Work",

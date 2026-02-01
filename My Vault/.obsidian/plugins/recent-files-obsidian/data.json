@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Knowledge Distillation",
+      "path": "Notes/Knowledge Distillation.md"
+    },
+    {
+      "basename": "Tree-of-Thoughts",
+      "path": "Notes/Tree-of-Thoughts.md"
+    },
+    {
+      "basename": "Sentence Transformers",
+      "path": "Notes/Sentence Transformers.md"
+    },
+    {
+      "basename": "Backpropagation",
+      "path": "Notes/Backpropagation.md"
+    },
+    {
       "basename": "Knowledge Graphs",
       "path": "Notes/Knowledge Graphs.md"
     },
     {
       "basename": "ARES",
       "path": "papers/ARES.pdf"
-    },
-    {
-      "basename": "Backpropagation",
-      "path": "Notes/Backpropagation.md"
     },
     {
       "basename": "28-01-26",
@@ -105,10 +117,6 @@
       "path": "Notes/Multi AI Agent systems with CrewAI.md"
     },
     {
-      "basename": "Tree-of-Thoughts",
-      "path": "Notes/Tree-of-Thoughts.md"
-    },
-    {
       "basename": "Langchain",
       "path": "Notes/Langchain.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Framework",
       "path": "Notes/Framework.md"
-    },
-    {
-      "basename": "16-07-25",
-      "path": "Tracker/2025/16-07-25.md"
-    },
-    {
-      "basename": "nDCG",
-      "path": "Notes/nDCG.md"
     }
   ],
   "omittedPaths": [],
