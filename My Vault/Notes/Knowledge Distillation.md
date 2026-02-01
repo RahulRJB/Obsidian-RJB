@@ -55,7 +55,7 @@ As $T$ increases, the output becomes smoother, revealing the hidden relationship
 The Student model is trained using a composite loss function:
 
 - **Distillation Loss:** The difference between the Student’s soft predictions and the Teacher’s soft predictions.
-    
 - **Student Loss:** The standard difference between the Student’s prediction and the actual correct label (ground truth).
 
 
+NOTE: If working with **LLMs** (like distilling a Llama-3 70B into an 8B), you often skip the ground truth labels entirely and use **Sequence-Level Knowledge Distillation**. In that case, the student simply tries to match the teacher's probability distribution for the next token across the entire vocabulary.
