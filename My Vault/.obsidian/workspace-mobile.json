@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "31b42b18a240cd6e",
+        "id": "f807b3ceb2d74ba7",
         "type": "tabs",
         "children": [
           {
-            "id": "9e92ce32b086ebd1",
+            "id": "1661a33c03ce92b2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "papers/ARES.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ARES"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -194,6 +192,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
       "random-note:Open random note": false,
@@ -211,14 +210,16 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "9e92ce32b086ebd1",
+  "active": "1661a33c03ce92b2",
   "lastOpenFiles": [
+    "papers/ARES.pdf",
+    "Notes/Backpropagation.md",
+    "Tracker/28-01-26.md",
     "Tracker/25-01-26.md",
     "papers/Hindsight is 20_20.pdf",
     "Tracker/24-01-26.md",

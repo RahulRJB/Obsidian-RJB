@@ -205,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -412,11 +412,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cd5af37c8e7f6930",
+  "active": "53253ca25f2e31c6",
   "lastOpenFiles": [
+    "Tracker/Schedule.md",
     "papers/ARES.pdf",
     "Tracker/Planner.md",
-    "Tracker/Schedule.md",
     "Tracker/GOALS.md",
     "papers/Drawing 2026-01-22 01.56.31.excalidraw.md",
     "papers/ARES.md",
@@ -451,7 +451,6 @@
     "papers",
     "Papers/ARES.pdf",
     "Attachments/Photo3.jpg",
-    "Papers/ARES.pdf.crdownload",
     "Attachments/Pasted image 20250411174210.png",
     "Attachments/Pasted image 20250404193420.png",
     "Attachments/Pasted image 20250404192401.png",

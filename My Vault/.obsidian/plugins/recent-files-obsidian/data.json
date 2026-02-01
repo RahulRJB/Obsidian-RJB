@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Knowledge Graphs",
+      "path": "Notes/Knowledge Graphs.md"
+    },
+    {
+      "basename": "ARES",
+      "path": "papers/ARES.pdf"
+    },
+    {
+      "basename": "Backpropagation",
+      "path": "Notes/Backpropagation.md"
+    },
+    {
+      "basename": "28-01-26",
+      "path": "Tracker/28-01-26.md"
+    },
+    {
+      "basename": "25-01-26",
+      "path": "Tracker/25-01-26.md"
+    },
+    {
       "basename": "Hindsight is 20_20",
       "path": "papers/Hindsight is 20_20.pdf"
     },
@@ -63,10 +83,6 @@
     {
       "basename": "Marriage Plan",
       "path": "Tracker/Marriage Plan.md"
-    },
-    {
-      "basename": "Knowledge Graphs",
-      "path": "Notes/Knowledge Graphs.md"
     },
     {
       "basename": "ReAct",
@@ -183,22 +199,6 @@
     {
       "basename": "nDCG",
       "path": "Notes/nDCG.md"
-    },
-    {
-      "basename": "Statistics",
-      "path": "Notes/Statistics.md"
-    },
-    {
-      "basename": "03-07-25",
-      "path": "Tracker/2025/03-07-25.md"
-    },
-    {
-      "basename": "27-06-25",
-      "path": "Tracker/2025/27-06-25.md"
-    },
-    {
-      "basename": "HDBSCAN",
-      "path": "Notes/HDBSCAN.md"
     }
   ],
   "omittedPaths": [],

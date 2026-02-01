@@ -8,7 +8,7 @@ DATE:  14-01-26
 Tags: 
 
 # References:
-
+https://neo4j.com/blog/knowledge-graph/what-is-knowledge-graph/
 
 
 
