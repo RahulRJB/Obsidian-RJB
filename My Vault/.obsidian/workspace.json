@@ -6,7 +6,7 @@
       {
         "id": "91e219131ac0abbf",
         "type": "tabs",
-        "dimension": 43.31896551724138,
+        "dimension": 43.318965517241374,
         "children": [
           {
             "id": "793781750b5ccde7",
@@ -82,7 +82,7 @@
       {
         "id": "ce9e7eecbec340d0",
         "type": "tabs",
-        "dimension": 56.68103448275862,
+        "dimension": 56.681034482758626,
         "children": [
           {
             "id": "444ec1c73bfaae25",
@@ -186,7 +186,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Knowledge Distillation.md",
+                "file": "Tracker/17-02-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -201,11 +201,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Knowledge Distillation"
+              "title": "17-02-26"
+            }
+          },
+          {
+            "id": "52cf0ee100c4e7d5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -406,15 +418,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "9aa3215dc756ff91",
+  "active": "52cf0ee100c4e7d5",
   "lastOpenFiles": [
     "Notes/Knowledge Distillation.md",
+    "Tracker/17-02-26.md",
     "Notes/Tree-of-Thoughts.md",
     "Notes/Sentence Transformers.md",
     "Notes/Backpropagation.md",
@@ -444,7 +456,6 @@
     "Tracker/2025/16-12-25.md",
     "conflict-files-obsidian-git.md",
     "Notes/Untitled 1.base",
-    "Tracker/12-12-25.md",
     "desktop.ini",
     "Notes/Untitled.base",
     "Attachments/Pasted image 20250614175032.png",
