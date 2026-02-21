@@ -1,28 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "GEPA",
+      "path": "Notes/GEPA.md"
+    },
+    {
       "basename": "Dspy",
       "path": "Notes/Dspy.md"
     },
     {
-      "basename": "20-02-26",
-      "path": "Tracker/20-02-26.md"
+      "basename": "optimization",
+      "path": "Notes/optimization.md"
     },
     {
-      "basename": "11-02-26",
-      "path": "Tracker/11-02-26.md"
+      "basename": "Multi AI Agent systems with CrewAI",
+      "path": "Notes/Multi AI Agent systems with CrewAI.md"
     },
     {
-      "basename": "Knowledge Distillation",
-      "path": "Notes/Knowledge Distillation.md"
+      "basename": "Inferential Statistics",
+      "path": "Notes/Inferential Statistics.md"
+    },
+    {
+      "basename": "ReAct",
+      "path": "Notes/ReAct.md"
     },
     {
       "basename": "Tree-of-Thoughts",
       "path": "Notes/Tree-of-Thoughts.md"
     },
     {
-      "basename": "17-02-26",
-      "path": "Tracker/17-02-26.md"
+      "basename": "ARES",
+      "path": "papers/ARES.pdf"
+    },
+    {
+      "basename": "20-02-26",
+      "path": "Tracker/20-02-26.md"
+    },
+    {
+      "basename": "GOALS",
+      "path": "Tracker/GOALS.md"
+    },
+    {
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
+    },
+    {
+      "basename": "Schedule",
+      "path": "Tracker/Schedule.md"
+    },
+    {
+      "basename": "Knowledge Distillation",
+      "path": "Notes/Knowledge Distillation.md"
     },
     {
       "basename": "Sentence Transformers",
@@ -37,60 +65,12 @@
       "path": "Notes/Knowledge Graphs.md"
     },
     {
-      "basename": "ARES",
-      "path": "papers/ARES.pdf"
-    },
-    {
-      "basename": "28-01-26",
-      "path": "Tracker/28-01-26.md"
-    },
-    {
-      "basename": "25-01-26",
-      "path": "Tracker/25-01-26.md"
-    },
-    {
       "basename": "Hindsight is 20_20",
       "path": "papers/Hindsight is 20_20.pdf"
     },
     {
-      "basename": "24-01-26",
-      "path": "Tracker/24-01-26.md"
-    },
-    {
-      "basename": "ARES",
-      "path": "papers/ARES.md"
-    },
-    {
-      "basename": "Drawing 2026-01-22 01.56.31.excalidraw",
-      "path": "papers/Drawing 2026-01-22 01.56.31.excalidraw.md"
-    },
-    {
-      "basename": "Schedule",
-      "path": "Tracker/Schedule.md"
-    },
-    {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
-    },
-    {
-      "basename": "GOALS",
-      "path": "Tracker/GOALS.md"
-    },
-    {
-      "basename": "Drawing 2026-01-21 02.02.14.excalidraw",
-      "path": "papers/Drawing 2026-01-21 02.02.14.excalidraw.md"
-    },
-    {
-      "basename": "22-01-26",
-      "path": "Tracker/22-01-26.md"
-    },
-    {
       "basename": "QUOTES OF THE DAY",
       "path": "Tracker/QUOTES OF THE DAY.md"
-    },
-    {
-      "basename": "Inferential Statistics",
-      "path": "Notes/Inferential Statistics.md"
     },
     {
       "basename": "DSA-Leetcode",
@@ -101,20 +81,12 @@
       "path": "Tracker/Dreams.md"
     },
     {
-      "basename": "12-01-26",
-      "path": "Tracker/12-01-26.md"
-    },
-    {
       "basename": "Projects Details",
       "path": "Tracker/Projects Details.md"
     },
     {
       "basename": "Marriage Plan",
       "path": "Tracker/Marriage Plan.md"
-    },
-    {
-      "basename": "ReAct",
-      "path": "Notes/ReAct.md"
     },
     {
       "basename": "02-01-25",
@@ -127,10 +99,6 @@
     {
       "basename": "MCP",
       "path": "Notes/MCP.md"
-    },
-    {
-      "basename": "Multi AI Agent systems with CrewAI",
-      "path": "Notes/Multi AI Agent systems with CrewAI.md"
     },
     {
       "basename": "Langchain",
@@ -191,14 +159,6 @@
     {
       "basename": "uv",
       "path": "Notes/uv.md"
-    },
-    {
-      "basename": "28-07-25",
-      "path": "Tracker/2025/28-07-25.md"
-    },
-    {
-      "basename": "SentencePiece",
-      "path": "Notes/SentencePiece.md"
     }
   ],
   "omittedPaths": [],

@@ -4,85 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "91e219131ac0abbf",
-        "type": "tabs",
-        "dimension": 41.133896260554884,
-        "children": [
-          {
-            "id": "793781750b5ccde7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/GOALS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "GOALS"
-            }
-          },
-          {
-            "id": "eed2e9045e02b196",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Tracker/Planner.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Planner"
-            }
-          },
-          {
-            "id": "cd5af37c8e7f6930",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/Schedule.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Schedule"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "ce9e7eecbec340d0",
         "type": "tabs",
-        "dimension": 58.86610373944512,
         "children": [
           {
             "id": "444ec1c73bfaae25",
@@ -186,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/21-02-26.md",
+                "file": "Notes/Dspy.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -201,19 +124,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "21-02-26"
+              "title": "Dspy"
             }
           },
           {
-            "id": "75aac8eb3de80521",
+            "id": "8f667640d3d665ff",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Notes/GEPA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "GEPA"
             }
           }
         ],
@@ -324,13 +259,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tracker/Dreams.md",
+                "file": "Notes/GEPA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dreams"
+              "title": "Outline of GEPA"
             }
           },
           {
@@ -424,38 +359,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "75aac8eb3de80521",
+  "active": "8f667640d3d665ff",
   "lastOpenFiles": [
     "Notes/Dspy.md",
-    "Tracker/21-02-26.md",
-    "Notes/Knowledge Distillation.md",
+    "Notes/optimization.md",
+    "Notes/GEPA.md",
+    "Notes/Multi AI Agent systems with CrewAI.md",
+    "Notes/Inferential Statistics.md",
+    "Notes/ReAct.md",
     "Notes/Tree-of-Thoughts.md",
+    "papers/ARES.pdf",
+    "Tracker/25-01-26.md",
+    "Tracker/12-01-26.md",
+    "Tracker/11-02-26.md",
+    "Tracker/21-02-26.md",
+    "Tracker/20-02-26.md",
     "Tracker/17-02-26.md",
+    "Tracker/22-01-26.md",
+    "Tracker/24-01-26.md",
+    "papers/ARES.md",
+    "papers/Drawing 2026-01-21 02.02.14.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-21 15.02.23.excalidraw.md",
+    "Tracker/GOALS.md",
+    "Tracker/Planner.md",
+    "Tracker/Schedule.md",
+    "Notes/Knowledge Distillation.md",
     "Notes/Sentence Transformers.md",
     "Notes/Backpropagation.md",
     "Notes/Knowledge Graphs.md",
-    "Tracker/Schedule.md",
-    "papers/ARES.pdf",
-    "Tracker/Planner.md",
-    "Tracker/GOALS.md",
     "papers/Drawing 2026-01-22 01.56.31.excalidraw.md",
-    "papers/ARES.md",
-    "papers/Drawing 2026-01-21 02.02.14.excalidraw.md",
-    "Tracker/QUOTES OF THE DAY.md",
     "papers/Hindsight is 20_20.pdf",
-    "Notes/Inferential Statistics.md",
-    "Tracker/DSA-Leetcode.md",
-    "Tracker/Dreams.md",
-    "Tracker/12-01-26.md",
-    "Tracker/Projects Details.md",
-    "Tracker/Marriage Plan.md",
-    "Notes/ReAct.md",
-    "Tracker/2025/02-01-25.md",
     "Tracker/2025",
     "Notes/Untitled 2.base",
-    "Notes/MCP.md",
-    "Notes/Multi AI Agent systems with CrewAI.md",
-    "Notes/Langchain.md",
     "Notes/Untitled 1.base",
     "desktop.ini",
     "Notes/Untitled.base",
