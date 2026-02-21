@@ -186,7 +186,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Dspy.md",
+                "file": "Tracker/21-02-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -201,11 +201,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dspy"
+              "title": "21-02-26"
+            }
+          },
+          {
+            "id": "75aac8eb3de80521",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -412,9 +424,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "05cba63c830251ef",
+  "active": "75aac8eb3de80521",
   "lastOpenFiles": [
     "Notes/Dspy.md",
+    "Tracker/21-02-26.md",
     "Notes/Knowledge Distillation.md",
     "Notes/Tree-of-Thoughts.md",
     "Tracker/17-02-26.md",
@@ -443,7 +456,6 @@
     "Notes/MCP.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Langchain.md",
-    "Tracker/2025/16-12-25.md",
     "Notes/Untitled 1.base",
     "desktop.ini",
     "Notes/Untitled.base",

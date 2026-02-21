@@ -5,6 +5,14 @@
       "path": "Notes/Dspy.md"
     },
     {
+      "basename": "20-02-26",
+      "path": "Tracker/20-02-26.md"
+    },
+    {
+      "basename": "11-02-26",
+      "path": "Tracker/11-02-26.md"
+    },
+    {
       "basename": "Knowledge Distillation",
       "path": "Notes/Knowledge Distillation.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "17-02-26",
       "path": "Tracker/17-02-26.md"
-    },
-    {
-      "basename": "11-02-26",
-      "path": "Tracker/11-02-26.md"
     },
     {
       "basename": "Sentence Transformers",
@@ -195,10 +199,6 @@
     {
       "basename": "SentencePiece",
       "path": "Notes/SentencePiece.md"
-    },
-    {
-      "basename": "CONDA",
-      "path": "Notes/CONDA.md"
     }
   ],
   "omittedPaths": [],
