@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/GEPA.md",
+                "file": "Tracker/13-03-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GEPA"
+              "title": "13-03-26"
+            }
+          },
+          {
+            "id": "f91eb2e81c41396c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -355,15 +367,15 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8f667640d3d665ff",
+  "active": "f91eb2e81c41396c",
   "lastOpenFiles": [
+    "Notes/GEPA.md",
+    "Tracker/13-03-26.md",
     "Notes/Dspy.md",
     "Notes/optimization.md",
-    "Notes/GEPA.md",
     "Notes/Multi AI Agent systems with CrewAI.md",
     "Notes/Inferential Statistics.md",
     "Notes/ReAct.md",
@@ -387,7 +399,6 @@
     "Notes/Sentence Transformers.md",
     "Notes/Backpropagation.md",
     "Notes/Knowledge Graphs.md",
-    "papers/Drawing 2026-01-22 01.56.31.excalidraw.md",
     "papers/Hindsight is 20_20.pdf",
     "Tracker/2025",
     "Notes/Untitled 2.base",
