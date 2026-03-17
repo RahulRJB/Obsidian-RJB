@@ -11,12 +11,24 @@
             "id": "231173953fc24e38",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "papers/Memento.pdf"
+                "file": "Tracker/Schedule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Memento"
+              "icon": "lucide-file",
+              "title": "Schedule"
             }
           }
         ]
@@ -219,6 +231,8 @@
   },
   "active": "231173953fc24e38",
   "lastOpenFiles": [
+    "papers/Memento.pdf",
+    "Tracker/17-03-26.md",
     "papers/ARES.pdf",
     "Tracker/06-03-26.md",
     "Notes/GEPA.md",

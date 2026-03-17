@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "GEPA",
-      "path": "Notes/GEPA.md"
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
+    },
+    {
+      "basename": "Schedule",
+      "path": "Tracker/Schedule.md"
+    },
+    {
+      "basename": "Recursive Language Models",
+      "path": "papers/Recursive Language Models.pdf"
+    },
+    {
+      "basename": "Tree-of-Thoughts",
+      "path": "Notes/Tree-of-Thoughts.md"
+    },
+    {
+      "basename": "ReAct",
+      "path": "Notes/ReAct.md"
+    },
+    {
+      "basename": "Inferential Statistics",
+      "path": "Notes/Inferential Statistics.md"
+    },
+    {
+      "basename": "Multi AI Agent systems with CrewAI",
+      "path": "Notes/Multi AI Agent systems with CrewAI.md"
+    },
+    {
+      "basename": "Dspy",
+      "path": "Notes/Dspy.md"
+    },
+    {
+      "basename": "13-03-26",
+      "path": "Tracker/13-03-26.md"
+    },
+    {
+      "basename": "17-03-26",
+      "path": "Tracker/17-03-26.md"
     },
     {
       "basename": "Memento",
       "path": "papers/Memento.pdf"
+    },
+    {
+      "basename": "GEPA",
+      "path": "Notes/GEPA.md"
     },
     {
       "basename": "ARES",
@@ -17,10 +57,6 @@
       "path": "Tracker/06-03-26.md"
     },
     {
-      "basename": "Dspy",
-      "path": "Notes/Dspy.md"
-    },
-    {
       "basename": "22-02-26",
       "path": "Tracker/22-02-26.md"
     },
@@ -29,36 +65,12 @@
       "path": "Notes/optimization.md"
     },
     {
-      "basename": "Multi AI Agent systems with CrewAI",
-      "path": "Notes/Multi AI Agent systems with CrewAI.md"
-    },
-    {
-      "basename": "Inferential Statistics",
-      "path": "Notes/Inferential Statistics.md"
-    },
-    {
-      "basename": "ReAct",
-      "path": "Notes/ReAct.md"
-    },
-    {
-      "basename": "Tree-of-Thoughts",
-      "path": "Notes/Tree-of-Thoughts.md"
-    },
-    {
       "basename": "20-02-26",
       "path": "Tracker/20-02-26.md"
     },
     {
       "basename": "GOALS",
       "path": "Tracker/GOALS.md"
-    },
-    {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
-    },
-    {
-      "basename": "Schedule",
-      "path": "Tracker/Schedule.md"
     },
     {
       "basename": "Knowledge Distillation",

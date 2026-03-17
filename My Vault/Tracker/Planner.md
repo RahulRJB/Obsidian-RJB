@@ -6,15 +6,14 @@ kanban-plugin: board
 
 ## Daily
 
-- [ ] Papers
+- [ ] READ -
 - [ ] CAB GO -- Statistics like Hypothesis testing
-- [ ] **CAB COME** --  Sebastian Raschaka Book - LLM
 
 
 ## TO study
 
+- [ ] Flash attention
 - [ ] pydantic
-- [ ] dspy
 - [ ] RL (PPO, DPO, GRPO)
 - [ ] DeepSeek
 - [ ] Pytorch
