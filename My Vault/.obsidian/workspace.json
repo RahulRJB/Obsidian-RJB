@@ -11,20 +11,24 @@
             "id": "9fd62a476139f10e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tracker/Planner.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "Tracker/Investments.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Planner"
+              "icon": "lucide-file",
+              "title": "Investments"
             }
           }
         ]
@@ -236,8 +240,9 @@
   },
   "active": "9fd62a476139f10e",
   "lastOpenFiles": [
-    "Tracker/Schedule.md",
     "Tracker/Planner.md",
+    "Tracker/Investments.md",
+    "Tracker/Schedule.md",
     "papers/Recursive Language Models.pdf",
     "Notes/Tree-of-Thoughts.md",
     "Notes/ReAct.md",
