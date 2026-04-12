@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/Investments.md",
+                "file": "Tracker/Schedule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Investments"
+              "title": "Schedule"
             }
           }
         ]
@@ -240,10 +240,10 @@
   },
   "active": "9fd62a476139f10e",
   "lastOpenFiles": [
-    "Tracker/Planner.md",
-    "Tracker/Investments.md",
-    "Tracker/Schedule.md",
     "papers/Recursive Language Models.pdf",
+    "Tracker/Schedule.md",
+    "Tracker/Investments.md",
+    "Tracker/Planner.md",
     "Notes/Tree-of-Thoughts.md",
     "Notes/ReAct.md",
     "Notes/Inferential Statistics.md",
@@ -267,7 +267,6 @@
     "Excalidraw/Drawing 2026-02-21 15.02.23.excalidraw.md",
     "Tracker/GOALS.md",
     "Notes/Knowledge Distillation.md",
-    "Notes/Sentence Transformers.md",
     "papers/Hindsight is 20_20.pdf",
     "Tracker/2025",
     "Notes/Untitled 2.base",

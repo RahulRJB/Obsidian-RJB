@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Investments",
-      "path": "Tracker/Investments.md"
-    },
-    {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
-    },
-    {
       "basename": "Schedule",
       "path": "Tracker/Schedule.md"
     },
     {
       "basename": "Recursive Language Models",
       "path": "papers/Recursive Language Models.pdf"
+    },
+    {
+      "basename": "Investments",
+      "path": "Tracker/Investments.md"
+    },
+    {
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
     },
     {
       "basename": "Tree-of-Thoughts",
