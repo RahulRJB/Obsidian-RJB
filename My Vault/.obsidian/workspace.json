@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/Schedule.md",
+                "file": "Tracker/13-04-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schedule"
+              "title": "13-04-26"
+            }
+          },
+          {
+            "id": "0ee1d12e24e1cf5f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,10 +251,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9fd62a476139f10e",
+  "active": "0ee1d12e24e1cf5f",
   "lastOpenFiles": [
-    "papers/Recursive Language Models.pdf",
     "Tracker/Schedule.md",
+    "Tracker/13-04-26.md",
+    "papers/Recursive Language Models.pdf",
     "Tracker/Investments.md",
     "Tracker/Planner.md",
     "Notes/Tree-of-Thoughts.md",
