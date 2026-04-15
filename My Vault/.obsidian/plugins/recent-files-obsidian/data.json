@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Ralph Loops",
+      "path": "Notes/Ralph Loops.md"
+    },
+    {
+      "basename": "Agentic AI",
+      "path": "Notes/Agentic AI.md"
+    },
+    {
+      "basename": "Harness",
+      "path": "Notes/Harness.md"
+    },
+    {
       "basename": "Recursive Language Models",
       "path": "papers/Recursive Language Models.pdf"
     },
@@ -151,10 +163,6 @@
     {
       "basename": "18-11-25",
       "path": "Tracker/2025/18-11-25.md"
-    },
-    {
-      "basename": "Agentic AI",
-      "path": "Notes/Agentic AI.md"
     },
     {
       "basename": "Untitled",
