@@ -42,9 +42,33 @@
               "icon": "lucide-file",
               "title": "Ralph Loops"
             }
+          },
+          {
+            "id": "317c7fc4512f4148",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Continual Learning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Continual Learning"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -251,10 +275,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c9e5f7febe6d825e",
+  "active": "317c7fc4512f4148",
   "lastOpenFiles": [
-    "Notes/Agentic AI.md",
+    "Notes/Continual Learning.md",
     "Notes/Ralph Loops.md",
+    "Notes/Agentic AI.md",
     "Notes/Harness.md",
     "papers/Recursive Language Models.pdf",
     "Tracker/15-04-26.md",
@@ -280,7 +305,6 @@
     "Tracker/17-02-26.md",
     "Tracker/22-01-26.md",
     "Tracker/24-01-26.md",
-    "papers/ARES.md",
     "papers/Hindsight is 20_20.pdf",
     "Tracker/2025",
     "Notes/Untitled 2.base",
