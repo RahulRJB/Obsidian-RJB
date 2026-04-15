@@ -35,12 +35,24 @@
             "id": "0ee1d12e24e1cf5f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Tracker/15-04-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "15-04-26"
             }
           }
         ],
@@ -247,12 +259,12 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "0ee1d12e24e1cf5f",
   "lastOpenFiles": [
+    "Tracker/15-04-26.md",
     "Tracker/Schedule.md",
     "Tracker/13-04-26.md",
     "papers/Recursive Language Models.pdf",
@@ -280,7 +292,6 @@
     "papers/Drawing 2026-01-21 02.02.14.excalidraw.md",
     "Excalidraw/Drawing 2026-02-21 15.02.23.excalidraw.md",
     "Tracker/GOALS.md",
-    "Notes/Knowledge Distillation.md",
     "papers/Hindsight is 20_20.pdf",
     "Tracker/2025",
     "Notes/Untitled 2.base",
