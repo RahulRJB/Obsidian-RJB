@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Continual Learning.md",
+                "file": "Tracker/16-04-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,7 +64,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Continual Learning"
+              "title": "16-04-26"
             }
           }
         ],
@@ -271,13 +271,13 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "317c7fc4512f4148",
   "lastOpenFiles": [
     "Notes/Continual Learning.md",
+    "Tracker/16-04-26.md",
     "Notes/Ralph Loops.md",
     "Notes/Agentic AI.md",
     "Notes/Harness.md",
@@ -304,7 +304,6 @@
     "Tracker/20-02-26.md",
     "Tracker/17-02-26.md",
     "Tracker/22-01-26.md",
-    "Tracker/24-01-26.md",
     "papers/Hindsight is 20_20.pdf",
     "Tracker/2025",
     "Notes/Untitled 2.base",

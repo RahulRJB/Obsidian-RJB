@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "16-04-26",
+      "path": "Tracker/16-04-26.md"
+    },
+    {
       "basename": "Continual Learning",
       "path": "Notes/Continual Learning.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ruff",
       "path": "Notes/ruff.md"
-    },
-    {
-      "basename": "uv",
-      "path": "Notes/uv.md"
     }
   ],
   "omittedPaths": [],
