@@ -42,33 +42,9 @@
               "icon": "lucide-file",
               "title": "Ralph Loops"
             }
-          },
-          {
-            "id": "317c7fc4512f4148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tracker/16-04-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "16-04-26"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 272.5
   },
   "right": {
     "id": "c7c09c75a428bb68",
@@ -271,17 +247,19 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "317c7fc4512f4148",
+  "active": "c9e5f7febe6d825e",
   "lastOpenFiles": [
-    "Notes/Continual Learning.md",
-    "Tracker/16-04-26.md",
+    "papers/Tree of Thoughts_ Deliberate Problem Solving with Large Language Models.pdf",
+    "papers/Recursive Language Models.pdf",
     "Notes/Ralph Loops.md",
+    "Tracker/16-04-26.md",
+    "Notes/Continual Learning.md",
     "Notes/Agentic AI.md",
     "Notes/Harness.md",
-    "papers/Recursive Language Models.pdf",
     "Tracker/15-04-26.md",
     "Tracker/Schedule.md",
     "Tracker/13-04-26.md",
@@ -303,7 +281,6 @@
     "Tracker/21-02-26.md",
     "Tracker/20-02-26.md",
     "Tracker/17-02-26.md",
-    "Tracker/22-01-26.md",
     "papers/Hindsight is 20_20.pdf",
     "Tracker/2025",
     "Notes/Untitled 2.base",
