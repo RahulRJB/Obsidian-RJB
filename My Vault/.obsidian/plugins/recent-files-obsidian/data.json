@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Tree of Thoughts_ Deliberate Problem Solving with Large Language Models",
+      "path": "papers/Tree of Thoughts_ Deliberate Problem Solving with Large Language Models.pdf"
+    },
+    {
+      "basename": "Schedule",
+      "path": "Tracker/Schedule.md"
+    },
+    {
       "basename": "Ralph Loops",
       "path": "Notes/Ralph Loops.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Harness",
       "path": "Notes/Harness.md"
-    },
-    {
-      "basename": "Schedule",
-      "path": "Tracker/Schedule.md"
     },
     {
       "basename": "Investments",
@@ -195,10 +199,6 @@
     {
       "basename": "04-08-25",
       "path": "Tracker/2025/04-08-25.md"
-    },
-    {
-      "basename": "ruff",
-      "path": "Notes/ruff.md"
     }
   ],
   "omittedPaths": [],
