@@ -8,6 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "10619046cd03047f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker/Schedule.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schedule"
+            }
+          },
+          {
             "id": "0ee1d12e24e1cf5f",
             "type": "leaf",
             "state": {
@@ -43,8 +67,7 @@
               "title": "Ralph Loops"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,12 +274,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c9e5f7febe6d825e",
+  "active": "10619046cd03047f",
   "lastOpenFiles": [
+    "Notes/Ralph Loops.md",
     "papers/Training Large Language Models to Reason in a Continuous Latent Space.pdf",
     "papers/Tree of Thoughts_ Deliberate Problem Solving with Large Language Models.pdf",
     "papers/Recursive Language Models.pdf",
-    "Notes/Ralph Loops.md",
     "Tracker/16-04-26.md",
     "Notes/Continual Learning.md",
     "Notes/Agentic AI.md",
@@ -289,7 +312,6 @@
     "desktop.ini",
     "Notes/Untitled.base",
     "Attachments/Pasted image 20250614175032.png",
-    "Work",
     "Attachments/Photo3.jpg",
     "Attachments/Pasted image 20250411174210.png",
     "Attachments/Pasted image 20250404193420.png",
