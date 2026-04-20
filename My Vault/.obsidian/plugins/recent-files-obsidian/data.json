@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent",
+      "path": "papers/Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent.pdf"
+    },
+    {
+      "basename": "Training Large Language Models to Reason in a Continuous Latent Space",
+      "path": "papers/Training Large Language Models to Reason in a Continuous Latent Space.pdf"
+    },
+    {
+      "basename": "20-04-26",
+      "path": "Tracker/20-04-26.md"
+    },
+    {
       "basename": "Schedule",
       "path": "Tracker/Schedule.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "16-09-25",
       "path": "Tracker/2025/16-09-25.md"
-    },
-    {
-      "basename": "08-09-25",
-      "path": "Tracker/08-09-25.md"
-    },
-    {
-      "basename": "20-08-25",
-      "path": "Tracker/2025/20-08-25.md"
-    },
-    {
-      "basename": "04-08-25",
-      "path": "Tracker/2025/04-08-25.md"
     }
   ],
   "omittedPaths": [],

@@ -11,10 +11,12 @@
             "id": "90a1efa5c81971ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "papers/Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent"
             }
           }
         ]
@@ -217,6 +219,8 @@
   },
   "active": "90a1efa5c81971ef",
   "lastOpenFiles": [
+    "papers/Training Large Language Models to Reason in a Continuous Latent Space.pdf",
+    "Tracker/20-04-26.md",
     "papers/Tree of Thoughts_ Deliberate Problem Solving with Large Language Models.pdf",
     "Tracker/Schedule.md",
     "Tracker/17-04-26.md",
