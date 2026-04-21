@@ -1,16 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent",
-      "path": "papers/Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent.pdf"
-    },
-    {
-      "basename": "Training Large Language Models to Reason in a Continuous Latent Space",
-      "path": "papers/Training Large Language Models to Reason in a Continuous Latent Space.pdf"
-    },
-    {
-      "basename": "20-04-26",
-      "path": "Tracker/20-04-26.md"
+      "basename": "22-04-26",
+      "path": "Tracker/22-04-26.md"
     },
     {
       "basename": "Schedule",
@@ -19,6 +11,22 @@
     {
       "basename": "Ralph Loops",
       "path": "Notes/Ralph Loops.md"
+    },
+    {
+      "basename": "Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent",
+      "path": "papers/Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent.pdf"
+    },
+    {
+      "basename": "Memento",
+      "path": "papers/Memento.pdf"
+    },
+    {
+      "basename": "Training Large Language Models to Reason in a Continuous Latent Space",
+      "path": "papers/Training Large Language Models to Reason in a Continuous Latent Space.pdf"
+    },
+    {
+      "basename": "20-04-26",
+      "path": "Tracker/20-04-26.md"
     },
     {
       "basename": "Tree of Thoughts_ Deliberate Problem Solving with Large Language Models",
@@ -79,10 +87,6 @@
     {
       "basename": "17-03-26",
       "path": "Tracker/17-03-26.md"
-    },
-    {
-      "basename": "Memento",
-      "path": "papers/Memento.pdf"
     },
     {
       "basename": "GEPA",
@@ -195,10 +199,6 @@
     {
       "basename": "17-11-25",
       "path": "Tracker/17-11-25.md"
-    },
-    {
-      "basename": "16-09-25",
-      "path": "Tracker/2025/16-09-25.md"
     }
   ],
   "omittedPaths": [],

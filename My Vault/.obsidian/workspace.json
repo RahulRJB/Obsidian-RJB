@@ -270,15 +270,15 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "10619046cd03047f",
   "lastOpenFiles": [
+    "Notes/Ralph Loops.md",
+    "Tracker/Schedule.md",
     "papers/treeSynth.pdf",
     "papers/Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent.pdf",
-    "Notes/Ralph Loops.md",
     "papers/Training Large Language Models to Reason in a Continuous Latent Space.pdf",
     "papers/Tree of Thoughts_ Deliberate Problem Solving with Large Language Models.pdf",
     "papers/Recursive Language Models.pdf",
@@ -287,7 +287,6 @@
     "Notes/Agentic AI.md",
     "Notes/Harness.md",
     "Tracker/15-04-26.md",
-    "Tracker/Schedule.md",
     "Tracker/13-04-26.md",
     "Tracker/Investments.md",
     "Tracker/Planner.md",
@@ -311,7 +310,6 @@
     "Tracker/2025",
     "Notes/Untitled 2.base",
     "Notes/Untitled 1.base",
-    "desktop.ini",
     "Attachments/Pasted image 20250614175032.png",
     "Attachments/Photo3.jpg",
     "Attachments/Pasted image 20250411174210.png",
