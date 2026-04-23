@@ -277,6 +277,7 @@
   },
   "active": "0ee1d12e24e1cf5f",
   "lastOpenFiles": [
+    "papers/MAPLE_ Multi-Agent Adaptive Planning with Long-Term Memory for Table Reasoning.pdf",
     "papers/Smarter, Better, Faster, Longer_ A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference.pdf",
     "papers/Synthetic Data Generation Using Large Language Models_ Advances in Text and Code.pdf",
     "papers/Plan-and-Act_ Improving Planning of Agents for Long-Horizon Tasks.pdf",
@@ -290,7 +291,6 @@
     "Tracker/22-04-26.md",
     "Notes/Ralph Loops.md",
     "papers/treeSynth.pdf",
-    "papers/Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent.pdf",
     "Tracker/16-04-26.md",
     "Notes/Continual Learning.md",
     "Notes/Agentic AI.md",
