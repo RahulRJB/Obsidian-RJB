@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Schedule",
-      "path": "Tracker/Schedule.md"
+      "basename": "Flash Attention",
+      "path": "Notes/Flash Attention.md"
     },
     {
-      "basename": "22-04-26",
-      "path": "Tracker/22-04-26.md"
+      "basename": "Smarter, Better, Faster, Longer_ A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference",
+      "path": "papers/Smarter, Better, Faster, Longer_ A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference.pdf"
+    },
+    {
+      "basename": "Sequence packing",
+      "path": "Notes/Sequence packing.md"
+    },
+    {
+      "basename": "optimization",
+      "path": "Notes/optimization.md"
     },
     {
       "basename": "Ralph Loops",
@@ -15,6 +23,18 @@
     {
       "basename": "Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent",
       "path": "papers/Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent.pdf"
+    },
+    {
+      "basename": "01-05-26",
+      "path": "Tracker/01-05-26.md"
+    },
+    {
+      "basename": "Schedule",
+      "path": "Tracker/Schedule.md"
+    },
+    {
+      "basename": "22-04-26",
+      "path": "Tracker/22-04-26.md"
     },
     {
       "basename": "Memento",
@@ -105,10 +125,6 @@
       "path": "Tracker/22-02-26.md"
     },
     {
-      "basename": "optimization",
-      "path": "Notes/optimization.md"
-    },
-    {
       "basename": "20-02-26",
       "path": "Tracker/20-02-26.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Reasoning Models",
       "path": "Notes/Reasoning Models.md"
-    },
-    {
-      "basename": "CoT",
-      "path": "Notes/CoT.md"
-    },
-    {
-      "basename": "18-11-25",
-      "path": "Tracker/2025/18-11-25.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Notes/Untitled.base"
-    },
-    {
-      "basename": "17-11-25",
-      "path": "Tracker/17-11-25.md"
     }
   ],
   "omittedPaths": [],

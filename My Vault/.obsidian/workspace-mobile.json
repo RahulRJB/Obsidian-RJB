@@ -18,8 +18,57 @@
               "icon": "lucide-file-text",
               "title": "Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent"
             }
+          },
+          {
+            "id": "2085fc949e9fd3d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Sequence packing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sequence packing"
+            }
+          },
+          {
+            "id": "26f2e3a9d293e3b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Flash Attention.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Flash Attention"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,10 +266,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "90a1efa5c81971ef",
+  "active": "26f2e3a9d293e3b9",
   "lastOpenFiles": [
-    "papers/Memento.pdf",
+    "papers/Smarter, Better, Faster, Longer_ A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference.pdf",
+    "Notes/Flash Attention.md",
+    "Notes/Sequence packing.md",
+    "Notes/optimization.md",
+    "Tracker/02-05-26.md",
     "papers/Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent.pdf",
+    "Tracker/01-05-26.md",
+    "papers/Memento.pdf",
     "Tracker/21-04-26.md",
     "papers/On the Theoretical Limitations of Embedding-Based Retrieval.pdf",
     "papers/Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use.pdf",
@@ -234,7 +289,6 @@
     "Tracker/17-04-26.md",
     "Tracker/15-04-26.md",
     "Tracker/17-03-26.md",
-    "papers/ARES.pdf",
     "Tracker/06-03-26.md",
     "Notes/GEPA.md",
     "Notes/Dspy.md",
@@ -248,7 +302,6 @@
     "papers/ARES.md",
     "papers/Drawing 2026-01-22 01.56.31.excalidraw.md",
     "Tracker/22-01-26.md",
-    "papers/Drawing 2026-01-21 02.02.14.excalidraw.md",
-    "Tracker/Planner.md"
+    "papers/Drawing 2026-01-21 02.02.14.excalidraw.md"
   ]
 }

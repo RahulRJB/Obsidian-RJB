@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "0ee1d12e24e1cf5f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
-          },
-          {
             "id": "c9e5f7febe6d825e",
             "type": "leaf",
             "state": {
@@ -275,8 +263,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0ee1d12e24e1cf5f",
+  "active": "c9e5f7febe6d825e",
   "lastOpenFiles": [
+    "Notes/Sequence packing.md",
     "papers/MAPLE_ Multi-Agent Adaptive Planning with Long-Term Memory for Table Reasoning.pdf",
     "papers/Smarter, Better, Faster, Longer_ A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference.pdf",
     "papers/Synthetic Data Generation Using Large Language Models_ Advances in Text and Code.pdf",
@@ -290,7 +279,6 @@
     "Tracker/Schedule.md",
     "Tracker/22-04-26.md",
     "Notes/Ralph Loops.md",
-    "papers/treeSynth.pdf",
     "Tracker/16-04-26.md",
     "Notes/Continual Learning.md",
     "Notes/Agentic AI.md",
