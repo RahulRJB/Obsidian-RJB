@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Sequence packing.md",
+                "file": "Tracker/15-05-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,35 +40,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sequence packing"
-            }
-          },
-          {
-            "id": "26f2e3a9d293e3b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Flash Attention.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Flash Attention"
+              "title": "15-05-26"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,11 +242,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "26f2e3a9d293e3b9",
+  "active": "2085fc949e9fd3d9",
   "lastOpenFiles": [
-    "papers/Smarter, Better, Faster, Longer_ A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference.pdf",
-    "Notes/Flash Attention.md",
     "Notes/Sequence packing.md",
+    "papers/FlashAttention_ Fast and Memory-Efficient Exact Attention with_  IO-Awareness.pdf",
+    "Tracker/09-05-26.md",
+    "Tracker/15-05-26.md",
+    "Attachments/Pasted image 20260509165119.png",
+    "Attachments/Pasted image 20260509164849.png",
+    "Attachments/Pasted image 20260509164801.png",
+    "Attachments/Pasted image 20260509164652.png",
+    "Notes/pretraining.md",
+    "Notes/LLM Pretraining Pipeline.md",
+    "Notes/Flash Attention.md",
+    "Notes/FLOP.md",
+    "Tracker/07-05-26.md",
+    "Notes/LLMs.md",
+    "Notes/FLOPs.md",
+    "Notes/Hardware.md",
+    "Notes/KV cache.md",
+    "Notes/compute.md",
+    "Tracker/06-05-26.md",
+    "papers/Smarter, Better, Faster, Longer_ A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference.pdf",
     "Notes/optimization.md",
     "Tracker/02-05-26.md",
     "papers/Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent.pdf",
@@ -284,24 +277,11 @@
     "papers/Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.pdf",
     "papers/Training Large Language Models to Reason in a Continuous Latent Space.pdf",
     "Tracker/20-04-26.md",
-    "papers/Tree of Thoughts_ Deliberate Problem Solving with Large Language Models.pdf",
     "Tracker/Schedule.md",
     "Tracker/17-04-26.md",
     "Tracker/15-04-26.md",
     "Tracker/17-03-26.md",
     "Tracker/06-03-26.md",
-    "Notes/GEPA.md",
-    "Notes/Dspy.md",
-    "Tracker/22-02-26.md",
-    "Tracker/20-02-26.md",
-    "Tracker/11-02-26.md",
-    "Notes/Backpropagation.md",
-    "Tracker/28-01-26.md",
-    "Tracker/25-01-26.md",
-    "Tracker/24-01-26.md",
-    "papers/ARES.md",
-    "papers/Drawing 2026-01-22 01.56.31.excalidraw.md",
-    "Tracker/22-01-26.md",
-    "papers/Drawing 2026-01-21 02.02.14.excalidraw.md"
+    "Notes/GEPA.md"
   ]
 }

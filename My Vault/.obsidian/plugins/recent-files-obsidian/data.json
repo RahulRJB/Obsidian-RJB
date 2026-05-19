@@ -1,16 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Flash Attention",
-      "path": "Notes/Flash Attention.md"
+      "basename": "multiclass classification",
+      "path": "papers/multiclass classification.pdf"
     },
     {
-      "basename": "Smarter, Better, Faster, Longer_ A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference",
-      "path": "papers/Smarter, Better, Faster, Longer_ A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference.pdf"
+      "basename": "19-05-26",
+      "path": "Tracker/19-05-26.md"
+    },
+    {
+      "basename": "17-05-26",
+      "path": "Tracker/17-05-26.md"
+    },
+    {
+      "basename": "Schedule",
+      "path": "Tracker/Schedule.md"
+    },
+    {
+      "basename": "15-05-26",
+      "path": "Tracker/15-05-26.md"
     },
     {
       "basename": "Sequence packing",
       "path": "Notes/Sequence packing.md"
+    },
+    {
+      "basename": "FlashAttention_ Fast and Memory-Efficient Exact Attention with_  IO-Awareness",
+      "path": "papers/FlashAttention_ Fast and Memory-Efficient Exact Attention with_  IO-Awareness.pdf"
+    },
+    {
+      "basename": "09-05-26",
+      "path": "Tracker/09-05-26.md"
+    },
+    {
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
+    },
+    {
+      "basename": "pretraining",
+      "path": "Notes/pretraining.md"
+    },
+    {
+      "basename": "LLM Pretraining Pipeline",
+      "path": "Notes/LLM Pretraining Pipeline.md"
+    },
+    {
+      "basename": "Untitled 3",
+      "path": "Notes/Untitled 3.base"
+    },
+    {
+      "basename": "Flash Attention",
+      "path": "Notes/Flash Attention.md"
+    },
+    {
+      "basename": "FLOP",
+      "path": "Notes/FLOP.md"
+    },
+    {
+      "basename": "LLMs",
+      "path": "Notes/LLMs.md"
+    },
+    {
+      "basename": "FLOPs",
+      "path": "Notes/FLOPs.md"
+    },
+    {
+      "basename": "Hardware",
+      "path": "Notes/Hardware.md"
+    },
+    {
+      "basename": "KV cache",
+      "path": "Notes/KV cache.md"
+    },
+    {
+      "basename": "compute",
+      "path": "Notes/compute.md"
+    },
+    {
+      "basename": "Smarter, Better, Faster, Longer_ A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference",
+      "path": "papers/Smarter, Better, Faster, Longer_ A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference.pdf"
     },
     {
       "basename": "optimization",
@@ -23,14 +91,6 @@
     {
       "basename": "Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent",
       "path": "papers/Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent.pdf"
-    },
-    {
-      "basename": "01-05-26",
-      "path": "Tracker/01-05-26.md"
-    },
-    {
-      "basename": "Schedule",
-      "path": "Tracker/Schedule.md"
     },
     {
       "basename": "22-04-26",
@@ -75,10 +135,6 @@
     {
       "basename": "Investments",
       "path": "Tracker/Investments.md"
-    },
-    {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
     },
     {
       "basename": "Tree-of-Thoughts",
@@ -143,62 +199,6 @@
     {
       "basename": "Backpropagation",
       "path": "Notes/Backpropagation.md"
-    },
-    {
-      "basename": "Knowledge Graphs",
-      "path": "Notes/Knowledge Graphs.md"
-    },
-    {
-      "basename": "Hindsight is 20_20",
-      "path": "papers/Hindsight is 20_20.pdf"
-    },
-    {
-      "basename": "QUOTES OF THE DAY",
-      "path": "Tracker/QUOTES OF THE DAY.md"
-    },
-    {
-      "basename": "DSA-Leetcode",
-      "path": "Tracker/DSA-Leetcode.md"
-    },
-    {
-      "basename": "Dreams",
-      "path": "Tracker/Dreams.md"
-    },
-    {
-      "basename": "Projects Details",
-      "path": "Tracker/Projects Details.md"
-    },
-    {
-      "basename": "Marriage Plan",
-      "path": "Tracker/Marriage Plan.md"
-    },
-    {
-      "basename": "02-01-25",
-      "path": "Tracker/2025/02-01-25.md"
-    },
-    {
-      "basename": "Untitled 2",
-      "path": "Notes/Untitled 2.base"
-    },
-    {
-      "basename": "MCP",
-      "path": "Notes/MCP.md"
-    },
-    {
-      "basename": "Langchain",
-      "path": "Notes/Langchain.md"
-    },
-    {
-      "basename": "16-12-25",
-      "path": "Tracker/2025/16-12-25.md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "Notes/Untitled 1.base"
-    },
-    {
-      "basename": "Reasoning Models",
-      "path": "Notes/Reasoning Models.md"
     }
   ],
   "omittedPaths": [],

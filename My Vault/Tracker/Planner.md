@@ -12,7 +12,7 @@ kanban-plugin: board
 
 ## TO study
 
-- [ ] Flash attention
+- [x] Flash attention
 - [ ] pydantic
 - [ ] RL (PPO, DPO, GRPO)
 - [ ] DeepSeek
@@ -21,7 +21,6 @@ kanban-plugin: board
 - [ ] Book chap2-7; 13
 - [ ] Linear Algebra/ SVD / eigen val / PCA
 - [ ] Andrej Karpathy gpt
-- [ ] VLMs
 - [ ] Diffusion models
 - [ ] KL Divergence
 - [ ] NLP UT Austin
