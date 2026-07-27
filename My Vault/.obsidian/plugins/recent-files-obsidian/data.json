@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "28-07-26",
+      "path": "Tracker/28-07-26.md"
+    },
+    {
       "basename": "Planner",
       "path": "Tracker/Planner.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Training Large Language Models to Reason in a Continuous Latent Space",
       "path": "papers/Training Large Language Models to Reason in a Continuous Latent Space.pdf"
-    },
-    {
-      "basename": "Tree of Thoughts_ Deliberate Problem Solving with Large Language Models",
-      "path": "papers/Tree of Thoughts_ Deliberate Problem Solving with Large Language Models.pdf"
     }
   ],
   "omittedPaths": [],

@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//mnt/d/Softwares/Microsoft VS Code/**)",
+      "Read(//mnt/d/Softwares/Microsoft VS Code/resources/app/out/**)",
+      "Bash(powershell.exe *)",
+      "Bash(code --version)"
+    ]
+  }
+}

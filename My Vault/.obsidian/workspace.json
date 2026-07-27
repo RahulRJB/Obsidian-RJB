@@ -11,22 +11,24 @@
             "id": "9e58047092a4223e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tracker/Planner.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    true
-                  ]
+                "file": "Tracker/28-07-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Planner"
+              "icon": "lucide-file",
+              "title": "28-07-26"
             }
           },
           {
@@ -262,8 +264,9 @@
   },
   "active": "9e58047092a4223e",
   "lastOpenFiles": [
-    "Tracker/24-07-26.md",
     "Tracker/Planner.md",
+    "Tracker/28-07-26.md",
+    "Tracker/24-07-26.md",
     "Tracker/15-07-26.md",
     "Tracker/Schedule.md",
     "Notes/Python-WebServer.md",
@@ -289,7 +292,6 @@
     "Tracker/17-03-26.md",
     "Tracker/17-04-26.md",
     "Tracker/19-05-26.md",
-    "Tracker/19-06-26.md",
     "papers/MUSE-Autoskill Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation-with-annotations.pdf",
     "papers/Unconfirmed 397130.crdownload",
     "papers/multiclass classification.pdf",
