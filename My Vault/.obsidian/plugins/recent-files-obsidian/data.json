@@ -1,40 +1,136 @@
 {
   "recentFiles": [
     {
-      "basename": "multiclass classification",
-      "path": "papers/multiclass classification.pdf"
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
     },
     {
-      "basename": "19-05-26",
-      "path": "Tracker/19-05-26.md"
+      "basename": "24-07-26",
+      "path": "Tracker/24-07-26.md"
     },
     {
-      "basename": "17-05-26",
-      "path": "Tracker/17-05-26.md"
+      "basename": "15-07-26",
+      "path": "Tracker/15-07-26.md"
     },
     {
       "basename": "Schedule",
       "path": "Tracker/Schedule.md"
     },
     {
-      "basename": "15-05-26",
-      "path": "Tracker/15-05-26.md"
+      "basename": "Python-WebServer",
+      "path": "Notes/Python-WebServer.md"
     },
     {
-      "basename": "Sequence packing",
-      "path": "Notes/Sequence packing.md"
+      "basename": "asyncio",
+      "path": "Notes/asyncio.md"
     },
     {
-      "basename": "FlashAttention_ Fast and Memory-Efficient Exact Attention with_  IO-Awareness",
-      "path": "papers/FlashAttention_ Fast and Memory-Efficient Exact Attention with_  IO-Awareness.pdf"
+      "basename": "python",
+      "path": "Notes/python.md"
+    },
+    {
+      "basename": "Client-Server Architecture",
+      "path": "Notes/Client-Server Architecture.md"
+    },
+    {
+      "basename": "HTTP Protocol",
+      "path": "Notes/HTTP Protocol.md"
+    },
+    {
+      "basename": "webservers",
+      "path": "Notes/webservers.md"
+    },
+    {
+      "basename": "backend",
+      "path": "Notes/backend.md"
+    },
+    {
+      "basename": "text-embedding-ada-002",
+      "path": "Notes/text-embedding-ada-002.md"
+    },
+    {
+      "basename": "temp",
+      "path": "Notes/temp.md"
+    },
+    {
+      "basename": "Inverse Hessian",
+      "path": "Notes/Inverse Hessian.md"
+    },
+    {
+      "basename": "Intro into LLMs, Andrej Karpathy",
+      "path": "Notes/Intro into LLMs, Andrej Karpathy.md"
+    },
+    {
+      "basename": "06-03-26",
+      "path": "Tracker/06-03-26.md"
+    },
+    {
+      "basename": "07-07-26",
+      "path": "Tracker/07-07-26.md"
     },
     {
       "basename": "09-05-26",
       "path": "Tracker/09-05-26.md"
     },
     {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
+      "basename": "13-03-26",
+      "path": "Tracker/13-03-26.md"
+    },
+    {
+      "basename": "15-05-26",
+      "path": "Tracker/15-05-26.md"
+    },
+    {
+      "basename": "16-04-26",
+      "path": "Tracker/16-04-26.md"
+    },
+    {
+      "basename": "17-03-26",
+      "path": "Tracker/17-03-26.md"
+    },
+    {
+      "basename": "17-04-26",
+      "path": "Tracker/17-04-26.md"
+    },
+    {
+      "basename": "19-05-26",
+      "path": "Tracker/19-05-26.md"
+    },
+    {
+      "basename": "19-06-26",
+      "path": "Tracker/19-06-26.md"
+    },
+    {
+      "basename": "20-04-26",
+      "path": "Tracker/20-04-26.md"
+    },
+    {
+      "basename": "21-04-26",
+      "path": "Tracker/21-04-26.md"
+    },
+    {
+      "basename": "22-04-26",
+      "path": "Tracker/22-04-26.md"
+    },
+    {
+      "basename": "26-05-26",
+      "path": "Tracker/26-05-26.md"
+    },
+    {
+      "basename": "Sequence packing",
+      "path": "Notes/Sequence packing.md"
+    },
+    {
+      "basename": "multiclass classification",
+      "path": "papers/multiclass classification.pdf"
+    },
+    {
+      "basename": "17-05-26",
+      "path": "Tracker/17-05-26.md"
+    },
+    {
+      "basename": "FlashAttention_ Fast and Memory-Efficient Exact Attention with_  IO-Awareness",
+      "path": "papers/FlashAttention_ Fast and Memory-Efficient Exact Attention with_  IO-Awareness.pdf"
     },
     {
       "basename": "pretraining",
@@ -93,10 +189,6 @@
       "path": "papers/Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent.pdf"
     },
     {
-      "basename": "22-04-26",
-      "path": "Tracker/22-04-26.md"
-    },
-    {
       "basename": "Memento",
       "path": "papers/Memento.pdf"
     },
@@ -105,100 +197,8 @@
       "path": "papers/Training Large Language Models to Reason in a Continuous Latent Space.pdf"
     },
     {
-      "basename": "20-04-26",
-      "path": "Tracker/20-04-26.md"
-    },
-    {
       "basename": "Tree of Thoughts_ Deliberate Problem Solving with Large Language Models",
       "path": "papers/Tree of Thoughts_ Deliberate Problem Solving with Large Language Models.pdf"
-    },
-    {
-      "basename": "Recursive Language Models",
-      "path": "papers/Recursive Language Models.pdf"
-    },
-    {
-      "basename": "16-04-26",
-      "path": "Tracker/16-04-26.md"
-    },
-    {
-      "basename": "Continual Learning",
-      "path": "Notes/Continual Learning.md"
-    },
-    {
-      "basename": "Agentic AI",
-      "path": "Notes/Agentic AI.md"
-    },
-    {
-      "basename": "Harness",
-      "path": "Notes/Harness.md"
-    },
-    {
-      "basename": "Investments",
-      "path": "Tracker/Investments.md"
-    },
-    {
-      "basename": "Tree-of-Thoughts",
-      "path": "Notes/Tree-of-Thoughts.md"
-    },
-    {
-      "basename": "ReAct",
-      "path": "Notes/ReAct.md"
-    },
-    {
-      "basename": "Inferential Statistics",
-      "path": "Notes/Inferential Statistics.md"
-    },
-    {
-      "basename": "Multi AI Agent systems with CrewAI",
-      "path": "Notes/Multi AI Agent systems with CrewAI.md"
-    },
-    {
-      "basename": "Dspy",
-      "path": "Notes/Dspy.md"
-    },
-    {
-      "basename": "13-03-26",
-      "path": "Tracker/13-03-26.md"
-    },
-    {
-      "basename": "17-03-26",
-      "path": "Tracker/17-03-26.md"
-    },
-    {
-      "basename": "GEPA",
-      "path": "Notes/GEPA.md"
-    },
-    {
-      "basename": "ARES",
-      "path": "papers/ARES.pdf"
-    },
-    {
-      "basename": "06-03-26",
-      "path": "Tracker/06-03-26.md"
-    },
-    {
-      "basename": "22-02-26",
-      "path": "Tracker/22-02-26.md"
-    },
-    {
-      "basename": "20-02-26",
-      "path": "Tracker/20-02-26.md"
-    },
-    {
-      "basename": "GOALS",
-      "path": "Tracker/GOALS.md"
-    },
-    {
-      "basename": "Knowledge Distillation",
-      "path": "Notes/Knowledge Distillation.md"
-    },
-    {
-      "basename": "Sentence Transformers",
-      "path": "Notes/Sentence Transformers.md"
-    },
-    {
-      "basename": "Backpropagation",
-      "path": "Notes/Backpropagation.md"
     }
   ],
   "omittedPaths": [],

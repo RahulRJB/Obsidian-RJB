@@ -4,43 +4,62 @@ kanban-plugin: board
 
 ---
 
-## Daily
+## Sources
 
-- [ ] READ -
-- [ ] CAB GO -- Statistics like Hypothesis testing
+- [ ] Text:
+	
+		Book
+		Research papers
+		Bookmarks
+- [ ] Audio:
+	
+		Podcasts [Health, AI]
+- [ ] Videos:
+	
+		Tutorials
+		Courses
 
 
-## TO study
+## Current Scope
 
-- [x] Flash attention
+- [ ] Reasoning effort
+- [ ] Gradient checkpointing
+- [ ] Claude Code configure
+- [ ] Ollama
+- [ ] OpenClaw
+- [ ] Langgraph
+- [ ] Structured Outputs LLMs
 - [ ] pydantic
-- [ ] RL (PPO, DPO, GRPO)
-- [ ] DeepSeek
-- [ ] Pytorch
-- [ ] Hugging Face
+
+
+## Needed to be done
+
+- [ ] Understand Orion/DDD folder structure
 - [ ] Book chap2-7; 13
-- [ ] Linear Algebra/ SVD / eigen val / PCA
-- [ ] Andrej Karpathy gpt
+- [ ] Andrej Karpathy videos
 - [ ] Diffusion models
 - [ ] KL Divergence
 - [ ] NLP UT Austin
 - [ ] System Design
 - [ ] Regularization
 - [ ] Segregate all the bookmarks!
-- [ ] Explainable AI
 - [ ] Containerization
 - [ ] Application take 10mins to run a data input and multiple users are using it. Best way to go abut it
-- [ ] Deployment
-- [ ] AWS
-- [ ] Customer using rag problem
 - [ ] AI Safety for NSFW and PII and sensitive data
-- [ ] LLM loss functions
-- [ ] Optimizers(Adam)
 - [ ] Statistical analysis
+
+
+## Wants
+
+- [ ] Loops
+- [ ] RL (PPO, DPO, GRPO)
+- [ ] Pytorch
+- [ ] Hugging Face
+- [ ] Optimizers(Adam)
+- [ ] Linear Algebra/ SVD / eigen val / PCA
+- [ ] LLM loss functions
 - [ ] SORT and SEARCH
-- [ ] Chatbot
 - [ ] AWS Processing Job
-- [ ] AWS Step Functions
 
 
 ## Study Materials
@@ -71,6 +90,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false],"show-checkboxes":true,"lane-width":400,"full-list-lane-width":true,"new-note-template":"Templates/Template 1.md","new-card-insertion-method":"prepend"}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,true],"show-checkboxes":true,"lane-width":400,"full-list-lane-width":true,"new-note-template":"Templates/Template 1.md","new-card-insertion-method":"prepend"}
 ```
 %%

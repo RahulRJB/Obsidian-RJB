@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/15-05-26.md",
+                "file": "Tracker/19-06-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "15-05-26"
+              "title": "19-06-26"
             }
           }
         ],
@@ -238,16 +238,16 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "2085fc949e9fd3d9",
   "lastOpenFiles": [
+    "Tracker/15-05-26.md",
+    "Tracker/19-06-26.md",
     "Notes/Sequence packing.md",
     "papers/FlashAttention_ Fast and Memory-Efficient Exact Attention with_  IO-Awareness.pdf",
     "Tracker/09-05-26.md",
-    "Tracker/15-05-26.md",
     "Attachments/Pasted image 20260509165119.png",
     "Attachments/Pasted image 20260509164849.png",
     "Attachments/Pasted image 20260509164801.png",

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10619046cd03047f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "papers/multiclass classification.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "multiclass classification"
-            }
-          },
-          {
             "id": "9e58047092a4223e",
             "type": "leaf",
             "state": {
@@ -31,7 +19,9 @@
                   "list-collapse": [
                     false,
                     false,
-                    false
+                    false,
+                    false,
+                    true
                   ]
                 }
               },
@@ -45,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Sequence packing.md",
+                "file": "Tracker/Schedule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,7 +50,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sequence packing"
+              "title": "Schedule"
             }
           }
         ]
@@ -90,7 +80,17 @@
             }
           },
           {
-            "id": "c4945abdabcf251a",
+            "id": "dc2e7cfdf61f163e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "fb3e7891087fd83d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -105,22 +105,12 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "dc2e7cfdf61f163e",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 320.5
   },
   "right": {
     "id": "c7c09c75a428bb68",
@@ -247,8 +237,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -270,44 +260,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "10619046cd03047f",
+  "active": "9e58047092a4223e",
   "lastOpenFiles": [
-    "Tracker/19-05-26.md",
-    "Tracker/17-05-26.md",
-    "Tracker/Schedule.md",
+    "Tracker/24-07-26.md",
     "Tracker/Planner.md",
-    "Notes/Sequence packing.md",
-    "papers/HeavySkill_ Heavy Thinking as the Inner Skill in Agentic Harness.pdf",
-    "Notes/Untitled.base",
-    "Notes/Untitled 5.base",
-    "Notes/Untitled 4.base",
-    "Notes/Untitled 3.base",
-    "Tracker/07-05-26.md",
-    "Tracker/06-05-26.md",
-    "Tracker/01-05-26.md",
-    "Tracker/02-05-26.md",
-    "papers/Meta-Harness_ End-to-End Optimization of Model Harnesses.pdf",
-    "Books",
-    "Notes/Ralph Loops.md",
-    "papers/FlashAttention_ Fast and Memory-Efficient Exact Attention with_  IO-Awareness.pdf",
-    "Notes/Flash Attention.md",
-    "papers/MAPLE_ Multi-Agent Adaptive Planning with Long-Term Memory for Table Reasoning.pdf",
-    "papers/Smarter, Better, Faster, Longer_ A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference.pdf",
-    "Tracker/22-04-26.md",
-    "Tracker/16-04-26.md",
-    "Notes/Continual Learning.md",
-    "Notes/Agentic AI.md",
-    "Notes/Harness.md",
-    "Tracker/15-04-26.md",
-    "Tracker/13-04-26.md",
-    "Tracker/Investments.md",
-    "Notes/Tree-of-Thoughts.md",
-    "Notes/ReAct.md",
-    "Notes/Inferential Statistics.md",
-    "Notes/Multi AI Agent systems with CrewAI.md",
-    "Notes/Dspy.md",
+    "Tracker/15-07-26.md",
+    "Tracker/Schedule.md",
+    "Notes/Python-WebServer.md",
+    "Notes/Python-WebServers.md",
+    "Notes/asyncio.md",
+    "Notes/python.md",
+    "Notes/Client-Server Architecture.md",
+    "Notes/HTTP Protocol.md",
+    "Notes/webservers.md",
+    "Notes/backend.md",
+    "Notes/text-embedding-ada-002.md",
+    "Notes/temp.md",
+    "Notes/Unconfirmed 773444.crdownload",
+    "Notes/Inverse Hessian.md",
+    "Notes/Intro into LLMs, Andrej Karpathy.md",
+    "Tutorials",
+    "Tracker/06-03-26.md",
+    "Tracker/07-07-26.md",
+    "Tracker/09-05-26.md",
     "Tracker/13-03-26.md",
+    "Tracker/15-05-26.md",
+    "Tracker/16-04-26.md",
     "Tracker/17-03-26.md",
+    "Tracker/17-04-26.md",
+    "Tracker/19-05-26.md",
+    "Tracker/19-06-26.md",
+    "papers/MUSE-Autoskill Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation-with-annotations.pdf",
+    "papers/Unconfirmed 397130.crdownload",
+    "papers/multiclass classification.pdf",
+    "papers/Codex Installer.exe",
+    "papers/Unconfirmed 432667.crdownload",
+    "papers/Token-Budget-Aware LLM Reasoning.pdf",
+    "papers/Unconfirmed 448127.crdownload",
+    "papers/Steering LLM Thinking with Budget Guidance.pdf",
     "Attachments/Pasted image 20250614175032.png",
     "Attachments/Photo3.jpg",
     "Attachments/Pasted image 20250411174210.png",
