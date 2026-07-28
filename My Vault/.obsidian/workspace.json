@@ -11,24 +11,22 @@
             "id": "9e58047092a4223e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Tracker/29-07-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Tracker/Planner.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    true
+                  ]
                 }
               },
-              "icon": "lucide-file",
-              "title": "29-07-26"
+              "icon": "lucide-trello",
+              "title": "Planner"
             }
           },
           {
@@ -258,13 +256,15 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "9e58047092a4223e",
+  "active": "86b01602b1c1be4d",
   "lastOpenFiles": [
-    "Tracker/Planner.md",
+    "papers/Untitled",
     "Tracker/29-07-26.md",
+    "Tracker/Planner.md",
     "Notes/Adam optimizer.md",
     "Tracker/28-07-26.md",
     "Tracker/24-07-26.md",
@@ -290,7 +290,6 @@
     "Tracker/13-03-26.md",
     "Tracker/15-05-26.md",
     "Tracker/16-04-26.md",
-    "Tracker/17-03-26.md",
     "papers/MUSE-Autoskill Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation-with-annotations.pdf",
     "papers/Unconfirmed 397130.crdownload",
     "papers/multiclass classification.pdf",
