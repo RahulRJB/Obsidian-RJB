@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/28-07-26.md",
+                "file": "Tracker/29-07-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "28-07-26"
+              "title": "29-07-26"
             }
           },
           {
@@ -258,13 +258,14 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "9e58047092a4223e",
   "lastOpenFiles": [
     "Tracker/Planner.md",
+    "Tracker/29-07-26.md",
+    "Notes/Adam optimizer.md",
     "Tracker/28-07-26.md",
     "Tracker/24-07-26.md",
     "Tracker/15-07-26.md",
@@ -290,8 +291,6 @@
     "Tracker/15-05-26.md",
     "Tracker/16-04-26.md",
     "Tracker/17-03-26.md",
-    "Tracker/17-04-26.md",
-    "Tracker/19-05-26.md",
     "papers/MUSE-Autoskill Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation-with-annotations.pdf",
     "papers/Unconfirmed 397130.crdownload",
     "papers/multiclass classification.pdf",
