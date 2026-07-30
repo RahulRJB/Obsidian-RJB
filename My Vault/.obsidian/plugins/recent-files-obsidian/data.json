@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Controlling Reasoning Effort in LLMs",
+      "path": "Notes/Controlling Reasoning Effort in LLMs.md"
+    },
+    {
       "basename": "Planner",
       "path": "Tracker/Planner.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Ralph Loops",
       "path": "Notes/Ralph Loops.md"
-    },
-    {
-      "basename": "Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent",
-      "path": "papers/Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent.pdf"
     }
   ],
   "omittedPaths": [],

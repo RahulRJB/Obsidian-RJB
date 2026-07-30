@@ -52,8 +52,33 @@
               "icon": "lucide-file",
               "title": "Schedule"
             }
+          },
+          {
+            "id": "bdac24448abb691c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Controlling Reasoning Effort in LLMs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Controlling Reasoning Effort in LLMs"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -260,11 +285,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "86b01602b1c1be4d",
+  "active": "bdac24448abb691c",
   "lastOpenFiles": [
+    "Tracker/Planner.md",
+    "Notes/Controlling Reasoning Effort in LLMs.md",
+    "Notes/Controlling Reasoning Effort in LLMs.md.tmp.61335.97633925cffd",
     "papers/Untitled",
     "Tracker/29-07-26.md",
-    "Tracker/Planner.md",
     "Notes/Adam optimizer.md",
     "Tracker/28-07-26.md",
     "Tracker/24-07-26.md",
@@ -296,8 +323,6 @@
     "papers/Codex Installer.exe",
     "papers/Unconfirmed 432667.crdownload",
     "papers/Token-Budget-Aware LLM Reasoning.pdf",
-    "papers/Unconfirmed 448127.crdownload",
-    "papers/Steering LLM Thinking with Budget Guidance.pdf",
     "Attachments/Pasted image 20250614175032.png",
     "Attachments/Photo3.jpg",
     "Attachments/Pasted image 20250411174210.png",
