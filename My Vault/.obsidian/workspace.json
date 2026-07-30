@@ -77,8 +77,7 @@
               "title": "Controlling Reasoning Effort in LLMs"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,10 +284,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bdac24448abb691c",
+  "active": "9e58047092a4223e",
   "lastOpenFiles": [
-    "Tracker/Planner.md",
     "Notes/Controlling Reasoning Effort in LLMs.md",
+    "Notes/Reasoning Models.md",
+    "Tracker/Planner.md",
     "Notes/Controlling Reasoning Effort in LLMs.md.tmp.61335.97633925cffd",
     "papers/Untitled",
     "Tracker/29-07-26.md",
@@ -316,7 +316,6 @@
     "Tracker/09-05-26.md",
     "Tracker/13-03-26.md",
     "Tracker/15-05-26.md",
-    "Tracker/16-04-26.md",
     "papers/MUSE-Autoskill Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation-with-annotations.pdf",
     "papers/Unconfirmed 397130.crdownload",
     "papers/multiclass classification.pdf",

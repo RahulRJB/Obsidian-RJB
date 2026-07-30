@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
+    },
+    {
       "basename": "Controlling Reasoning Effort in LLMs",
       "path": "Notes/Controlling Reasoning Effort in LLMs.md"
     },
     {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
+      "basename": "Reasoning Models",
+      "path": "Notes/Reasoning Models.md"
     },
     {
       "basename": "29-07-26",
@@ -195,10 +199,6 @@
     {
       "basename": "optimization",
       "path": "Notes/optimization.md"
-    },
-    {
-      "basename": "Ralph Loops",
-      "path": "Notes/Ralph Loops.md"
     }
   ],
   "omittedPaths": [],

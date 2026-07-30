@@ -18,22 +18,25 @@ kanban-plugin: board
 	
 		Tutorials
 		Courses
+		Watchlist
 
 
 ## Current Scope
 
-- [ ] Reasoning effort
+- [x] Reasoning effort
 - [ ] Gradient checkpointing
-- [ ] Claude Code configure
-- [ ] Ollama
-- [ ] OpenClaw
-- [ ] Langgraph
 - [ ] Structured Outputs LLMs
-- [ ] pydantic
+- [ ] Langgraph
+- [ ] Claude Code configure
+- [ ] OpenClaw
+- [ ] Ollama
 
 
 ## Needed to be done
 
+- [ ] DeepAgents
+- [ ] Claude agent SDK
+- [ ] pydantic
 - [ ] Understand Orion/DDD folder structure
 - [ ] Book chap2-7; 13
 - [ ] Andrej Karpathy videos
