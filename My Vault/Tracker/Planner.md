@@ -29,11 +29,12 @@ kanban-plugin: board
 - [ ] Langgraph
 - [ ] Claude Code configure
 - [ ] OpenClaw
-- [ ] Ollama
 
 
 ## Needed to be done
 
+- [ ] LLM caching
+- [ ] Ollama
 - [ ] DeepAgents
 - [ ] Claude agent SDK
 - [ ] pydantic
