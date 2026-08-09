@@ -5,6 +5,22 @@
       "path": "Tracker/Planner.md"
     },
     {
+      "basename": "06-08-26",
+      "path": "Tracker/06-08-26.md"
+    },
+    {
+      "basename": "Self-Consistency Improves Chain of Thought Reasoning in Language Models-with-annotations",
+      "path": "papers/Self-Consistency Improves Chain of Thought Reasoning in Language Models-with-annotations.pdf"
+    },
+    {
+      "basename": "Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent",
+      "path": "papers/Improving LLM Reasoning with Multi-Agent Tree-of-Thought Validator Agent.pdf"
+    },
+    {
+      "basename": "19-06-26",
+      "path": "Tracker/19-06-26.md"
+    },
+    {
       "basename": "Controlling Reasoning Effort in LLMs",
       "path": "Notes/Controlling Reasoning Effort in LLMs.md"
     },
@@ -117,10 +133,6 @@
       "path": "Tracker/19-05-26.md"
     },
     {
-      "basename": "19-06-26",
-      "path": "Tracker/19-06-26.md"
-    },
-    {
       "basename": "20-04-26",
       "path": "Tracker/20-04-26.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "KV cache",
       "path": "Notes/KV cache.md"
-    },
-    {
-      "basename": "compute",
-      "path": "Notes/compute.md"
-    },
-    {
-      "basename": "Smarter, Better, Faster, Longer_ A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference",
-      "path": "papers/Smarter, Better, Faster, Longer_ A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference.pdf"
-    },
-    {
-      "basename": "optimization",
-      "path": "Notes/optimization.md"
     }
   ],
   "omittedPaths": [],

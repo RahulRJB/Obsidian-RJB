@@ -23,7 +23,6 @@ kanban-plugin: board
 
 ## Current Scope
 
-- [x] Reasoning effort
 - [ ] Gradient checkpointing
 - [ ] Structured Outputs LLMs
 - [ ] Langgraph
