@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12-08-26",
+      "path": "Tracker/12-08-26.md"
+    },
+    {
       "basename": "Planner",
       "path": "Tracker/Planner.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Hardware",
       "path": "Notes/Hardware.md"
-    },
-    {
-      "basename": "KV cache",
-      "path": "Notes/KV cache.md"
     }
   ],
   "omittedPaths": [],
