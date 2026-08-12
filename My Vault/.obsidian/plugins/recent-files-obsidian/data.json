@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "MCP",
+      "path": "Notes/MCP.md"
+    },
+    {
+      "basename": "Controlling Reasoning Effort in LLMs",
+      "path": "Notes/Controlling Reasoning Effort in LLMs.md"
+    },
+    {
+      "basename": "Schedule",
+      "path": "Tracker/Schedule.md"
+    },
+    {
       "basename": "12-08-26",
       "path": "Tracker/12-08-26.md"
     },
@@ -25,10 +37,6 @@
       "path": "Tracker/19-06-26.md"
     },
     {
-      "basename": "Controlling Reasoning Effort in LLMs",
-      "path": "Notes/Controlling Reasoning Effort in LLMs.md"
-    },
-    {
       "basename": "Reasoning Models",
       "path": "Notes/Reasoning Models.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "15-07-26",
       "path": "Tracker/15-07-26.md"
-    },
-    {
-      "basename": "Schedule",
-      "path": "Tracker/Schedule.md"
     },
     {
       "basename": "Python-WebServer",
@@ -195,10 +199,6 @@
     {
       "basename": "FLOPs",
       "path": "Notes/FLOPs.md"
-    },
-    {
-      "basename": "Hardware",
-      "path": "Notes/Hardware.md"
     }
   ],
   "omittedPaths": [],

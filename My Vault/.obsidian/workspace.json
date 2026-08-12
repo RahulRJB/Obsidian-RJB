@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "52f2625f7004c848",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.6"
-            }
-          },
-          {
             "id": "289fe4fa271c9cf0",
             "type": "leaf",
             "state": {
@@ -90,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Controlling Reasoning Effort in LLMs"
             }
+          },
+          {
+            "id": "d97992322aa1fae8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/MCP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MCP"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -301,11 +313,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "52f2625f7004c848",
+  "active": "d97992322aa1fae8",
   "lastOpenFiles": [
+    "Notes/MCP.md.tmp.3818.cafde30e737f",
+    "Notes/Controlling Reasoning Effort in LLMs.md",
+    "Notes/MCP.md.tmp.3818.ea58f1d93075",
+    "Tracker/Schedule.md",
+    "Notes/MCP.md.tmp.3818.7bedf72dbe16",
+    "Notes/MCP.md.tmp.3818.bcde743b2cbb",
     "Tracker/12-08-26.md",
     "Tracker/Planner.md",
-    "Notes/Controlling Reasoning Effort in LLMs.md",
     "Notes/Reasoning Models.md",
     "Notes/Controlling Reasoning Effort in LLMs.md.tmp.61335.97633925cffd",
     "papers/Untitled",
@@ -314,7 +331,6 @@
     "Tracker/28-07-26.md",
     "Tracker/24-07-26.md",
     "Tracker/15-07-26.md",
-    "Tracker/Schedule.md",
     "Notes/Python-WebServer.md",
     "Notes/Python-WebServers.md",
     "Notes/asyncio.md",
@@ -332,13 +348,9 @@
     "Tracker/06-03-26.md",
     "Tracker/07-07-26.md",
     "Tracker/09-05-26.md",
-    "Tracker/13-03-26.md",
     "papers/MUSE-Autoskill Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation-with-annotations.pdf",
     "papers/Unconfirmed 397130.crdownload",
     "papers/multiclass classification.pdf",
-    "papers/Codex Installer.exe",
-    "papers/Unconfirmed 432667.crdownload",
-    "papers/Token-Budget-Aware LLM Reasoning.pdf",
     "Attachments/Pasted image 20250614175032.png",
     "Attachments/Photo3.jpg",
     "Attachments/Pasted image 20250411174210.png",
