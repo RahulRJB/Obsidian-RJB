@@ -13,6 +13,7 @@ Tags:  [[Notes/Agentic AI|Agentic AI]]
 - https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture
 - https://modelcontextprotocol.io/docs/2026-07-28/learn/server-concepts
 - https://modelcontextprotocol.io/docs/2026-07-28/learn/client-concepts
+- https://modelcontextprotocol.io/docs/2026-07-28/develop/build-server
 
 
 # Content:
@@ -217,3 +218,104 @@ Let a server request an LLM completion *through the client* — useful so server
 ### Why this split matters
 
 Servers own tools/resources/prompts (context → model); clients own elicitation/roots/sampling (model/user → server). The deprecations in `2026-07-28` (roots, sampling, and logging on the server side) all trend the same direction: **collapse responsibilities that used to round-trip through the client back to where they logically belong** — filesystem scoping into tool/resource params, model calls into the server's own provider integration. Elicitation survives because it's genuinely something only the *client* can do (it owns the user-facing UI).
+
+---
+
+## Building a server — Python quickstart (official tutorial)
+
+Walkthrough builds a `weather` MCP server exposing two tools (`get_alerts`, `get_forecast`) and wires it into Claude Desktop over stdio. Same 3-step shape (define tools → run stdio transport → register in host config) repeats across the official TypeScript, Java (Spring AI), Kotlin, C#, and Ruby SDKs — only the syntax changes.
+
+### Golden rule: never write to stdout on a STDIO server
+
+The transport *is* stdout — `print()` corrupts the JSON-RPC stream and silently breaks the server.
+
+- ❌ `print("Processing request")`
+- ✅ `logging.getLogger(__name__).info("Processing request")` — the standard `logging` module writes to stderr, which is safe.
+- HTTP-transport servers don't have this problem — stdout logging is fine there.
+- Every language SDK has the same trap: `console.log` (TS), `System.out.println` (Java), `println` (Kotlin), `Console.WriteLine` (C#), `puts`/`print` (Ruby) — all must be swapped for a stderr-writing logger.
+
+### Setup
+
+Requires Python 3.10+ and MCP SDK 2.0+.
+
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh   # install uv (restart terminal after)
+
+uv init weather && cd weather
+uv venv && source .venv/bin/activate
+uv add "mcp[cli]"
+touch weather.py
+```
+
+### Server code (`weather.py`)
+
+```python
+from typing import Any
+import httpx2
+from mcp.server import MCPServer
+
+mcp = MCPServer("weather")   # server name shown to the host
+
+NWS_API_BASE = "https://api.weather.gov"
+USER_AGENT = "weather-app/1.0"
+
+async def make_nws_request(url: str) -> dict[str, Any] | None:
+    headers = {"User-Agent": USER_AGENT, "Accept": "application/geo+json"}
+    async with httpx2.AsyncClient() as client:
+        try:
+            response = await client.get(url, headers=headers, timeout=30.0)
+            response.raise_for_status()
+            return response.json()
+        except Exception:
+            return None
+
+@mcp.tool()
+async def get_alerts(state: str) -> str:
+    """Get weather alerts for a US state.
+
+    Args:
+        state: Two-letter US state code (e.g. CA, NY)
+    """
+    url = f"{NWS_API_BASE}/alerts/active/area/{state}"
+    data = await make_nws_request(url)
+    if not data or not data.get("features"):
+        return "No active alerts for this state."
+    return "\n---\n".join(str(f) for f in data["features"])
+
+if __name__ == "__main__":
+    mcp.run(transport="stdio")
+```
+
+- The **docstring is the tool description the LLM reads** to decide when/how to call the tool — same role as the `description` field in the earlier Jira example. Type hints (`state: str`) become the JSON Schema `inputSchema` used to validate the LLM's arguments.
+- `mcp.run(transport="stdio")` starts the server; it blocks, listening for JSON-RPC over stdin/stdout.
+- Run it directly with `uv run weather.py` to sanity-check it starts without errors.
+
+### Registering with Claude Desktop
+
+Edit `~/Library/Application Support/Claude/claude_desktop_config.json` (macOS) or `%AppData%\Claude\claude_desktop_config.json` (Windows) — create it if missing:
+
+```json
+{
+  "mcpServers": {
+    "weather": {
+      "command": "uv",
+      "args": ["--directory", "/ABSOLUTE/PATH/TO/weather", "run", "weather.py"]
+    }
+  }
+}
+```
+
+- `command`/`args` is literally the shell command the host runs to spawn your server process — must be an **absolute** path.
+- If `uv` isn't found, use `which uv` (macOS/Linux) or `where uv` (Windows) for its full path instead.
+- Restart Claude Desktop after saving — MCP UI only appears once at least one server is configured correctly.
+
+### Other SDKs, same shape
+
+| Language | Tool decorator | Run call |
+|---|---|---|
+| TypeScript | `server.registerTool(name, {description, inputSchema: zod schema}, handler)` | `server.connect(new StdioServerTransport())` |
+| Java (Spring AI) | `@Tool(description = "...")` method + `@Service` class | Spring Boot auto-registers via `ToolCallbackProvider` |
+| Kotlin | `server.addTool(name, description, inputSchema) { request -> ... }` | `server.createSession(StdioServerTransport(...))` |
+| C# | `[McpServerTool, Description("...")]` static method in a `[McpServerToolType]` class | `builder.Services.AddMcpServer().WithStdioServerTransport().WithToolsFromAssembly()` |
+
+All five register the same `weather`-server entry (adjusted `command`/`args` for the runtime — `node`, `java -jar`, `dotnet run`, etc.) into the same `claude_desktop_config.json`.
