@@ -23,6 +23,7 @@ kanban-plugin: board
 
 ## Current Scope
 
+- [ ] How does mcp client work
 - [ ] Gradient checkpointing
 - [ ] Structured Outputs LLMs
 - [ ] Langgraph
@@ -33,7 +34,6 @@ kanban-plugin: board
 ## Needed to be done
 
 - [ ] LLM caching
-- [ ] Ollama
 - [ ] DeepAgents
 - [ ] Claude agent SDK
 - [ ] pydantic
@@ -47,14 +47,15 @@ kanban-plugin: board
 - [ ] Regularization
 - [ ] Segregate all the bookmarks!
 - [ ] Containerization
+- [ ] Statistical analysis
 - [ ] Application take 10mins to run a data input and multiple users are using it. Best way to go abut it
 - [ ] AI Safety for NSFW and PII and sensitive data
-- [ ] Statistical analysis
 
 
-## Wants
+## Growth
 
 - [ ] Loops
+- [ ] Ollama
 - [ ] RL (PPO, DPO, GRPO)
 - [ ] Pytorch
 - [ ] Hugging Face

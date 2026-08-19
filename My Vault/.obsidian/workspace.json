@@ -53,8 +53,7 @@
               "title": "MCP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,12 +262,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d97992322aa1fae8",
+  "active": "9e58047092a4223e",
   "lastOpenFiles": [
-    "Tracker/Schedule.md",
     "Notes/MCP.md",
-    "Notes/Controlling Reasoning Effort in LLMs.md",
     "Tracker/Planner.md",
+    "Tracker/Schedule.md",
+    "Notes/Controlling Reasoning Effort in LLMs.md",
     "Notes/MCP.md.tmp.579587.289a43ecedc8",
     "Notes/MCP.md.tmp.579587.5a200d2a476e",
     "Tracker/12-08-26.md",

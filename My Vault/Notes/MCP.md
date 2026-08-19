@@ -30,17 +30,6 @@ MCP provides a universal standard for how AI models connect to data and tools.
 - **The Server (The Tool):** You build an "MCP Server" once for your data source (e.g., a wrapper around your internal API).
 - **The Client (The Agent):** Any MCP-compliant Agent (like the Claude Desktop app or a LangChain Agent) can instantly "see," understand, and use that tool without you writing extra code.
 
-### Why it matters for you (The Data Scientist View)
-
-Think of MCP like **ODBC/JDBC** for databases.
-
-- **Without ODBC:** You’d need a specific, custom driver for every single database type you wanted to access.
-- **With ODBC:** You have a standard interface. If a database is ODBC-compliant, your analysis tool can read it.
-
-**MCP does the exact same thing, but for AI Tools.**
-
-
-
 ### The Reference Implementation (Python)
 
 Think of an MCP Server as a **FastAPI app** where the "endpoints" are designed for an LLM, not a web browser.
@@ -108,7 +97,7 @@ if __name__ == "__main__":
 
 ---
 
-## Architecture (official spec, 2026-07-28)
+## Architecture
 
 ### Participants: Host / Client / Server
 
@@ -221,7 +210,7 @@ Servers own tools/resources/prompts (context → model); clients own elicitation
 
 ---
 
-## Building a server — Python quickstart (official tutorial)
+## Building a server — Python
 
 Walkthrough builds a `weather` MCP server exposing two tools (`get_alerts`, `get_forecast`) and wires it into Claude Desktop over stdio. Same 3-step shape (define tools → run stdio transport → register in host config) repeats across the official TypeScript, Java (Spring AI), Kotlin, C#, and Ruby SDKs — only the syntax changes.
 
