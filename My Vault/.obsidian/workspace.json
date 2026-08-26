@@ -11,36 +11,22 @@
             "id": "9e58047092a4223e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Tracker/24-08-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Tracker/Planner.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    true
+                  ]
                 }
               },
-              "icon": "lucide-file",
-              "title": "24-08-26"
-            }
-          },
-          {
-            "id": "dc3bb072d9dd1d09",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "icon": "lucide-trello",
+              "title": "Planner"
             }
           },
           {
@@ -273,13 +259,16 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "dc3bb072d9dd1d09",
+  "active": "d97992322aa1fae8",
   "lastOpenFiles": [
-    "Tracker/24-08-26.md",
+    "papers/Self-ImprovingRLMHarness-with-annotations.pdf",
+    "papers/Unconfirmed 837666.crdownload",
     "Tracker/Planner.md",
+    "Tracker/24-08-26.md",
     "Notes/MCP.md",
     "Tracker/Schedule.md",
     "Notes/Controlling Reasoning Effort in LLMs.md",
@@ -311,9 +300,7 @@
     "Notes/Unconfirmed 773444.crdownload",
     "Notes/Inverse Hessian.md",
     "Notes/Intro into LLMs, Andrej Karpathy.md",
-    "Tutorials",
     "Tracker/06-03-26.md",
-    "Tracker/07-07-26.md",
     "Attachments/Pasted image 20250614175032.png",
     "Attachments/Photo3.jpg",
     "Attachments/Pasted image 20250411174210.png",
