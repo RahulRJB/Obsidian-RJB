@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/MCP.md",
+                "file": "Tracker/29-09-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -50,7 +50,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MCP"
+              "title": "29-09-26"
             }
           }
         ],
@@ -265,13 +265,14 @@
   },
   "active": "d97992322aa1fae8",
   "lastOpenFiles": [
+    "Notes/MCP.md",
+    "Tracker/29-09-26.md",
     "papers/Prime Agent A Self-Improving RLM Harness-with-annotations.pdf",
     "papers/Unconfirmed 866590.crdownload",
     "papers/Self-ImprovingRLMHarness-with-annotations.pdf",
     "papers/Unconfirmed 837666.crdownload",
     "Tracker/Planner.md",
     "Tracker/24-08-26.md",
-    "Notes/MCP.md",
     "Tracker/Schedule.md",
     "Notes/Controlling Reasoning Effort in LLMs.md",
     "Notes/MCP.md.tmp.579587.289a43ecedc8",
@@ -282,7 +283,6 @@
     "Notes/MCP.md.tmp.3818.7bedf72dbe16",
     "Notes/MCP.md.tmp.3818.bcde743b2cbb",
     "Notes/Reasoning Models.md",
-    "Notes/Controlling Reasoning Effort in LLMs.md.tmp.61335.97633925cffd",
     "Tracker/29-07-26.md",
     "Notes/Adam optimizer.md",
     "Tracker/28-07-26.md",

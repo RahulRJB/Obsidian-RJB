@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "29-09-26",
+      "path": "Tracker/29-09-26.md"
+    },
+    {
       "basename": "MCP",
       "path": "Notes/MCP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "FLOP",
       "path": "Notes/FLOP.md"
-    },
-    {
-      "basename": "LLMs",
-      "path": "Notes/LLMs.md"
     }
   ],
   "omittedPaths": [],
