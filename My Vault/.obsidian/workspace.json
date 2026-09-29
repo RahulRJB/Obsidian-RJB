@@ -11,28 +11,6 @@
             "id": "9e58047092a4223e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Tracker/Planner.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    true
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Planner"
-            }
-          },
-          {
-            "id": "d97992322aa1fae8",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Tracker/29-09-26.md",
@@ -52,9 +30,32 @@
               "icon": "lucide-file",
               "title": "29-09-26"
             }
+          },
+          {
+            "id": "d97992322aa1fae8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/MCP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MCP"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,19 +260,18 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d97992322aa1fae8",
+  "active": "9e58047092a4223e",
   "lastOpenFiles": [
+    "Tracker/Planner.md",
     "Notes/MCP.md",
     "Tracker/29-09-26.md",
     "papers/Prime Agent A Self-Improving RLM Harness-with-annotations.pdf",
     "papers/Unconfirmed 866590.crdownload",
     "papers/Self-ImprovingRLMHarness-with-annotations.pdf",
     "papers/Unconfirmed 837666.crdownload",
-    "Tracker/Planner.md",
     "Tracker/24-08-26.md",
     "Tracker/Schedule.md",
     "Notes/Controlling Reasoning Effort in LLMs.md",
