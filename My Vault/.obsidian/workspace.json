@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/29-09-26.md",
+                "file": "Tracker/16-10-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "29-09-26"
+              "title": "16-10-26"
             }
           },
           {
@@ -265,15 +265,16 @@
   },
   "active": "9e58047092a4223e",
   "lastOpenFiles": [
+    "Tracker/Schedule.md",
+    "Tracker/16-10-26.md",
+    "Tracker/29-09-26.md",
     "Tracker/Planner.md",
     "Notes/MCP.md",
-    "Tracker/29-09-26.md",
     "papers/Prime Agent A Self-Improving RLM Harness-with-annotations.pdf",
     "papers/Unconfirmed 866590.crdownload",
     "papers/Self-ImprovingRLMHarness-with-annotations.pdf",
     "papers/Unconfirmed 837666.crdownload",
     "Tracker/24-08-26.md",
-    "Tracker/Schedule.md",
     "Notes/Controlling Reasoning Effort in LLMs.md",
     "Notes/MCP.md.tmp.579587.289a43ecedc8",
     "Notes/MCP.md.tmp.579587.5a200d2a476e",
@@ -300,7 +301,6 @@
     "Notes/temp.md",
     "Notes/Inverse Hessian.md",
     "Notes/Intro into LLMs, Andrej Karpathy.md",
-    "Tracker/06-03-26.md",
     "Attachments/Pasted image 20250614175032.png",
     "Attachments/Photo3.jpg",
     "Attachments/Pasted image 20250411174210.png",
