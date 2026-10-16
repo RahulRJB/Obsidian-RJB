@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/MCP.md",
+                "file": "Notes/Type Hints.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MCP"
+              "title": "Type Hints"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,15 +265,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9e58047092a4223e",
+  "active": "d97992322aa1fae8",
   "lastOpenFiles": [
+    "Notes/MCP.md",
+    "Notes/Type Hints.md",
+    "Tracker/Schedule.md",
     "Tracker/22-04-26.md",
     "Tracker/29-09-26.md",
-    "Tracker/Schedule.md",
     "Tracker/17-05-26.md",
     "Tracker/16-10-26.md",
     "Tracker/Planner.md",
-    "Notes/MCP.md",
     "papers/Prime Agent A Self-Improving RLM Harness-with-annotations.pdf",
     "papers/Unconfirmed 866590.crdownload",
     "papers/Self-ImprovingRLMHarness-with-annotations.pdf",
@@ -301,7 +303,6 @@
     "Notes/webservers.md",
     "Notes/backend.md",
     "Notes/text-embedding-ada-002.md",
-    "Notes/temp.md",
     "Attachments/Pasted image 20250614175032.png",
     "Attachments/Photo3.jpg",
     "Attachments/Pasted image 20250411174210.png",

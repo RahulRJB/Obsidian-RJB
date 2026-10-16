@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Type Hints",
+      "path": "Notes/Type Hints.md"
+    },
+    {
+      "basename": "MCP",
+      "path": "Notes/MCP.md"
+    },
+    {
       "basename": "Schedule",
       "path": "Tracker/Schedule.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Planner",
       "path": "Tracker/Planner.md"
-    },
-    {
-      "basename": "MCP",
-      "path": "Notes/MCP.md"
     },
     {
       "basename": "24-08-26",
