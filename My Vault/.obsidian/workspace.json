@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tracker/16-10-26.md",
+                "file": "Tracker/Schedule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "16-10-26"
+              "title": "Schedule"
             }
           },
           {
@@ -260,14 +260,17 @@
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "9e58047092a4223e",
   "lastOpenFiles": [
-    "Tracker/Schedule.md",
-    "Tracker/16-10-26.md",
+    "Tracker/22-04-26.md",
     "Tracker/29-09-26.md",
+    "Tracker/Schedule.md",
+    "Tracker/17-05-26.md",
+    "Tracker/16-10-26.md",
     "Tracker/Planner.md",
     "Notes/MCP.md",
     "papers/Prime Agent A Self-Improving RLM Harness-with-annotations.pdf",
@@ -299,8 +302,6 @@
     "Notes/backend.md",
     "Notes/text-embedding-ada-002.md",
     "Notes/temp.md",
-    "Notes/Inverse Hessian.md",
-    "Notes/Intro into LLMs, Andrej Karpathy.md",
     "Attachments/Pasted image 20250614175032.png",
     "Attachments/Photo3.jpg",
     "Attachments/Pasted image 20250411174210.png",
