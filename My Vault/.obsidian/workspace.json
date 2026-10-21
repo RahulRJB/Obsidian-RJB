@@ -54,9 +54,55 @@
               "icon": "lucide-file",
               "title": "Type Hints"
             }
+          },
+          {
+            "id": "b35e867239079e1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Cognee.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cognee"
+            }
+          },
+          {
+            "id": "2cc0eb3ada333539",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Tracker/Planner.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    true
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Planner"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,16 +311,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d97992322aa1fae8",
+  "active": "b35e867239079e1d",
   "lastOpenFiles": [
-    "Notes/MCP.md",
-    "Notes/Type Hints.md",
+    "Tracker/Planner.md",
     "Tracker/Schedule.md",
+    "Notes/Cognee.md",
+    "Attachments/Pasted image 20261021153322.png",
+    "Attachments/Pasted image 20261021144044.png",
+    "Attachments/Pasted image 20261021143854.png",
+    "Attachments/Pasted image 20261021141227.png",
+    "Attachments/Pasted image 20261021135954.png",
+    "Notes/Type Hints.md",
+    "Notes/MCP.md",
     "Tracker/22-04-26.md",
     "Tracker/29-09-26.md",
     "Tracker/17-05-26.md",
     "Tracker/16-10-26.md",
-    "Tracker/Planner.md",
     "papers/Prime Agent A Self-Improving RLM Harness-with-annotations.pdf",
     "papers/Unconfirmed 866590.crdownload",
     "papers/Self-ImprovingRLMHarness-with-annotations.pdf",
@@ -301,18 +353,11 @@
     "Notes/Client-Server Architecture.md",
     "Notes/HTTP Protocol.md",
     "Notes/webservers.md",
-    "Notes/backend.md",
-    "Notes/text-embedding-ada-002.md",
     "Attachments/Pasted image 20250614175032.png",
     "Attachments/Photo3.jpg",
     "Attachments/Pasted image 20250411174210.png",
     "Attachments/Pasted image 20250404193420.png",
     "Attachments/Pasted image 20250404192401.png",
-    "Attachments/Pasted image 20250404161256.png",
-    "Attachments/Pasted image 20250404155943.png",
-    "Attachments/Pasted image 20250403154801.png",
-    "Attachments/Pasted image 20250403154533.png",
-    "Attachments/Pasted image 20250326203830.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

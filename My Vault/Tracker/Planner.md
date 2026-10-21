@@ -23,6 +23,7 @@ kanban-plugin: board
 
 ## Current Scope
 
+- [ ] Graph
 - [ ] How does mcp client work
 - [ ] Gradient checkpointing
 - [ ] Structured Outputs LLMs
@@ -33,10 +34,8 @@ kanban-plugin: board
 
 ## Needed to be done
 
-- [ ] LLM caching
 - [ ] DeepAgents
 - [ ] Claude agent SDK
-- [ ] pydantic
 - [ ] Understand Orion/DDD folder structure
 - [ ] Book chap2-7; 13
 - [ ] Andrej Karpathy videos
