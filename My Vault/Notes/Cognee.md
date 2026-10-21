@@ -39,3 +39,5 @@ Tags:
 - If we don't have ontologies preset, it can autodetermine them and autopopulate them as a part of the paid services. 
 - Personal context vs Org context. We should not push all the knowledge to org context. We should have a personal context first and then have ability to propagate memory to what the org needs to know and the vice versa. This Propagation system is part of paid services.
 - Evolving ontology is also not part of the open source
+
+- ![[Attachments/Pasted image 20261021184006.png]]
