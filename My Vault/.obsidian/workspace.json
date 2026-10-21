@@ -32,6 +32,28 @@
             }
           },
           {
+            "id": "2cc0eb3ada333539",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Tracker/Planner.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    true
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Planner"
+            }
+          },
+          {
             "id": "d97992322aa1fae8",
             "type": "leaf",
             "state": {
@@ -78,31 +100,9 @@
               "icon": "lucide-file",
               "title": "AI Memory"
             }
-          },
-          {
-            "id": "2cc0eb3ada333539",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Tracker/Planner.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    true
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Planner"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -311,10 +311,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b35e867239079e1d",
+  "active": "2cc0eb3ada333539",
   "lastOpenFiles": [
-    "Notes/Cognee.md",
     "Notes/AI Memory.md",
+    "Notes/Cognee.md",
     "papers/Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning.pdf",
     "Attachments/Pasted image 20261021184006.png",
     "Tracker/Planner.md",
