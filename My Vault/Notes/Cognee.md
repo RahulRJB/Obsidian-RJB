@@ -16,7 +16,7 @@ Tags: [[AI Memory]]
 # Content:
 
 ![[Attachments/Pasted image 20261021135954.png]]
-
+![[Attachments/Pasted image 20261022023537.png]]
 
 
 - Cognee sits between Data and Agents. Effectively creates a data map from the datasources which then constantly keeps updating with each agent session

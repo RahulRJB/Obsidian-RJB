@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AI Memory.md",
+                "file": "Notes/Cognee.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -98,11 +98,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI Memory"
+              "title": "Cognee"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -311,20 +311,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2cc0eb3ada333539",
+  "active": "b35e867239079e1d",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20261022023537.png",
     "Notes/AI Memory.md",
+    "Notes/Type Hints.md",
+    "Tracker/Planner.md",
     "Notes/Cognee.md",
     "papers/Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning.pdf",
     "Attachments/Pasted image 20261021184006.png",
-    "Tracker/Planner.md",
     "Tracker/Schedule.md",
     "Attachments/Pasted image 20261021153322.png",
     "Attachments/Pasted image 20261021144044.png",
     "Attachments/Pasted image 20261021143854.png",
     "Attachments/Pasted image 20261021141227.png",
     "Attachments/Pasted image 20261021135954.png",
-    "Notes/Type Hints.md",
     "Notes/MCP.md",
     "Tracker/22-04-26.md",
     "Tracker/29-09-26.md",
@@ -354,7 +355,6 @@
     "Notes/python.md",
     "Notes/Client-Server Architecture.md",
     "Notes/HTTP Protocol.md",
-    "Notes/webservers.md",
     "Attachments/Pasted image 20250614175032.png",
     "Attachments/Photo3.jpg",
     "Attachments/Pasted image 20250411174210.png",
