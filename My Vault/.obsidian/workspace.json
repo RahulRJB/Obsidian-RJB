@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Cognee.md",
+                "file": "Notes/AI Memory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cognee"
+              "title": "AI Memory"
             }
           },
           {
@@ -313,11 +313,12 @@
   },
   "active": "b35e867239079e1d",
   "lastOpenFiles": [
+    "Notes/Cognee.md",
+    "Notes/AI Memory.md",
     "papers/Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning.pdf",
     "Attachments/Pasted image 20261021184006.png",
     "Tracker/Planner.md",
     "Tracker/Schedule.md",
-    "Notes/Cognee.md",
     "Attachments/Pasted image 20261021153322.png",
     "Attachments/Pasted image 20261021144044.png",
     "Attachments/Pasted image 20261021143854.png",
@@ -341,7 +342,6 @@
     "Notes/MCP.md.tmp.3818.cafde30e737f",
     "Notes/MCP.md.tmp.3818.ea58f1d93075",
     "Notes/MCP.md.tmp.3818.7bedf72dbe16",
-    "Notes/MCP.md.tmp.3818.bcde743b2cbb",
     "Notes/Reasoning Models.md",
     "Tracker/29-07-26.md",
     "Notes/Adam optimizer.md",

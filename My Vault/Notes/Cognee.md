@@ -5,7 +5,8 @@
 DATE:  21-10-26
 
 
-Tags: 
+Tags: [[AI Memory]]
+
 
 # References:
 
