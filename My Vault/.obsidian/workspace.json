@@ -35,22 +35,36 @@
             "id": "2cc0eb3ada333539",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tracker/Planner.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    true
-                  ]
+                "file": "Tracker/07-11-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Planner"
+              "icon": "lucide-file",
+              "title": "07-11-26"
+            }
+          },
+          {
+            "id": "e38579f91a437d97",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
             }
           },
           {
@@ -102,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -301,7 +315,6 @@
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-kanban:Create new board": false,
-      "markdown-importer:Open format converter": false,
       "zk-prefixer:Create new unique note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Open Timeline": false,
@@ -311,13 +324,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2cc0eb3ada333539",
+  "active": "e38579f91a437d97",
   "lastOpenFiles": [
+    "Tracker/07-11-26.md",
+    "Tracker/Planner.md",
     "Notes/Cognee.md",
     "Attachments/Pasted image 20261022023537.png",
     "Notes/AI Memory.md",
     "Notes/Type Hints.md",
-    "Tracker/Planner.md",
     "papers/Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning.pdf",
     "Attachments/Pasted image 20261021184006.png",
     "Tracker/Schedule.md",

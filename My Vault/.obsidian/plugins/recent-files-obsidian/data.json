@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Type Hints",
+      "path": "Notes/Type Hints.md"
+    },
+    {
+      "basename": "07-11-26",
+      "path": "Tracker/07-11-26.md"
+    },
+    {
       "basename": "Planner",
       "path": "Tracker/Planner.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "AI Memory",
       "path": "Notes/AI Memory.md"
-    },
-    {
-      "basename": "Type Hints",
-      "path": "Notes/Type Hints.md"
     },
     {
       "basename": "Schedule",
