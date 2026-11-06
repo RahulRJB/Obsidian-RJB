@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Planner",
+      "path": "Tracker/Planner.md"
+    },
+    {
       "basename": "Cognee",
       "path": "Notes/Cognee.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Type Hints",
       "path": "Notes/Type Hints.md"
-    },
-    {
-      "basename": "Planner",
-      "path": "Tracker/Planner.md"
     },
     {
       "basename": "Schedule",

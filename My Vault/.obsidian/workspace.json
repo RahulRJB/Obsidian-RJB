@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -311,13 +311,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b35e867239079e1d",
+  "active": "2cc0eb3ada333539",
   "lastOpenFiles": [
+    "Notes/Cognee.md",
     "Attachments/Pasted image 20261022023537.png",
     "Notes/AI Memory.md",
     "Notes/Type Hints.md",
     "Tracker/Planner.md",
-    "Notes/Cognee.md",
     "papers/Optimizing the Interface Between Knowledge Graphs and LLMs for Complex Reasoning.pdf",
     "Attachments/Pasted image 20261021184006.png",
     "Tracker/Schedule.md",
@@ -358,7 +358,6 @@
     "Attachments/Pasted image 20250614175032.png",
     "Attachments/Photo3.jpg",
     "Attachments/Pasted image 20250411174210.png",
-    "Attachments/Pasted image 20250404193420.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

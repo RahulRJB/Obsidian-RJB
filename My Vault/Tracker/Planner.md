@@ -23,17 +23,21 @@ kanban-plugin: board
 
 ## Current Scope
 
-- [ ] Graph
-- [ ] How does mcp client work
-- [ ] Gradient checkpointing
-- [ ] Structured Outputs LLMs
+- [ ] DDD book
+- [ ] SOLID
+- [ ] CRUD
 - [ ] Langgraph
-- [ ] Claude Code configure
-- [ ] OpenClaw
 
 
 ## Needed to be done
 
+- [ ] How does mcp client work
+- [ ] Gradient checkpointing
+- [ ] Structured Outputs LLMs
+- [ ] Langgraph
+- [ ] Graph
+- [ ] Claude Code configure
+- [ ] OpenClaw
 - [ ] DeepAgents
 - [ ] Claude agent SDK
 - [ ] Understand Orion/DDD folder structure
