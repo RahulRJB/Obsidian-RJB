@@ -23,6 +23,7 @@ kanban-plugin: board
 
 ## Current Scope
 
+- [ ] JEV
 - [ ] DDD book
 - [ ] SOLID
 - [ ] CRUD
